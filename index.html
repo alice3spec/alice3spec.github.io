@@ -99,6 +99,11 @@
       }
       .wx-hilo .hi { color: #ffb3a0; font-weight: 700; }
       .wx-hilo .lo { color: #a8ccff; font-weight: 700; }
+      .wx-rain {
+        display: none;
+        margin-top: 6px;
+        font-size: 17px; font-weight: 700; color: #8ecbff;
+      }
       .wx-hours {
         display: flex; flex-direction: row;
         margin-top: 10px;
@@ -322,7 +327,8 @@
         .wx-cond { font-size: 17px; }
         .wx-place { font-size: 12px; }
         .wx-hilo { font-size: 14px; margin-top: 4px; }
-        .wx-hours { margin-top: 5px; }
+        .wx-rain { font-size: 14px; margin-top: 4px; }
+        .wx-hours { margin-top: 4px; }
         .wx-hour { padding: 3px 0 2px; }
         .wx-hour .h-time { font-size: 11px; }
         .wx-hour .h-icon { font-size: 15px; line-height: 1.15; }
@@ -378,6 +384,7 @@
             </div>
           </div>
           <div class="wx-hilo" id="wx-hilo"></div>
+          <div class="wx-rain" id="wx-rain"></div>
           <div class="wx-hours" id="wx-hours"></div>
         </div>
 
@@ -457,7 +464,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v10";
+      var PAGE_VER = "v11";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
@@ -493,6 +500,7 @@
           $("wx-temp").textContent = "--°";
           $("wx-cond").textContent = "天気を取得できませんでした";
           $("wx-hilo").innerHTML = "";
+          $("wx-rain").style.display = "none";
           $("wx-hours").innerHTML = "";
           return;
         }
@@ -506,6 +514,20 @@
             "今日の最高 <span class=\"hi\">" + Math.round(w.max) + "°</span> ／ 最低 <span class=\"lo\">" + Math.round(w.min) + "°</span>";
         } else {
           $("wx-hilo").innerHTML = "";
+        }
+
+        /* Rain alert (option D): the next-6-hours outlook computed by the
+           fetch script. Shows only when rain is expected. */
+        var rainEl = $("wx-rain");
+        if (w.rain && w.rain.time) {
+          var rdt = new Date(w.rain.time);
+          var rLabel = isNaN(rdt.getTime()) ? "" : rdt.getHours() + "時";
+          var rText = "☂ " + rLabel + "から雨の予報";
+          if (typeof w.rain.pop === "number") { rText += "（" + Math.round(w.rain.pop) + "%）"; }
+          rainEl.textContent = rText;
+          rainEl.style.display = "block";
+        } else {
+          rainEl.style.display = "none";
         }
 
         var html = "";
