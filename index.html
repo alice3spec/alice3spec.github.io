@@ -118,6 +118,30 @@
       .wx-hour .h-temp { font-size: 15px; font-weight: 700; font-variant-numeric: tabular-nums; }
       .wx-err { font-size: 16px; color: rgba(255,255,255,0.75); margin-top: 14px; }
 
+      /* index (Nikkei 225) */
+      .index {
+        margin-top: 12px;
+        background: rgba(6, 14, 30, 0.38);
+        border-radius: 12px;
+        padding: 9px 12px 7px;
+        max-width: 454px;
+      }
+      .ix-head { display: flex; align-items: baseline; }
+      .ix-name { font-size: 17px; font-weight: 700; color: rgba(255,255,255,0.9); }
+      .ix-price {
+        font-size: 30px; font-weight: 700; margin-left: 12px;
+        font-variant-numeric: tabular-nums;
+        text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+      }
+      .ix-chg { font-size: 16px; font-weight: 700; margin-left: 10px; font-variant-numeric: tabular-nums; }
+      .ix-chg.up { color: #7ee2a0; }
+      .ix-chg.down { color: #ff9d8a; }
+      .ix-chart { display: block; width: 100%; height: 78px; margin-top: 5px; }
+      .ix-range {
+        display: flex; justify-content: space-between;
+        font-size: 11px; color: rgba(255,255,255,0.65); margin-top: 2px;
+      }
+
       /* ---------- news panel ---------- */
       .panel {
         flex: 1 1 auto;
@@ -303,6 +327,9 @@
         .wx-hour .h-time { font-size: 12px; }
         .wx-hour .h-icon { font-size: 17px; }
         .wx-hour .h-temp { font-size: 13px; }
+        .index { margin-top: 8px; padding: 7px 10px 5px; }
+        .ix-price { font-size: 25px; }
+        .ix-chart { height: 56px; }
         .tab { min-height: 40px; font-size: 15px; }
         .news-title { font-size: 15px; }
       }
@@ -349,6 +376,16 @@
           </div>
           <div class="wx-hilo" id="wx-hilo"></div>
           <div class="wx-hours" id="wx-hours"></div>
+        </div>
+
+        <div class="index" id="index" style="display:none">
+          <div class="ix-head">
+            <span class="ix-name">日経平均</span>
+            <span class="ix-price" id="ix-price">--</span>
+            <span class="ix-chg" id="ix-chg"></span>
+          </div>
+          <svg class="ix-chart" id="ix-chart" viewBox="0 0 430 78" preserveAspectRatio="none" aria-hidden="true"></svg>
+          <div class="ix-range"><span id="ix-open">9:00</span><span id="ix-note"></span><span>15:30</span></div>
         </div>
       </div>
 
@@ -417,7 +454,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v6";
+      var PAGE_VER = "v7";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
@@ -482,6 +519,53 @@
             + "</div>";
         }
         $("wx-hours").innerHTML = html;
+      }
+
+      /* ============ Nikkei 225 (inside the same JSON) ============ */
+      function fmtNum(n) {
+        var s = String(Math.round(n));
+        var out = "";
+        while (s.length > 3) { out = "," + s.slice(-3) + out; s = s.slice(0, -3); }
+        return s + out;
+      }
+      function renderIndex(ix) {
+        var box = $("index");
+        if (!ix || typeof ix.price !== "number" || !ix.points || !ix.points.length) {
+          box.style.display = "none";
+          return;
+        }
+        box.style.display = "block";
+        $("ix-price").textContent = fmtNum(ix.price);
+        var chg = $("ix-chg");
+        if (typeof ix.prev === "number" && ix.prev > 0) {
+          var d = ix.price - ix.prev;
+          var pct = d / ix.prev * 100;
+          chg.textContent = (d >= 0 ? "▲ +" : "▼ ") + fmtNum(d) + " (" + (d >= 0 ? "+" : "") + pct.toFixed(2) + "%)";
+          chg.className = "ix-chg " + (d >= 0 ? "up" : "down");
+        } else {
+          chg.textContent = "";
+        }
+        var pts = ix.points;
+        var min = Infinity, max = -Infinity, i, v;
+        for (i = 0; i < pts.length; i++) { v = pts[i][1]; if (v < min) min = v; if (v > max) max = v; }
+        if (typeof ix.prev === "number") { if (ix.prev < min) min = ix.prev; if (ix.prev > max) max = ix.prev; }
+        var pad = (max - min) * 0.08 || 1;
+        min -= pad; max += pad;
+        var W = 430, H = 78;
+        function X(i) { return (i / 78 * W).toFixed(1); }
+        function Y(v) { return (H - (v - min) / (max - min) * H).toFixed(1); }
+        var down = (typeof ix.prev === "number") ? (ix.price < ix.prev) : (pts[pts.length - 1][1] < pts[0][1]);
+        var col = down ? "#ff9d8a" : "#7ee2a0";
+        var line = "";
+        for (i = 0; i < pts.length; i++) { line += (i ? "L" : "M") + X(i) + " " + Y(pts[i][1]) + " "; }
+        var svg = "";
+        if (typeof ix.prev === "number") {
+          svg += "<line x1=\"0\" y1=\"" + Y(ix.prev) + "\" x2=\"" + W + "\" y2=\"" + Y(ix.prev) + "\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/>";
+        }
+        svg += "<path d=\"" + line + "\" fill=\"none\" stroke=\"" + col + "\" stroke-width=\"2\"/>";
+        svg += "<circle cx=\"" + X(pts.length - 1) + "\" cy=\"" + Y(pts[pts.length - 1][1]) + "\" r=\"3\" fill=\"" + col + "\"/>";
+        $("ix-chart").innerHTML = svg;
+        $("ix-note").textContent = "高 " + fmtNum(max - pad) + " ／ 安 " + fmtNum(min + pad);
       }
 
       /* ============ news + weather (JSON bundled with this page) ============
@@ -601,6 +685,7 @@
           newsLoading = false;
           renderNews(activeTab);
           renderWeather(d.weather);
+          renderIndex(d.index);
           markUpdated();
         }).catch(function () {
           newsLoading = false;
