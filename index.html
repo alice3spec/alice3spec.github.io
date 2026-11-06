@@ -366,7 +366,7 @@
         <button class="back-btn" id="back-btn" type="button">← 戻る</button>
         <div class="art-title" id="art-title"></div>
         <div class="lite-wrap">軽量表示
-          <button class="lite-btn" id="lite-btn" type="button">OFF</button>
+          <button class="lite-btn on" id="lite-btn" type="button">ON</button>
         </div>
       </div>
       <iframe class="art-frame" id="art-frame" title="記事"></iframe>
@@ -653,7 +653,12 @@
           var url = "https://r.jina.ai/" + currentItem.link;
           fetchText(url).then(function (body) {
             if (!liteMode || !currentItem) return;
-            text.textContent = body;
+            /* reader services prepend page metadata (Title:/URL Source:/
+               Markdown Content:); skip straight to the article body */
+            var marker = "Markdown Content:";
+            var idx = body.indexOf(marker);
+            if (idx >= 0) { body = body.slice(idx + marker.length); }
+            text.textContent = body.replace(/^\s+/, "");
             text.scrollTop = 0;
           }).catch(function () {
             if (!liteMode || !currentItem) return;
@@ -668,10 +673,14 @@
 
       function openArticle(item) {
         currentItem = item;
-        liteMode = false;
+        /* articles open in the lightweight text view by default:
+           many publisher pages refuse to be embedded in a frame
+           (X-Frame-Options), which shows as ERR_BLOCKED_BY_RESPONSE,
+           and the text reader works for every source */
+        liteMode = true;
         var btn = $("lite-btn");
-        btn.textContent = "OFF";
-        btn.className = "lite-btn";
+        btn.textContent = "ON";
+        btn.className = "lite-btn on";
         $("art-title").textContent = item.title;
         $("article").className = "article open";
         applyArticleContent();
