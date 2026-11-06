@@ -166,7 +166,7 @@
         .wx-place { font-size: 13px; }
         .wx-day-ic { font-size: 31px; }
         .wx-day-cond { font-size: 16px; line-height: 1.4; }
-        .wx-day-temps { font-size: 12px; line-height: 1.3; }
+        .wx-day-temps { font-size: 17px; line-height: 1.2; margin-left: 8px; }
         .wx-days { margin-top: 4px; }
         .wx-temp { font-size: 16px; line-height: 1.3; }
         .s3-cond { font-size: 11.5px; }
@@ -468,7 +468,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v46";
+      var PAGE_VER = "v47";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -546,9 +546,8 @@
             tTemps = "<span style=\"color:#ffb3a0\">" + Math.round(w.tomorrow.max) + "°</span> / <span style=\"color:#a8ccff\">" + Math.round(w.tomorrow.min) + "°</span>";
           }
           tmr.innerHTML = "<div class=\"wx-tmr-label\">明日</div>"
-            + "<div class=\"wx-day-ic\">" + tInfo.icon + "</div>"
-            + "<div class=\"wx-day-cond\">" + tInfo.label + "</div>"
-            + (tTemps ? "<div class=\"wx-day-temps\">" + tTemps + "</div>" : "");
+            + "<div class=\"wx-iconrow\"><span class=\"wx-day-ic\">" + tInfo.icon + "</span>" + (tTemps ? "<span class=\"wx-day-temps\">" + tTemps + "</span>" : "") + "</div>"
+            + "<div class=\"wx-day-cond\">" + tInfo.label + "</div>";
         } else {
           tmr.innerHTML = "";
         }
