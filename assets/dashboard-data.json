@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-07T01:13:23.618255+09:00",
+  "updated": "2026-11-07T01:18:20.575623+09:00",
   "feeds": {
     "kabu": [
       {
         "title": "６日の東京株式市場見通し＝半導体主導で日経平均５万８０００円大幅割れも(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHk2Z21PTzRBTFZzSmNRM2tpa1ZGelFReGtIbEdncXREekR6Y2JBdjNhY20ydGx5VWhZTFpFUi1uaW1IUlY0NDh3a3d6RXUxZmYxTjBNV1F1eFRNTFg0NEJTbVgyWTB1RGV2cWE1ZGVHcWltYzhuc0dVdlZDWGw4RTJfYzN1V1k?oc=5",
         "date": "2026-11-05T22:50:10+00:00"
+      },
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-06T08:29:45+00:00"
       },
       {
         "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
@@ -15,7 +20,7 @@
       {
         "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
-        "date": "2026-11-06T16:01:47+00:00"
+        "date": "2026-11-06T16:02:06+00:00"
       },
       {
         "title": "日経平均下げ幅3位「28年以降のAI投資不安」「下値メド5万1000円」 - 日本経済新聞",
@@ -56,11 +61,6 @@
         "title": "ローム急落、27年3月期上振れでも市場予想下回る（6日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UF9MVUtJTERFSTlWVThUWkZwOXZ4cVB3NG0xdnlfOEVrTlBBTjZuOFRXZjZxMGpTcjd2c3Bxc05hM05zNVl0c2k3R3JCVnAwb29oa3NWZzhoMWpRZXFBUVAxRlNCTlF2WVpNUQ?oc=5",
         "date": "2026-11-06T07:30:00+00:00"
-      },
-      {
-        "title": "日経平均、米政治混乱回避で自律反発狙いの買いも（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbEh1dHBkQkxHT3ZJUUtLckpvQ1dMRk0yaXNSeHdzRmxENE50aHI0YWt0T0lueWtTQW81QVJxakdqdFFPVkZZcFJCV3VjOEdKd1p0dEVuRENxN05qZmhyY3dkTFlwTmItWmM5Wg?oc=5",
-        "date": "2026-11-04T22:30:00+00:00"
       }
     ],
     "ai": [
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 58470.0,
+    "price": 58505.0,
     "prev": 57350.0,
     "points": [
       [
@@ -1382,20 +1382,27 @@
         58450.0
       ],
       [
-        "11/07 01:03",
+        "11/07 01:05",
         58470.0,
         58470.0,
-        58470.0,
-        58470.0
+        58550.0,
+        58420.0
+      ],
+      [
+        "11/07 01:08",
+        58505.0,
+        58505.0,
+        58505.0,
+        58505.0
       ]
     ]
   },
   "fx": {
-    "price": 158.2555,
+    "price": 158.256,
     "prev": 157.7005
   },
   "topix": {
-    "price": 130.03,
+    "price": 130.0045,
     "prev": 123.62
   },
   "ver": "v48"
