@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:29:11.709575+09:00",
+  "updated": "2026-11-07T01:33:35.091501+09:00",
   "feeds": {
     "kabu": [
       {
@@ -8,19 +8,24 @@
         "date": "2026-11-05T22:50:10+00:00"
       },
       {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-06T08:29:45+00:00"
+      },
+      {
         "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5",
         "date": "2026-11-06T07:01:38+00:00"
       },
       {
-        "title": "日経平均下げ幅3位「28年以降のAI投資不安」「下値メド5万1000円」 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhT2dwcGNudUdWZU1fNmotdTM2UlVZa3ZqOXdzSW55RFpScTdiUHF3WTVLamtWbHZmT3A4RW1jQ0dBR01zZVo5dzJxOHE4ZHBSUTRhZk05NkxreXYydlk1VHV0UUxaOFFYQklvVA?oc=5",
-        "date": "2026-11-06T08:05:52+00:00"
-      },
-      {
         "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
         "date": "2026-11-06T16:02:06+00:00"
+      },
+      {
+        "title": "日経平均下げ幅3位「28年以降のAI投資不安」「下値メド5万1000円」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhT2dwcGNudUdWZU1fNmotdTM2UlVZa3ZqOXdzSW55RFpScTdiUHF3WTVLamtWbHZmT3A4RW1jQ0dBR01zZVo5dzJxOHE4ZHBSUTRhZk05NkxreXYydlk1VHV0UUxaOFFYQklvVA?oc=5",
+        "date": "2026-11-06T08:05:52+00:00"
       },
       {
         "title": "日経平均株価、米株急落が逆風 リスク回避強まる（先読み株式相場） - 日本経済新聞",
@@ -56,11 +61,6 @@
         "title": "ローム急落、27年3月期上振れでも市場予想下回る（6日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UF9MVUtJTERFSTlWVThUWkZwOXZ4cVB3NG0xdnlfOEVrTlBBTjZuOFRXZjZxMGpTcjd2c3Bxc05hM05zNVl0c2k3R3JCVnAwb29oa3NWZzhoMWpRZXFBUVAxRlNCTlF2WVpNUQ?oc=5",
         "date": "2026-11-06T07:30:00+00:00"
-      },
-      {
-        "title": "日経平均、米政治混乱回避で自律反発狙いの買いも（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbEh1dHBkQkxHT3ZJUUtLckpvQ1dMRk0yaXNSeHdzRmxENE50aHI0YWt0T0lueWtTQW81QVJxakdqdFFPVkZZcFJCV3VjOEdKd1p0dEVuRENxN05qZmhyY3dkTFlwTmItWmM5Wg?oc=5",
-        "date": "2026-11-04T22:30:00+00:00"
       }
     ],
     "ai": [
@@ -337,8 +337,8 @@
     ]
   },
   "weather": {
-    "temp": 17.1,
-    "code": 2,
+    "temp": 17.0,
+    "code": 1,
     "max": 18.6,
     "min": 12.7,
     "hours": [
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 58340.0,
+    "price": 58575.0,
     "prev": 57350.0,
     "points": [
       [
@@ -1403,20 +1403,27 @@
         58315.0
       ],
       [
-        "11/07 01:19",
-        58340.0,
-        58340.0,
-        58340.0,
-        58340.0
+        "11/07 01:20",
+        58690.0,
+        58355.0,
+        58695.0,
+        58285.0
+      ],
+      [
+        "11/07 01:23",
+        58575.0,
+        58575.0,
+        58575.0,
+        58575.0
       ]
     ]
   },
   "fx": {
-    "price": 158.341,
+    "price": 158.3825,
     "prev": 157.7005
   },
   "topix": {
-    "price": 130.92,
+    "price": 131.045,
     "prev": 123.62
   },
   "ver": "v48"
