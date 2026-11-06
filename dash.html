@@ -68,7 +68,7 @@
       }
 
       /* top-left card: clock + date + today + tomorrow + umbrella */
-      .wxcard { padding: 10px 14px 9px; overflow: hidden; }
+      .wxcard { padding: 10px 14px 9px; overflow: hidden; position: relative; }
       .clock { font-size: 58px; line-height: 1.05; font-weight: 700; letter-spacing: 1px; font-variant-numeric: tabular-nums; text-shadow: 0 3px 12px rgba(0,0,0,0.55); }
       .clock .sec { font-size: 22px; font-weight: 600; color: rgba(255,255,255,0.75); margin-left: 6px; }
       .date-line { font-size: 16px; font-weight: 600; margin-top: 2px; padding-bottom: 6px; border-bottom: 2px solid rgba(94, 200, 220, 0.65); text-shadow: 0 2px 8px rgba(0,0,0,0.5); }
@@ -90,7 +90,7 @@
       .wx-rain-icon { font-size: 24px; margin-right: 8px; vertical-align: -3px; } .wx-rain { display: none; margin-top: 12px; padding: 10px 12px; border-radius: 10px; background: rgba(38, 84, 124, 0.55); border: 1px solid rgba(94, 200, 220, 0.4); font-size: 15px; font-weight: 700; color: #aee2ff; }
       .wx-err { font-size: 15px; color: rgba(255,255,255,0.8); margin-top: 12px; }
       .wx-hours { display: none; } /* legacy element, unused in v16 */
-      .foot { margin-top: 8px; font-size: 11px; color: rgba(255,255,255,0.55); font-variant-numeric: tabular-nums; } .foot .ver { color: rgba(140,220,255,0.9); font-weight: 700; }
+      .foot { position: absolute; right: 12px; bottom: 8px; font-size: 12px; color: rgba(255,255,255,0.65); font-variant-numeric: tabular-nums; } .foot .ver { color: rgba(140,220,255,0.95); font-weight: 700; }
 
       /* top-right column (v19): strip card, then news + futures row */
       
@@ -445,7 +445,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v37";
+      var PAGE_VER = "v38";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
