@@ -158,10 +158,19 @@
         .wx-cond { font-size: 16px; }
         .wx-hilo { font-size: 12px; margin-top: 3px; }
         .wx-tmr { margin-top: 7px; padding-top: 5px; }
-        .wx-tmr-label { font-size: 11px; }
-        .wx-tmr-icon { font-size: 19px; }
-        .wx-tmr-cond { font-size: 13px; }
+        .wx-tmr-label { font-size: 13px; }
+        .wx-tmr-icon { font-size: 31px; }
+        .wx-tmr-cond { font-size: 16px; }
         .wx-tmr-temps { font-size: 12px; }
+        .wx-place { font-size: 13px; }
+        .wx-day-ic { font-size: 31px; }
+        .wx-day-cond { font-size: 16px; line-height: 1.4; }
+        .wx-day-temps { font-size: 12px; line-height: 1.3; }
+        .wx-days { margin-top: 4px; }
+        .wx-temp { font-size: 16px; line-height: 1.3; }
+        .s3-cond { font-size: 11.5px; }
+        .pop-head { margin-top: 5px; }
+        .pop-chart { height: 46px; margin-top: 2px; }
         .wx-rain { font-size: 12px; margin-top: 7px; padding: 5px 7px; }
         .foot { margin-top: 5px; font-size: 10px; }
         .strip-card { padding: 6px 9px 5px; }
@@ -447,7 +456,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v41";
+      var PAGE_VER = "v42";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -576,7 +585,7 @@
           var pdt = new Date(pp.time);
           var pLabel = isNaN(pdt.getTime()) ? "" : pdt.getHours() + "時";
           var pv = (typeof pp.pop === "number") ? Math.round(pp.pop) : null;
-          var ph = (pv === null) ? 0 : Math.max(Math.round(pv * 0.34), pv > 0 ? 2 : 0);
+          var ph = (pv === null) ? 0 : Math.max(Math.round(pv * 0.22), pv > 0 ? 2 : 0);
           popHtml += "<div class=\"pop-col\"><div class=\"pop-val\">" + (pv === null ? "--" : pv + "%") + "</div>"
             + "<div class=\"pop-bar\" style=\"height:" + ph + "px\"></div>"
             + "<div class=\"pop-time\">" + pLabel + "</div></div>";
