@@ -66,12 +66,12 @@
       .clock { font-size: 58px; line-height: 1.05; font-weight: 700; letter-spacing: 1px; font-variant-numeric: tabular-nums; text-shadow: 0 3px 12px rgba(0,0,0,0.55); }
       .clock .sec { font-size: 22px; font-weight: 600; color: rgba(255,255,255,0.75); margin-left: 6px; }
       .date-line { font-size: 16px; font-weight: 600; margin-top: 2px; padding-bottom: 6px; border-bottom: 2px solid rgba(94, 200, 220, 0.65); text-shadow: 0 2px 8px rgba(0,0,0,0.5); }
-      .wx-place { font-size: 12px; color: rgba(255,255,255,0.8); text-align: right; }
-      .wx-now { display: flex; align-items: center; margin-top: 9px; }
-      .wx-icon { font-size: 40px; line-height: 1; margin-right: 10px; }
-      .wx-temp { font-size: 44px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums; text-shadow: 0 2px 10px rgba(0,0,0,0.5); }
+      .wx-place { font-size: 12px; color: rgba(255,255,255,0.8); margin-bottom: 2px; }
+      .wx-now { display: flex; align-items: center; margin-top: 9px; } .wx-days { display: flex; flex-direction: row; align-items: stretch; margin-top: 9px; } .wx-day { flex: 1 1 0; min-width: 0; } .wx-day-tmr { border-left: 1px solid rgba(255,255,255,0.18); padding-left: 10px; margin-left: 10px; } .wx-tmr-label { font-size: 12px; color: rgba(255,255,255,0.75); } .wx-day-ic { font-size: 30px; line-height: 1.1; } .wx-day-cond { font-size: 16px; font-weight: 700; white-space: nowrap; } .wx-day-temps { font-size: 14px; font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+      .wx-icon { font-size: 30px; line-height: 1.1; }
+      .wx-temp { font-size: 27px; font-weight: 700; line-height: 1.15; font-variant-numeric: tabular-nums; white-space: nowrap; text-shadow: 0 2px 10px rgba(0,0,0,0.5); }
       .wx-side { margin-left: 10px; }
-      .wx-cond { font-size: 19px; font-weight: 700; }
+      .wx-cond { font-size: 16px; font-weight: 700; white-space: nowrap; }
       .wx-hilo { font-size: 14px; margin-top: 6px; font-variant-numeric: tabular-nums; }
       .wx-hilo .hi { color: #ffb3a0; font-weight: 700; }
       .wx-hilo .lo { color: #a8ccff; font-weight: 700; }
@@ -347,16 +347,15 @@
           <div class="clock"><span id="clock-main">--:--</span><span class="sec" id="clock-sec">--</span></div>
           <div class="date-line" id="date-line">読み込み中…</div>
           <div class="weather" id="weather">
-            <div class="wx-now">
-              <div class="wx-icon" id="wx-icon">⌛</div>
-              <div class="wx-temp" id="wx-temp">--°</div>
-              <div class="wx-side">
-                <div class="wx-place">葉山町</div>
+            <div class="wx-days">
+              <div class="wx-day">
+                <div class="wx-place">今日 ・ 葉山町</div>
+                <div class="wx-icon" id="wx-icon">⌛</div>
                 <div class="wx-cond" id="wx-cond">天気を取得中</div>
+                <div class="wx-temp"><span id="wx-temp">--°</span> <span id="wx-hilo"></span></div>
               </div>
+              <div class="wx-day wx-day-tmr" id="wx-tmr"></div>
             </div>
-            <div class="wx-hilo" id="wx-hilo"></div>
-            <div class="wx-tmr" id="wx-tmr"></div>
             <div class="wx-rain" id="wx-rain"></div>
             <div class="wx-hours" id="wx-hours"></div>
           </div>
@@ -443,7 +442,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v29";
+      var PAGE_VER = "v30";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -495,7 +494,7 @@
           $("wx-icon").textContent = "⚠️";
           $("wx-temp").textContent = "--°";
           $("wx-cond").textContent = "天気を取得できませんでした";
-          $("wx-hilo").innerHTML = "";
+          $("wx-hilo").textContent = "";
           $("wx-tmr").innerHTML = "";
           $("wx-rain").style.display = "none";
           $("strip3").innerHTML = "";
@@ -507,10 +506,9 @@
         $("wx-cond").textContent = info.label;
 
         if (typeof w.max === "number" && typeof w.min === "number") {
-          $("wx-hilo").innerHTML =
-            "<span class=\"hi\">" + Math.round(w.max) + "°</span> / <span class=\"lo\">" + Math.round(w.min) + "°</span>";
+          $("wx-hilo").textContent = "（" + Math.round(w.max) + "°/" + Math.round(w.min) + "°）";
         } else {
-          $("wx-hilo").innerHTML = "";
+          $("wx-hilo").textContent = "";
         }
 
         /* Tomorrow's forecast (v16 left column) */
@@ -519,11 +517,12 @@
           var tInfo = wxInfo(w.tomorrow.code);
           var tTemps = "";
           if (typeof w.tomorrow.max === "number" && typeof w.tomorrow.min === "number") {
-            tTemps = "<span class=\"wx-tmr-temps\"><span style=\"color:#ffb3a0;font-weight:700\">" + Math.round(w.tomorrow.max) + "°</span> / <span style=\"color:#a8ccff;font-weight:700\">" + Math.round(w.tomorrow.min) + "°</span></span>";
+            tTemps = "<span style=\"color:#ffb3a0\">" + Math.round(w.tomorrow.max) + "°</span> / <span style=\"color:#a8ccff\">" + Math.round(w.tomorrow.min) + "°</span>";
           }
           tmr.innerHTML = "<div class=\"wx-tmr-label\">明日</div>"
-            + "<div class=\"wx-tmr-row\"><span class=\"wx-tmr-icon\">" + tInfo.icon + "</span>"
-            + "<span class=\"wx-tmr-cond\">" + tInfo.label + "</span>" + tTemps + "</div>";
+            + "<div class=\"wx-day-ic\">" + tInfo.icon + "</div>"
+            + "<div class=\"wx-day-cond\">" + tInfo.label + "</div>"
+            + (tTemps ? "<div class=\"wx-day-temps\">" + tTemps + "</div>" : "");
         } else {
           tmr.innerHTML = "";
         }
