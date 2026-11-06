@@ -141,7 +141,7 @@
       .mini-chg { font-size: 12px; font-weight: 700; margin-top: 2px; font-variant-numeric: tabular-nums; }
       .mini-chg.up { color: #7ee2a0; }
       .mini-chg.down { color: #ff9d8a; }
-      .mini-note { font-size: 10px; color: rgba(94, 200, 220, 0.95); margin-top: 3px; } .minirow { display: flex; flex-direction: row; margin-top: 10px; } .mini2 { flex: 1 1 0; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.09); border-radius: 8px; padding: 6px 10px; min-width: 0; overflow: hidden; } .mini2 + .mini2 { margin-left: 8px; } .mini2-name { font-size: 11px; color: rgba(255,255,255,0.7); font-weight: 700; } .mini2-price { font-size: 19px; font-weight: 700; margin-top: 1px; font-variant-numeric: tabular-nums; } .mini2-sub { font-size: 10px; color: rgba(255,255,255,0.55); margin-top: 1px; } .mini2-chg { font-size: 11px; font-weight: 700; font-variant-numeric: tabular-nums; } .mini2-chg.up { color: #7ee2a0; } .mini2-chg.down { color: #ff9d8a; }
+      .mini-note { font-size: 10px; color: rgba(94, 200, 220, 0.95); margin-top: 3px; } .minirow { display: flex; flex-direction: row; margin-top: 10px; } .mini2 { flex: 1 1 0; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.09); border-radius: 8px; padding: 6px 10px; min-width: 0; overflow: hidden; } .mini2 + .mini2 { margin-left: 8px; } .mini2-name { font-size: 11px; color: rgba(255,255,255,0.7); font-weight: 700; } .mini2-price { font-size: 19px; font-weight: 700; margin-top: 1px; font-variant-numeric: tabular-nums; } .mini2-sub { font-size: 10px; color: rgba(255,255,255,0.55); margin-top: 1px; } .mini2-chg { font-size: 11px; font-weight: 700; font-variant-numeric: tabular-nums; } .mini2-line { display: flex; flex-direction: row; align-items: baseline; } .mini2-line .mini2-chg { margin-left: 7px; } .mini2-chg.up { color: #7ee2a0; } .mini2-chg.down { color: #ff9d8a; }
 
       @media (max-height: 460px) {
         /* The device viewport measures ~960x483 CSS px (density ~2):
@@ -172,11 +172,15 @@
         .s3-cond { font-size: 11.5px; }
         .pop-head { margin-top: 5px; }
         .pop-chart { height: 46px; margin-top: 2px; }
-        .minirow { margin-top: 6px; }
-        .mini2 { padding: 4px 8px; }
+        .minirow { margin-top: 5px; }
+        .mini2 { padding: 3px 8px; }
         .mini2-name { font-size: 10px; }
-        .mini2-price { font-size: 16px; margin-top: 0; }
+        .mini2-price { font-size: 15px; margin-top: 0; }
         .mini2-chg { font-size: 10px; }
+        .strip { margin-top: 4px; }
+        .s3 { padding: 2px 0 1px; }
+        .s3-icon { font-size: 16px; line-height: 1.15; }
+        .s3-temp { font-size: 13px; }
         .wx-rain { font-size: 12px; margin-top: 7px; padding: 5px 7px; }
         .foot { margin-top: 5px; font-size: 10px; }
         .strip-card { padding: 6px 9px 5px; }
@@ -388,8 +392,8 @@
           <div class="strip-head"><span class="strip-title">3時間ごとの天気</span><span class="strip-sub">気温 / 降水量</span></div>
           <div class="strip" id="strip3"></div>
           <div class="minirow">
-            <div class="mini2"><div class="mini2-name">ドル円</div><div class="mini2-price" id="fx-price">--</div><div class="mini2-chg" id="fx-chg"></div></div>
-            <div class="mini2"><div class="mini2-name">スペースX (SPCX)</div><div class="mini2-price" id="topix-price">--</div><div class="mini2-chg" id="topix-chg"></div></div>
+            <div class="mini2"><div class="mini2-name">ドル円</div><div class="mini2-line"><span class="mini2-price" id="fx-price">--</span><span class="mini2-chg" id="fx-chg"></span></div></div>
+            <div class="mini2"><div class="mini2-name">スペースX (SPCX)</div><div class="mini2-line"><span class="mini2-price" id="topix-price">--</span><span class="mini2-chg" id="topix-chg"></span></div></div>
           </div>
         </div>
       </div>
@@ -464,7 +468,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v44";
+      var PAGE_VER = "v45";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -782,7 +786,7 @@
         if (typeof q.prev === "number" && q.prev > 0) {
           var dd = q.price - q.prev;
           var pp = dd / q.prev * 100;
-          chgEl.textContent = (dd >= 0 ? "▲ +" : "▼ ") + dd.toFixed(digits) + " (" + (dd >= 0 ? "+" : "") + pp.toFixed(2) + "%)";
+          chgEl.textContent = (dd >= 0 ? "▲ +" : "▼ ") + dd.toFixed(digits) + " (" + (dd >= 0 ? "+" : "") + pp.toFixed(1) + "%)";
           chgEl.className = "mini2-chg " + (dd >= 0 ? "up" : "down");
         } else { chgEl.textContent = ""; }
       }
