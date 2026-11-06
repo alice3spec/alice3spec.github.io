@@ -312,24 +312,27 @@
       /* Short viewport (e.g. browser chrome eating into the 480px height):
          shrink the left column further so the weather strip always fits */
       @media (max-height: 460px) {
-        .dash { padding: 10px 16px 8px 20px; }
-        .clock { font-size: 96px; }
-        .clock .sec { font-size: 32px; }
-        .date-line { font-size: 25px; }
-        .weather { margin-top: 9px; }
-        .wx-icon { font-size: 38px; margin-right: 10px; }
-        .wx-temp { font-size: 42px; }
-        .wx-cond { font-size: 18px; }
+        .dash { padding: 8px 16px 6px 20px; }
+        .clock { font-size: 82px; }
+        .clock .sec { font-size: 28px; }
+        .date-line { font-size: 22px; margin-top: 0; }
+        .weather { margin-top: 6px; }
+        .wx-icon { font-size: 34px; margin-right: 10px; }
+        .wx-temp { font-size: 38px; }
+        .wx-cond { font-size: 17px; }
         .wx-place { font-size: 12px; }
-        .wx-hilo { font-size: 15px; margin-top: 5px; }
-        .wx-hours { margin-top: 7px; }
-        .wx-hour { padding: 4px 0 3px; }
-        .wx-hour .h-time { font-size: 12px; }
-        .wx-hour .h-icon { font-size: 17px; }
-        .wx-hour .h-temp { font-size: 13px; }
-        .index { margin-top: 8px; padding: 7px 10px 5px; }
-        .ix-price { font-size: 25px; }
-        .ix-chart { height: 56px; }
+        .wx-hilo { font-size: 14px; margin-top: 4px; }
+        .wx-hours { margin-top: 5px; }
+        .wx-hour { padding: 3px 0 2px; }
+        .wx-hour .h-time { font-size: 11px; }
+        .wx-hour .h-icon { font-size: 15px; line-height: 1.15; }
+        .wx-hour .h-temp { font-size: 12px; }
+        .index { margin-top: 6px; padding: 6px 10px 4px; }
+        .ix-name { font-size: 15px; }
+        .ix-price { font-size: 23px; margin-left: 9px; }
+        .ix-chg { font-size: 13px; margin-left: 7px; }
+        .ix-chart { height: 44px; margin-top: 3px; }
+        .ix-range { font-size: 10px; }
         .tab { min-height: 40px; font-size: 15px; }
         .news-title { font-size: 15px; }
       }
@@ -454,7 +457,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v7";
+      var PAGE_VER = "v8";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
