@@ -38,25 +38,15 @@
         z-index: 1;
       }
 
-      /* ---------- dashboard layout (v13) ----------
-         Top band: clock (full width). Below: two half columns —
-         left = weather (top half) + futures (bottom half),
-         right = news panel showing 2 headlines. */
+      /* ---------- dashboard layout (v14) ----------
+         Two half columns. Left: weather (top) + futures (bottom).
+         Right: clock above the news tabs, then the panel with
+         2 headlines. Date sits at the weather block's top-left. */
       .dash {
         position: relative; z-index: 2;
-        display: flex; flex-direction: column;
+        display: flex; flex-direction: row;
         width: 100%; height: 100%;
         padding: 10px 18px 8px 22px;
-      }
-      .topband {
-        flex: 0 0 auto;
-        text-align: center;
-      }
-      .mainrow {
-        flex: 1 1 auto;
-        display: flex; flex-direction: row;
-        min-height: 0;
-        margin-top: 6px;
       }
       .left {
         width: 50%;
@@ -69,12 +59,17 @@
         display: flex; flex-direction: column;
         min-width: 0; min-height: 0;
       }
+      .clockband {
+        flex: 0 0 auto;
+        text-align: center;
+        margin-bottom: 8px;
+      }
       .half-top { flex: 1 1 0; min-height: 0; }
       .half-bottom { flex: 1 1 0; min-height: 0; display: flex; flex-direction: column; justify-content: flex-end; }
 
-      /* clock (top band, v13) */
+      /* clock (above the news tabs, v14) */
       .clock {
-        font-size: 96px;
+        font-size: 84px;
         line-height: 1.02;
         font-weight: 700;
         letter-spacing: 1px;
@@ -156,7 +151,7 @@
       .ix-chg { font-size: 16px; font-weight: 700; margin-left: 10px; font-variant-numeric: tabular-nums; }
       .ix-chg.up { color: #7ee2a0; }
       .ix-chg.down { color: #ff9d8a; }
-      .ix-chart { display: block; width: 100%; height: 92px; margin-top: 5px; }
+      .ix-chart { display: block; width: 100%; height: 120px; margin-top: 5px; }
       .ix-range {
         display: flex; justify-content: space-between;
         font-size: 11px; color: rgba(255,255,255,0.65); margin-top: 2px;
@@ -333,13 +328,13 @@
       }
 
       /* Short viewport (the Echo's 480px height): the operative sizes.
-         v13 layout — top clock band, left column split in halves,
-         2 big headlines on the right. */
+         v14 layout — left column halves (weather/futures), clock
+         above the news tabs on the right, 2 big headlines. */
       @media (max-height: 460px) {
         .dash { padding: 7px 16px 6px 20px; }
-        .mainrow { margin-top: 4px; }
-        .clock { font-size: 76px; }
-        .clock .sec { font-size: 26px; }
+        .clockband { margin-bottom: 5px; }
+        .clock { font-size: 62px; }
+        .clock .sec { font-size: 22px; }
         .date-line { font-size: 17px; margin-bottom: 4px; }
         .wx-icon { font-size: 32px; margin-right: 9px; }
         .wx-temp { font-size: 36px; }
@@ -352,12 +347,12 @@
         .wx-hour .h-time { font-size: 11px; }
         .wx-hour .h-icon { font-size: 15px; line-height: 1.15; }
         .wx-hour .h-temp { font-size: 12px; }
-        .index { padding: 6px 10px 5px; }
-        .ix-name { font-size: 15px; }
-        .ix-price { font-size: 24px; margin-left: 9px; }
-        .ix-chg { font-size: 13px; margin-left: 7px; }
-        .ix-chart { height: 62px; margin-top: 3px; }
-        .ix-range { font-size: 10px; }
+        .index { padding: 7px 10px 6px; }
+        .ix-name { font-size: 16px; }
+        .ix-price { font-size: 27px; margin-left: 9px; }
+        .ix-chg { font-size: 14px; margin-left: 7px; }
+        .ix-chart { height: 104px; margin-top: 4px; }
+        .ix-range { font-size: 11px; }
         .tab { min-height: 38px; font-size: 15px; }
         .news-item { padding: 8px 13px; }
         .news-title { font-size: 18px; line-height: 1.4; }
@@ -365,10 +360,9 @@
         .foot { padding: 5px 12px 6px; font-size: 12px; }
       }
 
-      /* Narrow fallback (portrait previews): stack the blocks vertically */
+      /* Narrow fallback (portrait previews): stack the rows vertically */
       @media (max-width: 700px) {
-        .dash { padding: 12px; }
-        .mainrow { flex-direction: column; }
+        .dash { flex-direction: column; padding: 12px; }
         .left { width: 100%; padding-right: 0; flex: 0 0 auto; }
         .right { width: 100%; flex: 1 1 auto; margin-top: 10px; min-height: 0; }
         .clock { font-size: 64px; }
@@ -392,55 +386,52 @@
 
     <!-- ============ DASHBOARD ============ -->
     <div class="dash" id="dash">
-      <div class="topband">
-        <div class="clock"><span id="clock-main">--:--</span><span class="sec" id="clock-sec">--</span></div>
-      </div>
-
-      <div class="mainrow">
-        <div class="left">
-          <div class="half-top">
-            <div class="weather" id="weather">
-              <div class="date-line" id="date-line">読み込み中…</div>
-              <div class="wx-now">
-                <div class="wx-icon" id="wx-icon">⌛</div>
-                <div class="wx-temp" id="wx-temp">--°</div>
-                <div class="wx-side">
-                  <div class="wx-cond" id="wx-cond">天気を取得中</div>
-                  <div class="wx-place">葉山町（神奈川県）</div>
-                </div>
+      <div class="left">
+        <div class="half-top">
+          <div class="weather" id="weather">
+            <div class="date-line" id="date-line">読み込み中…</div>
+            <div class="wx-now">
+              <div class="wx-icon" id="wx-icon">⌛</div>
+              <div class="wx-temp" id="wx-temp">--°</div>
+              <div class="wx-side">
+                <div class="wx-cond" id="wx-cond">天気を取得中</div>
+                <div class="wx-place">葉山町（神奈川県）</div>
               </div>
-              <div class="wx-hilo" id="wx-hilo"></div>
-              <div class="wx-rain" id="wx-rain"></div>
-              <div class="wx-hours" id="wx-hours"></div>
             </div>
-          </div>
-
-          <div class="half-bottom">
-            <div class="index" id="index" style="display:none">
-              <div class="ix-head">
-                <span class="ix-name">日経平均先物</span>
-                <span class="ix-price" id="ix-price">--</span>
-                <span class="ix-chg" id="ix-chg"></span>
-              </div>
-              <svg class="ix-chart" id="ix-chart" viewBox="0 0 430 78" preserveAspectRatio="none" aria-hidden="true"></svg>
-              <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span></div>
-            </div>
+            <div class="wx-hilo" id="wx-hilo"></div>
+            <div class="wx-rain" id="wx-rain"></div>
+            <div class="wx-hours" id="wx-hours"></div>
           </div>
         </div>
 
-        <div class="right">
-          <div class="panel">
-            <div class="tabs" id="tabs">
-              <button class="tab active" data-tab="stocks" type="button">株</button>
-              <button class="tab" data-tab="ai" type="button">AI</button>
-              <button class="tab" data-tab="it" type="button">IT</button>
-              <button class="tab" data-tab="gadget" type="button">ガジェット</button>
+        <div class="half-bottom">
+          <div class="index" id="index" style="display:none">
+            <div class="ix-head">
+              <span class="ix-name">日経平均先物</span>
+              <span class="ix-price" id="ix-price">--</span>
+              <span class="ix-chg" id="ix-chg"></span>
             </div>
-            <div class="news-list" id="news-list">
-              <div class="news-msg">読み込み中…</div>
-            </div>
-            <div class="foot" id="foot">--:-- 更新</div>
+            <svg class="ix-chart" id="ix-chart" viewBox="0 0 430 78" preserveAspectRatio="none" aria-hidden="true"></svg>
+            <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span></div>
           </div>
+        </div>
+      </div>
+
+      <div class="right">
+        <div class="clockband">
+          <div class="clock"><span id="clock-main">--:--</span><span class="sec" id="clock-sec">--</span></div>
+        </div>
+        <div class="panel">
+          <div class="tabs" id="tabs">
+            <button class="tab active" data-tab="stocks" type="button">株</button>
+            <button class="tab" data-tab="ai" type="button">AI</button>
+            <button class="tab" data-tab="it" type="button">IT</button>
+            <button class="tab" data-tab="gadget" type="button">ガジェット</button>
+          </div>
+          <div class="news-list" id="news-list">
+            <div class="news-msg">読み込み中…</div>
+          </div>
+          <div class="foot" id="foot">--:-- 更新</div>
         </div>
       </div>
     </div>
@@ -494,7 +485,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v13";
+      var PAGE_VER = "v14";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
