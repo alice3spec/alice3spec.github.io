@@ -52,7 +52,9 @@
         padding: 10px 14px;
       }
       .row-top { flex: 0 0 auto; display: flex; flex-direction: row; min-height: 0; }
-      .row-bottom { flex: 1 1 auto; display: flex; flex-direction: row; min-height: 0; margin-top: 10px; }
+      /* v19: the bottom row is gone — news + futures moved up beside
+         the weather card; the strip keeps only its content height */
+      .row-bottom { display: none; }
       .card {
         background: rgba(5, 12, 26, 0.55);
         border: 1px solid rgba(255,255,255,0.12);
@@ -84,8 +86,10 @@
       .wx-hours { display: none; } /* legacy element, unused in v16 */
       .foot { margin-top: 8px; font-size: 11px; color: rgba(255,255,255,0.55); font-variant-numeric: tabular-nums; }
 
-      /* top-right card: 3-hourly strip */
-      .strip-card { flex: 1 1 auto; margin-left: 12px; padding: 9px 12px 8px; min-width: 0; }
+      /* top-right column (v19): strip card, then news + futures row */
+      .col-r2 { flex: 1 1 auto; display: flex; flex-direction: column; margin-left: 12px; min-width: 0; min-height: 0; }
+      .strip-card { flex: 0 0 auto; padding: 9px 12px 8px; min-width: 0; }
+      .row-mid { flex: 1 1 auto; display: flex; flex-direction: row; min-height: 0; margin-top: 10px; }
       .strip-head { display: flex; align-items: baseline; }
       .strip-title { font-size: 16px; font-weight: 700; }
       .strip-sub { font-size: 11px; color: rgba(255,255,255,0.65); margin-left: 8px; }
@@ -99,7 +103,7 @@
       .s3-temp { font-size: 17px; font-weight: 700; color: #ffb37a; font-variant-numeric: tabular-nums; }
       .s3-mm { font-size: 11px; color: #8ecbff; font-variant-numeric: tabular-nums; }
 
-      /* bottom-left: Yahoo News */
+      /* Yahoo News (v19: left half of the row under the strip) */
       .panel { width: 50%; flex: 0 0 auto; display: flex; flex-direction: column; overflow: hidden; min-width: 0; min-height: 0; }
       .y-head { display: flex; align-items: baseline; padding: 8px 14px 6px; border-bottom: 1px solid rgba(255,255,255,0.1); }
       .y-name { font-size: 16px; font-weight: 700; color: #ff8a7a; }
@@ -114,7 +118,7 @@
       .news-meta { margin-top: 2px; font-size: 11px; color: rgba(255,255,255,0.6); display: flex; flex-direction: row; }
       .news-msg { padding: 20px 16px; font-size: 15px; line-height: 1.6; color: rgba(255,255,255,0.85); }
 
-      /* bottom-right: futures info (chart) + USD/JPY mini */
+      /* futures info (chart) + USD/JPY mini (v19: right half, same row as news) */
       .fxarea { flex: 1 1 auto; display: flex; flex-direction: row; margin-left: 12px; min-width: 0; min-height: 0; }
       .index { flex: 1 1 auto; padding: 9px 12px 7px; min-width: 0; display: flex; flex-direction: column; }
       .ix-head { display: flex; align-items: baseline; }
@@ -164,7 +168,7 @@
         .s3-cond { font-size: 10px; }
         .s3-temp { font-size: 14px; }
         .s3-mm { font-size: 10px; }
-        .row-bottom { margin-top: 8px; }
+        .row-mid { margin-top: 8px; }
         .y-head { padding: 5px 11px 4px; }
         .y-name { font-size: 13px; }
         .y-upd { font-size: 10px; }
@@ -185,7 +189,7 @@
 
       @media (max-width: 700px) {
         .dash { padding: 10px; }
-        .row-top, .row-bottom { flex-direction: column; }
+        .row-top, .row-mid { flex-direction: column; }
         .wxcard { width: 100%; }
         .strip-card { margin-left: 0; margin-top: 8px; }
         .panel { width: 100%; flex: 1 1 auto; }
@@ -359,13 +363,13 @@
           <div class="foot" id="foot">--:-- 更新</div>
         </div>
 
+      <div class="col-r2">
         <div class="card strip-card">
           <div class="strip-head"><span class="strip-title">3時間ごとの天気</span><span class="strip-sub">気温 / 降水量</span></div>
           <div class="strip" id="strip3"></div>
         </div>
-      </div>
 
-      <div class="row-bottom">
+        <div class="row-mid">
         <div class="card panel">
           <div class="y-head"><span class="y-name">Yahoo!ニュース</span><span class="y-upd" id="y-upd"></span></div>
           <div class="news-list" id="news-list">
@@ -390,7 +394,10 @@
             <div class="mini-note">為替</div>
           </div>
         </div>
+        </div>
       </div>
+      </div>
+
     </div>
 
         <!-- ============ ARTICLE VIEW ============ -->
@@ -442,7 +449,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v18";
+      var PAGE_VER = "v19";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
