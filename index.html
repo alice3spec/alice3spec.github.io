@@ -76,15 +76,15 @@
       .wx-hilo .hi { color: #ffb3a0; font-weight: 700; }
       .wx-hilo .lo { color: #a8ccff; font-weight: 700; }
       .wx-tmr { margin-top: 10px; padding-top: 8px; border-top: 1px solid rgba(255,255,255,0.14); }
-      .wx-tmr-label { font-size: 12px; color: rgba(255,255,255,0.75); }
+      .wx-tmr-label { font-size: 13px; color: rgba(255,255,255,0.8); }
       .wx-tmr-row { display: flex; align-items: center; margin-top: 3px; }
-      .wx-tmr-icon { font-size: 24px; margin-right: 8px; }
-      .wx-tmr-cond { font-size: 16px; font-weight: 700; }
-      .wx-tmr-temps { font-size: 13px; margin-left: auto; font-variant-numeric: tabular-nums; }
-      .wx-rain { display: none; margin-top: 10px; padding: 8px 10px; border-radius: 10px; background: rgba(38, 84, 124, 0.55); border: 1px solid rgba(94, 200, 220, 0.4); font-size: 15px; font-weight: 700; color: #aee2ff; }
+      .wx-tmr-icon { font-size: 32px; margin-right: 10px; }
+      .wx-tmr-cond { font-size: 21px; font-weight: 700; }
+      .wx-tmr-temps { font-size: 18px; margin-left: auto; font-variant-numeric: tabular-nums; }
+      .wx-rain-icon { font-size: 24px; margin-right: 8px; vertical-align: -3px; } .wx-rain { display: none; margin-top: 10px; padding: 8px 10px; border-radius: 10px; background: rgba(38, 84, 124, 0.55); border: 1px solid rgba(94, 200, 220, 0.4); font-size: 15px; font-weight: 700; color: #aee2ff; }
       .wx-err { font-size: 15px; color: rgba(255,255,255,0.8); margin-top: 12px; }
       .wx-hours { display: none; } /* legacy element, unused in v16 */
-      .foot { margin-top: 8px; font-size: 11px; color: rgba(255,255,255,0.55); font-variant-numeric: tabular-nums; }
+      .foot { margin-top: 8px; font-size: 11px; color: rgba(255,255,255,0.55); font-variant-numeric: tabular-nums; } .foot .ver { color: rgba(140,220,255,0.9); font-weight: 700; }
 
       /* top-right column (v19): strip card, then news + futures row */
       .col-r2 { flex: 1 1 auto; display: flex; flex-direction: column; margin-left: 12px; min-width: 0; min-height: 0; }
@@ -112,9 +112,9 @@
       .news-item { flex: 1 1 0; display: flex; flex-direction: row; align-items: center; width: 100%; text-align: left; background: transparent; border: none; border-bottom: 1px solid rgba(255,255,255,0.07); padding: 5px 13px; cursor: pointer; color: #ffffff; font-family: inherit; min-height: 0; }
       .news-item:last-child { border-bottom: none; }
       .news-item:active { background: rgba(255,255,255,0.12); }
-      .news-dot { flex: 0 0 auto; color: #5ec8dc; font-size: 12px; margin-right: 8px; }
+      .news-dotwrap { flex: 0 0 auto; width: 36px; margin-right: 5px; display: flex; flex-direction: column; align-items: center; } .news-dot { color: #5ec8dc; font-size: 12px; line-height: 1.1; } .news-time { font-size: 9.5px; color: rgba(255,255,255,0.55); margin-top: 3px; text-align: center; font-variant-numeric: tabular-nums; }
       .news-main { flex: 1 1 auto; min-width: 0; }
-      .news-title { font-size: 12.5px; line-height: 1.35; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      .news-title { font-size: 11.5px; line-height: 1.35; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
       .news-meta { margin-top: 2px; font-size: 11px; color: rgba(255,255,255,0.6); display: flex; flex-direction: row; }
       .news-msg { padding: 20px 16px; font-size: 15px; line-height: 1.6; color: rgba(255,255,255,0.85); }
 
@@ -443,11 +443,16 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v24";
+      var PAGE_VER = "v25";
       var dataVer = null;
+      var dataTime = null;
       function markUpdated() {
-        lastUpdated = new Date();
-        $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
+        /* show the SERVER data time (from the JSON): the footer then
+           proves the data on screen is fresh; version split out */
+        var footDt = (typeof dataTime === "string" && dataTime) ? new Date(dataTime) : new Date();
+        if (isNaN(footDt.getTime())) { footDt = new Date(); }
+        lastUpdated = footDt;
+        $("foot").innerHTML = '<span class="ver">' + PAGE_VER + '</span> ・ ' + pad2(footDt.getHours()) + ":" + pad2(footDt.getMinutes()) + " 更新";
         /* data-driven self-update: when the JSON's page version moves
            past the running build, reload once (guarded against loops) */
         if (dataVer && dataVer !== PAGE_VER) {
@@ -533,9 +538,9 @@
           if (rLabel) { rText += "（" + rLabel + "から雨"; }
           if (typeof w.rain.pop === "number") { rText += " " + Math.round(w.rain.pop) + "%"; }
           if (rLabel) { rText += "）"; }
-          rainEl.textContent = rText;
+          rainEl.innerHTML = '<span class="wx-rain-icon">☂️</span>' + escapeHtml(rText);
         } else {
-          rainEl.textContent = "傘は不要です";
+          rainEl.innerHTML = '<span class="wx-rain-icon">🌂</span>傘は不要です';
         }
         rainEl.style.display = "block";
 
@@ -699,9 +704,16 @@
             var btn = document.createElement("button");
             btn.type = "button";
             btn.className = "news-item";
+            var dotWrap = document.createElement("div");
+            dotWrap.className = "news-dotwrap";
             var dot = document.createElement("span");
             dot.className = "news-dot";
             dot.textContent = "●";
+            var dotTime = document.createElement("div");
+            dotTime.className = "news-time";
+            dotTime.textContent = relTime(item.date);
+            dotWrap.appendChild(dot);
+            dotWrap.appendChild(dotTime);
             var main = document.createElement("div");
             main.className = "news-main";
             var titleEl = document.createElement("div");
@@ -714,7 +726,7 @@
             metaEl.appendChild(timeEl);
             main.appendChild(titleEl);
             main.appendChild(metaEl);
-            btn.appendChild(dot);
+            btn.appendChild(dotWrap);
             btn.appendChild(main);
             btn.addEventListener("click", function () { openArticle(item); });
             list.appendChild(btn);
@@ -731,6 +743,7 @@
         fetchJson(url).then(function (d) {
           if (!d || !d.feeds) { throw new Error("bad news json"); }
           dataVer = (typeof d.ver === "string") ? d.ver : null;
+          dataTime = (typeof d.updated === "string") ? d.updated : null;
           newsData = { yahoo: processItems(d.feeds.yahoo || [], false) };
           newsLoaded = true;
           newsLoading = false;
