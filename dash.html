@@ -106,15 +106,15 @@
       /* Yahoo News (v19: left half of the row under the strip) */
       .panel { width: 52%; flex: 0 0 auto; display: flex; flex-direction: column; overflow: hidden; min-width: 0; min-height: 0; border-radius: 12px 0 0 12px; border-right: none; }
       .y-head { display: flex; align-items: baseline; padding: 8px 14px 6px; border-bottom: 1px solid rgba(255,255,255,0.1); }
-      .y-name { font-size: 16px; font-weight: 700; color: #ff8a7a; }
-      .y-upd { font-size: 11px; color: rgba(255,255,255,0.6); margin-left: 10px; font-variant-numeric: tabular-nums; }
+      .y-name { font-size: 13px; font-weight: 700; color: #ff8a7a; }
+      .y-upd { font-size: 10px; color: rgba(255,255,255,0.6); margin-left: 10px; font-variant-numeric: tabular-nums; }
       .news-list { flex: 1 1 auto; display: flex; flex-direction: column; overflow: hidden; min-height: 0; }
       .news-item { flex: 1 1 0; display: flex; flex-direction: row; align-items: center; width: 100%; text-align: left; background: transparent; border: none; border-bottom: 1px solid rgba(255,255,255,0.07); padding: 5px 13px; cursor: pointer; color: #ffffff; font-family: inherit; min-height: 0; }
       .news-item:last-child { border-bottom: none; }
       .news-item:active { background: rgba(255,255,255,0.12); }
       .news-dot { flex: 0 0 auto; color: #5ec8dc; font-size: 12px; margin-right: 8px; }
       .news-main { flex: 1 1 auto; min-width: 0; }
-      .news-title { font-size: 16px; line-height: 1.35; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      .news-title { font-size: 12.5px; line-height: 1.35; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
       .news-meta { margin-top: 2px; font-size: 11px; color: rgba(255,255,255,0.6); display: flex; flex-direction: row; }
       .news-msg { padding: 20px 16px; font-size: 15px; line-height: 1.6; color: rgba(255,255,255,0.85); }
 
@@ -443,7 +443,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v21";
+      var PAGE_VER = "v22";
       var dataVer = null;
       function markUpdated() {
         lastUpdated = new Date();
