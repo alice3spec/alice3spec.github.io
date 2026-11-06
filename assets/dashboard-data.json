@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T03:58:28.328790+09:00",
+  "updated": "2026-11-07T04:03:49.866151+09:00",
   "feeds": {
     "kabu": [
       {
@@ -8,14 +8,14 @@
         "date": "2026-11-05T22:50:10+00:00"
       },
       {
-        "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5",
-        "date": "2026-11-06T07:01:38+00:00"
-      },
-      {
         "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
         "date": "2026-11-06T18:34:46+00:00"
+      },
+      {
+        "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5",
+        "date": "2026-11-06T07:01:38+00:00"
       },
       {
         "title": "日経平均株価の終値3643円安、下げ幅歴代3位 半年ぶり6万円割れ - 日本経済新聞",
@@ -58,9 +58,9 @@
         "date": "2026-11-06T07:30:00+00:00"
       },
       {
-        "title": "日経平均、米政治混乱回避で自律反発狙いの買いも（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbEh1dHBkQkxHT3ZJUUtLckpvQ1dMRk0yaXNSeHdzRmxENE50aHI0YWt0T0lueWtTQW81QVJxakdqdFFPVkZZcFJCV3VjOEdKd1p0dEVuRENxN05qZmhyY3dkTFlwTmItWmM5Wg?oc=5",
-        "date": "2026-11-04T22:30:00+00:00"
+        "title": "来週の株式相場に向けて＝日経平均は史上３番目の下落幅、反データセンターの衝撃響く - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53YWx6c25ZblBXZGxfY3ptclJPelk5a0xwNzNUQ1FZU24tc0dtVVVSRWkzdUVpVHhTUkJrc281RDBLek91QXV2dWJaLTlQZjdpZXhoN2RUU3kydEVwQlJTeQ?oc=5",
+        "date": "2026-11-06T08:48:00+00:00"
       }
     ],
     "ai": [
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 58305.0,
+    "price": 58315.0,
     "prev": 57350.0,
     "points": [
       [
@@ -1613,20 +1613,27 @@
         58280.0
       ],
       [
-        "11/07 03:48",
-        58305.0,
-        58305.0,
-        58305.0,
-        58305.0
+        "11/07 03:50",
+        58315.0,
+        58325.0,
+        58345.0,
+        58270.0
+      ],
+      [
+        "11/07 03:53",
+        58315.0,
+        58315.0,
+        58315.0,
+        58315.0
       ]
     ]
   },
   "fx": {
-    "price": 158.3835,
+    "price": 158.397,
     "prev": 157.7005
   },
   "topix": {
-    "price": 133.14,
+    "price": 133.215,
     "prev": 123.62
   },
   "ver": "v48"
