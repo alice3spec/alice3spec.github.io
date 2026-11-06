@@ -406,9 +406,12 @@
 
       /* ================= footer ================= */
       var lastUpdated = null;
+      /* page build marker: bump together with visible behaviour changes;
+         shown in the footer so the running build is identifiable at a glance */
+      var PAGE_VER = "v4";
       function markUpdated() {
         lastUpdated = new Date();
-        $("foot").textContent = pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
+        $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
       }
 
       /* ================= weather (from the shared JSON, Hayama) ================= */
@@ -712,6 +715,30 @@
 
       /* ================= whole-page auto reload (6 h) ================= */
       setTimeout(function () { location.reload(); }, 6 * 60 * 60 * 1000);
+
+      /* ================= self-update check (every 10 min) =================
+         Compare the served copy of this page against the build running
+         here; when a newer build is published, reload so kiosk devices
+         pick it up without anyone touching them. The served copy is
+         identified by its PAGE_VER string. */
+      function extractVer(html) {
+        var m = /PAGE_VER = "([^"]+)"/.exec(html || "");
+        return m ? m[1] : null;
+      }
+      function checkForUpdate() {
+        try {
+          var xhr = new XMLHttpRequest();
+          xhr.open("GET", "./?chk=" + new Date().getTime(), true);
+          xhr.onreadystatechange = function () {
+            if (xhr.readyState !== 4 || xhr.status !== 200) return;
+            var v = extractVer(xhr.responseText);
+            if (v && v !== PAGE_VER) { location.reload(); }
+          };
+          xhr.send(null);
+        } catch (e) { /* stay on the current build */ }
+      }
+      setInterval(checkForUpdate, 10 * 60 * 1000);
+      setTimeout(checkForUpdate, 60 * 1000);
     </script>
   </body>
 </html>
