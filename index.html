@@ -276,6 +276,14 @@
         display: none;
         min-height: 0;
       }
+      .lite-frame {
+        flex: 1 1 auto;
+        width: 100%;
+        border: none;
+        background: #f7f5ef;
+        display: none;
+        min-height: 0;
+      }
 
       /* Short viewport (e.g. browser chrome eating into the 480px height):
          shrink the left column further so the weather strip always fits */
@@ -370,6 +378,7 @@
         </div>
       </div>
       <iframe class="art-frame" id="art-frame" title="記事"></iframe>
+      <iframe class="lite-frame" id="lite-frame" title="記事（軽量表示）"></iframe>
       <div class="art-text" id="art-text"></div>
     </div>
 
@@ -408,7 +417,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v4";
+      var PAGE_VER = "v5";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
@@ -646,28 +655,22 @@
 
       function applyArticleContent() {
         var frame = $("art-frame");
+        var lite = $("lite-frame");
         var text = $("art-text");
         if (!currentItem) return;
         if (liteMode) {
+          /* The reader page is loaded as a frame navigation, not via
+             fetch: the old WebView's fetch of the same URL fails while
+             a plain navigation succeeds. The reader serves its text
+             version at this URL (it allows framing). */
           frame.style.display = "none";
           frame.src = "about:blank";
-          text.style.display = "block";
-          text.textContent = "軽量表示で読み込み中…";
-          var url = "https://r.jina.ai/" + currentItem.link;
-          fetchText(url).then(function (body) {
-            if (!liteMode || !currentItem) return;
-            /* reader services prepend page metadata (Title:/URL Source:/
-               Markdown Content:); skip straight to the article body */
-            var marker = "Markdown Content:";
-            var idx = body.indexOf(marker);
-            if (idx >= 0) { body = body.slice(idx + marker.length); }
-            text.textContent = body.replace(/^\s+/, "");
-            text.scrollTop = 0;
-          }).catch(function () {
-            if (!liteMode || !currentItem) return;
-            text.textContent = "軽量表示の読み込みに失敗しました。通常表示をお試しください。";
-          });
+          text.style.display = "none";
+          lite.style.display = "block";
+          lite.src = "https://r.jina.ai/" + currentItem.link;
         } else {
+          lite.style.display = "none";
+          lite.src = "about:blank";
           text.style.display = "none";
           frame.style.display = "block";
           frame.src = currentItem.link;
@@ -694,6 +697,7 @@
         if (idleTimer) { clearTimeout(idleTimer); idleTimer = null; }
         $("article").className = "article";
         $("art-frame").src = "about:blank";
+        $("lite-frame").src = "about:blank";
         currentItem = null;
       }
 
