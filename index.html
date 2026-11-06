@@ -443,7 +443,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v25";
+      var PAGE_VER = "v26";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -709,23 +709,13 @@
             var dot = document.createElement("span");
             dot.className = "news-dot";
             dot.textContent = "●";
-            var dotTime = document.createElement("div");
-            dotTime.className = "news-time";
-            dotTime.textContent = relTime(item.date);
             dotWrap.appendChild(dot);
-            dotWrap.appendChild(dotTime);
             var main = document.createElement("div");
             main.className = "news-main";
             var titleEl = document.createElement("div");
             titleEl.className = "news-title";
             titleEl.textContent = item.title;
-            var metaEl = document.createElement("div");
-            metaEl.className = "news-meta";
-            var timeEl = document.createElement("span");
-            timeEl.textContent = relTime(item.date);
-            metaEl.appendChild(timeEl);
             main.appendChild(titleEl);
-            main.appendChild(metaEl);
             btn.appendChild(dotWrap);
             btn.appendChild(main);
             btn.addEventListener("click", function () { openArticle(item); });
