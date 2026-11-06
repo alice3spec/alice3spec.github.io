@@ -141,7 +141,7 @@
       .mini-chg { font-size: 12px; font-weight: 700; margin-top: 2px; font-variant-numeric: tabular-nums; }
       .mini-chg.up { color: #7ee2a0; }
       .mini-chg.down { color: #ff9d8a; }
-      .mini-note { font-size: 10px; color: rgba(94, 200, 220, 0.95); margin-top: 3px; } .minirow { display: flex; flex-direction: row; margin-top: 10px; } .mini2 { flex: 1 1 0; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.09); border-radius: 8px; padding: 6px 10px; min-width: 0; } .mini2 + .mini2 { margin-left: 8px; } .mini2-name { font-size: 11px; color: rgba(255,255,255,0.7); font-weight: 700; } .mini2-price { font-size: 19px; font-weight: 700; margin-top: 1px; font-variant-numeric: tabular-nums; } .mini2-sub { font-size: 10px; color: rgba(255,255,255,0.55); margin-top: 1px; } .mini2-chg { font-size: 11px; font-weight: 700; font-variant-numeric: tabular-nums; } .mini2-chg.up { color: #7ee2a0; } .mini2-chg.down { color: #ff9d8a; }
+      .mini-note { font-size: 10px; color: rgba(94, 200, 220, 0.95); margin-top: 3px; } .minirow { display: flex; flex-direction: row; margin-top: 10px; } .mini2 { flex: 1 1 0; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.09); border-radius: 8px; padding: 6px 10px; min-width: 0; overflow: hidden; } .mini2 + .mini2 { margin-left: 8px; } .mini2-name { font-size: 11px; color: rgba(255,255,255,0.7); font-weight: 700; } .mini2-price { font-size: 19px; font-weight: 700; margin-top: 1px; font-variant-numeric: tabular-nums; } .mini2-sub { font-size: 10px; color: rgba(255,255,255,0.55); margin-top: 1px; } .mini2-chg { font-size: 11px; font-weight: 700; font-variant-numeric: tabular-nums; } .mini2-chg.up { color: #7ee2a0; } .mini2-chg.down { color: #ff9d8a; }
 
       @media (max-height: 460px) {
         /* The device viewport measures ~960x483 CSS px (density ~2):
@@ -172,6 +172,11 @@
         .s3-cond { font-size: 11.5px; }
         .pop-head { margin-top: 5px; }
         .pop-chart { height: 46px; margin-top: 2px; }
+        .minirow { margin-top: 6px; }
+        .mini2 { padding: 4px 8px; }
+        .mini2-name { font-size: 10px; }
+        .mini2-price { font-size: 16px; margin-top: 0; }
+        .mini2-chg { font-size: 10px; }
         .wx-rain { font-size: 12px; margin-top: 7px; padding: 5px 7px; }
         .foot { margin-top: 5px; font-size: 10px; }
         .strip-card { padding: 6px 9px 5px; }
@@ -384,7 +389,7 @@
           <div class="strip" id="strip3"></div>
           <div class="minirow">
             <div class="mini2"><div class="mini2-name">ドル円</div><div class="mini2-price" id="fx-price">--</div><div class="mini2-chg" id="fx-chg"></div></div>
-            <div class="mini2"><div class="mini2-name">TOPIX連動ETF (1306)</div><div class="mini2-price" id="topix-price">--</div><div class="mini2-sub">TOPIX指数そのものは取得不可のため連動ETFで代替</div><div class="mini2-chg" id="topix-chg"></div></div>
+            <div class="mini2"><div class="mini2-name">スペースX (SPCX)</div><div class="mini2-price" id="topix-price">--</div><div class="mini2-chg" id="topix-chg"></div></div>
           </div>
         </div>
       </div>
@@ -459,7 +464,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v43";
+      var PAGE_VER = "v44";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
