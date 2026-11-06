@@ -38,29 +38,43 @@
         z-index: 1;
       }
 
-      /* ---------- dashboard layout ---------- */
+      /* ---------- dashboard layout (v13) ----------
+         Top band: clock (full width). Below: two half columns —
+         left = weather (top half) + futures (bottom half),
+         right = news panel showing 2 headlines. */
       .dash {
         position: relative; z-index: 2;
-        display: flex; flex-direction: row;
+        display: flex; flex-direction: column;
         width: 100%; height: 100%;
-        padding: 14px 18px 10px 22px;
+        padding: 10px 18px 8px 22px;
+      }
+      .topband {
+        flex: 0 0 auto;
+        text-align: center;
+      }
+      .mainrow {
+        flex: 1 1 auto;
+        display: flex; flex-direction: row;
+        min-height: 0;
+        margin-top: 6px;
       }
       .left {
-        width: 48%;
+        width: 50%;
         display: flex; flex-direction: column;
-        justify-content: flex-start;
-        padding-right: 18px;
-        min-width: 0;
+        padding-right: 16px;
+        min-width: 0; min-height: 0;
       }
       .right {
-        width: 52%;
+        width: 50%;
         display: flex; flex-direction: column;
-        min-width: 0;
+        min-width: 0; min-height: 0;
       }
+      .half-top { flex: 1 1 0; min-height: 0; }
+      .half-bottom { flex: 1 1 0; min-height: 0; display: flex; flex-direction: column; justify-content: flex-end; }
 
-      /* clock */
+      /* clock (top band, v13) */
       .clock {
-        font-size: 118px;
+        font-size: 96px;
         line-height: 1.02;
         font-weight: 700;
         letter-spacing: 1px;
@@ -69,24 +83,26 @@
         margin-top: 0;
       }
       .clock .sec {
-        font-size: 40px; font-weight: 600;
+        font-size: 34px; font-weight: 600;
         color: rgba(255,255,255,0.75);
         margin-left: 8px;
       }
+      /* date now sits at the weather block's top-left (v13) */
       .date-line {
-        font-size: 30px; font-weight: 600;
-        margin-top: 2px;
+        font-size: 19px; font-weight: 600;
+        text-align: left;
+        margin-bottom: 5px;
         text-shadow: 0 2px 10px rgba(0,0,0,0.55);
       }
 
-      /* weather */
-      .weather { margin-top: 13px; }
+      /* weather (left column, top half) */
+      .weather { margin-top: 0; }
       .wx-now {
         display: flex; align-items: center;
       }
-      .wx-icon { font-size: 48px; line-height: 1; margin-right: 12px; }
+      .wx-icon { font-size: 44px; line-height: 1; margin-right: 12px; }
       .wx-temp {
-        font-size: 52px; font-weight: 700; line-height: 1;
+        font-size: 48px; font-weight: 700; line-height: 1;
         font-variant-numeric: tabular-nums;
         text-shadow: 0 2px 10px rgba(0,0,0,0.5);
       }
@@ -123,9 +139,8 @@
       .wx-hour .h-temp { font-size: 15px; font-weight: 700; font-variant-numeric: tabular-nums; }
       .wx-err { font-size: 16px; color: rgba(255,255,255,0.75); margin-top: 14px; }
 
-      /* index (Nikkei 225) */
+      /* index / futures (left column, bottom half, v13) */
       .index {
-        margin-top: 12px;
         background: rgba(6, 14, 30, 0.38);
         border-radius: 12px;
         padding: 9px 12px 7px;
@@ -141,7 +156,7 @@
       .ix-chg { font-size: 16px; font-weight: 700; margin-left: 10px; font-variant-numeric: tabular-nums; }
       .ix-chg.up { color: #7ee2a0; }
       .ix-chg.down { color: #ff9d8a; }
-      .ix-chart { display: block; width: 100%; height: 78px; margin-top: 5px; }
+      .ix-chart { display: block; width: 100%; height: 92px; margin-top: 5px; }
       .ix-range {
         display: flex; justify-content: space-between;
         font-size: 11px; color: rgba(255,255,255,0.65); margin-top: 2px;
@@ -181,35 +196,38 @@
         background: rgba(255,255,255,0.14);
         box-shadow: inset 0 -3px 0 #ffd166;
       }
+      /* news panel: exactly 2 headlines, stretched to fill (v13) */
       .news-list {
         flex: 1 1 auto;
-        overflow-y: auto;
-        overflow-x: hidden;
-        -webkit-overflow-scrolling: touch;
+        display: flex; flex-direction: column;
+        overflow: hidden;
         min-height: 0;
       }
       .news-item {
-        display: block; width: 100%;
+        flex: 1 1 0;
+        display: flex; flex-direction: column; justify-content: center;
+        width: 100%;
         text-align: left;
         background: transparent; border: none;
         border-bottom: 1px solid rgba(255,255,255,0.09);
-        padding: 11px 14px 10px;
+        padding: 12px 16px;
         cursor: pointer;
         color: #ffffff;
         font-family: inherit;
-        min-height: 48px;
+        min-height: 0;
       }
+      .news-item:last-child { border-bottom: none; }
       .news-item:active { background: rgba(255,255,255,0.12); }
       .news-title {
-        font-size: 17px; line-height: 1.4; font-weight: 600;
+        font-size: 21px; line-height: 1.45; font-weight: 600;
         display: -webkit-box;
-        -webkit-line-clamp: 2;
+        -webkit-line-clamp: 3;
         -webkit-box-orient: vertical;
         overflow: hidden;
       }
       .news-meta {
-        margin-top: 3px;
-        font-size: 13px; color: rgba(255,255,255,0.66);
+        margin-top: 6px;
+        font-size: 14px; color: rgba(255,255,255,0.66);
         display: flex; flex-direction: row;
       }
       .news-src { margin-left: 10px; color: rgba(255,209,102,0.9); }
@@ -314,44 +332,48 @@
         min-height: 0;
       }
 
-      /* Short viewport (e.g. browser chrome eating into the 480px height):
-         shrink the left column further so the weather strip always fits */
+      /* Short viewport (the Echo's 480px height): the operative sizes.
+         v13 layout — top clock band, left column split in halves,
+         2 big headlines on the right. */
       @media (max-height: 460px) {
-        .dash { padding: 8px 16px 6px 20px; }
-        .clock { font-size: 82px; }
-        .clock .sec { font-size: 28px; }
-        .date-line { font-size: 22px; margin-top: 0; }
-        .weather { margin-top: 6px; }
-        .wx-icon { font-size: 34px; margin-right: 10px; }
-        .wx-temp { font-size: 38px; }
-        .wx-cond { font-size: 17px; }
-        .wx-place { font-size: 12px; }
-        .wx-hilo { font-size: 14px; margin-top: 4px; }
-        .wx-rain { font-size: 14px; margin-top: 4px; }
+        .dash { padding: 7px 16px 6px 20px; }
+        .mainrow { margin-top: 4px; }
+        .clock { font-size: 76px; }
+        .clock .sec { font-size: 26px; }
+        .date-line { font-size: 17px; margin-bottom: 4px; }
+        .wx-icon { font-size: 32px; margin-right: 9px; }
+        .wx-temp { font-size: 36px; }
+        .wx-cond { font-size: 16px; }
+        .wx-place { font-size: 11px; }
+        .wx-hilo { font-size: 13px; margin-top: 3px; }
+        .wx-rain { font-size: 13px; margin-top: 3px; }
         .wx-hours { margin-top: 4px; }
         .wx-hour { padding: 3px 0 2px; }
         .wx-hour .h-time { font-size: 11px; }
         .wx-hour .h-icon { font-size: 15px; line-height: 1.15; }
         .wx-hour .h-temp { font-size: 12px; }
-        .index { margin-top: 6px; padding: 6px 10px 4px; }
+        .index { padding: 6px 10px 5px; }
         .ix-name { font-size: 15px; }
-        .ix-price { font-size: 23px; margin-left: 9px; }
+        .ix-price { font-size: 24px; margin-left: 9px; }
         .ix-chg { font-size: 13px; margin-left: 7px; }
-        .ix-chart { height: 44px; margin-top: 3px; }
+        .ix-chart { height: 62px; margin-top: 3px; }
         .ix-range { font-size: 10px; }
-        .tab { min-height: 40px; font-size: 15px; }
-        .news-title { font-size: 15px; }
+        .tab { min-height: 38px; font-size: 15px; }
+        .news-item { padding: 8px 13px; }
+        .news-title { font-size: 18px; line-height: 1.4; }
+        .news-meta { font-size: 12px; margin-top: 4px; }
+        .foot { padding: 5px 12px 6px; font-size: 12px; }
       }
 
       /* Narrow fallback (portrait previews): stack the blocks vertically */
       @media (max-width: 700px) {
-        .dash { flex-direction: column; padding: 12px; }
+        .dash { padding: 12px; }
+        .mainrow { flex-direction: column; }
         .left { width: 100%; padding-right: 0; flex: 0 0 auto; }
         .right { width: 100%; flex: 1 1 auto; margin-top: 10px; min-height: 0; }
         .clock { font-size: 64px; }
         .clock .sec { font-size: 24px; }
-        .date-line { font-size: 20px; }
-        .weather { margin-top: 10px; }
+        .date-line { font-size: 18px; }
         .wx-temp { font-size: 42px; }
         .wx-icon { font-size: 40px; margin-right: 10px; }
         .wx-cond { font-size: 19px; }
@@ -360,7 +382,7 @@
         .wx-hour .h-icon { font-size: 20px; }
         .wx-hour .h-temp { font-size: 14px; }
         .tab { font-size: 14px; min-height: 42px; }
-        .news-title { font-size: 15px; }
+        .news-title { font-size: 17px; }
       }
     </style>
   </head>
@@ -370,47 +392,55 @@
 
     <!-- ============ DASHBOARD ============ -->
     <div class="dash" id="dash">
-      <div class="left">
+      <div class="topband">
         <div class="clock"><span id="clock-main">--:--</span><span class="sec" id="clock-sec">--</span></div>
-        <div class="date-line" id="date-line">読み込み中…</div>
-
-        <div class="weather" id="weather">
-          <div class="wx-now">
-            <div class="wx-icon" id="wx-icon">⌛</div>
-            <div class="wx-temp" id="wx-temp">--°</div>
-            <div class="wx-side">
-              <div class="wx-cond" id="wx-cond">天気を取得中</div>
-              <div class="wx-place">葉山町（神奈川県）</div>
-            </div>
-          </div>
-          <div class="wx-hilo" id="wx-hilo"></div>
-          <div class="wx-rain" id="wx-rain"></div>
-          <div class="wx-hours" id="wx-hours"></div>
-        </div>
-
-        <div class="index" id="index" style="display:none">
-          <div class="ix-head">
-            <span class="ix-name">日経平均先物</span>
-            <span class="ix-price" id="ix-price">--</span>
-            <span class="ix-chg" id="ix-chg"></span>
-          </div>
-          <svg class="ix-chart" id="ix-chart" viewBox="0 0 430 78" preserveAspectRatio="none" aria-hidden="true"></svg>
-          <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span></div>
-        </div>
       </div>
 
-      <div class="right">
-        <div class="panel">
-          <div class="tabs" id="tabs">
-            <button class="tab active" data-tab="stocks" type="button">株</button>
-            <button class="tab" data-tab="ai" type="button">AI</button>
-            <button class="tab" data-tab="it" type="button">IT</button>
-            <button class="tab" data-tab="gadget" type="button">ガジェット</button>
+      <div class="mainrow">
+        <div class="left">
+          <div class="half-top">
+            <div class="weather" id="weather">
+              <div class="date-line" id="date-line">読み込み中…</div>
+              <div class="wx-now">
+                <div class="wx-icon" id="wx-icon">⌛</div>
+                <div class="wx-temp" id="wx-temp">--°</div>
+                <div class="wx-side">
+                  <div class="wx-cond" id="wx-cond">天気を取得中</div>
+                  <div class="wx-place">葉山町（神奈川県）</div>
+                </div>
+              </div>
+              <div class="wx-hilo" id="wx-hilo"></div>
+              <div class="wx-rain" id="wx-rain"></div>
+              <div class="wx-hours" id="wx-hours"></div>
+            </div>
           </div>
-          <div class="news-list" id="news-list">
-            <div class="news-msg">読み込み中…</div>
+
+          <div class="half-bottom">
+            <div class="index" id="index" style="display:none">
+              <div class="ix-head">
+                <span class="ix-name">日経平均先物</span>
+                <span class="ix-price" id="ix-price">--</span>
+                <span class="ix-chg" id="ix-chg"></span>
+              </div>
+              <svg class="ix-chart" id="ix-chart" viewBox="0 0 430 78" preserveAspectRatio="none" aria-hidden="true"></svg>
+              <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span></div>
+            </div>
           </div>
-          <div class="foot" id="foot">--:-- 更新</div>
+        </div>
+
+        <div class="right">
+          <div class="panel">
+            <div class="tabs" id="tabs">
+              <button class="tab active" data-tab="stocks" type="button">株</button>
+              <button class="tab" data-tab="ai" type="button">AI</button>
+              <button class="tab" data-tab="it" type="button">IT</button>
+              <button class="tab" data-tab="gadget" type="button">ガジェット</button>
+            </div>
+            <div class="news-list" id="news-list">
+              <div class="news-msg">読み込み中…</div>
+            </div>
+            <div class="foot" id="foot">--:-- 更新</div>
+          </div>
         </div>
       </div>
     </div>
@@ -464,7 +494,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v12";
+      var PAGE_VER = "v13";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
@@ -668,7 +698,9 @@
           return;
         }
         list.innerHTML = "";
-        for (var i = 0; i < items.length; i++) {
+        /* v13: only the 2 newest headlines are shown, large */
+        var shown = items.slice(0, 2);
+        for (var i = 0; i < shown.length; i++) {
           (function (item) {
             var btn = document.createElement("button");
             btn.type = "button";
@@ -691,9 +723,8 @@
             btn.appendChild(metaEl);
             btn.addEventListener("click", function () { openArticle(item); });
             list.appendChild(btn);
-          })(items[i]);
+          })(shown[i]);
         }
-        list.scrollTop = 0;
       }
 
       function loadNews() {
