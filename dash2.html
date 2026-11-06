@@ -1,0 +1,941 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="dark" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <link rel="icon" href="data:," />
+    <title>Echo Show ダッシュボード</title>
+    <style>
+      * { box-sizing: border-box; }
+      html, body {
+        margin: 0; padding: 0;
+        width: 100%; height: 100%;
+        overflow: hidden;
+        background: #0b1220;
+        color: #ffffff;
+        font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP",
+          "Yu Gothic", Meiryo, Roboto, "Droid Sans", sans-serif;
+        -webkit-tap-highlight-color: transparent;
+      }
+
+      /* ---------- background ---------- */
+      .bg {
+        position: fixed; left: 0; top: 0; right: 0; bottom: 0;
+        background-image: url("assets/dashboard-wallpaper.jpg");
+        background-size: cover;
+        background-position: center;
+        z-index: 0;
+      }
+      .bg-shade {
+        position: fixed; left: 0; top: 0; right: 0; bottom: 0;
+        background: linear-gradient(100deg,
+          rgba(4, 10, 24, 0.78) 0%, rgba(4, 10, 24, 0.62) 55%,
+          rgba(4, 10, 24, 0.45) 100%);
+        z-index: 1;
+      }
+
+
+
+      /* ============ v16 layout (photo-based, wallpaper kept) ========
+         Top row: left ~30% clock + today/tomorrow/umbrella card,
+         right ~70% the 3-hourly weather strip card.
+         Bottom row: Yahoo News (left half) + futures info (right
+         half: full chart card with the USD/JPY mini beside it). */
+      /* v34: strict 田 grid — CSS grid, 2 equal columns x 2 equal rows */
+      .dash {
+        position: relative; z-index: 2;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        grid-gap: 0;
+        width: 100%; height: 100%;
+        padding: 10px 14px;
+      }
+      .quad { min-width: 0; min-height: 0; display: flex; }
+      .quad > .card { flex: 1 1 auto; min-width: 0; min-height: 0; }
+      .row-top { flex: 1 1 auto; display: flex; flex-direction: row; min-height: 0; } .row-bot2 { flex: 1 1 auto; display: flex; flex-direction: row; min-height: 0; margin-top: 10px; }
+      /* v19: the bottom row is gone — news + futures moved up beside
+         the weather card; the strip keeps only its content height */
+      .row-bottom { display: none; }
+      .card {
+        background: rgba(5, 12, 26, 0.55);
+        border: 1px solid rgba(255,255,255,0.12);
+        border-radius: 12px;
+      }
+
+      /* top-left card: clock + date + today + tomorrow + umbrella */
+      .wxcard { padding: 10px 14px 9px; overflow: hidden; position: relative; }
+      .clock { font-size: 58px; line-height: 1.05; font-weight: 700; letter-spacing: 1px; font-variant-numeric: tabular-nums; text-shadow: 0 3px 12px rgba(0,0,0,0.55); }
+      .clock .sec { font-size: 22px; font-weight: 600; color: rgba(255,255,255,0.75); margin-left: 6px; }
+      .date-line { font-size: 16px; font-weight: 600; margin-top: 2px; padding-bottom: 6px; border-bottom: 2px solid rgba(94, 200, 220, 0.65); text-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+      .wx-place { font-size: 13px; color: rgba(255,255,255,0.8); margin-bottom: 2px; }
+      .wx-now { display: flex; align-items: center; margin-top: 9px; } .wx-days { display: flex; flex-direction: row; align-items: stretch; margin-top: 9px; } .wx-day { flex: 1 1 0; min-width: 0; } .wx-day-tmr { border-left: 1px solid rgba(255,255,255,0.18); padding-left: 10px; margin-left: 10px; } .wx-tmr-label { font-size: 13px; color: rgba(255,255,255,0.8); } .wx-day-ic { font-size: 32px; line-height: 1.1; } .wx-day-cond { font-size: 21px; font-weight: 700; line-height: 1.4; padding-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } .wx-day-temps { font-size: 18px; font-weight: 700; line-height: 1.3; font-variant-numeric: tabular-nums; white-space: nowrap; }
+      .wx-icon { font-size: 32px; line-height: 1.1; }
+      .wx-temp { font-size: 18px; font-weight: 700; line-height: 1.3; font-variant-numeric: tabular-nums; white-space: nowrap; text-shadow: 0 2px 10px rgba(0,0,0,0.5); }
+      .wx-side { margin-left: 10px; }
+      .wx-cond { font-size: 21px; font-weight: 700; line-height: 1.4; padding-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      .wx-hilo { font-size: 14px; margin-top: 6px; font-variant-numeric: tabular-nums; }
+      .wx-hilo .hi { color: #ffb3a0; font-weight: 700; }
+      .wx-hilo .lo { color: #a8ccff; font-weight: 700; }
+      .wx-tmr { margin-top: 10px; padding-top: 8px; border-top: 1px solid rgba(255,255,255,0.14); }
+      .wx-tmr-label { font-size: 13px; color: rgba(255,255,255,0.8); }
+      .wx-tmr-row { display: flex; align-items: center; margin-top: 3px; }
+      .wx-tmr-icon { font-size: 32px; margin-right: 10px; }
+      .wx-tmr-cond { font-size: 21px; font-weight: 700; }
+      .wx-tmr-temps { font-size: 18px; margin-left: auto; font-variant-numeric: tabular-nums; }
+      .wx-rain-icon { font-size: 24px; margin-right: 8px; vertical-align: -3px; } .wx-rain { display: none; margin-top: 12px; padding: 10px 12px; border-radius: 10px; background: rgba(38, 84, 124, 0.55); border: 1px solid rgba(94, 200, 220, 0.4); font-size: 15px; font-weight: 700; color: #aee2ff; }
+      .wx-err { font-size: 15px; color: rgba(255,255,255,0.8); margin-top: 12px; }
+      .wx-hours { display: none; } /* legacy element, unused in v16 */
+      .foot { position: absolute; top: 74px; right: 14px; font-size: 10.5px; color: rgba(255,255,255,0.6); font-variant-numeric: tabular-nums; } .foot .ver { color: rgba(140,220,255,0.95); font-weight: 700; }
+
+      /* top-right column (v19): strip card, then news + futures row */
+      
+      .strip-card { padding: 9px 12px 8px; overflow: hidden; } .pop-head { margin-top: 10px; font-size: 11px; color: rgba(255,255,255,0.65); } .pop-chart { display: flex; flex-direction: row; align-items: flex-end; height: 64px; margin-top: 4px; } .pop-col { flex: 1 1 0; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; min-width: 0; } .pop-val { font-size: 10px; color: #8ecbff; font-variant-numeric: tabular-nums; } .pop-bar { width: 55%; background: linear-gradient(180deg, #57b6e8, #2a6ea8); border-radius: 3px 3px 0 0; margin-top: 2px; } .pop-time { font-size: 10px; color: rgba(255,255,255,0.6); margin-top: 3px; font-variant-numeric: tabular-nums; }
+      .row-mid { flex: 1 1 auto; display: flex; flex-direction: row; min-height: 0; margin-top: 10px; }
+      .strip-head { display: flex; align-items: baseline; }
+      .strip-title { font-size: 16px; font-weight: 700; }
+      .strip-sub { font-size: 11px; color: rgba(255,255,255,0.65); margin-left: 8px; }
+      .strip { display: flex; flex-direction: row; margin-top: 7px; }
+      .s3 { flex: 1 1 0; text-align: center; padding: 5px 0 4px; border-radius: 8px; min-width: 0; }
+      .s3 + .s3 { margin-left: 6px; }
+      .s3.now { background: rgba(94, 200, 220, 0.16); box-shadow: inset 0 2px 0 rgba(94, 200, 220, 0.8); }
+      .s3-time { font-size: 12px; color: rgba(255,255,255,0.8); }
+      .s3-icon { font-size: 23px; line-height: 1.3; }
+      .s3-cond { font-size: 11.5px; color: rgba(255,255,255,0.9); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+      .s3-temp { font-size: 17px; font-weight: 700; color: #ffb37a; font-variant-numeric: tabular-nums; }
+      .s3-mm { font-size: 11px; color: #8ecbff; font-variant-numeric: tabular-nums; }
+
+      /* Yahoo News (v19: left half of the row under the strip) */
+      .panel { display: flex; flex-direction: column; overflow: hidden; }
+      .y-head { display: flex; align-items: baseline; padding: 8px 14px 6px; border-bottom: 1px solid rgba(255,255,255,0.1); }
+      .y-name { font-size: 13px; font-weight: 700; color: #ff8a7a; white-space: nowrap; }
+      .y-upd { font-size: 10px; color: rgba(255,255,255,0.6); margin-left: 10px; font-variant-numeric: tabular-nums; }
+      .news-list { flex: 1 1 auto; display: flex; flex-direction: column; overflow: hidden; min-height: 0; }
+      .news-item { flex: 1 1 0; display: flex; flex-direction: row; align-items: flex-start; width: 100%; text-align: left; background: transparent; border: none; border-bottom: 1px solid rgba(255,255,255,0.07); padding: 6px 13px 8px; cursor: pointer; color: #ffffff; font-family: inherit; min-height: 0; }
+      .news-item:last-child { border-bottom: none; }
+      .news-item:active { background: rgba(255,255,255,0.12); }
+      .news-dotwrap { flex: 0 0 auto; width: 18px; margin-right: 6px; display: flex; flex-direction: column; align-items: center; } .news-dot { color: #5ec8dc; font-size: 10px; line-height: 1.5; padding-top: 3px; } .news-time { font-size: 9.5px; color: rgba(255,255,255,0.55); margin-top: 3px; text-align: center; font-variant-numeric: tabular-nums; }
+      .news-main { flex: 1 1 auto; min-width: 0; }
+      .news-title { font-size: 12.5px; line-height: 1.5; padding-bottom: 2px; font-weight: 600; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+      .news-meta { margin-top: 2px; font-size: 11px; color: rgba(255,255,255,0.6); display: flex; flex-direction: row; }
+      .news-msg { padding: 20px 16px; font-size: 15px; line-height: 1.6; color: rgba(255,255,255,0.85); }
+
+      /* futures info (chart) + USD/JPY mini (v19: right half, same row as news) */
+      .fxarea { flex: 1 1 auto; display: flex; flex-direction: row; margin-left: 12px; min-width: 0; min-height: 0; }
+      .index { padding: 9px 12px 7px; display: flex; flex-direction: column; overflow: hidden; }
+      .ix-head { display: flex; align-items: baseline; }
+      .ix-name { font-size: 16px; font-weight: 700; color: rgba(255,255,255,0.92); }
+      .ix-price { font-size: 27px; font-weight: 700; margin-left: 11px; font-variant-numeric: tabular-nums; text-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+      .ix-chg { font-size: 14px; font-weight: 700; margin-left: 9px; font-variant-numeric: tabular-nums; }
+      .ix-chg.up { color: #7ee2a0; }
+      .ix-chg.down { color: #ff9d8a; }
+      .ix-chart { display: block; width: 100%; flex: 1 1 auto; min-height: 0; margin-top: 4px; }
+      .ix-range { display: flex; justify-content: space-between; font-size: 11px; color: rgba(255,255,255,0.65); margin-top: 2px; } .ix-toggle { margin-left: auto; background: rgba(255,255,255,0.12); color: #cfe8ff; border: 1px solid rgba(255,255,255,0.25); border-radius: 6px; font-size: 11px; padding: 2px 8px; cursor: pointer; font-family: inherit; }
+      .mini { width: 128px; flex: 0 0 auto; margin-left: 10px; padding: 9px 10px; border-left: 3px solid #ff8a5c; display: flex; flex-direction: column; justify-content: center; min-height: 0; }
+      .mini-name { font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.92); }
+      .mini-price { font-size: 20px; font-weight: 700; margin-top: 3px; font-variant-numeric: tabular-nums; }
+      .mini-chg { font-size: 12px; font-weight: 700; margin-top: 2px; font-variant-numeric: tabular-nums; }
+      .mini-chg.up { color: #7ee2a0; }
+      .mini-chg.down { color: #ff9d8a; }
+      .mini-note { font-size: 10px; color: rgba(94, 200, 220, 0.95); margin-top: 3px; }
+
+      @media (max-height: 460px) {
+        /* The device viewport measures ~960x483 CSS px (density ~2):
+           this query is the operative one. Sizes below are budgeted
+           against ~470px of usable height (18:45 photo adjustments). */
+        .dash { padding: 8px 12px; }
+        .wxcard { padding: 7px 12px 6px; }
+        .clock { font-size: 46px; }
+        .clock .sec { font-size: 18px; }
+        .date-line { font-size: 14px; padding-bottom: 4px; }
+        .wx-now { margin-top: 6px; }
+        .wx-icon { font-size: 31px; }
+        .wx-temp { font-size: 35px; }
+        .wx-cond { font-size: 16px; }
+        .wx-hilo { font-size: 12px; margin-top: 3px; }
+        .wx-tmr { margin-top: 7px; padding-top: 5px; }
+        .wx-tmr-label { font-size: 11px; }
+        .wx-tmr-icon { font-size: 19px; }
+        .wx-tmr-cond { font-size: 13px; }
+        .wx-tmr-temps { font-size: 12px; }
+        .wx-rain { font-size: 12px; margin-top: 7px; padding: 5px 7px; }
+        .foot { margin-top: 5px; font-size: 10px; }
+        .strip-card { padding: 6px 9px 5px; }
+        .strip-title { font-size: 13px; }
+        .strip-sub { font-size: 10px; }
+        .strip { margin-top: 5px; }
+        .s3 { padding: 3px 0 2px; }
+        .s3-time { font-size: 11px; }
+        .s3-icon { font-size: 18px; line-height: 1.2; }
+        .s3-cond { font-size: 10px; }
+        .s3-temp { font-size: 14px; }
+        .s3-mm { font-size: 10px; }
+        .row-mid { margin-top: 8px; }
+        .y-head { padding: 5px 11px 4px; }
+        .y-name { font-size: 13px; }
+        .y-upd { font-size: 10px; }
+        .news-item { padding: 3px 11px; }
+        .news-title { font-size: 14.5px; line-height: 1.3; }
+        .news-meta { font-size: 10px; margin-top: 1px; }
+        .index { padding: 6px 10px 4px; }
+        .ix-head { flex-wrap: wrap; }
+        .ix-name { font-size: 13px; white-space: nowrap; }
+        .ix-price { font-size: 21px; margin-left: 8px; }
+        .ix-chg { font-size: 12px; margin-left: 6px; white-space: nowrap; }
+        .ix-range { font-size: 10px; }
+        .mini { width: 104px; padding: 6px 8px; margin-left: 8px; }
+        .mini-name { font-size: 12px; }
+        .mini-price { font-size: 17px; }
+        .mini-chg { font-size: 11px; }
+      }
+
+      @media (max-width: 700px) {
+        .dash { padding: 10px; }
+        .quad { }
+        .wxcard { width: 100%; }
+        .strip-card { margin-left: 0; margin-top: 8px; }
+        .panel { width: 100%; flex: 1 1 auto; }
+        .fxarea { margin-left: 0; margin-top: 8px; }
+      }
+
+      /* ---------- article view ---------- */
+      .article {
+        position: fixed; left: 0; top: 0; right: 0; bottom: 0;
+        z-index: 10;
+        display: none;
+        flex-direction: column;
+        background: #101623;
+      }
+      .article.open { display: flex; }
+      .art-bar {
+        flex: 0 0 auto;
+        display: flex; flex-direction: row; align-items: center;
+        background: #182238;
+        padding: 6px 10px;
+        min-height: 56px;
+      }
+      .back-btn {
+        flex: 0 0 auto;
+        min-height: 44px; min-width: 96px;
+        font-size: 18px; font-weight: 700;
+        color: #ffffff;
+        background: #2c4a7c;
+        border: none; border-radius: 9px;
+        padding: 8px 14px;
+        cursor: pointer;
+        font-family: inherit;
+      }
+      .art-title {
+        flex: 1 1 auto;
+        font-size: 16px; font-weight: 600; line-height: 1.35;
+        margin: 0 12px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        min-width: 0;
+      }
+      .lite-wrap {
+        flex: 0 0 auto;
+        display: flex; align-items: center;
+        font-size: 15px; font-weight: 600;
+        color: rgba(255,255,255,0.9);
+      }
+      .lite-btn {
+        margin-left: 8px;
+        min-height: 44px; min-width: 64px;
+        font-size: 15px; font-weight: 700;
+        border-radius: 22px;
+        border: 1px solid rgba(255,255,255,0.35);
+        background: rgba(255,255,255,0.10);
+        color: rgba(255,255,255,0.75);
+        padding: 6px 12px;
+        cursor: pointer;
+        font-family: inherit;
+      }
+      .lite-btn.on {
+        background: #ffd166; color: #1a2436; border-color: #ffd166;
+      }
+      .art-frame {
+        flex: 1 1 auto;
+        width: 100%;
+        border: none;
+        background: #ffffff;
+        min-height: 0;
+      }
+      .art-text {
+        flex: 1 1 auto;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        background: #f7f5ef;
+        color: #1c2432;
+        font-size: 17px; line-height: 1.75;
+        padding: 20px 22px 30px;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        display: none;
+        min-height: 0;
+      }
+      .lite-frame {
+        flex: 1 1 auto;
+        width: 100%;
+        border: none;
+        background: #f7f5ef;
+        display: none;
+        min-height: 0;
+      }
+
+      /* Short viewport (the Echo's 480px height): the operative sizes.
+         v14 layout — left column halves (weather/futures), clock
+         above the news tabs on the right, 2 big headlines. */
+      @media (max-height: 460px) {
+        .dash { padding: 7px 16px 6px 20px; }
+        .clockband { margin-bottom: 5px; }
+        .clock { font-size: 62px; }
+        .clock .sec { font-size: 22px; }
+        .date-line { font-size: 17px; margin-bottom: 4px; }
+        .wx-icon { font-size: 32px; margin-right: 9px; }
+        .wx-temp { font-size: 36px; }
+        .wx-cond { font-size: 16px; }
+        .wx-place { font-size: 11px; }
+        .wx-hilo { font-size: 13px; margin-top: 3px; }
+        .wx-rain { font-size: 13px; margin-top: 3px; }
+        .wx-hours { margin-top: 4px; }
+        .wx-hour { padding: 3px 0 2px; }
+        .wx-hour .h-time { font-size: 11px; }
+        .wx-hour .h-icon { font-size: 15px; line-height: 1.15; }
+        .wx-hour .h-temp { font-size: 12px; }
+        .index { padding: 7px 10px 6px; }
+        .ix-name { font-size: 16px; }
+        .ix-price { font-size: 27px; margin-left: 9px; }
+        .ix-chg { font-size: 14px; margin-left: 7px; }
+        .ix-chart { height: 118px; margin-top: 4px; }
+        .ix-range { font-size: 11px; }
+        .tab { min-height: 38px; font-size: 15px; }
+        .news-item { padding: 8px 13px; }
+        .news-title { font-size: 18px; line-height: 1.4; }
+        .news-meta { font-size: 12px; margin-top: 4px; }
+        .foot { padding: 5px 12px 6px; font-size: 12px; }
+      }
+
+      /* Narrow fallback (portrait previews): stack the rows vertically */
+      @media (max-width: 700px) {
+        .dash { flex-direction: column; padding: 12px; }
+        .left { width: 100%; padding-right: 0; flex: 0 0 auto; }
+        .right { width: 100%; flex: 1 1 auto; margin-top: 10px; min-height: 0; }
+        .clock { font-size: 64px; }
+        .clock .sec { font-size: 24px; }
+        .date-line { font-size: 18px; }
+        .wx-temp { font-size: 42px; }
+        .wx-icon { font-size: 40px; margin-right: 10px; }
+        .wx-cond { font-size: 19px; }
+        .wx-hilo { font-size: 16px; margin-top: 6px; }
+        .wx-hours { margin-top: 8px; }
+        .wx-hour .h-icon { font-size: 20px; }
+        .wx-hour .h-temp { font-size: 14px; }
+        .tab { font-size: 14px; min-height: 42px; }
+        .news-title { font-size: 17px; }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="bg"></div>
+    <div class="bg-shade"></div>
+
+    <!-- ============ DASHBOARD ============ -->
+    <div class="dash" id="dash">
+      <div class="quad quad-tl">
+<div class="card wxcard">
+          <div class="clock"><span id="clock-main">--:--</span><span class="sec" id="clock-sec">--</span></div>
+          <div class="date-line" id="date-line">読み込み中…</div>
+          <div class="weather" id="weather">
+            <div class="wx-days">
+              <div class="wx-day">
+                <div class="wx-place">今日 ・ 葉山町</div>
+                <div class="wx-icon" id="wx-icon">⌛</div>
+                <div class="wx-cond" id="wx-cond">天気を取得中</div>
+                <div class="wx-temp"><span id="wx-temp">--°</span> <span id="wx-hilo"></span></div>
+              </div>
+              <div class="wx-day wx-day-tmr" id="wx-tmr"></div>
+            </div>
+            <div class="wx-rain" id="wx-rain"></div>
+            <div class="wx-hours" id="wx-hours"></div>
+          </div>
+          <div class="foot" id="foot">--:-- 更新</div>
+        </div>
+      </div>
+      <div class="quad quad-tr">
+<div class="card strip-card">
+          <div class="strip-head"><span class="strip-title">3時間ごとの天気</span><span class="strip-sub">気温 / 降水量</span></div>
+          <div class="strip" id="strip3"></div>
+          <div class="pop-head">降水確率</div>
+          <div class="pop-chart" id="pop-chart"></div>
+        </div>
+      </div>
+      <div class="quad quad-bl">
+<div class="card panel">
+          <div class="y-head"><span class="y-name">Yahoo!ニュース</span><span class="y-upd" id="y-upd"></span></div>
+          <div class="news-list" id="news-list">
+            <div class="news-msg">読み込み中…</div>
+          </div>
+        </div>
+      </div>
+      <div class="quad quad-br">
+<div class="card index" id="index" style="display:none">
+            <div class="ix-head">
+              <span class="ix-name">日経平均先物</span>
+              <span class="ix-price" id="ix-price">--</span>
+              <span class="ix-chg" id="ix-chg"></span><button type="button" class="ix-toggle" id="ix-toggle">ローソク足</button>
+            </div>
+            <svg class="ix-chart" id="ix-chart" viewBox="0 0 300 78" preserveAspectRatio="none" aria-hidden="true"></svg>
+            <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span>
+      </div>
+    </div>
+      </div>
+    </div>
+
+    <!-- ============ ARTICLE VIEW ============ -->
+    <div class="article" id="article">
+      <div class="art-bar">
+        <button class="back-btn" id="back-btn" type="button">← 戻る</button>
+        <div class="art-title" id="art-title"></div>
+        <div class="lite-wrap">軽量表示
+          <button class="lite-btn on" id="lite-btn" type="button">ON</button>
+        </div>
+      </div>
+      <iframe class="art-frame" id="art-frame" title="記事"></iframe>
+      <iframe class="lite-frame" id="lite-frame" title="記事（軽量表示）"></iframe>
+      <div class="art-text" id="art-text"></div>
+    </div>
+
+    <script>
+      "use strict";
+
+      /* ================= helpers ================= */
+      function $(id) { return document.getElementById(id); }
+      function pad2(n) { return (n < 10 ? "0" : "") + n; }
+      function fetchJson(url) {
+        return fetch(url).then(function (res) {
+          if (!res.ok) { throw new Error("HTTP " + res.status); }
+          return res.json();
+        });
+      }
+      function fetchText(url) {
+        return fetch(url).then(function (res) {
+          if (!res.ok) { throw new Error("HTTP " + res.status); }
+          return res.text();
+        });
+      }
+
+      /* ================= clock ================= */
+      var WEEKDAYS = ["日", "月", "火", "水", "木", "金", "土"];
+      function tickClock() {
+        var now = new Date();
+        $("clock-main").textContent = pad2(now.getHours()) + ":" + pad2(now.getMinutes());
+        $("clock-sec").textContent = pad2(now.getSeconds());
+        $("date-line").textContent =
+          (now.getMonth() + 1) + "月" + now.getDate() + "日(" + WEEKDAYS[now.getDay()] + ")";
+      }
+      tickClock();
+      setInterval(tickClock, 1000);
+
+      /* ================= footer ================= */
+      var lastUpdated = null;
+      /* page build marker: bump together with visible behaviour changes;
+         shown in the footer so the running build is identifiable at a glance */
+      var PAGE_VER = "v41";
+      var dataVer = null;
+      var dataTime = null;
+      function markUpdated() {
+        /* show the SERVER data time (from the JSON): the footer then
+           proves the data on screen is fresh; version split out */
+        var footDt = (typeof dataTime === "string" && dataTime) ? new Date(dataTime) : new Date();
+        if (isNaN(footDt.getTime())) { footDt = new Date(); }
+        lastUpdated = footDt;
+        $("foot").innerHTML = '<span class="ver">' + PAGE_VER + '</span> ・ ' + pad2(footDt.getHours()) + ":" + pad2(footDt.getMinutes()) + " 更新";
+        /* data-driven self-update: when the JSON's page version moves
+           past the running build, reload once (guarded against loops) */
+        if (dataVer && dataVer !== PAGE_VER) {
+          try {
+            var key = "triedVer";
+            if (sessionStorage.getItem(key) !== dataVer) {
+              sessionStorage.setItem(key, dataVer);
+              location.reload();
+            }
+          } catch (e) { /* storage unavailable: skip to avoid loops */ }
+        }
+      }
+
+      /* ================= weather (from the shared JSON, Hayama) ================= */
+      function wxInfo(code) {
+        if (code === 0) return { label: "晴れ", icon: "☀️" };
+        if (code === 1) return { label: "ほぼ晴れ", icon: "🌤️" };
+        if (code === 2) return { label: "晴れ時々くもり", icon: "⛅" };
+        if (code === 3) return { label: "くもり", icon: "☁️" };
+        if (code === 45 || code === 48) return { label: "霧", icon: "🌫️" };
+        if (code === 51 || code === 53 || code === 55) return { label: "霧雨", icon: "🌦️" };
+        if (code === 56 || code === 57) return { label: "着氷性の霧雨", icon: "🌦️" };
+        if (code === 61) return { label: "雨", icon: "🌧️" };
+        if (code === 63) return { label: "雨", icon: "🌧️" };
+        if (code === 65) return { label: "強い雨", icon: "🌧️" };
+        if (code === 66 || code === 67) return { label: "着氷性の雨", icon: "🌧️" };
+        if (code === 71 || code === 73 || code === 75) return { label: "雪", icon: "❄️" };
+        if (code === 77) return { label: "雪", icon: "🌨️" };
+        if (code === 80 || code === 81 || code === 82) return { label: "にわか雨", icon: "🌦️" };
+        if (code === 85 || code === 86) return { label: "にわか雪", icon: "🌨️" };
+        if (code === 95) return { label: "雷雨", icon: "⛈️" };
+        if (code === 96 || code === 99) return { label: "雷雨（雹）", icon: "⛈️" };
+        return { label: "―", icon: "🌡️" };
+      }
+
+      /* Weather arrives inside the same JSON as the news (see loadNews);
+         there is no direct fetch to a weather API. */
+      function renderWeather(w) {
+        if (!w || typeof w.temp !== "number" || typeof w.code !== "number") {
+          $("wx-icon").textContent = "⚠️";
+          $("wx-temp").textContent = "--°";
+          $("wx-cond").textContent = "天気を取得できませんでした";
+          $("wx-hilo").textContent = "";
+          $("wx-tmr").innerHTML = "";
+          $("wx-rain").style.display = "none";
+          $("strip3").innerHTML = "";
+          return;
+        }
+        var info = wxInfo(w.code);
+        $("wx-icon").textContent = info.icon;
+        $("wx-temp").textContent = Math.round(w.temp) + "°";
+        $("wx-cond").textContent = info.label;
+
+        if (typeof w.max === "number" && typeof w.min === "number") {
+          $("wx-hilo").textContent = "（" + Math.round(w.max) + "°/" + Math.round(w.min) + "°）";
+        } else {
+          $("wx-hilo").textContent = "";
+        }
+
+        /* Tomorrow's forecast (v16 left column) */
+        var tmr = $("wx-tmr");
+        if (w.tomorrow && typeof w.tomorrow.code === "number") {
+          var tInfo = wxInfo(w.tomorrow.code);
+          var tTemps = "";
+          if (typeof w.tomorrow.max === "number" && typeof w.tomorrow.min === "number") {
+            tTemps = "<span style=\"color:#ffb3a0\">" + Math.round(w.tomorrow.max) + "°</span> / <span style=\"color:#a8ccff\">" + Math.round(w.tomorrow.min) + "°</span>";
+          }
+          tmr.innerHTML = "<div class=\"wx-tmr-label\">明日</div>"
+            + "<div class=\"wx-day-ic\">" + tInfo.icon + "</div>"
+            + "<div class=\"wx-day-cond\">" + tInfo.label + "</div>"
+            + (tTemps ? "<div class=\"wx-day-temps\">" + tTemps + "</div>" : "");
+        } else {
+          tmr.innerHTML = "";
+        }
+
+        /* Umbrella line (option D; in v21 always shown, under the
+           tomorrow row): the fetch script scans the next 24 hours. */
+        var rainEl = $("wx-rain");
+        if (w.rain && w.rain.time) {
+          var rdt = new Date(w.rain.time);
+          var rLabel = isNaN(rdt.getTime()) ? "" : rdt.getHours() + "時";
+          var rText = "☂ 傘が必要です";
+          if (rLabel) { rText += "（" + rLabel + "から雨"; }
+          if (typeof w.rain.pop === "number") { rText += " " + Math.round(w.rain.pop) + "%"; }
+          if (rLabel) { rText += "）"; }
+          rainEl.innerHTML = '<span class="wx-rain-icon">☂️</span>' + escapeHtml(rText);
+        } else {
+          rainEl.innerHTML = '<span class="wx-rain-icon">🌂</span>傘は不要です';
+        }
+        rainEl.style.display = "block";
+
+        /* 3-hourly strip (v16 right top): 7 slots with rainfall mm */
+        var html = "";
+        var slots = (w.hours3 || []).slice(0, 5);
+        for (var i = 0; i < slots.length; i++) {
+          var h = slots[i];
+          var dt = new Date(h.time);
+          var hInfo = wxInfo(h.code);
+          var hLabel = isNaN(dt.getTime()) ? "" : dt.getHours() + "時";
+          var mm = (typeof h.mm === "number" && h.mm > 0) ? (Math.round(h.mm * 10) / 10) + " mm" : "0 mm";
+          html += "<div class=\"s3" + (i === 0 ? " now" : "") + "\">"
+            + "<div class=\"s3-time\">" + hLabel + "</div>"
+            + "<div class=\"s3-icon\">" + hInfo.icon + "</div>"
+            + "<div class=\"s3-cond\">" + hInfo.label + "</div>"
+            + "<div class=\"s3-temp\">" + Math.round(h.temp) + "°</div>"
+            + "<div class=\"s3-mm\">" + mm + "</div>"
+            + "</div>";
+        }
+        $("strip3").innerHTML = html;
+
+        /* Rain-probability bars (v40): next 24 h in 3-hour steps, in
+           the space under the strip inside the same card */
+        var popHtml = "";
+        var pops = w.pop3 || [];
+        for (var j = 0; j < pops.length; j++) {
+          var pp = pops[j];
+          var pdt = new Date(pp.time);
+          var pLabel = isNaN(pdt.getTime()) ? "" : pdt.getHours() + "時";
+          var pv = (typeof pp.pop === "number") ? Math.round(pp.pop) : null;
+          var ph = (pv === null) ? 0 : Math.max(Math.round(pv * 0.34), pv > 0 ? 2 : 0);
+          popHtml += "<div class=\"pop-col\"><div class=\"pop-val\">" + (pv === null ? "--" : pv + "%") + "</div>"
+            + "<div class=\"pop-bar\" style=\"height:" + ph + "px\"></div>"
+            + "<div class=\"pop-time\">" + pLabel + "</div></div>";
+        }
+        $("pop-chart").innerHTML = popHtml;
+      }
+
+      /* ============ futures chart card (v16 bottom-right) ============ */
+      function fmtNum(n) {
+        var s = String(Math.round(n));
+        var out = "";
+        while (s.length > 3) { out = "," + s.slice(-3) + out; s = s.slice(0, -3); }
+        return s + out;
+      }
+      function renderIndex(ix) {
+        lastIx = ix;
+        var box = $("index");
+        if (!ix || typeof ix.price !== "number" || !ix.points || !ix.points.length) {
+          box.style.display = "none";
+          return;
+        }
+        box.style.display = "flex";
+        $("ix-price").textContent = fmtNum(ix.price);
+        var chg = $("ix-chg");
+        if (typeof ix.prev === "number" && ix.prev > 0) {
+          var d = ix.price - ix.prev;
+          var pct = d / ix.prev * 100;
+          chg.textContent = (d >= 0 ? "▲ +" : "▼ ") + fmtNum(d) + " (" + (d >= 0 ? "+" : "") + pct.toFixed(2) + "%)";
+          chg.className = "ix-chg " + (d >= 0 ? "up" : "down");
+        } else {
+          chg.textContent = "";
+        }
+        var pts = ix.points;
+        var min = Infinity, max = -Infinity, i, v;
+        for (i = 0; i < pts.length; i++) {
+          v = pts[i][1]; if (v < min) min = v; if (v > max) max = v;
+          if (ixMode === "candle" && pts[i].length >= 5) {
+            if (pts[i][3] > max) max = pts[i][3];
+            if (pts[i][4] < min) min = pts[i][4];
+          }
+        }
+        if (typeof ix.prev === "number") { if (ix.prev < min) min = ix.prev; if (ix.prev > max) max = ix.prev; }
+        var pad = (max - min) * 0.08 || 1;
+        min -= pad; max += pad;
+        var W = 300, H = 78;
+        var nSlots = Math.max(pts.length - 1, 1);
+        function X(i) { return (i / nSlots * W).toFixed(1); }
+        function Y(v) { return (H - (v - min) / (max - min) * H).toFixed(1); }
+        var down = (typeof ix.prev === "number") ? (ix.price < ix.prev) : (pts[pts.length - 1][1] < pts[0][1]);
+        var col = down ? "#ff9d8a" : "#7ee2a0";
+        var line = "";
+        for (i = 0; i < pts.length; i++) { line += (i ? "L" : "M") + X(i) + " " + Y(pts[i][1]) + " "; }
+        var svg = "";
+        if (typeof ix.prev === "number") {
+          svg += "<line x1=\"0\" y1=\"" + Y(ix.prev) + "\" x2=\"" + W + "\" y2=\"" + Y(ix.prev) + "\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"1\" stroke-dasharray=\"4 3\" vector-effect=\"non-scaling-stroke\"/>";
+        }
+        if (ixMode === "candle" && pts.length && pts[0].length >= 5) {
+          /* candlesticks: one per 5-min bar; body = open..close,
+             wick = low..high; up green / down red (JP convention) */
+          var bw = Math.max(W / pts.length * 0.62, 0.8);
+          for (i = 0; i < pts.length; i++) {
+            var o = pts[i][2], h = pts[i][3], l = pts[i][4], c = pts[i][1];
+            var cc = (c >= o) ? "#7ee2a0" : "#ff9d8a";
+            var cx = X(i);
+            svg += "<line x1=\"" + cx + "\" y1=\"" + Y(h) + "\" x2=\"" + cx + "\" y2=\"" + Y(l) + "\" stroke=\"" + cc + "\" stroke-width=\"1\" vector-effect=\"non-scaling-stroke\"/>";
+            var yTop = Y(Math.max(o, c)), yBot = Y(Math.min(o, c));
+            if (yBot - yTop < 0.7) { yBot = yTop + 0.7; }
+            svg += "<rect x=\"" + (cx - bw / 2).toFixed(1) + "\" y=\"" + yTop + "\" width=\"" + bw.toFixed(1) + "\" height=\"" + (yBot - yTop).toFixed(1) + "\" fill=\"" + cc + "\"/>";
+          }
+        } else {
+          svg += "<path d=\"" + line + "\" fill=\"none\" stroke=\"" + col + "\" stroke-width=\"2\" vector-effect=\"non-scaling-stroke\"/>";
+          svg += "<circle cx=\"" + X(pts.length - 1) + "\" cy=\"" + Y(pts[pts.length - 1][1]) + "\" r=\"3\" fill=\"" + col + "\"/>";
+        }
+        $("ix-chart").innerHTML = svg;
+        $("ix-note").textContent = "高 " + fmtNum(max - pad) + " ／ 安 " + fmtNum(min + pad);
+        $("ix-open").textContent = pts[0][0];
+        $("ix-close").textContent = pts[pts.length - 1][0];
+      }
+
+      /* ============ news + weather (JSON bundled with this page) ============
+         The data ships inside the artifact itself and is fetched via a
+         same-origin relative path, so no cross-origin request is involved. */
+      var NEWS_URL = "assets/dashboard-data.json";
+      /* tab key -> key inside the JSON's "feeds" object */
+      var ERR_MSG = "読み込みに失敗しました。しばらくしてからタブを切り替えてください";
+      /* tab key -> processed items; replaced wholesale on each successful
+         fetch. On failure the previous data is kept; the error message only
+         shows when nothing has ever loaded. */
+      var newsData = {};
+      var newsLoaded = false;
+      var newsLoading = false;
+
+      function parseNewsDate(s) {
+        if (!s) return null;
+        var d = new Date(s); /* ISO 8601 string */
+        if (isNaN(d.getTime())) return null;
+        return d;
+      }
+
+      function relTime(d) {
+        if (!d) return "";
+        var diffMs = new Date().getTime() - d.getTime();
+        if (diffMs < 0) diffMs = 0;
+        var min = Math.floor(diffMs / 60000);
+        if (min < 1) return "たった今";
+        if (min < 60) return min + "分前";
+        var hr = Math.floor(min / 60);
+        if (hr < 24 && d.getDate() === new Date().getDate()) return hr + "時間前";
+        return pad2(d.getHours()) + ":" + pad2(d.getMinutes());
+      }
+
+      function processItems(rawItems, isStocks) {
+        /* the JSON is already newest-first: keep the array order, cap at 12 */
+        var out = [];
+        for (var i = 0; i < rawItems.length && out.length < 12; i++) {
+          var it = rawItems[i];
+          var title = it.title || "";
+          var source = "";
+          if (isStocks) {
+            var idx = title.lastIndexOf(" - ");
+            if (idx > 0) {
+              source = title.substring(idx + 3);
+              title = title.substring(0, idx);
+            }
+          }
+          if (!title || !it.link) continue;
+          out.push({
+            title: title,
+            link: it.link,
+            body: it.body || null,
+            source: source,
+            date: parseNewsDate(it.date)
+          });
+        }
+        return out;
+      }
+
+      function renderNews() {
+        var list = $("news-list");
+        if (!newsLoaded) {
+          list.innerHTML = "<div class=\"news-msg\">" + (newsLoading ? "読み込み中…" : ERR_MSG) + "</div>";
+          return;
+        }
+        var items = newsData.yahoo || [];
+        if (!items.length) {
+          list.innerHTML = "<div class=\"news-msg\">記事がありません</div>";
+          return;
+        }
+        list.innerHTML = "";
+        /* v16: 5 Yahoo headlines, photo-style bullet rows */
+        var shown = items.slice(0, 5);
+        for (var i = 0; i < shown.length; i++) {
+          (function (item) {
+            var btn = document.createElement("button");
+            btn.type = "button";
+            btn.className = "news-item";
+            var dotWrap = document.createElement("div");
+            dotWrap.className = "news-dotwrap";
+            var dot = document.createElement("span");
+            dot.className = "news-dot";
+            dot.textContent = "●";
+            dotWrap.appendChild(dot);
+            var main = document.createElement("div");
+            main.className = "news-main";
+            var titleEl = document.createElement("div");
+            titleEl.className = "news-title";
+            titleEl.textContent = item.title;
+            main.appendChild(titleEl);
+            btn.appendChild(dotWrap);
+            btn.appendChild(main);
+            btn.addEventListener("click", function () { openArticle(item); });
+            list.appendChild(btn);
+          })(shown[i]);
+        }
+      }
+
+      /* futures chart mode: "line" | "candle", kept on-device */
+      var ixMode = "line";
+      var lastIx = null;
+      try { ixMode = localStorage.getItem("ixMode") || "line"; } catch (e) { }
+      function syncIxToggle() {
+        var b = $("ix-toggle");
+        if (b) { b.textContent = (ixMode === "candle") ? "ライン" : "ローソク足"; }
+      }
+      document.addEventListener("DOMContentLoaded", function () { syncIxToggle(); });
+      document.addEventListener("click", function (ev) {
+        if (ev.target && ev.target.id === "ix-toggle") {
+          ixMode = (ixMode === "candle") ? "line" : "candle";
+          try { localStorage.setItem("ixMode", ixMode); } catch (e) { }
+          syncIxToggle();
+          if (lastIx) { renderIndex(lastIx); }
+        }
+      });
+
+      function loadNews() {
+        if (newsLoading) return;
+        newsLoading = true;
+        /* cache-busting query so reloads and the 10-min refresh always
+           fetch the freshest data file instead of a cached copy */
+        var url = NEWS_URL + "?v=" + new Date().getTime();
+        fetchJson(url).then(function (d) {
+          if (!d || !d.feeds) { throw new Error("bad news json"); }
+          dataVer = (typeof d.ver === "string") ? d.ver : null;
+          dataTime = (typeof d.updated === "string") ? d.updated : null;
+          newsData = { yahoo: processItems(d.feeds.yahoo || [], false) };
+          newsLoaded = true;
+          newsLoading = false;
+          renderNews();
+          renderWeather(d.weather);
+          renderIndex(d.index);
+          markUpdated();
+          $("y-upd").textContent = "更新 " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes());
+        }).catch(function () {
+          newsLoading = false;
+          /* keep the previous data; only when nothing has ever loaded,
+             show the error states (news message + weather error, so the
+             weather block never stays stuck on its loading display) */
+          if (!newsLoaded) {
+            renderNews();
+            renderWeather(null);
+          }
+        });
+      }
+
+
+      /* initial load + refresh of all tabs every 10 minutes */
+      loadNews();
+      setInterval(loadNews, 10 * 60 * 1000);
+
+      /* (tab rotation removed in v16: single Yahoo list) */
+      var lastInteraction = 0;
+      function noteInteraction() { lastInteraction = new Date().getTime(); }
+      document.addEventListener("touchstart", noteInteraction, { passive: true });
+      document.addEventListener("mousedown", noteInteraction);
+
+      /* ================= article view ================= */
+      var currentItem = null;
+      var liteMode = false;
+      var idleTimer = null;
+
+      function resetIdleTimer() {
+        if (idleTimer) { clearTimeout(idleTimer); idleTimer = null; }
+        if ($("article").className.indexOf("open") >= 0) {
+          idleTimer = setTimeout(closeArticle, 60 * 1000);
+        }
+      }
+
+      function applyArticleContent() {
+        var frame = $("art-frame");
+        var lite = $("lite-frame");
+        var text = $("art-text");
+        if (!currentItem) return;
+        if (liteMode) {
+          /* Article bodies are pre-fetched server-side and bundled with
+             the site (assets/bodies/<name>), so the lightweight view is
+             a same-origin text fetch — the one fetch route this old
+             WebView handles reliably. Articles without a bundled body
+             fall back to the reader service as a frame navigation. */
+          frame.style.display = "none";
+          frame.src = "about:blank";
+          if (currentItem.body) {
+            lite.style.display = "none";
+            lite.src = "about:blank";
+            text.style.display = "block";
+            text.textContent = "読み込み中…";
+            var item = currentItem;
+            fetchText("assets/bodies/" + item.body + "?v=" + new Date().getTime()).then(function (body) {
+              if (!liteMode || currentItem !== item) return;
+              text.textContent = body;
+              text.scrollTop = 0;
+            }).catch(function () {
+              if (!liteMode || currentItem !== item) return;
+              text.textContent = "本文の読み込みに失敗しました。";
+            });
+          } else {
+            text.style.display = "none";
+            lite.style.display = "block";
+            lite.src = "https://r.jina.ai/" + currentItem.link;
+          }
+        } else {
+          lite.style.display = "none";
+          lite.src = "about:blank";
+          text.style.display = "none";
+          frame.style.display = "block";
+          frame.src = currentItem.link;
+        }
+      }
+
+      function openArticle(item) {
+        currentItem = item;
+        /* articles open in the lightweight text view by default:
+           many publisher pages refuse to be embedded in a frame
+           (X-Frame-Options), which shows as ERR_BLOCKED_BY_RESPONSE,
+           and the text reader works for every source */
+        liteMode = true;
+        var btn = $("lite-btn");
+        btn.textContent = "ON";
+        btn.className = "lite-btn on";
+        $("art-title").textContent = item.title;
+        $("article").className = "article open";
+        applyArticleContent();
+        resetIdleTimer();
+      }
+
+      function closeArticle() {
+        if (idleTimer) { clearTimeout(idleTimer); idleTimer = null; }
+        $("article").className = "article";
+        $("art-frame").src = "about:blank";
+        $("lite-frame").src = "about:blank";
+        currentItem = null;
+      }
+
+      $("back-btn").addEventListener("click", closeArticle);
+      $("lite-btn").addEventListener("click", function () {
+        liteMode = !liteMode;
+        this.textContent = liteMode ? "ON" : "OFF";
+        this.className = liteMode ? "lite-btn on" : "lite-btn";
+        applyArticleContent();
+        resetIdleTimer();
+      });
+
+      /* any touch inside the article view (outside the iframe content)
+         resets the 60 s auto-return timer */
+      var artEl = $("article");
+      artEl.addEventListener("touchstart", resetIdleTimer, { passive: true });
+      artEl.addEventListener("mousedown", resetIdleTimer);
+      artEl.addEventListener("wheel", resetIdleTimer);
+
+      /* ================= whole-page auto reload (6 h) ================= */
+      setTimeout(function () { location.reload(); }, 6 * 60 * 60 * 1000);
+
+      /* ================= self-update check (every 10 min) =================
+         Compare the served copy of this page against the build running
+         here; when a newer build is published, reload so kiosk devices
+         pick it up without anyone touching them. The served copy is
+         identified by its PAGE_VER string. */
+      function extractVer(html) {
+        var m = /PAGE_VER = "([^"]+)"/.exec(html || "");
+        return m ? m[1] : null;
+      }
+      function checkForUpdate() {
+        /* The check runs inside the served v16 page too (its code cannot
+           be patched remotely), so it must work from there: fetch the
+           small version.json (written by the data cron on every cycle)
+           instead of the page HTML, which GitHub Pages' CDN keeps
+           serving from cache for ~10 min after each deploy. */
+        try {
+          fetch("version.json?chk=" + new Date().getTime(), { cache: "no-store" }).then(function (res) {
+            if (!res.ok) { throw new Error("HTTP " + res.status); }
+            return res.text();
+          }).then(function (txt) {
+            var m = /"ver"\s*:\s*"([^"]+)"/.exec(txt || "");
+            var v = m ? m[1] : null;
+            if (v && v !== PAGE_VER) { location.reload(); }
+          }).catch(function () { /* stay on the current build */ });
+        } catch (e) { /* stay on the current build */ }
+      }
+      setInterval(checkForUpdate, 10 * 60 * 1000);
+      setTimeout(checkForUpdate, 60 * 1000);
+    </script>
+  </body>
+</html>
