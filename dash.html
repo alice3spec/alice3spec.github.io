@@ -74,7 +74,7 @@
       .date-line { font-size: 16px; font-weight: 600; margin-top: 2px; padding-bottom: 6px; border-bottom: 2px solid rgba(94, 200, 220, 0.65); text-shadow: 0 2px 8px rgba(0,0,0,0.5); }
       .wx-place { font-size: 13px; color: rgba(255,255,255,0.8); margin-bottom: 2px; }
       .wx-now { display: flex; align-items: center; margin-top: 9px; } .wx-days { display: flex; flex-direction: row; align-items: stretch; margin-top: 9px; } .wx-day { flex: 1 1 0; min-width: 0; } .wx-day-tmr { border-left: 1px solid rgba(255,255,255,0.18); padding-left: 10px; margin-left: 10px; } .wx-tmr-label { font-size: 13px; color: rgba(255,255,255,0.8); } .wx-day-ic { font-size: 32px; line-height: 1.1; } .wx-day-cond { font-size: 21px; font-weight: 700; line-height: 1.4; padding-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; } .wx-day-temps { font-size: 18px; font-weight: 700; line-height: 1.3; font-variant-numeric: tabular-nums; white-space: nowrap; }
-      .wx-icon { font-size: 32px; line-height: 1.1; }
+      .wx-icon { font-size: 32px; line-height: 1.1; } .wx-iconrow { display: flex; flex-direction: row; align-items: center; } .wx-curtemp { font-size: 30px; font-weight: 700; margin-left: 8px; font-variant-numeric: tabular-nums; line-height: 1.1; }
       .wx-temp { font-size: 18px; font-weight: 700; line-height: 1.3; font-variant-numeric: tabular-nums; white-space: nowrap; text-shadow: 0 2px 10px rgba(0,0,0,0.5); }
       .wx-side { margin-left: 10px; }
       .wx-cond { font-size: 21px; font-weight: 700; line-height: 1.4; padding-bottom: 2px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -141,7 +141,7 @@
       .mini-chg { font-size: 12px; font-weight: 700; margin-top: 2px; font-variant-numeric: tabular-nums; }
       .mini-chg.up { color: #7ee2a0; }
       .mini-chg.down { color: #ff9d8a; }
-      .mini-note { font-size: 10px; color: rgba(94, 200, 220, 0.95); margin-top: 3px; }
+      .mini-note { font-size: 10px; color: rgba(94, 200, 220, 0.95); margin-top: 3px; } .minirow { display: flex; flex-direction: row; margin-top: 10px; } .mini2 { flex: 1 1 0; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.09); border-radius: 8px; padding: 6px 10px; min-width: 0; } .mini2 + .mini2 { margin-left: 8px; } .mini2-name { font-size: 11px; color: rgba(255,255,255,0.7); font-weight: 700; } .mini2-price { font-size: 19px; font-weight: 700; margin-top: 1px; font-variant-numeric: tabular-nums; } .mini2-sub { font-size: 10px; color: rgba(255,255,255,0.55); margin-top: 1px; } .mini2-chg { font-size: 11px; font-weight: 700; font-variant-numeric: tabular-nums; } .mini2-chg.up { color: #7ee2a0; } .mini2-chg.down { color: #ff9d8a; }
 
       @media (max-height: 460px) {
         /* The device viewport measures ~960x483 CSS px (density ~2):
@@ -154,6 +154,7 @@
         .date-line { font-size: 14px; padding-bottom: 4px; }
         .wx-now { margin-top: 6px; }
         .wx-icon { font-size: 31px; }
+        .wx-curtemp { font-size: 28px; }
         .wx-temp { font-size: 35px; }
         .wx-cond { font-size: 16px; }
         .wx-hilo { font-size: 12px; margin-top: 3px; }
@@ -365,9 +366,9 @@
             <div class="wx-days">
               <div class="wx-day">
                 <div class="wx-place">今日 ・ 葉山町</div>
-                <div class="wx-icon" id="wx-icon">⌛</div>
+                <div class="wx-iconrow"><span class="wx-icon" id="wx-icon">⌛</span><span class="wx-curtemp" id="wx-temp">--°</span></div>
                 <div class="wx-cond" id="wx-cond">天気を取得中</div>
-                <div class="wx-temp"><span id="wx-temp">--°</span> <span id="wx-hilo"></span></div>
+                <div class="wx-temp"><span id="wx-hilo"></span></div>
               </div>
               <div class="wx-day wx-day-tmr" id="wx-tmr"></div>
             </div>
@@ -381,8 +382,10 @@
 <div class="card strip-card">
           <div class="strip-head"><span class="strip-title">3時間ごとの天気</span><span class="strip-sub">気温 / 降水量</span></div>
           <div class="strip" id="strip3"></div>
-          <div class="pop-head">降水確率</div>
-          <div class="pop-chart" id="pop-chart"></div>
+          <div class="minirow">
+            <div class="mini2"><div class="mini2-name">ドル円</div><div class="mini2-price" id="fx-price">--</div><div class="mini2-chg" id="fx-chg"></div></div>
+            <div class="mini2"><div class="mini2-name">TOPIX連動ETF (1306)</div><div class="mini2-price" id="topix-price">--</div><div class="mini2-sub">TOPIX指数そのものは取得不可のため連動ETFで代替</div><div class="mini2-chg" id="topix-chg"></div></div>
+          </div>
         </div>
       </div>
       <div class="quad quad-bl">
@@ -456,7 +459,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v42";
+      var PAGE_VER = "v43";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -576,21 +579,6 @@
         }
         $("strip3").innerHTML = html;
 
-        /* Rain-probability bars (v40): next 24 h in 3-hour steps, in
-           the space under the strip inside the same card */
-        var popHtml = "";
-        var pops = w.pop3 || [];
-        for (var j = 0; j < pops.length; j++) {
-          var pp = pops[j];
-          var pdt = new Date(pp.time);
-          var pLabel = isNaN(pdt.getTime()) ? "" : pdt.getHours() + "時";
-          var pv = (typeof pp.pop === "number") ? Math.round(pp.pop) : null;
-          var ph = (pv === null) ? 0 : Math.max(Math.round(pv * 0.22), pv > 0 ? 2 : 0);
-          popHtml += "<div class=\"pop-col\"><div class=\"pop-val\">" + (pv === null ? "--" : pv + "%") + "</div>"
-            + "<div class=\"pop-bar\" style=\"height:" + ph + "px\"></div>"
-            + "<div class=\"pop-time\">" + pLabel + "</div></div>";
-        }
-        $("pop-chart").innerHTML = popHtml;
       }
 
       /* ============ futures chart card (v16 bottom-right) ============ */
@@ -780,6 +768,20 @@
         }
       });
 
+      /* small indicator cards (USD/JPY, TOPIX) under the strip */
+      function renderMini(prefix, q, digits) {
+        var priceEl = $(prefix + "-price"), chgEl = $(prefix + "-chg");
+        if (!priceEl || !chgEl) { return; }
+        if (!q || typeof q.price !== "number") { priceEl.textContent = "--"; chgEl.textContent = ""; return; }
+        priceEl.textContent = q.price.toFixed(digits);
+        if (typeof q.prev === "number" && q.prev > 0) {
+          var dd = q.price - q.prev;
+          var pp = dd / q.prev * 100;
+          chgEl.textContent = (dd >= 0 ? "▲ +" : "▼ ") + dd.toFixed(digits) + " (" + (dd >= 0 ? "+" : "") + pp.toFixed(2) + "%)";
+          chgEl.className = "mini2-chg " + (dd >= 0 ? "up" : "down");
+        } else { chgEl.textContent = ""; }
+      }
+
       function loadNews() {
         if (newsLoading) return;
         newsLoading = true;
@@ -796,6 +798,8 @@
           renderNews();
           renderWeather(d.weather);
           renderIndex(d.index);
+          renderMini("fx", d.fx, 2);
+          renderMini("topix", d.topix, 2);
           markUpdated();
           $("y-upd").textContent = "更新 " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes());
         }).catch(function () {
