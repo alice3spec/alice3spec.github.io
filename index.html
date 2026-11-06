@@ -457,7 +457,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v9";
+      var PAGE_VER = "v10";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
@@ -702,7 +702,7 @@
         });
       }
 
-      function selectTab(key) {
+      function selectTab(key, manual) {
         activeTab = key;
         var tabs = $("tabs").children;
         for (var i = 0; i < tabs.length; i++) {
@@ -713,6 +713,7 @@
           }
         }
         renderNews(key);
+        if (manual) { noteInteraction(); }
       }
 
       (function bindTabs() {
@@ -720,7 +721,7 @@
         for (var i = 0; i < tabs.length; i++) {
           (function (el) {
             el.addEventListener("click", function () {
-              selectTab(el.getAttribute("data-tab"));
+              selectTab(el.getAttribute("data-tab"), true);
             });
           })(tabs[i]);
         }
@@ -729,6 +730,22 @@
       /* initial load + refresh of all tabs every 10 minutes */
       loadNews();
       setInterval(loadNews, 10 * 60 * 1000);
+
+      /* ============ auto tab rotation (30 s, Tanaka's pick C) ============
+         Cycles 株 → AI → IT → ガジェット every 30 s. Any interaction
+         pauses it for 5 minutes; while the article view is open the
+         rotation does not advance. */
+      var TAB_ORDER = ["stocks", "ai", "it", "gadget"];
+      var lastInteraction = 0;
+      function noteInteraction() { lastInteraction = new Date().getTime(); }
+      document.addEventListener("touchstart", noteInteraction, { passive: true });
+      document.addEventListener("mousedown", noteInteraction);
+      setInterval(function () {
+        if (currentItem) { return; }
+        if (new Date().getTime() - lastInteraction < 5 * 60 * 1000) { return; }
+        var idx = TAB_ORDER.indexOf(activeTab);
+        selectTab(TAB_ORDER[(idx + 1) % TAB_ORDER.length]);
+      }, 30 * 1000);
 
       /* ================= article view ================= */
       var currentItem = null;
