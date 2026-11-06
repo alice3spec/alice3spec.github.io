@@ -468,7 +468,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v47";
+      var PAGE_VER = "v48";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -825,7 +825,7 @@
 
       /* initial load + refresh of all tabs every 10 minutes */
       loadNews();
-      setInterval(loadNews, 10 * 60 * 1000);
+      setInterval(loadNews, 5 * 60 * 1000);
 
       /* (tab rotation removed in v16: single Yahoo list) */
       var lastInteraction = 0;
