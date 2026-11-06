@@ -4,6 +4,9 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="color-scheme" content="dark" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
     <link rel="icon" href="data:," />
     <title>Echo Show ダッシュボード</title>
     <style>
@@ -571,7 +574,10 @@
       function loadNews() {
         if (newsLoading) return;
         newsLoading = true;
-        fetchJson(NEWS_URL).then(function (d) {
+        /* cache-busting query so reloads and the 10-min refresh always
+           fetch the freshest data file instead of a cached copy */
+        var url = NEWS_URL + "?v=" + new Date().getTime();
+        fetchJson(url).then(function (d) {
           if (!d || !d.feeds) { throw new Error("bad news json"); }
           var next = {};
           for (var key in TAB_KEYS) {
