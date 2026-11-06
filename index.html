@@ -457,7 +457,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v8";
+      var PAGE_VER = "v9";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
@@ -836,15 +836,17 @@
         return m ? m[1] : null;
       }
       function checkForUpdate() {
+        /* fetch with an explicit no-store request: this old WebView's
+           XHR was observed serving the cached page copy, which made the
+           version check compare the cache against itself and never fire */
         try {
-          var xhr = new XMLHttpRequest();
-          xhr.open("GET", "./?chk=" + new Date().getTime(), true);
-          xhr.onreadystatechange = function () {
-            if (xhr.readyState !== 4 || xhr.status !== 200) return;
-            var v = extractVer(xhr.responseText);
+          fetch("./?chk=" + new Date().getTime(), { cache: "no-store" }).then(function (res) {
+            if (!res.ok) { throw new Error("HTTP " + res.status); }
+            return res.text();
+          }).then(function (html) {
+            var v = extractVer(html);
             if (v && v !== PAGE_VER) { location.reload(); }
-          };
-          xhr.send(null);
+          }).catch(function () { /* stay on the current build */ });
         } catch (e) { /* stay on the current build */ }
       }
       setInterval(checkForUpdate, 10 * 60 * 1000);
