@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T07:43:21.960633+09:00",
+  "updated": "2026-11-07T07:49:00.136179+09:00",
   "feeds": {
     "kabu": [
       {
@@ -48,14 +48,14 @@
         "date": "2026-11-04T22:30:00+00:00"
       },
       {
-        "title": "日経平均株価、一時4300円安 AI投資不安で6万円割れ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYmtLcHJDS0k2T0hKUzdleXNXUENraDVmRGNTRi1LUV9zYkVaclM4LWtKQXJEVzIwOHFGSlNlaWNkVV9vS09DMDVnQldraEs1RVd1MmFESnJWczJLeEhPNGw4aUE2MHM3bGFLbw?oc=5",
-        "date": "2026-11-06T00:04:02+00:00"
-      },
-      {
         "title": "日経平均株価、米株急落が逆風 リスク回避強まる（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KYm43bWJaVmIxVlJaYm9NY3N5LXEtemZ3MXdRQWx6dzhRd3VRZmdINnYyOV9reGdXeXVIN0RMSnBoTnNUSlQycF9JQVpzSjliUV9PaFNiQ3N1aVVLd0hBNHV0WGE1aXpCXzdnYQ?oc=5",
         "date": "2026-11-05T22:30:00+00:00"
+      },
+      {
+        "title": "日経平均株価、一時4300円安 AI投資不安で6万円割れ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYmtLcHJDS0k2T0hKUzdleXNXUENraDVmRGNTRi1LUV9zYkVaclM4LWtKQXJEVzIwOHFGSlNlaWNkVV9vS09DMDVnQldraEs1RVd1MmFESnJWczJLeEhPNGw4aUE2MHM3bGFLbw?oc=5",
+        "date": "2026-11-06T00:04:02+00:00"
       },
       {
         "title": "来週の株式相場に向けて＝日経平均は史上３番目の下落幅、反データセンターの衝撃響く - 株探",
@@ -293,9 +293,9 @@
         "body": "a48.txt"
       },
       {
-        "title": "石破氏ら採決退席 首相言及控える",
-        "link": "https://news.yahoo.co.jp/pickup/6601568?source=rss",
-        "date": "2026-11-06T12:06:05+00:00",
+        "title": "米大統領首席補佐官 ミラー氏昇格",
+        "link": "https://news.yahoo.co.jp/pickup/6601592?source=rss",
+        "date": "2026-11-06T22:35:39+00:00",
         "body": "a49.txt"
       },
       {
@@ -337,7 +337,7 @@
     ]
   },
   "weather": {
-    "temp": 15.4,
+    "temp": 15.5,
     "code": 0,
     "max": 18.8,
     "min": 12.8,
