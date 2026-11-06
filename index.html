@@ -443,7 +443,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v27";
+      var PAGE_VER = "v28";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -613,19 +613,6 @@
         $("ix-open").textContent = pts[0][0];
         $("ix-close").textContent = pts[pts.length - 1][0];
       }
-      function renderFx(fx) {
-        if (!fx || typeof fx.price !== "number") { return; }
-        $("fx-price").textContent = fx.price.toFixed(2);
-        var chg = $("fx-chg");
-        if (typeof fx.prev === "number" && fx.prev > 0) {
-          var d = fx.price - fx.prev;
-          var pct = d / fx.prev * 100;
-          chg.textContent = (d >= 0 ? "▲ +" : "▼ ") + d.toFixed(2) + " (" + (d >= 0 ? "+" : "") + pct.toFixed(2) + "%)";
-          chg.className = "mini-chg " + (d >= 0 ? "up" : "down");
-        } else {
-          chg.textContent = "";
-        }
-      }
 
       /* ============ news + weather (JSON bundled with this page) ============
          The data ships inside the artifact itself and is fetched via a
@@ -740,7 +727,6 @@
           renderNews();
           renderWeather(d.weather);
           renderIndex(d.index);
-          renderFx(d.fx);
           markUpdated();
           $("y-upd").textContent = "更新 " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes());
         }).catch(function () {
