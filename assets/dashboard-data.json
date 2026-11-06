@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:04:27.213124+09:00",
+  "updated": "2026-11-07T08:09:01.310899+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,14 +53,14 @@
         "date": "2026-11-05T22:30:00+00:00"
       },
       {
-        "title": "日経平均株価、一時4300円安 AI投資不安で6万円割れ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYmtLcHJDS0k2T0hKUzdleXNXUENraDVmRGNTRi1LUV9zYkVaclM4LWtKQXJEVzIwOHFGSlNlaWNkVV9vS09DMDVnQldraEs1RVd1MmFESnJWczJLeEhPNGw4aUE2MHM3bGFLbw?oc=5",
-        "date": "2026-11-06T00:04:02+00:00"
-      },
-      {
         "title": "来週の株式相場に向けて＝日経平均は史上３番目の下落幅、反データセンターの衝撃響く - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53YWx6c25ZblBXZGxfY3ptclJPelk5a0xwNzNUQ1FZU24tc0dtVVVSRWkzdUVpVHhTUkJrc281RDBLek91QXV2dWJaLTlQZjdpZXhoN2RUU3kydEVwQlJTeQ?oc=5",
         "date": "2026-11-06T08:48:00+00:00"
+      },
+      {
+        "title": "日経平均株価、一時4300円安 AI投資不安で6万円割れ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYmtLcHJDS0k2T0hKUzdleXNXUENraDVmRGNTRi1LUV9zYkVaclM4LWtKQXJEVzIwOHFGSlNlaWNkVV9vS09DMDVnQldraEs1RVd1MmFESnJWczJLeEhPNGw4aUE2MHM3bGFLbw?oc=5",
+        "date": "2026-11-06T00:04:02+00:00"
       }
     ],
     "ai": [
@@ -213,75 +213,75 @@
     ],
     "gadget": [
       {
-        "title": "新iPad miniのナノ・テクスチャー・ディスプレイ、どこでもコンテンツに集中できるって最高だ",
-        "link": "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/",
-        "date": "2026-11-06T23:00:00+00:00",
-        "body": "a36.txt"
-      },
-      {
         "title": "ボトルキャップ2個で完成するミニケース。100円玉なら17枚も入ります",
         "link": "https://www.gizmodo.jp/article/cappy_plastic-bottle-caps_reuse-kot-2/",
         "date": "2026-11-06T14:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a36.txt"
       },
       {
         "title": "100kgの破片が落下する可能性も。NASA観測衛星「スウィフト」、地球のどこに落ちる？",
         "link": "https://www.gizmodo.jp/article/nasa_swift_satellite_reentry/",
         "date": "2026-11-06T13:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a37.txt"
       },
       {
         "title": "お手入れの手間も吸ってくれる。Ankerのロボット掃除機がサイクロン載せてきた！",
         "link": "https://www.gizmodo.jp/article/2611-anker-eufy-robot-vacuum-omni-e35/",
         "date": "2026-11-06T12:30:00+00:00",
-        "body": "a39.txt"
+        "body": "a38.txt"
       },
       {
         "title": "合格です。MacBook PROLEDのタッチ操作をWindowsユーザーがチェック",
         "link": "https://www.gizmodo.jp/article/2611-macbook-proled-touch-review/",
         "date": "2026-11-06T12:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a39.txt"
       },
       {
         "title": "iPhone Duoと新型iPad mini、実機で比較してみた。どっちを選ぶと幸せになれるだろう？",
         "link": "https://www.gizmodo.jp/article/iphone-duo-vs-ipad-mini/",
         "date": "2026-11-06T11:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a40.txt"
       },
       {
         "title": "深夜の品出し、代わってほしい。ロボット6台をコンビニで24時間働かせてみるテスト",
         "link": "https://www.gizmodo.jp/article/agibot-g2-convenience-store-trial/",
         "date": "2026-11-06T11:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a41.txt"
       },
       {
         "title": "データセンターの排熱で「街が暑くなる」説。日本で検証したら違う結果に",
         "link": "https://www.gizmodo.jp/article/2611-datacenter-waste-heat-temperature-study/",
         "date": "2026-11-06T10:45:00+00:00",
-        "body": "a43.txt"
+        "body": "a42.txt"
       },
       {
         "title": "タッチと発光と漆黒。気になるところもあった新しいMacBook Pro",
         "link": "https://www.gizmodo.jp/article/apple_macbook-pro_luminescence_richblack_review/",
         "date": "2026-11-06T10:30:00+00:00",
-        "body": "a44.txt"
+        "body": "a43.txt"
       },
       {
         "title": "好きな鍵盤を押すだけでプロ気分。カシオの新型キーボードは演奏をサポート",
         "link": "https://www.gizmodo.jp/article/casio_casiotone-ct-fs1_keyboard/",
         "date": "2026-11-06T10:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a44.txt"
       },
       {
         "title": "ポテトでベタベタの指、どこも汚さずに拭きたい。自宅ファストフードが捗る",
         "link": "https://www.gizmodo.jp/article/2611-smartru-automatic-wet-tissue-case-review/",
         "date": "2026-11-06T09:00:00+00:00",
-        "body": "a46.txt"
+        "body": "a45.txt"
       },
       {
         "title": "またしてもサイバー攻撃。狙われたのはお金、ではなく血液",
         "link": "https://www.gizmodo.jp/article/france_hackers_target_money-and-blood/",
         "date": "2026-11-06T08:35:00+00:00",
+        "body": "a46.txt"
+      },
+      {
+        "title": "潔きシンプルさ。カシオから新作リングウォッチ「CRW-002」登場",
+        "link": "https://www.gizmodo.jp/article/casio_crw-002_ring_watch/",
+        "date": "2026-11-06T08:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -323,15 +323,15 @@
         "body": "a53.txt"
       },
       {
-        "title": "ボクシング寺地拳四朗が結婚へ",
-        "link": "https://news.yahoo.co.jp/pickup/6601591?source=rss",
-        "date": "2026-11-06T22:27:29+00:00",
-        "body": "a54.txt"
-      },
-      {
         "title": "西川貴教 NHK紅白に出場決定",
         "link": "https://news.yahoo.co.jp/pickup/6601600?source=rss",
         "date": "2026-11-06T22:59:59+00:00",
+        "body": "a54.txt"
+      },
+      {
+        "title": "ボクシング寺地拳四朗が結婚へ",
+        "link": "https://news.yahoo.co.jp/pickup/6601591?source=rss",
+        "date": "2026-11-06T22:27:29+00:00",
         "body": "a55.txt"
       }
     ]
@@ -415,7 +415,7 @@
     "pop3": [
       {
         "time": "2026-11-07T08:00",
-        "pop": 0
+        "pop": 1
       },
       {
         "time": "2026-11-07T11:00",
