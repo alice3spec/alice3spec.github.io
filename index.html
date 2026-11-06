@@ -449,10 +449,22 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v19";
+      var PAGE_VER = "v20";
+      var dataVer = null;
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
+        /* data-driven self-update: when the JSON's page version moves
+           past the running build, reload once (guarded against loops) */
+        if (dataVer && dataVer !== PAGE_VER) {
+          try {
+            var key = "triedVer";
+            if (sessionStorage.getItem(key) !== dataVer) {
+              sessionStorage.setItem(key, dataVer);
+              location.reload();
+            }
+          } catch (e) { /* storage unavailable: skip to avoid loops */ }
+        }
       }
 
       /* ================= weather (from the shared JSON, Hayama) ================= */
@@ -724,6 +736,7 @@
         var url = NEWS_URL + "?v=" + new Date().getTime();
         fetchJson(url).then(function (d) {
           if (!d || !d.feeds) { throw new Error("bad news json"); }
+          dataVer = (typeof d.ver === "string") ? d.ver : null;
           newsData = { yahoo: processItems(d.feeds.yahoo || [], false) };
           newsLoaded = true;
           newsLoading = false;
