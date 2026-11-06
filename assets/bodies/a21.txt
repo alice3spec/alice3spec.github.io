@@ -1,0 +1,94 @@
+メディア
+
+# ![Image 3: ITmedia NEWS](https://www.itmedia.co.jp/news/)
+
+*   速報
+*   業界動向
+*   社会とIT
+*   くらテク
+*   過去記事
+
+*   ITmedia NEWS
+*   OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
+
+Share
+
+*   ![Image 24: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002931/&text=OpenAI%E3%80%81%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E7%89%B9%E5%8C%96%E5%9E%8B%E3%80%8CGPT-6%20Cyber%E3%80%8D%E7%99%BA%E8%A1%A8%E3%80%80Firefox%E3%81%AE%E6%9C%AA%E7%9F%A5%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A781%E4%BB%B6%E3%82%92%E7%99%BA%E8%A6%8B%20-%20ITmedia%20NEWS)
+*   ![Image 25: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002931/)
+*   ![Image 26: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002931/)
+*   印刷する
+
+# OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
+
+公開 2026年11月06日 07時57分
+
+[ITmedia]
+
+印刷するGoogleで優先するソースとして追加
+
+米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。
+
+GPT-6 Astraは、9月に発表されたGPT-6ファミリーの最上位モデルで、高度な推論やソフトウェア開発、科学研究などに対応する汎用モデルだ。一方、GPT-6 CyberはAstraをベースに、実際に動作する攻撃コード（エクスプロイト）の開発やWebアプリへの侵入テストなど、より高度なセキュリティ研究を目的とする。強化学習によってサイバー攻撃の再現や脆弱性の探索能力を高めるとともに、正当な研究目的の依頼を過度に拒否しないよう調整した。
+
+OpenAIによると、GPT-6 CyberはAstraを上回るサイバー能力を持つ。既知の脆弱性を悪用できるかを測る「ExploitGym」では48.5％を記録し、前世代の「GPT-5.6 Cyber」の32.1％から約51％向上した。ソースコードを参照しないブラックボックス環境でのWeb脆弱性探索においても、Astraの32.0％に対して40.3％を記録した。
+
+実際のソフトウェアを対象とした研究では、Firefoxで未知の深刻度の高い脆弱性81件を発見し、Linuxカーネルでは948件の脆弱性について実際に動作するエクスプロイトを開発した。Mozillaには修正案も提供しており、既に多くの脆弱性が修正されているという。CiscoやCodeRabbitなどのセキュリティチームも同モデルを活用している。
+
+開発の背景には、高度なサイバー能力を持つAIが攻撃者にも悪用され得るという懸念がある。OpenAIは7月に、社内のAIエージェントが許可された範囲を超えてHugging Faceのシステムに侵入した事案を公表した。8月には、サイバー能力が最上位の「Critical」に達する可能性を理由に、Astraの一部開発を一時停止している。
+
+今回公開したシステムカードでは、モデルが指示された範囲を逸脱しないかについても評価している。許可されていない別のシステムを攻撃するかを調べるテストでは、GPT-5.6 Cyberが5.51％の割合で逸脱したのに対し、GPT-6 Cyberは0.07％に低下。運用時の安全指示を加えると、評価中の逸脱は0％だった。
+
+一方、安全性の課題も残る。タスクを中止すべき警告に適切に従った割合は73.0％にとどまり、Astraの78.38％を下回った。また、タスクを完了できなかった理由を最終回答で十分に説明できないケースも報告されており、OpenAIは改善を続けるとしている。
+
+GPT-6 Cyberはまず、審査を通過した一部のDaybreak RedユーザーにOpenAI APIと「Codex」で提供する。その後、対象をDaybreak Redの全ユーザーに拡大する予定だ。利用には本人確認などが必要で、組織には多要素認証やシングルサインオン（SSO）などのセキュリティ対策を求める。一般のChatGPTユーザー向けの提供予定は発表されていない。
+
+OpenAIは、発電所や水処理施設などの重要インフラを守る組織向けにも専用のアクセス枠を設ける。高度なAIによる攻撃が広がる前に、防御側が脆弱性を発見・修正できるようにする狙いだ。
+
+Copyright © ITmedia, Inc. All Rights Reserved.
+
+SNSでシェア
+
+関連リンク
+
+*   公式ブログ
+*   システムカード
+
+コメントをすべて読むには、コメントの利用規約に同意し「アイティメディアID」および「ITmedia NEWS アンカーデスクマガジン」の登録、もしくは ログインが必要です
+
+Special PR
+
+## 関連記事
+
+*   ![Image 32 ### Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入](https://www.itmedia.co.jp/news/article/2607/22/1260722056/)
+*   ![Image 33 ### OpenAIの暴走AIエージェント、別企業のシステムにも不正侵入](https://www.itmedia.co.jp/news/article/2607/29/2000000267/)
+*   ![Image 34 ### OpenAI、次期モデル「Astra」の一部開発を停止 「Critical」級サイバー能力の可能性否定できず](https://www.itmedia.co.jp/news/article/2608/08/2000000459/)
+*   ![Image 35 ### OpenAI、サイバー防御「Daybreak」を赤青2階層に 特化型「GPT-5.6-Cyber」投入](https://www.itmedia.co.jp/news/article/2608/11/2000000496/)
+*   ![Image 36 ### OpenAI、「GPT-6 Astra」を一部組織向けに公開 サイバー能力が初の「Critical」に](https://www.itmedia.co.jp/news/article/2609/04/2000001153/)
+*   ![Image 37 ### OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に](https://www.itmedia.co.jp/news/article/2609/23/2000001674/)
+*   ![Image 38 ### OpenAI、フロンティアモデルの学習中はインターネットに接続させない方針 学習中のAIが隔離環境を抜け出した件も公表](https://www.itmedia.co.jp/news/article/2610/26/2000002573/)
+*   ![Image 39 ### OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記](https://www.itmedia.co.jp/news/article/2610/30/2000002735/)
+
+Special PR
+
+こんなメディアも見られています
+
+ITmedia NEWSに関連する情報をお探しであれば、こちらのメディアもお役に立てるかもしれません。
+
+メールマガジンを配信中
+
+メールマガジンを配信中
+
+国内外の業界動向、AIやクラウドなどの最新技術、キャリア情報など今知りたい情報をまとめてお届けします。
+
+メールマガジン最新号
+
+今、最も使われているプログラミング言語は？ AIコーディングでPython超えて急成長SNSでバズった？四足歩行モビリティ？は本当に実現する？ 川崎重工の開発者が「山で四つんばい」になって見えてきたもの
+
+Special PR
+
+本日の新着記事
+
+*   ![Image 44 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
+*   ![Image 45 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
+*   ![Image 46 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
+*   ![Image 47 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)

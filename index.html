@@ -60,7 +60,7 @@
 
       /* clock */
       .clock {
-        font-size: 92px;
+        font-size: 118px;
         line-height: 1.02;
         font-weight: 700;
         letter-spacing: 1px;
@@ -69,13 +69,13 @@
         margin-top: 0;
       }
       .clock .sec {
-        font-size: 32px; font-weight: 600;
+        font-size: 40px; font-weight: 600;
         color: rgba(255,255,255,0.75);
         margin-left: 8px;
       }
       .date-line {
-        font-size: 26px; font-weight: 600;
-        margin-top: 0;
+        font-size: 30px; font-weight: 600;
+        margin-top: 2px;
         text-shadow: 0 2px 10px rgba(0,0,0,0.55);
       }
 
@@ -289,9 +289,9 @@
          shrink the left column further so the weather strip always fits */
       @media (max-height: 460px) {
         .dash { padding: 10px 16px 8px 20px; }
-        .clock { font-size: 74px; }
-        .clock .sec { font-size: 26px; }
-        .date-line { font-size: 22px; }
+        .clock { font-size: 96px; }
+        .clock .sec { font-size: 32px; }
+        .date-line { font-size: 25px; }
         .weather { margin-top: 9px; }
         .wx-icon { font-size: 38px; margin-right: 10px; }
         .wx-temp { font-size: 42px; }
@@ -417,7 +417,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v5";
+      var PAGE_VER = "v6";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
@@ -536,6 +536,7 @@
           out.push({
             title: title,
             link: it.link,
+            body: it.body || null,
             source: source,
             date: parseNewsDate(it.date)
           });
@@ -659,15 +660,32 @@
         var text = $("art-text");
         if (!currentItem) return;
         if (liteMode) {
-          /* The reader page is loaded as a frame navigation, not via
-             fetch: the old WebView's fetch of the same URL fails while
-             a plain navigation succeeds. The reader serves its text
-             version at this URL (it allows framing). */
+          /* Article bodies are pre-fetched server-side and bundled with
+             the site (assets/bodies/<name>), so the lightweight view is
+             a same-origin text fetch — the one fetch route this old
+             WebView handles reliably. Articles without a bundled body
+             fall back to the reader service as a frame navigation. */
           frame.style.display = "none";
           frame.src = "about:blank";
-          text.style.display = "none";
-          lite.style.display = "block";
-          lite.src = "https://r.jina.ai/" + currentItem.link;
+          if (currentItem.body) {
+            lite.style.display = "none";
+            lite.src = "about:blank";
+            text.style.display = "block";
+            text.textContent = "読み込み中…";
+            var item = currentItem;
+            fetchText("assets/bodies/" + item.body + "?v=" + new Date().getTime()).then(function (body) {
+              if (!liteMode || currentItem !== item) return;
+              text.textContent = body;
+              text.scrollTop = 0;
+            }).catch(function () {
+              if (!liteMode || currentItem !== item) return;
+              text.textContent = "本文の読み込みに失敗しました。";
+            });
+          } else {
+            text.style.display = "none";
+            lite.style.display = "block";
+            lite.src = "https://r.jina.ai/" + currentItem.link;
+          }
         } else {
           lite.style.display = "none";
           lite.src = "about:blank";

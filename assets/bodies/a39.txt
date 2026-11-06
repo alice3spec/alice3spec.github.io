@@ -1,0 +1,82 @@
+*   グローバルナビゲーションへジャンプ
+*   メインコンテンツへジャンプ
+*   フッターへジャンプ
+
+16:26:35
+JST
+
+MENUSNS
+
+# まるで電脳インプラント。こめかみに貼るガジェットが、あまりにもディストピアッ！
+
+Nov 6,2026 14:00
+
+ヤマダユウス型 ( GIZMODOライター )
+
+Screenshot: Temple
+
+『Detroit: Become Human』だこれ！
+
+インドのフードデリバリー大手Zomatoの創業者である、ディピンダー・ゴヤル氏。同氏が手がけたヘルストラッカー「Temple（テンプル）」が、2026年11月1日から全世界向けに予約受付を始めました。
+
+ユニークなのはそのデザイン。トラッカーは手首でも指でもなく、その名のとおり、こめかみ（temple）にペタっと貼り付けるのです。
+
+> Does @temple really monitor blood flow to the brain, or just the scalp? In our second validation study, we tested Temple BrainFlow against time-domain NIRS, one of the few technologies that can separate brain blood volume changes from scalp blood volume changes. We had 60 participants go through three physiological challenges: head-down tilt, stand-to-squat, stand-to-supine. Across all three challenges, Temple BrainFlow tracked brain blood volume at r=0.84-0.91, significantly more than scalp blood volume. The most significant result came from head-down tilt, where Temple's correlation with the brain was 0.91, and scalp correlation was just 0.49. Key takeaway: Temple tracks the brain, much more than the scalp. Why this matters: Cerebral Blood Flow responds to almost everything longevity-oriented people already do. It rises with aerobic exercise, and VO2max correlates directly with it. It rises with cold exposure. It rises with meditation. Better sleep sustains it. It drops when you sit for too long. It drops when you are dehydrated. It is one of the most responsive and integrative biomarkers of how well your body is actually running, and aging. Until now, you could only measure it in a clinical setting, in a single snapshot. Temple measures it continuously, in real time, while you live your life. And Temple is, as of today, the only wearable in the world with validations against brain blood volume, and not just scalp. This study was guided by our Scientific Advisor, Prof. David Boas, Director of Boston University's Neurophotonics Center, and the mind behind several new, high-impact, biomedical optical technologies in neuroscience, including NIRS. This is the second modality Temple BrainFlow is now validated against, after Transcranial Doppler. More coming soon. Link: https://t.co/zETs9gn5Cg The paper is posted as a preprint and submitted for peer review. We encourage researchers to replicate this. We'll happily loan Temples to any qualified researcher who wants to pressure-test any of our metrics independently. Cc @agingroy
+>
+> — Deepinder Goyal (@deepigoyal) September 25, 2026
+
+## まるで電脳インプラント
+
+こめかみに光る金属の粒は、どう見てもサイバーパンク作品のインプラント的なそれ。実際、ゴヤル氏が開発中の金色のTempleを着けた写真が出回ったときは「インフィニティ・ストーン？」といじられたほど。
+
+Image: Digit
+
+気になる取り付け方法は、使い捨ての粘着パッドで貼るだけ。 パッドは2〜3日の保持力があり、交換用パッドは本体価格に生涯分が含まれているとのこと。カラーは6色用意されています。
+
+Screenshot: Temple
+
+どの色でもインパクトありますねぇ…。
+
+## 脳の血流と、放熱を測る
+
+トラッカーとしてのスペックは、心拍数や睡眠、歩数といった基本の計測に加え、脳への血流の変化を光学センサーで追うBrainFlow。もうひとつが、体が熱を逃がすためにどれだけ働いているかを示すEntropyという独自指標です。
+
+ただし、こめかみでの計測が脳の奥の血流をどこまで反映できるのかは疑問視されていて、臨床的な裏付けの乏しさを指摘する医師の声も。診断の代わりというより、体調を探る道具と考えたほうがよさそうです。
+
+ちなみに創業者のゴヤル氏は、長年の重力で脳に血が届きにくくなり老化が進むという、独自の重力老化仮説を提唱しています。毎日10分以上の逆さま姿勢で脳の血流が7％増えたと語るなど、なかなかの奇人、もとい探究心の持ち主でいらっしゃいます。
+
+お値段は約1,000ドル（約15万円）。日本からも注文はできますが、国内での正規販売や技適の取得状況はまだわかっていません。こめかみから測定することに一定の合理性はあるようですが、なにせ見た目がSF過ぎるよ…！
+
+Image: Fandom
+
+いずれは埋め込んで、ここまでいってしまうのだろうか…。
+
+Source: Temple, Businesstoday, Storyboard18, Fandom
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+#iPhone Duo#20 YEARS OF GIZMODO JAPAN#ギズマート#WOWOWしらべるTV
+
+### Ranking
+
+Daily
+
+Weekly
+
+Monthly
+
+Amazon
+
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 19,9992. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2563. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,5864. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 17,9835. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,043
+
+1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9202. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1083. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6314. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 68,9665. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,642
+
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8182. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,1003. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9204. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6775. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,108
+
+PR
+
+1.![Image 9: Anker Nano Charger Anker Nano Charger ￥2,790￥3,990](https://link.amazon/B0gjE

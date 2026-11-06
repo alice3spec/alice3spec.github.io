@@ -1,0 +1,96 @@
+*   グローバルナビゲーションへジャンプ
+*   メインコンテンツへジャンプ
+*   フッターへジャンプ
+
+16:27:39
+JST
+
+MENUSNS
+
+# 詐欺師の手口、Googleがゲームで教えてくれます
+
+Nov 6,2026 12:00
+
+Image: Google
+
+詐欺師の誘いに乗ったら、どうなるんでしょう？
+
+警察を名乗る相手からある日、突然の電話。本人確認のために身分証番号と生年月日を送るよう求められ…もしそんな状況になったとしたら、どうしますか？
+
+ここで電話を切るか、それとも個人情報を教えるか。
+
+Google（グーグル）のゲーム「Be Scam Ready」は、そんな判断をゲームで練習できるサービスです。11月3日には、日本を含む5カ国への展開が発表されました（2026年11月5日時点では日本語未対応）。
+
+## 詐欺師との駆け引き、正しく判断できる？
+
+Image: Google
+
+Be Scam Readyでは、登場人物のストーリーを読み進めながら、詐欺が疑われる場面でどう対応するかを選んでいきます。
+
+PR(シュア・ジャパン株式会社) プロの音づくり、その裏側を映画館で ![Image 8](https://dsp.logly.co.jp/click?ad=4AG4hpsDG-RsEbmgNoIVXl6v-joYslsjFyxKvOlt1zpmEPLVCBfo9fftBTknAL5KftNxkXtAN8X2vyRmrTS7iJrKzTuW8FwOsrS-54AAlQ054bVJ1U8166i1SYf9Inpb8iS9GRe-mFFZDUPJYKAouCrXP5nbgz8I9OQ9AruCTceIWOnIxys_cqvPxH5QtAvdZ4rF7x2nmfLNbB-1ALQfF1e1eCLm6r25xjVGPcRvfmFDCN7Aw6uLVAtsKalLZ2u96MTY0lrdhFXcA14hefx6AEYplAvjPTrqpEQrI6AEUXPEQx8F4h9AdA5APF0apmFkLoHnPLtPe405uaV6GEvAqV6GMIBCRyiGLITToO9fR22bTA75pRbgtdYnRoUTxRPmR8mUi8ht7x236MezOA6ehX1URHuIr2t0Lamgzrr7eqNGB_VEzt5ffiIQ2Ao8Ks3AAuyheJZUGwwC8vPKvaTRoQTtBTBbSGbDYru6UZYV7rGmLolRqof2_zGLx8Hy9VnKM0y_5_BYwDYi7qHaZY77LgWhcdgQMptMaJadnEx7jOV5E9TU7rps3RjiXxKonXhTYsNB4sO3LiWMmCZExdWxjLYE9qaSyUujfvVItZBuae6WdPlEwOkE1qidl22jEMb0RkKfyXmFM)
+
+公式サイトで紹介されているのは、警察のサイバー犯罪対策部門を名乗る相手から、身に覚えのない犯罪への関与を指摘される場面。逮捕状の発行まで持ち出され、個人情報を要求されています。
+
+警察を名乗る相手が、逮捕状を出すと告げて個人情報を要求。電話を切るか、情報を渡すかを選びます
+
+Image: Google
+
+画面には「電話を切る」「情報を渡す」という選択肢が表示されています。実際にこんな連絡が来たら、慌ててしまいそうですよね。
+
+ゲームには、家族に会うのを楽しみにしている退職者のMayなど、複数の人物が登場します。それぞれの立場で詐欺に遭遇し、自分が選んだ行動によって結果が変わります。
+
+家族との再会を楽しみにしている退職者のMay。登場人物の立場になって詐欺の手口を体験します
+
+Image: Google
+
+さらに、詐欺師が使う手口を紹介する「トリックカード」も収集できます。相手を焦らせたり、信用させたりする方法を知っておけば、似たような連絡が来たときにも気づきやすくなりそうです。
+
+ゲームを進めると集められる「トリックカード」。詐欺師がよく使う手口と、その対処法を学べます
+
+Image: Google
+
+もちろん、ゲームなので判断を間違えても実際に被害を受けることはありません。むしろ、どこでだまされてしまうのか、一度試してみたくなります。
+
+## 日本でも展開予定。ブラウザから遊べます
+
+このゲームは、GoogleとFilament Games（フィラメント・ゲームズ）が共同開発したもので、2025年に公開されました。
+
+スマホやPCのブラウザから無料で遊べるサービスで、すでにシンガポール、タイ、台湾で提供されています。
+
+Googleは11月3日、新たに日本、インドネシア、マレーシア、フィリピン、ベトナムへの展開を発表しました。
+
+ただし、日本での具体的な提供開始日や日本語対応の詳細は、まだ明らかになっていません。
+
+Source: Google, Be Scam Ready, Filament Games
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+#iPhone Duo#20 YEARS OF GIZMODO JAPAN#ギズマート#WOWOWしらべるTV
+
+### Ranking
+
+Daily
+
+Weekly
+
+Monthly
+
+Amazon
+
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 19,9792. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2463. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,5634. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 17,9195. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,029
+
+1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9042. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1013. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6214. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 68,9435. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,640
+
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8162. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,0983. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9044. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6725. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,101
+
+PR
+
+1.![Image 12: Anker Nano Charger Anker Nano Charger ￥2,790￥3,990](https://link.amazon/B0gjENnMn)2.![Image 13: Ulanzi CW15 ワイヤレス充電器 Ulanzi CW15 ワイヤレス充電器 ￥6,999](https://link.amazon/B06lrS1hS)3.![Image 14: 【PS5】DEATH STRANDING 2: ON THE BEACH 【PS5】DEATH STRANDING 2: ON THE BEACH ￥5,030￥8,980](https://link.amazon/B0iUQb85C)4.![Image 15: iFLYTEK AINOTE 2 iFLYTEK AINOTE 2 ￥98,800](https://link.amazon/B01k6vCIo)[5.![Image 16: [ユナイテッドアスレ] 10.0ozクルーネックスウェット](https://m.media-amazon.com/images/I/81VFZC0dCFL._AC_SX100_.jpg) [ユナイテッドアスレ] 10.0ozクルーネックスウェット ￥1,752￥3,348](https://link.amazon/B09Izdncv)
+
+## Latest
+
+Nov 6,2026 15:00 ## 「パッケージ版ゲームはあと10年で消える？」Switchのゲームカード主要メーカーが事業縮小へ ![Image 17: 「パッケージ版ゲームはあと10年で消える？」Switchのゲームカード主要メーカーが事業縮小へ](https://www.gizmodo.jp/article/2611-nintendo-switch-macronix-exit/)Nov 6,2026 14:35 ![Image 18: roomie ## ミニキッチンバサミは小回りの利く優等生。料理を仕事にする私の「包丁キャンセル」が進んだ Image 19: ミニキッチンバサミは小回りの利く優等生。料理を仕事にする私の「包丁キャンセル」が進んだ](https://www.gizmodo.jp/article/2611-mini-kitchen-scissors-houchou-cancel/)Nov 6,2026 14:15 ## 米国株式市場が急落。半導体やAI関連が下落、時価総額が400兆円近く消えたとも ![Image 20: 米国株式市場が急落。半導体やAI関連が下落、時価総額が400兆円近く消えたとも](https://www.gizmodo.jp/article/2611-us-stock-market-crash/)Nov 6,2026 14:00 ## まるで電脳インプラント。こめかみに貼るガジェットが、あまりにもディストピアッ！ ![Image 21: まるで電脳インプラント。こめかみに貼るガジェットが、あまりにもディストピアッ！](https://www.gizmodo.jp/

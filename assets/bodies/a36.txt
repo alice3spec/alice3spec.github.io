@@ -1,0 +1,90 @@
+*   グローバルナビゲーションへジャンプ
+*   メインコンテンツへジャンプ
+*   フッターへジャンプ
+
+16:26:05
+JST
+
+MENUSNS
+
+# 「パッケージ版ゲームはあと10年で消える？」Switchのゲームカード主要メーカーが事業縮小へ
+
+Nov 6,2026 15:00
+
+Kyle Barr - GIZMODO US［原文］（satomi / GIZMODOライター ）
+
+© Raymond Wong / Gizmodo
+
+儲かる部門に予算を振り分けるのは、これ、しょうがない流れ。
+
+Switch向けゲームカードのROMチップを製造してきた同社ですが、今後はROM事業を段階的に縮小する方針です。新たなROM製品の開発予定はなく、新規設備投資はeMMCやNANDなどの成長分野に振り向けるといいます。
+
+理由は「お金にならないから」。
+
+MST Financial社ゲーム業界アナリストのDavid GibsonさんのXによれば、Macronixの第3四半期の全売上に占めるSwitch用ROM製造事業の割合は5％で、1年前の2％から大きく後退していて、eMMCやNANDストレージ製造事業とは比較にならないほど規模が縮小中らしいのです。
+
+Switch 1とSwitch 2向けにずっとROMチップを卸してきた同社ではありますが、きれいサッパリ足を洗って全予算、eMMCとNANDに振り向ける方向です。
+
+> 1/4 Nintendo's main memory chip maker is quitting the Switch business Macronix, which makes the ROM chips in Switch 1 and Switch 2 game memory cards, is phasing out that business. There will be no new ROM products, and Q3 is the last quarter it reports ROM sales separately.
+>
+> — David Gibson (@gibbogame) November 4, 2026
+
+PR(ファーウェイ・ジャパン) スマートウォッチはもう出尽くした？ HUAWEI WATCH 6を着けたら考えが... ![Image 3](https://dsp.logly.co.jp/click?ad=4AG4hpsDG-RsEbmgNoIVXjE4kH8it2t3QIVHytUmkW1x4eTc4j-nKeYQdii1EAAoJO8r_N9OEQekycJovwARUyjIB3P6-1NQ9hS0QAVmICvbnQugKDqy19T5khyUQscuPI1JmRZ9GPaKrVl-yryPMg2WbSEWKRRGVXJO_wfwDqsWQL3AXhr1rsmfDocmx7VldVeSX2Mnqohl2c8Oo6fuyCh2XoKp58Sv--05RLs3PGK17YBcWBHJyv68gfmGgF4m94P67g52xvbRHB3emZG6O3x3DAga48ppdeB1RLJJasUiTYjG2T2cansSaK4dCRxtrDZ9vrPGQMUEh6DA2XIGRWjQVExC3N8I7kDCbcegGlRo1P-cD4jiO2Ra4OTMf7nQz04tllwonE1H5-BgGvmzBdNPdTf1K3PSRFojyku_pfPcTY8F7Rc1MyKKAji0ZV241Y8IRR8wctmOfl57VzbBKJXeO9qj0Mu3VFLZJR6Y971kM5N8oIfzhVM3oMMmLbXrHfjn4a1JwUd1oIc4c4ipDXCHAIo4veDsBhpNuJnOahT6c7xB-RcmmQiyosMKtzJZMLY-POBr9ZsEVjDsbaVeqg)
+
+物理的カートリッジを任天堂に納品している下請けのメーカーさんはほかにもありますが、メインのサプライヤに抜けられるのはかなりの痛手だし、代わりが見つからなかったら今後のカードの発売にも響いてきそう。
+
+すぐには影響は出ない、とアナリストは補足してますが、サプライヤが減れば、任天堂としても今以上にデジタル推しになっちゃうかもしれませんね。
+
+## 物理的ゲームソフトは残り10年？
+
+米国では今年、物理的ゲームの売上がちょこっと上がったんですけど、Circana主任ゲームアナリストのMat Piscatellaさんの分析によれば、これは主にSwitch 2の健闘によるものでありまして、大枠で見ればデジタルゲームの売上が「圧倒的大多数」を占めているのだといいます。
+
+> 「このままいけば物理的ゲームソフトに残された時間はあと10年もないだろう」
+
+とPiscatellaさんは恐ろしいこと言ってますよ（今年6月時点）。
+
+今年、米国では任天堂の一部タイトルで、パッケージ版がダウンロード版より10ドル高く設定されるようになりました。
+
+「デジタルが割引になった」と前向きに見る向きもあるけど、任天堂独自のタイトルを見る限り、割安感はあまりない感じ。『Fire Emblem: Fortunes Weave』もデジタル版が70ドルで物理版は80ドル。単に高くなったような…。
+
+8月の四半期報告では「デジタルのタイトルの占める割合は任天堂のプラットフォーム上の全売上の6割弱」だと言っていましたが、今はどうなんでしょ。任天堂とMacronixの決算報告に注目ですね。
+
+## 「キーカード」登場
+
+最近はSwitch 2発売に合わせて登場した新たな販売形式であるキーカードもサードパーティーのゲーム開発元やパブリッシャーの間では推奨されており、これが著作権保護のDRMの役目も果たしています（ダウンロードやプレイ中も本体に挿し込んでおかなきゃダメ）。
+
+キーカードは使用後の交換や売買ができる反面、初回プレイ時にはゲーム本編をダウンロードする必要があります。一度ダウンロードすればオフラインでも遊べますが、将来サーバーからダウンロードできなくなれば、新たに遊び始めることが難しくなる可能性もあります。
+
+AIファーストでゲーム用ストレージは後回しにされまくりだし。
+
+任天堂最新のゲームカードは容量最大64GBなので、それ以上容量食うタイトルは開発コストも馬鹿になりません。フラッシュストレージを作ってくれるサプライヤさんが減れば、それだけレアアイテムになってプレミアム価格になるのは必至です。
+
+「The Elder Scrolls V: Oblivion Remastered」も「Indiana Jones and the Great Circle」も物理的カード版が発売直後に完売になったけど、あんな風に、そのうちカードゲームはみなコレクターズアイテムになっちゃうのかも…。
+
+Advertisement
+
+Advertisement
+
+Advertisement
+
+#iPhone Duo#20 YEARS OF GIZMODO JAPAN#ギズマート#WOWOWしらべるTV
+
+### Ranking
+
+Daily
+
+Weekly
+
+Monthly
+
+Amazon
+
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 19,9792. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2463. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,5634. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 17,9195. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,029
+
+1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9042. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1013. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6214. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 68,9435. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,640
+
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8162. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,0983. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9044. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6725. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,101
+
+PR
+
+1.![Image 4: Anker Nano Charger Anker Nano Charger ￥2,790￥3,990](https://link.amazon/B0gjENnMn)2.![Image 5: Ulanzi CW15 ワイヤレス充電器 Ulanzi CW15 ワイヤレス充電器 ￥6,999](https://link.amazon/B06lrS1hS)3.![Image 6: 【PS5】DEATH STRANDING 2: ON THE BEACH 【PS5】DEATH STRANDING 2: ON THE BEACH ￥5,030￥8,980](https://link.amazon/B0iUQb85C)4.![Image 7: iFLYTEK AINOTE 2 iFLYTEK AINOTE 2 ￥98,800](https://link.amazon/B01k6vCIo)[5.![Image 8: [ユナイテッドアスレ] 10.0ozクルーネックスウェット](https://m.media-amazon.com/images/I/81VFZC0dCFL._AC_SX1
