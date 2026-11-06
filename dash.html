@@ -134,7 +134,7 @@
       .ix-chg.up { color: #7ee2a0; }
       .ix-chg.down { color: #ff9d8a; }
       .ix-chart { display: block; width: 100%; flex: 1 1 auto; min-height: 0; margin-top: 4px; }
-      .ix-range { display: flex; justify-content: space-between; font-size: 11px; color: rgba(255,255,255,0.65); margin-top: 2px; }
+      .ix-range { display: flex; justify-content: space-between; font-size: 11px; color: rgba(255,255,255,0.65); margin-top: 2px; } .ix-toggle { margin-left: auto; background: rgba(255,255,255,0.12); color: #cfe8ff; border: 1px solid rgba(255,255,255,0.25); border-radius: 6px; font-size: 11px; padding: 2px 8px; cursor: pointer; font-family: inherit; }
       .mini { width: 128px; flex: 0 0 auto; margin-left: 10px; padding: 9px 10px; border-left: 3px solid #ff8a5c; display: flex; flex-direction: column; justify-content: center; min-height: 0; }
       .mini-name { font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.92); }
       .mini-price { font-size: 20px; font-weight: 700; margin-top: 3px; font-variant-numeric: tabular-nums; }
@@ -387,7 +387,7 @@
             <div class="ix-head">
               <span class="ix-name">日経平均先物</span>
               <span class="ix-price" id="ix-price">--</span>
-              <span class="ix-chg" id="ix-chg"></span>
+              <span class="ix-chg" id="ix-chg"></span><button type="button" class="ix-toggle" id="ix-toggle">ローソク足</button>
             </div>
             <svg class="ix-chart" id="ix-chart" viewBox="0 0 300 78" preserveAspectRatio="none" aria-hidden="true"></svg>
             <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span>
@@ -445,7 +445,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v35";
+      var PAGE_VER = "v36";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -574,6 +574,7 @@
         return s + out;
       }
       function renderIndex(ix) {
+        lastIx = ix;
         var box = $("index");
         if (!ix || typeof ix.price !== "number" || !ix.points || !ix.points.length) {
           box.style.display = "none";
@@ -592,7 +593,13 @@
         }
         var pts = ix.points;
         var min = Infinity, max = -Infinity, i, v;
-        for (i = 0; i < pts.length; i++) { v = pts[i][1]; if (v < min) min = v; if (v > max) max = v; }
+        for (i = 0; i < pts.length; i++) {
+          v = pts[i][1]; if (v < min) min = v; if (v > max) max = v;
+          if (ixMode === "candle" && pts[i].length >= 5) {
+            if (pts[i][3] > max) max = pts[i][3];
+            if (pts[i][4] < min) min = pts[i][4];
+          }
+        }
         if (typeof ix.prev === "number") { if (ix.prev < min) min = ix.prev; if (ix.prev > max) max = ix.prev; }
         var pad = (max - min) * 0.08 || 1;
         min -= pad; max += pad;
@@ -608,8 +615,23 @@
         if (typeof ix.prev === "number") {
           svg += "<line x1=\"0\" y1=\"" + Y(ix.prev) + "\" x2=\"" + W + "\" y2=\"" + Y(ix.prev) + "\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"1\" stroke-dasharray=\"4 3\" vector-effect=\"non-scaling-stroke\"/>";
         }
-        svg += "<path d=\"" + line + "\" fill=\"none\" stroke=\"" + col + "\" stroke-width=\"2\" vector-effect=\"non-scaling-stroke\"/>";
-        svg += "<circle cx=\"" + X(pts.length - 1) + "\" cy=\"" + Y(pts[pts.length - 1][1]) + "\" r=\"3\" fill=\"" + col + "\"/>";
+        if (ixMode === "candle" && pts.length && pts[0].length >= 5) {
+          /* candlesticks: one per 5-min bar; body = open..close,
+             wick = low..high; up green / down red (JP convention) */
+          var bw = Math.max(W / pts.length * 0.62, 0.8);
+          for (i = 0; i < pts.length; i++) {
+            var o = pts[i][2], h = pts[i][3], l = pts[i][4], c = pts[i][1];
+            var cc = (c >= o) ? "#7ee2a0" : "#ff9d8a";
+            var cx = X(i);
+            svg += "<line x1=\"" + cx + "\" y1=\"" + Y(h) + "\" x2=\"" + cx + "\" y2=\"" + Y(l) + "\" stroke=\"" + cc + "\" stroke-width=\"1\" vector-effect=\"non-scaling-stroke\"/>";
+            var yTop = Y(Math.max(o, c)), yBot = Y(Math.min(o, c));
+            if (yBot - yTop < 0.7) { yBot = yTop + 0.7; }
+            svg += "<rect x=\"" + (cx - bw / 2).toFixed(1) + "\" y=\"" + yTop + "\" width=\"" + bw.toFixed(1) + "\" height=\"" + (yBot - yTop).toFixed(1) + "\" fill=\"" + cc + "\"/>";
+          }
+        } else {
+          svg += "<path d=\"" + line + "\" fill=\"none\" stroke=\"" + col + "\" stroke-width=\"2\" vector-effect=\"non-scaling-stroke\"/>";
+          svg += "<circle cx=\"" + X(pts.length - 1) + "\" cy=\"" + Y(pts[pts.length - 1][1]) + "\" r=\"3\" fill=\"" + col + "\"/>";
+        }
         $("ix-chart").innerHTML = svg;
         $("ix-note").textContent = "高 " + fmtNum(max - pad) + " ／ 安 " + fmtNum(min + pad);
         $("ix-open").textContent = pts[0][0];
@@ -712,6 +734,24 @@
           })(shown[i]);
         }
       }
+
+      /* futures chart mode: "line" | "candle", kept on-device */
+      var ixMode = "line";
+      var lastIx = null;
+      try { ixMode = localStorage.getItem("ixMode") || "line"; } catch (e) { }
+      function syncIxToggle() {
+        var b = $("ix-toggle");
+        if (b) { b.textContent = (ixMode === "candle") ? "ライン" : "ローソク足"; }
+      }
+      document.addEventListener("DOMContentLoaded", function () { syncIxToggle(); });
+      document.addEventListener("click", function (ev) {
+        if (ev.target && ev.target.id === "ix-toggle") {
+          ixMode = (ixMode === "candle") ? "line" : "candle";
+          try { localStorage.setItem("ixMode", ixMode); } catch (e) { }
+          syncIxToggle();
+          if (lastIx) { renderIndex(lastIx); }
+        }
+      });
 
       function loadNews() {
         if (newsLoading) return;
