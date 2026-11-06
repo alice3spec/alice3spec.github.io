@@ -1,43 +1,48 @@
-米国株式市場が急落。半導体やAI関連が下落、時価総額が400兆円近く消えたとも
+まるで電脳インプラント。こめかみに貼るガジェットが、あまりにもディストピアッ！
 
-Nov 6,2026 14:15
+Nov 6,2026 14:00
 
-かみやまたくみ ( GIZMODO編集部 / 残響言語文法論 )
+ヤマダユウス型 ( GIZMODOライター )
 
-Image: Shutterstock
+Screenshot: Temple
 
-これからどうなるの…。
+『Detroit: Become Human』だこれ！
 
-2026年11月6日、各社が米国株式市場の急落を報じています。
+インドのフードデリバリー大手Zomatoの創業者である、ディピンダー・ゴヤル氏。同氏が手がけたヘルストラッカー「Temple（テンプル）」が、2026年11月1日から全世界向けに予約受付を始めました。
 
-CNN.co.jpは「時価総額で約2兆5000億ドル（約395兆円）が消失した」と、Bloombergは「ナスダック100の時価総額が2兆3000億ドル（約363兆円）減少した」と書き、その下げ幅の大きさを伝えています。
+ユニークなのはそのデザイン。トラッカーは手首でも指でもなく、その名のとおり、こめかみ（temple）にペタっと貼り付けるのです。
 
-この影響は東京株式市場にも波及しており、日テレNEWSは6日朝、日経平均株価が一時、6万円を下回り、5万7000円も割ったと報じています。
+> Does @temple really monitor blood flow to the brain, or just the scalp? In our second validation study, we tested Temple BrainFlow against time-domain NIRS, one of the few technologies that can separate brain blood volume changes from scalp blood volume changes. We had 60 participants go through three physiological challenges: head-down tilt, stand-to-squat, stand-to-supine. Across all three challenges, Temple BrainFlow tracked brain blood volume at r=0.84-0.91, significantly more than scalp blood volume. The most significant result came from head-down tilt, where Temple's correlation with the brain was 0.91, and scalp correlation was just 0.49. Key takeaway: Temple tracks the brain, much more than the scalp. Why this matters: Cerebral Blood Flow responds to almost everything longevity-oriented people already do. It rises with aerobic exercise, and VO2max correlates directly with it. It rises with cold exposure. It rises with meditation. Better sleep sustains it. It drops when you sit for too long. It drops when you are dehydrated. It is one of the most responsive and integrative biomarkers of how well your body is actually running, and aging. Until now, you could only measure it in a clinical setting, in a single snapshot. Temple measures it continuously, in real time, while you live your life. And Temple is, as of today, the only wearable in the world with validations against brain blood volume, and not just scalp. This study was guided by our Scientific Advisor, Prof. David Boas, Director of Boston University's Neurophotonics Center, and the mind behind several new, high-impact, biomedical optical technologies in neuroscience, including NIRS. This is the second modality Temple BrainFlow is now validated against, after Transcranial Doppler. More coming soon. Link: https://t.co/zETs9gn5Cg The paper is posted as a preprint and submitted for peer review. We encourage researchers to replicate this. We'll happily loan Temples to any qualified researcher who wants to pressure-test any of our metrics independently. Cc @agingroy
+>
+> — Deepinder Goyal (@deepigoyal) September 25, 2026
 
-### 具体的に何が下がったか？：半導体とかAIとか
+## まるで電脳インプラント
 
-AP通信によると、11月5日の米国市場の終値は以下のようになっていたそうです。
+こめかみに光る金属の粒は、どう見てもサイバーパンク作品のインプラント的なそれ。実際、ゴヤル氏が開発中の金色のTempleを着けた写真が出回ったときは「インフィニティ・ストーン？」といじられたほど。
 
-*   S&P 500：4.4%安
-*   ダウ平均：3.4%安
-*   ナスダック総合：5.5%安
+Image: Digit
 
-ナスダックはAI関連株・その他テクノロジー関連株が満載です。
+気になる取り付け方法は、使い捨ての粘着パッドで貼るだけ。 パッドは2〜3日の保持力があり、交換用パッドは本体価格に生涯分が含まれているとのこと。カラーは6色用意されています。
 
-個別株では以下を例に挙げており、半導体やAIデータセンター、AIブーム関係の企業の株価が下落しているようです。
+Screenshot: Temple
 
-*   NVIDIA（半導体）：9.3%安
-*   AMD（半導体）：17.3%安
-*   CoreWeave（AIデータセンター運営）：9.8%安
-*   GE Vernova（発電設備）：7.5%安
+どの色でもインパクトありますねぇ…。
 
-### 原因は？：米中間選挙での民主党の勝利→AIインフラ整備懸念
+## 脳の血流と、放熱を測る
 
-米国の中間選挙では民主党が勝利しましたが、同党がAIデータセンター建設などのAIインフラ整備にブレーキをかける可能性が懸念され、それが急落の主な原因として報じられています。
+トラッカーとしてのスペックは、心拍数や睡眠、歩数といった基本の計測に加え、脳への血流の変化を光学センサーで追うBrainFlow。もうひとつが、体が熱を逃がすためにどれだけ働いているかを示すEntropyという独自指標です。
 
-元々AI投資には不安感が広がっていました。
+ただし、こめかみでの計測が脳の奥の血流をどこまで反映できるのかは疑問視されていて、臨床的な裏付けの乏しさを指摘する医師の声も。診断の代わりというより、体調を探る道具と考えたほうがよさそうです。
 
-Source: CNN.co.jp, Bloomberg, 日テレNEWS, AP
+ちなみに創業者のゴヤル氏は、長年の重力で脳に血が届きにくくなり老化が進むという、独自の重力老化仮説を提唱しています。毎日10分以上の逆さま姿勢で脳の血流が7％増えたと語るなど、なかなかの奇人、もとい探究心の持ち主でいらっしゃいます。
+
+お値段は約1,000ドル（約15万円）。日本からも注文はできますが、国内での正規販売や技適の取得状況はまだわかっていません。こめかみから測定することに一定の合理性はあるようですが、なにせ見た目がSF過ぎるよ…！
+
+Image: Fandom
+
+いずれは埋め込んで、ここまでいってしまうのだろうか…。
+
+Source: Temple, Businesstoday, Storyboard18, Fandom
 
 Advertisement
 
@@ -57,11 +62,11 @@ Monthly
 
 Amazon
 
-1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 19,9992. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2563. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,5864. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 17,9835. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,043
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 20,0402. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2763. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,6274. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 18,1105. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,089
 
-1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9202. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1083. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6314. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 68,9665. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,642
+1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9472. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1133. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6664. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 69,0055. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,649
 
-1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8182. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,1003. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9204. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6775. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,108
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8232. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,1063. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9474. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6935. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,113
 
 PR
 
@@ -79,22 +84,4 @@ Monthly
 
 Amazon
 
-1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 19,9992. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2563. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,5864. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 17,9835. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,043
-
-1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9202. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1083. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6314. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 68,9665. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,642
-
-1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8182. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,1003. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9204. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6775. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,108
-
-PR
-
-## Review
-
-## Sale
-
-© 2026 Mediagene Inc.
-
-運営会社媒体資料のお問い合わせ
-
-プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
-
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:0
