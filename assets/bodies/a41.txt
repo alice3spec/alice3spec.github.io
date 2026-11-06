@@ -1,48 +1,54 @@
-まるで電脳インプラント。こめかみに貼るガジェットが、あまりにもディストピアッ！
+「パッケージ版ゲームはあと10年で消える？」Switchのゲームカード主要メーカーが事業縮小へ
 
-Nov 6,2026 14:00
+Nov 6,2026 15:00
 
-ヤマダユウス型 ( GIZMODOライター )
+Kyle Barr - GIZMODO US［原文］（satomi / GIZMODOライター ）
 
-Screenshot: Temple
+© Raymond Wong / Gizmodo
 
-『Detroit: Become Human』だこれ！
+儲かる部門に予算を振り分けるのは、これ、しょうがない流れ。
 
-インドのフードデリバリー大手Zomatoの創業者である、ディピンダー・ゴヤル氏。同氏が手がけたヘルストラッカー「Temple（テンプル）」が、2026年11月1日から全世界向けに予約受付を始めました。
+Switch向けゲームカードのROMチップを製造してきた同社ですが、今後はROM事業を段階的に縮小する方針です。新たなROM製品の開発予定はなく、新規設備投資はeMMCやNANDなどの成長分野に振り向けるといいます。
 
-ユニークなのはそのデザイン。トラッカーは手首でも指でもなく、その名のとおり、こめかみ（temple）にペタっと貼り付けるのです。
+理由は「お金にならないから」。
 
-> Does @temple really monitor blood flow to the brain, or just the scalp? In our second validation study, we tested Temple BrainFlow against time-domain NIRS, one of the few technologies that can separate brain blood volume changes from scalp blood volume changes. We had 60 participants go through three physiological challenges: head-down tilt, stand-to-squat, stand-to-supine. Across all three challenges, Temple BrainFlow tracked brain blood volume at r=0.84-0.91, significantly more than scalp blood volume. The most significant result came from head-down tilt, where Temple's correlation with the brain was 0.91, and scalp correlation was just 0.49. Key takeaway: Temple tracks the brain, much more than the scalp. Why this matters: Cerebral Blood Flow responds to almost everything longevity-oriented people already do. It rises with aerobic exercise, and VO2max correlates directly with it. It rises with cold exposure. It rises with meditation. Better sleep sustains it. It drops when you sit for too long. It drops when you are dehydrated. It is one of the most responsive and integrative biomarkers of how well your body is actually running, and aging. Until now, you could only measure it in a clinical setting, in a single snapshot. Temple measures it continuously, in real time, while you live your life. And Temple is, as of today, the only wearable in the world with validations against brain blood volume, and not just scalp. This study was guided by our Scientific Advisor, Prof. David Boas, Director of Boston University's Neurophotonics Center, and the mind behind several new, high-impact, biomedical optical technologies in neuroscience, including NIRS. This is the second modality Temple BrainFlow is now validated against, after Transcranial Doppler. More coming soon. Link: https://t.co/zETs9gn5Cg The paper is posted as a preprint and submitted for peer review. We encourage researchers to replicate this. We'll happily loan Temples to any qualified researcher who wants to pressure-test any of our metrics independently. Cc @agingroy
+MST Financial社ゲーム業界アナリストのDavid GibsonさんのXによれば、Macronixの第3四半期の全売上に占めるSwitch用ROM製造事業の割合は5％で、1年前の2％から大きく後退していて、eMMCやNANDストレージ製造事業とは比較にならないほど規模が縮小中らしいのです。
+
+Switch 1とSwitch 2向けにずっとROMチップを卸してきた同社ではありますが、きれいサッパリ足を洗って全予算、eMMCとNANDに振り向ける方向です。
+
+> 1/4 Nintendo's main memory chip maker is quitting the Switch business Macronix, which makes the ROM chips in Switch 1 and Switch 2 game memory cards, is phasing out that business. There will be no new ROM products, and Q3 is the last quarter it reports ROM sales separately.
 >
-> — Deepinder Goyal (@deepigoyal) September 25, 2026
+> — David Gibson (@gibbogame) November 4, 2026
 
-## まるで電脳インプラント
+物理的カートリッジを任天堂に納品している下請けのメーカーさんはほかにもありますが、メインのサプライヤに抜けられるのはかなりの痛手だし、代わりが見つからなかったら今後のカードの発売にも響いてきそう。
 
-こめかみに光る金属の粒は、どう見てもサイバーパンク作品のインプラント的なそれ。実際、ゴヤル氏が開発中の金色のTempleを着けた写真が出回ったときは「インフィニティ・ストーン？」といじられたほど。
+すぐには影響は出ない、とアナリストは補足してますが、サプライヤが減れば、任天堂としても今以上にデジタル推しになっちゃうかもしれませんね。
 
-Image: Digit
+## 物理的ゲームソフトは残り10年？
 
-気になる取り付け方法は、使い捨ての粘着パッドで貼るだけ。 パッドは2〜3日の保持力があり、交換用パッドは本体価格に生涯分が含まれているとのこと。カラーは6色用意されています。
+米国では今年、物理的ゲームの売上がちょこっと上がったんですけど、Circana主任ゲームアナリストのMat Piscatellaさんの分析によれば、これは主にSwitch 2の健闘によるものでありまして、大枠で見ればデジタルゲームの売上が「圧倒的大多数」を占めているのだといいます。
 
-Screenshot: Temple
+> 「このままいけば物理的ゲームソフトに残された時間はあと10年もないだろう」
 
-どの色でもインパクトありますねぇ…。
+とPiscatellaさんは恐ろしいこと言ってますよ（今年6月時点）。
 
-## 脳の血流と、放熱を測る
+今年、米国では任天堂の一部タイトルで、パッケージ版がダウンロード版より10ドル高く設定されるようになりました。
 
-トラッカーとしてのスペックは、心拍数や睡眠、歩数といった基本の計測に加え、脳への血流の変化を光学センサーで追うBrainFlow。もうひとつが、体が熱を逃がすためにどれだけ働いているかを示すEntropyという独自指標です。
+「デジタルが割引になった」と前向きに見る向きもあるけど、任天堂独自のタイトルを見る限り、割安感はあまりない感じ。『Fire Emblem: Fortunes Weave』もデジタル版が70ドルで物理版は80ドル。単に高くなったような…。
 
-ただし、こめかみでの計測が脳の奥の血流をどこまで反映できるのかは疑問視されていて、臨床的な裏付けの乏しさを指摘する医師の声も。診断の代わりというより、体調を探る道具と考えたほうがよさそうです。
+8月の四半期報告では「デジタルのタイトルの占める割合は任天堂のプラットフォーム上の全売上の6割弱」だと言っていましたが、今はどうなんでしょ。任天堂とMacronixの決算報告に注目ですね。
 
-ちなみに創業者のゴヤル氏は、長年の重力で脳に血が届きにくくなり老化が進むという、独自の重力老化仮説を提唱しています。毎日10分以上の逆さま姿勢で脳の血流が7％増えたと語るなど、なかなかの奇人、もとい探究心の持ち主でいらっしゃいます。
+## 「キーカード」登場
 
-お値段は約1,000ドル（約15万円）。日本からも注文はできますが、国内での正規販売や技適の取得状況はまだわかっていません。こめかみから測定することに一定の合理性はあるようですが、なにせ見た目がSF過ぎるよ…！
+最近はSwitch 2発売に合わせて登場した新たな販売形式であるキーカードもサードパーティーのゲーム開発元やパブリッシャーの間では推奨されており、これが著作権保護のDRMの役目も果たしています（ダウンロードやプレイ中も本体に挿し込んでおかなきゃダメ）。
 
-Image: Fandom
+キーカードは使用後の交換や売買ができる反面、初回プレイ時にはゲーム本編をダウンロードする必要があります。一度ダウンロードすればオフラインでも遊べますが、将来サーバーからダウンロードできなくなれば、新たに遊び始めることが難しくなる可能性もあります。
 
-いずれは埋め込んで、ここまでいってしまうのだろうか…。
+AIファーストでゲーム用ストレージは後回しにされまくりだし。
 
-Source: Temple, Businesstoday, Storyboard18, Fandom
+任天堂最新のゲームカードは容量最大64GBなので、それ以上容量食うタイトルは開発コストも馬鹿になりません。フラッシュストレージを作ってくれるサプライヤさんが減れば、それだけレアアイテムになってプレミアム価格になるのは必至です。
+
+「The Elder Scrolls V: Oblivion Remastered」も「Indiana Jones and the Great Circle」も物理的カード版が発売直後に完売になったけど、あんな風に、そのうちカードゲームはみなコレクターズアイテムになっちゃうのかも…。
 
 Advertisement
 
@@ -62,11 +68,11 @@ Monthly
 
 Amazon
 
-1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 20,0402. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2763. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,6274. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 18,1105. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,089
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 20,0672. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,3093. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,6714. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 18,2165. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,126
 
-1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9472. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1133. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6664. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 69,0055. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,649
+1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9672. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1223. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,7034. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 69,0715. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,659
 
-1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8232. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,1063. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9474. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6935. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,113
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8272. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,1113. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9674. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,7035. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,122
 
 PR
 
@@ -84,4 +90,22 @@ Monthly
 
 Amazon
 
-1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:0
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 20,0672. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,3093. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,6714. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 18,2165. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,126
+
+1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9672. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1223. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,7034. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 69,0715. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,659
+
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8272. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,1113. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9674. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,7035. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,122
+
+PR
+
+## Review
+
+## Sale
+
+© 2026 Mediagene Inc.
+
+運営会社媒体資料のお問い合わせ
+
+プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
+
+FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMoby
