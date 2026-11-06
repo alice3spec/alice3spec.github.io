@@ -443,7 +443,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v31";
+      var PAGE_VER = "v32";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -546,7 +546,7 @@
 
         /* 3-hourly strip (v16 right top): 7 slots with rainfall mm */
         var html = "";
-        var slots = w.hours3 || [];
+        var slots = (w.hours3 || []).slice(0, 5);
         for (var i = 0; i < slots.length; i++) {
           var h = slots[i];
           var dt = new Date(h.time);
