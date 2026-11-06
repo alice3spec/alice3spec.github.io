@@ -442,7 +442,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v17";
+      var PAGE_VER = "v18";
       function markUpdated() {
         lastUpdated = new Date();
         $("foot").textContent = PAGE_VER + " ・ " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes()) + " 更新";
@@ -855,15 +855,18 @@
         return m ? m[1] : null;
       }
       function checkForUpdate() {
-        /* fetch with an explicit no-store request: this old WebView's
-           XHR was observed serving the cached page copy, which made the
-           version check compare the cache against itself and never fire */
+        /* The check runs inside the served v16 page too (its code cannot
+           be patched remotely), so it must work from there: fetch the
+           small version.json (written by the data cron on every cycle)
+           instead of the page HTML, which GitHub Pages' CDN keeps
+           serving from cache for ~10 min after each deploy. */
         try {
-          fetch("./?chk=" + new Date().getTime(), { cache: "no-store" }).then(function (res) {
+          fetch("version.json?chk=" + new Date().getTime(), { cache: "no-store" }).then(function (res) {
             if (!res.ok) { throw new Error("HTTP " + res.status); }
             return res.text();
-          }).then(function (html) {
-            var v = extractVer(html);
+          }).then(function (txt) {
+            var m = /"ver"\s*:\s*"([^"]+)"/.exec(txt || "");
+            var v = m ? m[1] : null;
             if (v && v !== PAGE_VER) { location.reload(); }
           }).catch(function () { /* stay on the current build */ });
         } catch (e) { /* stay on the current build */ }
