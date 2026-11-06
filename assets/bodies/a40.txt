@@ -1,48 +1,106 @@
-まるで電脳インプラント。こめかみに貼るガジェットが、あまりにもディストピアッ！
+ミニキッチンバサミは小回りの利く優等生。料理を仕事にする私の「包丁キャンセル」が進んだ
 
-Nov 6,2026 14:00
+Nov 6,2026 14:35
 
-ヤマダユウス型 ( GIZMODOライター )
+Photo: レシピのしおり
 
-Screenshot: Temple
+ROOMIE 2026年10月20日掲載の記事より転載
 
-『Detroit: Become Human』だこれ！
+料理のたびに包丁とまな板を出して、使ったら洗って、拭いて、しまって……。ちょっと切りたいだけのときほど、この一連の流れが面倒に感じます。
 
-インドのフードデリバリー大手Zomatoの創業者である、ディピンダー・ゴヤル氏。同氏が手がけたヘルストラッカー「Temple（テンプル）」が、2026年11月1日から全世界向けに予約受付を始めました。
+最近、「包丁キャンセル界隈」という言葉を耳にするようになりました。
 
-ユニークなのはそのデザイン。トラッカーは手首でも指でもなく、その名のとおり、こめかみ（temple）にペタっと貼り付けるのです。
+ごはん作りの際になるべく包丁を使わず、キッチンバサミなどを駆使して料理をしようという考え方のことを指すようです。
 
-> Does @temple really monitor blood flow to the brain, or just the scalp? In our second validation study, we tested Temple BrainFlow against time-domain NIRS, one of the few technologies that can separate brain blood volume changes from scalp blood volume changes. We had 60 participants go through three physiological challenges: head-down tilt, stand-to-squat, stand-to-supine. Across all three challenges, Temple BrainFlow tracked brain blood volume at r=0.84-0.91, significantly more than scalp blood volume. The most significant result came from head-down tilt, where Temple's correlation with the brain was 0.91, and scalp correlation was just 0.49. Key takeaway: Temple tracks the brain, much more than the scalp. Why this matters: Cerebral Blood Flow responds to almost everything longevity-oriented people already do. It rises with aerobic exercise, and VO2max correlates directly with it. It rises with cold exposure. It rises with meditation. Better sleep sustains it. It drops when you sit for too long. It drops when you are dehydrated. It is one of the most responsive and integrative biomarkers of how well your body is actually running, and aging. Until now, you could only measure it in a clinical setting, in a single snapshot. Temple measures it continuously, in real time, while you live your life. And Temple is, as of today, the only wearable in the world with validations against brain blood volume, and not just scalp. This study was guided by our Scientific Advisor, Prof. David Boas, Director of Boston University's Neurophotonics Center, and the mind behind several new, high-impact, biomedical optical technologies in neuroscience, including NIRS. This is the second modality Temple BrainFlow is now validated against, after Transcranial Doppler. More coming soon. Link: https://t.co/zETs9gn5Cg The paper is posted as a preprint and submitted for peer review. We encourage researchers to replicate this. We'll happily loan Temples to any qualified researcher who wants to pressure-test any of our metrics independently. Cc @agingroy
->
-> — Deepinder Goyal (@deepigoyal) September 25, 2026
+包丁をまったく使わない、というのはなかなか難しいもの。それでも、できるだけ多くの作業をハサミで手軽に済ませたい気持ちは、料理を仕事にしている私も同じです。
 
-## まるで電脳インプラント
+わが家もここ1年ほどで、包丁キャンセルがだいぶ進みました。そのきっかけになったのが、小ぶりで使いやすいミニキッチンバサミです。
 
-こめかみに光る金属の粒は、どう見てもサイバーパンク作品のインプラント的なそれ。実際、ゴヤル氏が開発中の金色のTempleを着けた写真が出回ったときは「インフィニティ・ストーン？」といじられたほど。
+## 文具に近いサイズで、小回りが利く
 
-Image: Digit
+Photo: レシピのしおり
 
-気になる取り付け方法は、使い捨ての粘着パッドで貼るだけ。 パッドは2〜3日の保持力があり、交換用パッドは本体価格に生涯分が含まれているとのこと。カラーは6色用意されています。
+#### Three Snow 新越ワークス 「小振りなキッチンバサミ」 3,190円（税込）
 
-Screenshot: Temple
+それがこちら、Three Snow 新越ワークスの「小振りなキッチンバサミ」です。
 
-どの色でもインパクトありますねぇ…。
+わが家にはスタンダードなサイズのキッチンバサミが1本あったのですが、もう少し小回りが利いて、細かい作業もできるハサミが欲しいと思い、2本目の“サブはさみ”として迎え入れました。
 
-## 脳の血流と、放熱を測る
+Photo: レシピのしおり
 
-トラッカーとしてのスペックは、心拍数や睡眠、歩数といった基本の計測に加え、脳への血流の変化を光学センサーで追うBrainFlow。もうひとつが、体が熱を逃がすためにどれだけ働いているかを示すEntropyという独自指標です。
+全長は約17.3cm、重さは約55gと軽く、手に持った感覚も文具のハサミに近いサイズ感。
 
-ただし、こめかみでの計測が脳の奥の血流をどこまで反映できるのかは疑問視されていて、臨床的な裏付けの乏しさを指摘する医師の声も。診断の代わりというより、体調を探る道具と考えたほうがよさそうです。
+刃先まで思いどおりに動かしやすく、細かな作業にも使いやすいです。
 
-ちなみに創業者のゴヤル氏は、長年の重力で脳に血が届きにくくなり老化が進むという、独自の重力老化仮説を提唱しています。毎日10分以上の逆さま姿勢で脳の血流が7％増えたと語るなど、なかなかの奇人、もとい探究心の持ち主でいらっしゃいます。
+## 滑りにくく、汚れがたまりにくい
 
-お値段は約1,000ドル（約15万円）。日本からも注文はできますが、国内での正規販売や技適の取得状況はまだわかっていません。こめかみから測定することに一定の合理性はあるようですが、なにせ見た目がSF過ぎるよ…！
+Photo: レシピのしおり
 
-Image: Fandom
+刃をよく見ると細かなギザギザが刻まれていて、滑りやすい食材も切りやすいつくりになっています。
 
-いずれは埋め込んで、ここまでいってしまうのだろうか…。
+また、持ち手までステンレス製で、樹脂パーツとの継ぎ目がありません。汚れがたまりにくく、洗いやすいのも気に入っています。
 
-Source: Temple, Businesstoday, Storyboard18, Fandom
+## 油揚げも薄切り肉も、まな板なしでサッと切れる
+
+Photo: レシピのしおり
+
+文具に近いサイズのおかげで、これまで包丁で切っていた細かい作業を、このハサミに任せられるようになりました。
+
+たとえば、油揚げや小ねぎを刻んだり、豚の薄切り肉を食べやすい大きさに切ったりするのもスムーズ。
+
+肉のパックや鍋の上でそのまま切ることもできるので、まな板を出す機会が減りました。
+
+Advertisement
+
+## ブロッコリーの小房分けが、驚くほどスムーズ
+
+Photo: レシピのしおり
+
+なかでもいちばん楽になったのが、ブロッコリーを小房に分ける作業。
+
+買ってきたブロッコリーの茎を外すのも、房ごとに分けるのも、このハサミだけで完結します。
+
+複雑に枝分かれした房の間にもスリムな刃先がスルッと入るので、包丁を使うよりも手早く、食べやすい大きさに切り分けられるようになりました。
+
+## 使い終わったら分解して食洗機へ
+
+Photo: レシピのしおり
+
+使ったあとは刃を分解できるので、重なっていた部分までしっかり洗えます。
+
+Photo: レシピのしおり
+
+オールステンレス製で、食洗機にも対応。生肉や油分の多い食材を切ったあとは、いつも食洗機に入れて洗っています。
+
+包丁を使わずに済んでも、ハサミを洗うのが面倒では意味がないので、分解してそのまま食洗機に入れられるのはかなり助かっています。
+
+## レトルトのパウチや牛乳パックもすいすい切れる
+
+Photo: レシピのしおり
+
+食材以外にも、レトルトのパウチを開けたり、牛乳パックを切り開いて乾かしたりするときにも活躍しています。
+
+レトルトの袋を開けたときに中身が刃先についてしまっても、文具のハサミと違って分解して丸洗いできるので、気兼ねなく使えます。
+
+## サブのつもりが、いつの間にかメイン級の活躍
+
+Photo: レシピのしおり
+
+サブはさみのつもりで買ったのに、気づけばこちらがメイン級の活躍をしてくれるようになりました。
+
+Photo: レシピのしおり
+
+これまで使っていた大きなキッチンバサミとは得意な作業が違うので、うまく使い分ければ、ごはん作りの「包丁キャンセル」はまだまだ進められそうです。
+
+今では、包丁とまな板を出すほどでもない作業なら、まずこのハサミに手が伸びるようになりました。
+
+レシピのしおり
+
+関東の小さな戸建てで夫・娘・猫と暮らす家庭料理ライター。執筆歴は10年以上。調理や撮影を通して、さまざまなキッチン道具を使ってきました。流行も追いつつ、惹かれるのは機能と佇まいを兼ね備えた「知られざる優秀な一品」。そんなキッチン道具をじっくり発掘するのが好きです。「レシピ本と料理のnote」運営中。
+
+3,190 円
+
+PR
 
 Advertisement
 
@@ -62,11 +120,11 @@ Monthly
 
 Amazon
 
-1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 19,9992. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2563. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,5864. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 17,9835. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,043
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 19,9682. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2403. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,5554. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 17,8895. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,019
 
-1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9202. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1083. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6314. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 68,9665. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,642
+1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,8952. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1013. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6134. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 68,9245. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,634
 
-1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8182. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,1003. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,9204. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6775. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,108
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8152. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,0973. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,8954. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6675. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,101
 
 PR
 
@@ -84,4 +142,22 @@ Monthly
 
 Amazon
 
-1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:0
+1. 服の袖がタッチ画面になりました。ガンガン洗濯しても大丈夫、動画再生もできます Nov 4,2026 22:00 19,9682. PCの乗っ取りを狙うClaude Code拡張、発見される。削除だけでは対策不十分 Nov 4,2026 19:00 21,2403. タップしなくてもスマホ乗っ取られるかも。Androidの11月更新で重大な脆弱性を修正 Nov 4,2026 22:30 14,5554. 問題：今日と明日、OpenAIのサム・アルトマン氏は仕事をお休みします。なぜでしょう？ 答：ゼル… Nov 5,2026 12:15 17,8895. 住民の不満が噴出。データセンターの騒音、議員にも聞かせてみた Nov 5,2026 12:30 11,019
+
+1. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,8952. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,1013. 古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」 Oct 31,2026 13:00 85,6134. 控えめに言って大進化の新型iPad mini、取り急ぎのハンズオンレビュー Oct 30,2026 12:20 68,9245. 頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される Oct 31,2026 17:15 73,634
+
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 148,8152. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,0973. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 127,8954. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 120,6675. データ漏洩に備えて自衛。手のひらサイズの「データ金庫」 Oct 30,2026 16:00 106,101
+
+PR
+
+## Review
+
+## Sale
+
+© 2026 Mediagene Inc.
+
+運営会社媒体資料のお問い合わせ
+
+プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
+
+FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMa
