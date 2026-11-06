@@ -321,54 +321,56 @@
 
     <!-- ============ DASHBOARD ============ -->
     <div class="dash" id="dash">
-      <div class="col-l">
-        <div class="clock"><span id="clock-main">--:--</span><span class="sec" id="clock-sec">--</span></div>
-        <div class="date-line" id="date-line">読み込み中…</div>
-
-        <div class="weather" id="weather">
-          <div class="wx-now">
-            <div class="wx-icon" id="wx-icon">⌛</div>
-            <div class="wx-temp" id="wx-temp">--°</div>
-            <div class="wx-side">
-              <div class="wx-place">葉山町</div>
-              <div class="wx-cond" id="wx-cond">天気を取得中</div>
+      <div class="row-top">
+        <div class="card wxcard">
+          <div class="clock"><span id="clock-main">--:--</span><span class="sec" id="clock-sec">--</span></div>
+          <div class="date-line" id="date-line">読み込み中…</div>
+          <div class="weather" id="weather">
+            <div class="wx-now">
+              <div class="wx-icon" id="wx-icon">⌛</div>
+              <div class="wx-temp" id="wx-temp">--°</div>
+              <div class="wx-side">
+                <div class="wx-place">葉山町</div>
+                <div class="wx-cond" id="wx-cond">天気を取得中</div>
+              </div>
             </div>
+            <div class="wx-hilo" id="wx-hilo"></div>
+            <div class="wx-tmr" id="wx-tmr"></div>
+            <div class="wx-rain" id="wx-rain"></div>
+            <div class="wx-hours" id="wx-hours"></div>
           </div>
-          <div class="wx-hilo" id="wx-hilo"></div>
-          <div class="wx-tmr" id="wx-tmr"></div>
-          <div class="wx-rain" id="wx-rain"></div>
-          <div class="wx-hours" id="wx-hours"></div>
+          <div class="foot" id="foot">--:-- 更新</div>
         </div>
-        <div class="wx-spacer"></div>
-        <div class="foot" id="foot">--:-- 更新</div>
-      </div>
 
-      <div class="col-r">
         <div class="card strip-card">
           <div class="strip-head"><span class="strip-title">3時間ごとの天気</span><span class="strip-sub">気温 / 降水量</span></div>
           <div class="strip" id="strip3"></div>
         </div>
+      </div>
 
-        <div class="newsrow">
-          <div class="card panel">
-            <div class="y-head"><span class="y-name">Yahoo!ニュース</span><span class="y-upd" id="y-upd"></span></div>
-            <div class="news-list" id="news-list">
-              <div class="news-msg">読み込み中…</div>
-            </div>
+      <div class="row-bottom">
+        <div class="card panel">
+          <div class="y-head"><span class="y-name">Yahoo!ニュース</span><span class="y-upd" id="y-upd"></span></div>
+          <div class="news-list" id="news-list">
+            <div class="news-msg">読み込み中…</div>
           </div>
-          <div class="mini-col">
-            <div class="card mini" id="index">
-              <div class="mini-name">日経平均先物</div>
-              <div class="mini-price" id="ix-price">--</div>
-              <div class="mini-chg" id="ix-chg"></div>
-              <div class="mini-note" id="ix-note">CME・円建て</div>
+        </div>
+
+        <div class="fxarea">
+          <div class="card index" id="index" style="display:none">
+            <div class="ix-head">
+              <span class="ix-name">日経平均先物</span>
+              <span class="ix-price" id="ix-price">--</span>
+              <span class="ix-chg" id="ix-chg"></span>
             </div>
-            <div class="card mini">
-              <div class="mini-name">ドル円</div>
-              <div class="mini-price" id="fx-price">--</div>
-              <div class="mini-chg" id="fx-chg"></div>
-              <div class="mini-note">為替</div>
-            </div>
+            <svg class="ix-chart" id="ix-chart" viewBox="0 0 300 78" preserveAspectRatio="none" aria-hidden="true"></svg>
+            <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span></div>
+          </div>
+          <div class="card mini">
+            <div class="mini-name">ドル円</div>
+            <div class="mini-price" id="fx-price">--</div>
+            <div class="mini-chg" id="fx-chg"></div>
+            <div class="mini-note">為替</div>
           </div>
         </div>
       </div>
