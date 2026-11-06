@@ -94,7 +94,7 @@
 
       /* top-right column (v19): strip card, then news + futures row */
       
-      .strip-card { padding: 9px 12px 8px; overflow: hidden; }
+      .strip-card { padding: 9px 12px 8px; overflow: hidden; } .pop-head { margin-top: 10px; font-size: 11px; color: rgba(255,255,255,0.65); } .pop-chart { display: flex; flex-direction: row; align-items: flex-end; height: 64px; margin-top: 4px; } .pop-col { flex: 1 1 0; display: flex; flex-direction: column; align-items: center; justify-content: flex-end; height: 100%; min-width: 0; } .pop-val { font-size: 10px; color: #8ecbff; font-variant-numeric: tabular-nums; } .pop-bar { width: 55%; background: linear-gradient(180deg, #57b6e8, #2a6ea8); border-radius: 3px 3px 0 0; margin-top: 2px; } .pop-time { font-size: 10px; color: rgba(255,255,255,0.6); margin-top: 3px; font-variant-numeric: tabular-nums; }
       .row-mid { flex: 1 1 auto; display: flex; flex-direction: row; min-height: 0; margin-top: 10px; }
       .strip-head { display: flex; align-items: baseline; }
       .strip-title { font-size: 16px; font-weight: 700; }
@@ -372,6 +372,8 @@
 <div class="card strip-card">
           <div class="strip-head"><span class="strip-title">3時間ごとの天気</span><span class="strip-sub">気温 / 降水量</span></div>
           <div class="strip" id="strip3"></div>
+          <div class="pop-head">降水確率</div>
+          <div class="pop-chart" id="pop-chart"></div>
         </div>
       </div>
       <div class="quad quad-bl">
@@ -445,7 +447,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v39";
+      var PAGE_VER = "v40";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -564,6 +566,22 @@
             + "</div>";
         }
         $("strip3").innerHTML = html;
+
+        /* Rain-probability bars (v40): next 24 h in 3-hour steps, in
+           the space under the strip inside the same card */
+        var popHtml = "";
+        var pops = w.pop3 || [];
+        for (var j = 0; j < pops.length; j++) {
+          var pp = pops[j];
+          var pdt = new Date(pp.time);
+          var pLabel = isNaN(pdt.getTime()) ? "" : pdt.getHours() + "時";
+          var pv = (typeof pp.pop === "number") ? Math.round(pp.pop) : null;
+          var ph = (pv === null) ? 0 : Math.max(Math.round(pv * 0.34), pv > 0 ? 2 : 0);
+          popHtml += "<div class=\"pop-col\"><div class=\"pop-val\">" + (pv === null ? "--" : pv + "%") + "</div>"
+            + "<div class=\"pop-bar\" style=\"height:" + ph + "px\"></div>"
+            + "<div class=\"pop-time\">" + pLabel + "</div></div>";
+        }
+        $("pop-chart").innerHTML = popHtml;
       }
 
       /* ============ futures chart card (v16 bottom-right) ============ */
