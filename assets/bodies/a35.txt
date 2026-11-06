@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 2: ITmedia NEWS](https://www.itmedia.co.jp/news/)
-
 *   速報
 *   業界動向
 *   社会とIT
@@ -13,9 +11,6 @@
 
 Share
 
-*   ![Image 23: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002936/&text=Google%E3%80%81%E3%83%AF%E3%82%A4%E3%82%AA%E3%83%9F%E3%83%B3%E3%82%B0%E5%B7%9E%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AA%E3%81%A9%E3%81%AB170%E5%84%84%E3%83%89%E3%83%AB%E6%8A%95%E8%B3%87%E3%81%B8%E3%80%80%E9%9B%BB%E5%8A%9B%E8%B2%BB%E5%85%A8%E9%A1%8D%E8%B2%A0%E6%8B%85%E3%82%92%E7%B4%84%E6%9D%9F%20-%20ITmedia%20NEWS)
-*   ![Image 24: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002936/)
-*   ![Image 25: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002936/)
 *   印刷する
 
 # Google、ワイオミング州のデータセンターなどに170億ドル投資へ 電力費全額負担を約束
@@ -54,11 +49,6 @@ advertisement
 
 ## 関連記事
 
-*   ![Image 30 ### NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加](https://www.itmedia.co.jp/news/article/2609/18/2000001599/)
-*   ![Image 31 ### 米国のデータセンター急増、AI需要で巨大化 受電容量「ギガ時代」に 中間選挙争点にも](https://www.itmedia.co.jp/news/article/2610/26/2000002578/)
-*   ![Image 32 ### 米中間選挙で民主党が上下両院を奪還 AI規制強化に現実味、IT大手の株価は上昇](https://www.itmedia.co.jp/news/article/2611/05/2000002888/)
-*   ![Image 33 ### OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など](https://www.itmedia.co.jp/news/article/2611/06/2000002928/)
-
 今、あなたにオススメ
 
 PR(Jeep Japan)
@@ -86,12 +76,6 @@ ITmedia NEWSに関連する情報をお探しであれば、こちらのメデ�
 Special PR
 
 本日の新着記事
-
-*   ![Image 50 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず](https://www.itmedia.co.jp/news/article/2611/06/2000002971/)
-*   ![Image 51 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 52 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 53 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
-*   ![Image 54 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)
 
 アクセスランキング
 
@@ -148,4 +132,4 @@ ITmediaNEWSをフォロー
 
 ## 通知登録完了
 
-閉
+閉じる

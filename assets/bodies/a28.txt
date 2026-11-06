@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 4: ITmedia NEWS](https://www.itmedia.co.jp/news/)
-
 *   速報
 *   業界動向
 *   社会とIT
@@ -13,16 +11,12 @@
 
 Share
 
-*   ![Image 25: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002952/&text=%E6%B6%88%E9%98%B2%E5%BA%81%E3%80%8C%E5%AE%89%E5%90%A6%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%80%8D%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%A7%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%81%9C%E6%AD%A2%E3%80%80%E5%A7%94%E8%A8%97%E5%85%88%E3%81%AE%E5%AF%8C%E5%A3%AB%E3%82%BD%E3%83%95%E3%83%88%E3%81%8B%E3%82%89%E5%A0%B1%E5%91%8A%20-%20ITmedia%20NEWS)
-*   ![Image 26: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002952/)
-*   ![Image 27: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002952/)
 *   印刷する
 
 # 消防庁「安否情報システム」不正アクセスでサービス停止 委託先の富士ソフトから報告
 
 公開 2026年11月06日 12時31分
 
-著者![Image 28: 岡田有花岡田有花](https://www.itmedia.co.jp/author/100720/)
 [ITmedia]
 
 印刷するGoogleで優先するソースとして追加
@@ -54,13 +48,6 @@ advertisement
 
 ## 関連記事
 
-*   ![Image 35 ### 消防の一斉連絡システムに不正アクセス、個人情報漏えいか 防災メール配信システムのアルカディア運営](https://www.itmedia.co.jp/news/article/2610/15/2000002288/)
-*   ![Image 36 ### さいたま市や横須賀市など、防災情報配信システムに不正アクセス 全国でメアド最大313万漏えいか](https://www.itmedia.co.jp/news/article/2610/14/2000002239/)
-*   ![Image 37 ### 「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告 防災メールのアルカディア](https://www.itmedia.co.jp/news/article/2610/20/2000002426/)
-*   ![Image 38 ### 経産省「デントリネット」不正アクセスで停止 電力・ガス事業者の定期報告サイト](https://www.itmedia.co.jp/news/article/2610/29/2000002696/)
-*   ![Image 39 ### デジタル庁、公式サイトへの問い合わせ最大1万3000件漏えいか Web制作ツール「Studio」不正アクセスで](https://www.itmedia.co.jp/news/article/2610/23/2000002543/)
-*   ![Image 40 ### 国家サイバー統括室、不正アクセスによる漏えい事案受け注意喚起 「いつ攻撃受けてもおかしくない」](https://www.itmedia.co.jp/news/article/2610/09/2000002161/)
-
 今、あなたにオススメ
 
 PR(Jeep Japan)
@@ -89,12 +76,6 @@ Special PR
 
 本日の新着記事
 
-*   ![Image 57 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず](https://www.itmedia.co.jp/news/article/2611/06/2000002971/)
-*   ![Image 58 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 59 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 60 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
-*   ![Image 61 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)
-
 アクセスランキング
 
 1.   1 中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止
@@ -109,8 +90,6 @@ Special PR
 10.   10 ゲーセンに真っ暗な画面ずらり……セガ系システムの障害が長期化、復旧めど立たず 原因は不正アクセス
 
 ITmedia NEWS SNS
-
-> ITmedia News
 
 インフォメーション
 

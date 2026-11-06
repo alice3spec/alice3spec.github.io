@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 5: ITmedia NEWS](https://www.itmedia.co.jp/news/)
-
 *   速報
 *   業界動向
 *   社会とIT
@@ -13,9 +11,6 @@
 
 Share
 
-*   ![Image 26: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002966/&text=%E6%9D%BE%E5%B1%8B%E3%82%A2%E3%83%97%E3%83%AA%E3%80%819%E6%97%A5%E3%81%B6%E3%82%8A%E5%BE%A9%E6%97%A7%E3%80%80%E3%80%8C%E3%81%8A%E8%A9%AB%E3%81%B3%E3%80%8D%E3%81%A7%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E6%9C%80%E5%A4%A73%E5%80%8D%20-%20ITmedia%20NEWS)
-*   ![Image 27: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 28: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
 *   印刷する
 
 # 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍
@@ -24,7 +19,6 @@ Share
 
 更新 2026年11月06日 14時38分
 
-著者![Image 29: 岡田有花岡田有花](https://www.itmedia.co.jp/author/100720/)
 [ITmedia]
 
 印刷するGoogleで優先するソースとして追加
@@ -60,13 +54,6 @@ advertisement
 
 ## 関連記事
 
-*   ![Image 37 ### 松屋のアプリに不正アクセス、約238万件の個人情報が漏えい 停止中の補償も予定](https://www.itmedia.co.jp/news/article/2610/30/2000002753/)
-*   ![Image 38 ### 松屋の公式アプリとWebサイトが停止 不正アクセスを検知、モバイルオーダーや弁当予約も使えず](https://www.itmedia.co.jp/news/article/2610/29/2000002714/)
-*   ![Image 39 ### デニーズアプリに不正アクセス 旧アプリ移行処理で認証情報を不正作成される 個人情報漏えいか](https://www.itmedia.co.jp/news/article/2611/04/2000002878/)
-*   ![Image 40 ### 「ツイキャス」不正アクセスで停止 復旧までに「相応の時間」](https://www.itmedia.co.jp/news/article/2610/29/2000002692/)
-*   ![Image 41 ### ヤクルト本社サイト、不正アクセスで停止中 顧客情報への影響は「調査中」](https://www.itmedia.co.jp/news/article/2610/28/2000002657/)
-*   ![Image 42 ### 「対策を後回しにしたサーバが軒並み狙われている」 相次ぐ不正アクセスにラックCTOが警鐘](https://www.itmedia.co.jp/news/article/2610/28/2000002675/)
-
 今、あなたにオススメ
 
 PR(Jeep Japan)
@@ -95,12 +82,6 @@ Special PR
 
 本日の新着記事
 
-*   ![Image 59 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず](https://www.itmedia.co.jp/news/article/2611/06/2000002971/)
-*   ![Image 60 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 61 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 62 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
-*   ![Image 63 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)
-
 アクセスランキング
 
 1.   1 中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止
@@ -115,8 +96,6 @@ Special PR
 10.   10 ゲーセンに真っ暗な画面ずらり……セガ系システムの障害が長期化、復旧めど立たず 原因は不正アクセス
 
 ITmedia NEWS SNS
-
-> ITmedia News
 
 インフォメーション
 

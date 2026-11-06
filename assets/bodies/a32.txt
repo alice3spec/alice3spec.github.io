@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 4: ITmedia NEWS](https://www.itmedia.co.jp/news/)
-
 *   速報
 *   業界動向
 *   社会とIT
@@ -13,9 +11,6 @@
 
 Share
 
-*   ![Image 25: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002942/&text=Microsoft%E3%80%81Windows%E5%90%91%E3%81%91%E3%80%8CXbox%E3%80%8D%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E8%B5%B7%E5%8B%95%E3%82%92%E6%9C%80%E5%A4%A760%EF%BC%85%E9%AB%98%E9%80%9F%E5%8C%96%E3%80%80Web%E7%89%88%E3%82%84%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%82%E5%88%B7%E6%96%B0%20-%20ITmedia%20NEWS)
-*   ![Image 26: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002942/)
-*   ![Image 27: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002942/)
 *   印刷する
 
 # Microsoft、Windows向け「Xbox」アプリの起動を最大60％高速化 Web版やクラウドも刷新
@@ -54,11 +49,6 @@ advertisement
 
 ## 関連記事
 
-*   ![Image 34 ### Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上](https://www.itmedia.co.jp/news/article/2611/04/2000002851/)
-*   ![Image 35 ### Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引](https://www.itmedia.co.jp/news/article/2610/29/2000002691/)
-*   ![Image 36 ### Microsoft、Xboxで新たに268人削減 次期「Halo」はActivisionが開発、Ninja Theoryは閉鎖案](https://www.itmedia.co.jp/news/article/2609/23/2000001675/)
-*   ![Image 37 ### 次世代Xboxの開発機？ マイクロソフトが写真公開](https://www.itmedia.co.jp/news/article/2603/11/1260311120/)
-
 今、あなたにオススメ
 
 PR(Jeep Japan)
@@ -86,12 +76,6 @@ ITmedia NEWSに関連する情報をお探しであれば、こちらのメデ�
 Special PR
 
 本日の新着記事
-
-*   ![Image 54 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず](https://www.itmedia.co.jp/news/article/2611/06/2000002971/)
-*   ![Image 55 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 56 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 57 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
-*   ![Image 58 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)
 
 アクセスランキング
 

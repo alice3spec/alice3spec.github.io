@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 1: ITmedia AI＋](https://www.itmedia.co.jp/aiplus/)
-
 *   速報
 *   生成AI
 *   データ分析
@@ -14,9 +12,6 @@
 
 Share
 
-*   ![Image 22: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/aiplus/article/2611/06/2000002955/&text=%E5%9B%BD%E5%86%85GPU%E3%82%B5%E3%83%BC%E3%83%90%E3%81%A7%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E5%88%A9%E7%94%A8%E5%8F%AF%E8%83%BD%E3%81%AB%E3%80%80%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%E3%81%8C%E6%96%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%80%80%E3%81%BE%E3%81%9A%E3%81%AF%E3%80%8CDeepSeek-V4.1-Flash-1017%E3%80%8D%E3%81%8B%E3%82%89%20-%20ITmedia%20AI%EF%BC%8B)
-*   ![Image 23: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/aiplus/article/2611/06/2000002955/)
-*   ![Image 24: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/aiplus/article/2611/06/2000002955/)
 *   印刷する
 
 # 国内GPUサーバでオープンモデルを利用可能に フィックスターズが新サービス まずは「DeepSeek-V4.1-Flash-1017」から（1/2 ページ）

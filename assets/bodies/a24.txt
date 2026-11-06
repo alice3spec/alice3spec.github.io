@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 7: ITmedia NEWS](https://www.itmedia.co.jp/news/)
-
 *   速報
 *   業界動向
 *   社会とIT
@@ -13,16 +11,12 @@
 
 Share
 
-*   ![Image 28: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002967/&text=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83%E5%AF%BE%E7%AD%96%E3%81%A7%E8%87%AA%E7%A4%BE%E9%80%9A%E8%B2%A9%E3%82%B5%E3%82%A4%E3%83%88%E9%96%89%E5%BA%97%E3%80%80%E3%83%89%E3%83%BC%E3%83%AB%E3%81%AE%E3%82%A2%E3%82%BE%E3%83%B3%E3%80%8C%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E7%A4%BE%E5%86%85%E3%81%AB%E4%BF%9D%E7%AE%A1%E3%81%97%E3%81%AA%E3%81%84%E3%80%8D%E6%96%B9%E9%87%9D%E3%81%B8%20-%20ITmedia%20NEWS)
-*   ![Image 29: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 30: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
 *   印刷する
 
 # サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ
 
 公開 2026年11月06日 15時25分
 
-著者![Image 31: 岡田有花岡田有花](https://www.itmedia.co.jp/author/100720/)
 [ITmedia]
 
 印刷するGoogleで優先するソースとして追加
@@ -70,14 +64,6 @@ Special PR
 
 ## 関連記事
 
-*   ![Image 40 ### ノジマオンライン、会員情報約700万件漏えい 不正アクセスでサイト休止、再開未定](https://www.itmedia.co.jp/news/article/2611/04/2000002848/)
-*   ![Image 41 ### ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性 「RAGTAG」運営元](https://www.itmedia.co.jp/news/article/2611/02/2000002783/)
-*   ![Image 42 ### 阪急阪神百貨店などの共通ID、ほぼ全会員分漏えい 約126万件 予約サイトに不正アクセス](https://www.itmedia.co.jp/news/article/2610/19/2000002398/)
-*   ![Image 43 ### BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も](https://www.itmedia.co.jp/news/article/2610/17/2000002349/)
-*   ![Image 44 ### ブックオフ漏えい、退会者21万人も対象 個人情報638万人分の外部送信を確認](https://www.itmedia.co.jp/news/article/2610/14/2000002243/)
-*   ![Image 45 ### まんだらけ、不正アクセスで個人情報漏えいの恐れ 通販サイト停止で「大オークション大会」も延期に](https://www.itmedia.co.jp/news/article/2609/01/2000001024/)
-*   ![Image 46 ### RIZAP運営のECサイトに不正アクセス カード情報含む個人情報が流出の可能性 サイトは一時閉鎖](https://www.itmedia.co.jp/news/article/2608/12/2000000512/)
-
 Special PR
 
 こんなメディアも見られています
@@ -98,12 +84,6 @@ Special PR
 
 本日の新着記事
 
-*   ![Image 51 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 52 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 53 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
-*   ![Image 54 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)
-*   ![Image 55 消防庁「安否情報システム」不正アクセスでサービス停止 委託先の富士ソフトから報告](https://www.itmedia.co.jp/news/article/2611/06/2000002952/)
-
 アクセスランキング
 
 1.   1 中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止
@@ -111,4 +91,42 @@ Special PR
 3.   3「My docomo」「ドコモオンラインショップ」が緊急メンテ 外部からの不正アクセスの可能性で
 4.   4 OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
 5.   5 人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か CDN上でスクリプト改ざん ユーザーは対策を
-6.   6「給与維持の週休3日制」AI効率
+6.   6「給与維持の週休3日制」AI効率化で実現 しかし社員が喜ばず……なぜ？ 「ライザAI」提供企業で起きたこと
+7.   7 年収やローン保証額、免許証番号など最大32万人分漏えい SMBC系、保証業務システムに不正アクセス
+8.   8 宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」 影響範囲は調査中
+9.   9【更新】ドコモ、全国で通信障害 通話・データとも利用しづらく
+10.   10 ゲーセンに真っ暗な画面ずらり……セガ系システムの障害が長期化、復旧めど立たず 原因は不正アクセス
+
+ITmedia NEWS SNS
+
+> ITmedia News
+
+インフォメーション
+
+注目情報をチェック
+
+*   メールマガジン
+*   Specialインデックス
+
+お問い合わせ
+
+*   ご意見・ご感想
+*   リリース送付先
+
+ITmediaNEWSをフォロー
+
+*   Facebook
+*   X（旧Twitter）
+*   RSS
+
+あなたにおすすめの記事 PR
+
+*   メディア一覧
+*   公式SNS
+*   広告案内
+*   お問い合わせ
+*   プライバシーポリシー
+*   RSS
+*   運営会社
+*   採用情報
+*   推奨環境

@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 3: ITmedia AI＋](https://www.itmedia.co.jp/aiplus/)
-
 *   速報
 *   生成AI
 *   データ分析
@@ -14,9 +12,6 @@
 
 Share
 
-*   ![Image 24: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/aiplus/article/2611/06/2000002938/&text=%E6%A0%B9%E6%8B%A0%E3%81%AE%E5%A4%A7%E5%8D%8A%E3%81%AF%E3%80%8C%E9%BB%92%E5%A1%97%E3%82%8A%E3%80%8D%E3%80%80AI%E3%81%AFAI%E9%96%8B%E7%99%BA%E3%82%92%E5%8A%A0%E9%80%9F%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%81%8B%E3%80%81%E7%AC%AC%E4%B8%89%E8%80%85%E6%A9%9F%E9%96%A2%E3%81%8CAnthropic%E5%86%85%E9%83%A8%E3%82%92%E8%AA%BF%E6%9F%BB%20-%20ITmedia%20AI%EF%BC%8B)
-*   ![Image 25: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/aiplus/article/2611/06/2000002938/)
-*   ![Image 26: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/aiplus/article/2611/06/2000002938/)
 *   印刷する
 
 # 根拠の大半は「黒塗り」 AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査（1/2 ページ）
@@ -60,10 +55,6 @@ Special PR
 advertisement
 
 ## 関連記事
-
-*   ![Image 32 ### 「AIがAIを作れるようになる確率は2027年に50%超」 Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符"」](https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/)
-*   ![Image 33 ### 「現代AIの父」シュミットフーバー氏がSakana AIに参画 RSI研究のアドバイザーに](https://www.itmedia.co.jp/aiplus/article/2609/25/2000001742/)
-*   ![Image 34 ### AIがAIを作る時代の到来か──Anthropicが示す「再帰的自己改善」の実態とリスク](https://www.itmedia.co.jp/aiplus/article/2606/05/2000000061/)
 
 Special PR
 

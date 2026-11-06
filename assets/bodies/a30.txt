@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 3: ITmedia NEWS](https://www.itmedia.co.jp/news/)
-
 *   速報
 *   業界動向
 *   社会とIT
@@ -13,9 +11,6 @@
 
 Share
 
-*   ![Image 24: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002947/&text=%E3%82%BD%E3%83%8B%E3%83%BC%E3%80%81%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%80%8C%E6%8E%AA%E7%BD%AE%E3%82%92%E8%AC%9B%E3%81%98%E3%81%A6%E3%81%84%E3%82%8B%E3%80%8D%E3%80%80%E8%A2%AB%E5%AE%B3%E7%8A%B6%E6%B3%81%E3%81%AF%E5%85%AC%E8%A1%A8%E3%81%9B%E3%81%9A%20-%20ITmedia%20NEWS)
-*   ![Image 25: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002947/)
-*   ![Image 26: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002947/)
 *   印刷する
 
 # ソニー、プレステサービスの不正アクセス「措置を講じている」 被害状況は公表せず
@@ -46,12 +41,6 @@ advertisement
 
 ## 関連記事
 
-*   ![Image 32 ### 誰が、なぜ？ 史上最悪規模・ソニー個人情報流出事件を時系列順に整理](https://www.itmedia.co.jp/news/article/1105/06/1110506052/)
-*   ![Image 33 ### ゲーセンに真っ暗な画面ずらり……セガ系システムの障害が長期化、復旧めど立たず 原因は不正アクセス](https://www.itmedia.co.jp/news/article/2611/06/2000002941/)
-*   ![Image 34 ### ソニー生命に不正アクセス、個人情報約38.5万件漏えい 氏名や住所、契約内容など](https://www.itmedia.co.jp/news/article/2610/29/2000002717/)
-*   ![Image 35 ### So-net、会員情報約259万件が漏えい 一部メールサービスではパスワードも流出](https://www.itmedia.co.jp/news/article/2610/27/2000002643/)
-*   ![Image 36 ### So-netメール、一部ユーザーのメアド勝手に変更される 不正ログインで](https://www.itmedia.co.jp/news/article/2507/15/1250715065/)
-
 今、あなたにオススメ
 
 PR(FINCHI on GOETHE)
@@ -79,12 +68,6 @@ ITmedia NEWSに関連する情報をお探しであれば、こちらのメデ�
 Special PR
 
 本日の新着記事
-
-*   ![Image 53 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず](https://www.itmedia.co.jp/news/article/2611/06/2000002971/)
-*   ![Image 54 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 55 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 56 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
-*   ![Image 57 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)
 
 アクセスランキング
 

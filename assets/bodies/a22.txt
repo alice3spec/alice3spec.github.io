@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 4: ITmedia NEWS](https://www.itmedia.co.jp/news/)
-
 *   速報
 *   業界動向
 *   社会とIT
@@ -13,9 +11,6 @@
 
 Share
 
-*   ![Image 25: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002928/&text=OpenAI%E3%80%81%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E7%AB%8B%E5%9C%B0%E5%9C%B0%E5%9F%9F%E3%81%B8%E3%81%AE%E7%B4%84%E6%9D%9F%E3%81%A8%E6%94%BF%E7%AD%96%E6%8F%90%E8%A8%80%E3%82%92%E7%99%BA%E8%A1%A8%E3%80%80%E9%9B%BB%E5%8A%9B%E8%B2%BB%E3%81%AE%E5%85%A8%E9%A1%8D%E8%B2%A0%E6%8B%85%E3%82%84%E5%85%AC%E8%81%B7%E8%80%85%E3%81%A8%E3%81%AENDA%E4%B8%8D%E4%BD%BF%E7%94%A8%E3%81%AA%E3%81%A9%20-%20ITmedia%20NEWS)
-*   ![Image 26: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002928/)
-*   ![Image 27: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002928/)
 *   印刷する
 
 # OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など
@@ -60,12 +55,6 @@ advertisement
 
 ## 関連記事
 
-*   ![Image 34 ### 米中間選挙で民主党が上下両院を奪還 AI規制強化に現実味、IT大手の株価は上昇](https://www.itmedia.co.jp/news/article/2611/05/2000002888/)
-*   ![Image 35 ### 米国のデータセンター急増、AI需要で巨大化 受電容量「ギガ時代」に 中間選挙争点にも](https://www.itmedia.co.jp/news/article/2610/26/2000002578/)
-*   ![Image 36 ### Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表](https://www.itmedia.co.jp/news/article/2610/03/2000001985/)
-*   ![Image 37 ### NVIDIA、Google、Emerald AIがAIデータセンターの電力消費調整を目指すアライアンス設立 Anthropicも参加](https://www.itmedia.co.jp/news/article/2609/18/2000001599/)
-*   ![Image 38 ### OpenAI、ソフトバンクG、OracleがStargateで米国内5データセンター開設へ](https://www.itmedia.co.jp/news/article/2509/24/1250924059/)
-
 今、あなたにオススメ
 
 PR(Jeep Japan)
@@ -94,16 +83,59 @@ Special PR
 
 本日の新着記事
 
-*   ![Image 55 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず](https://www.itmedia.co.jp/news/article/2611/06/2000002971/)
-*   ![Image 56 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 57 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 58 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
-*   ![Image 59 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)
-
 アクセスランキング
 
 1.   1 中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か Googleが取引停止
 2.   2 ドコモ通信障害、約14時間で復旧 原因は「交換機の輻輳」、不正アクセスの形跡なし
 3.   3「My docomo」「ドコモオンラインショップ」が緊急メンテ 外部からの不正アクセスの可能性で
 4.   4 OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
-5.   5 人気ゲーム「NIKKE」公式PCラン
+5.   5 人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か CDN上でスクリプト改ざん ユーザーは対策を
+6.   6「給与維持の週休3日制」AI効率化で実現 しかし社員が喜ばず……なぜ？ 「ライザAI」提供企業で起きたこと
+7.   7 年収やローン保証額、免許証番号など最大32万人分漏えい SMBC系、保証業務システムに不正アクセス
+8.   8 宝くじ公式サイトが一時停止、利用者のパスワードが「意図せず変更」 影響範囲は調査中
+9.   9【更新】ドコモ、全国で通信障害 通話・データとも利用しづらく
+10.   10 ゲーセンに真っ暗な画面ずらり……セガ系システムの障害が長期化、復旧めど立たず 原因は不正アクセス
+
+ITmedia NEWS SNS
+
+インフォメーション
+
+注目情報をチェック
+
+*   メールマガジン
+*   Specialインデックス
+
+お問い合わせ
+
+*   ご意見・ご感想
+*   リリース送付先
+
+ITmediaNEWSをフォロー
+
+*   Facebook
+*   X（旧Twitter）
+*   RSS
+
+あなたにおすすめの記事 PR
+
+*   メディア一覧
+*   公式SNS
+*   広告案内
+*   お問い合わせ
+*   プライバシーポリシー
+*   RSS
+*   運営会社
+*   採用情報
+*   推奨環境
+
+## ITmedia NEWS の最新記事をお届けします
+
+通知を受け取る
+
+×
+
+✔
+
+## 通知登録完了
+
+閉じる

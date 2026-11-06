@@ -1,7 +1,5 @@
 メディア
 
-# ![Image 3: ITmedia NEWS](https://www.itmedia.co.jp/news/)
-
 *   速報
 *   業界動向
 *   社会とIT
@@ -13,9 +11,6 @@
 
 Share
 
-*   ![Image 24: X](https://twitter.com/intent/tweet?url=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002939/&text=Meta%E3%81%AEAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%80%8CMuse%E3%80%8D%E3%81%AB%E9%9F%B3%E5%A3%B0%E5%AF%BE%E8%A9%B1%E6%A9%9F%E8%83%BD%E3%80%80%E8%A1%A8%E6%83%85%E8%B1%8A%E3%81%8B%E3%81%AA%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC%E3%81%A8%E4%BC%9A%E8%A9%B1%E3%80%81%E3%81%BE%E3%81%9A%E7%B1%B3%E5%9B%BD%E3%81%A7%E6%8F%90%E4%BE%9B%20-%20ITmedia%20NEWS)
-*   ![Image 25: Facebook](https://www.facebook.com/sharer.php?u=https%3A//www.itmedia.co.jp/news/article/2611/06/2000002939/)
-*   ![Image 26: はてなブックマーク](http://b.hatena.ne.jp/entry/https://www.itmedia.co.jp/news/article/2611/06/2000002939/)
 *   印刷する
 
 # MetaのAIエージェント「Muse」に音声対話機能 表情豊かなアバターと会話、まず米国で提供
@@ -62,11 +57,6 @@ advertisement
 
 ## 関連記事
 
-*   ![Image 32 ### 「Muse」日本で提供開始 MetaのAIエージェント、メルカリやマネフォ、ぴあと連携へ](https://www.itmedia.co.jp/news/article/2610/23/2000002535/)
-*   ![Image 33 ### MetaのザッカーバーグCEO、「ワンモアシング」としてたまごっちのような「Muse Charm」披露](https://www.itmedia.co.jp/news/article/2609/24/2000001688/)
-*   ![Image 34 ### Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ](https://www.itmedia.co.jp/news/article/2609/22/2000001669/)
-*   ![Image 35 ### Meta、パーソナルAIエージェント「Muse」発表 メール送信や買い物も代行（まずは米国で無料提供開始）](https://www.itmedia.co.jp/news/article/2609/09/2000001294/)
-
 今、あなたにオススメ
 
 PR(Jeep Japan)
@@ -94,12 +84,6 @@ ITmedia NEWSに関連する情報をお探しであれば、こちらのメデ�
 Special PR
 
 本日の新着記事
-
-*   ![Image 52 複数の信金でATM利用・振り込みできず──共同システムで障害、128信金に影響か 再開めど立たず](https://www.itmedia.co.jp/news/article/2611/06/2000002971/)
-*   ![Image 53 サイバー攻撃対策で自社通販サイト閉店 ドールのアゾン「個人情報を社内に保管しない」方針へ](https://www.itmedia.co.jp/news/article/2611/06/2000002967/)
-*   ![Image 54 松屋アプリ、9日ぶり復旧 「お詫び」でポイント最大3倍](https://www.itmedia.co.jp/news/article/2611/06/2000002966/)
-*   ![Image 55 フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も](https://www.itmedia.co.jp/news/article/2611/06/2000002962/)
-*   ![Image 56 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も](https://www.itmedia.co.jp/news/article/2611/06/2000002949/)
 
 アクセスランキング
 
@@ -143,4 +127,17 @@ ITmediaNEWSをフォロー
 *   プライバシーポリシー
 *   RSS
 *   運営会社
-*   
+*   採用情報
+*   推奨環境
+
+## ITmedia NEWS の最新記事をお届けします
+
+通知を受け取る
+
+×
+
+✔
+
+## 通知登録完了
+
+閉じる
