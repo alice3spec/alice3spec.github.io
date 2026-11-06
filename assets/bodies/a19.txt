@@ -1,13 +1,4 @@
-メディア
-
-*   速報
-*   業界動向
-*   社会とIT
-*   くらテク
-*   過去記事
-
-*   ITmedia NEWS
-*   Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供
+Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供
 
 Share
 

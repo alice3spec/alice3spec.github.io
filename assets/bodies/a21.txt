@@ -1,13 +1,4 @@
-メディア
-
-*   速報
-*   業界動向
-*   社会とIT
-*   くらテク
-*   過去記事
-
-*   ITmedia NEWS
-*   OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
+OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
 
 Share
 
