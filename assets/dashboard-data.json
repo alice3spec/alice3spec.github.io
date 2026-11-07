@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T01:13:13.903857+09:00",
+  "updated": "2026-11-08T01:18:38.006257+09:00",
   "feeds": {
     "kabu": [
       {
@@ -9,27 +9,20 @@
         "body": "a00.txt"
       },
       {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-07T14:23:59+00:00"
-      },
-      {
         "title": "日経平均、米政治混乱回避で自律反発狙いの買いも（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbEh1dHBkQkxHT3ZJUUtLckpvQ1dMRk0yaXNSeHdzRmxENE50aHI0YWt0T0lueWtTQW81QVJxakdqdFFPVkZZcFJCV3VjOEdKd1p0dEVuRENxN05qZmhyY3dkTFlwTmItWmM5Wg?oc=5",
         "date": "2026-11-04T22:30:00+00:00",
-        "body": "a02.txt"
+        "body": "a01.txt"
       },
       {
         "title": "日経平均株価、米株急落が逆風 リスク回避強まる（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KYm43bWJaVmIxVlJaYm9NY3N5LXEtemZ3MXdRQWx6dzhRd3VRZmdINnYyOV9reGdXeXVIN0RMSnBoTnNUSlQycF9JQVpzSjliUV9PaFNiQ3N1aVVLd0hBNHV0WGE1aXpCXzdnYQ?oc=5",
-        "date": "2026-11-05T22:30:00+00:00",
-        "body": "a03.txt"
+        "date": "2026-11-05T22:30:00+00:00"
       },
       {
         "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5",
-        "date": "2026-11-06T07:01:38+00:00",
-        "body": "a04.txt"
+        "date": "2026-11-06T07:01:38+00:00"
       },
       {
         "title": "東証大引け 日経平均は4日続落 終値6万1077円 5カ月半ぶり安値 - 日本経済新聞",
@@ -39,14 +32,12 @@
       {
         "title": "日経平均株価、一時4300円安 AI投資不安で6万円割れ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYmtLcHJDS0k2T0hKUzdleXNXUENraDVmRGNTRi1LUV9zYkVaclM4LWtKQXJEVzIwOHFGSlNlaWNkVV9vS09DMDVnQldraEs1RVd1MmFESnJWczJLeEhPNGw4aUE2MHM3bGFLbw?oc=5",
-        "date": "2026-11-06T00:04:02+00:00",
-        "body": "a06.txt"
+        "date": "2026-11-06T00:04:02+00:00"
       },
       {
         "title": "日経平均6万円割れ「売りスパイラルに」「自由落下状態」市場の見方 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaX21NbEd1XzRfbDVOeVloQTFJVExIMmstemZJVGh0dENEZ3Z3NUtmOXVBOUtiY0JZM0xWa2FJRmIyR29vLTJzUlB3TjBNalJkWEo0MkJUT2ctajVPQnZHbkRsNXpSbkxYVWU5Uw?oc=5",
-        "date": "2026-11-06T02:11:18+00:00",
-        "body": "a07.txt"
+        "date": "2026-11-06T02:11:18+00:00"
       },
       {
         "title": "日経平均株価、一時2000円超下げ 米中間選挙受け半導体関連下落 - 日本経済新聞",
@@ -66,8 +57,12 @@
       {
         "title": "東証前引け 日経平均は続落 一時5万7000円割れ、米株急落でリスクオフ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QZTM5aG5zMmZURmo3UlpvOXR6N0pWY012Nl93Vng5VERzUm9sMi1LamxBQWdrM1JtdkZrN1YwckJwME1HS0FhZHhGa3dNVDRzNTB2NWNqdkhhR00yQWpGTHRGWFVRM05RbXVtWg?oc=5",
-        "date": "2026-11-06T02:55:09+00:00",
-        "body": "a11.txt"
+        "date": "2026-11-06T02:55:09+00:00"
+      },
+      {
+        "title": "日経平均下げ幅3位「28年以降のAI投資不安」「下値メド5万1000円」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhT2dwcGNudUdWZU1fNmotdTM2UlVZa3ZqOXdzSW55RFpScTdiUHF3WTVLamtWbHZmT3A4RW1jQ0dBR01zZVo5dzJxOHE4ZHBSUTRhZk05NkxreXYydlk1VHV0UUxaOFFYQklvVA?oc=5",
+        "date": "2026-11-06T08:05:52+00:00"
       }
     ],
     "ai": [
@@ -294,9 +289,9 @@
     ],
     "yahoo": [
       {
-        "title": "地震情報",
-        "link": "https://news.yahoo.co.jp/pickup/6595430?source=rss",
-        "date": "2026-11-07T16:08:21+00:00",
+        "title": "愛知県で震度5強 津波の心配なし",
+        "link": "https://news.yahoo.co.jp/pickup/6601719?source=rss",
+        "date": "2026-11-07T16:13:23+00:00",
         "body": "a48.txt"
       },
       {
@@ -344,16 +339,11 @@
     ]
   },
   "weather": {
-    "temp": 12.5,
+    "temp": 12.3,
     "code": 1,
     "max": 16.7,
     "min": 11.8,
     "hours": [
-      {
-        "time": "2026-11-08T00:00",
-        "temp": 12.8,
-        "code": 1
-      },
       {
         "time": "2026-11-08T01:00",
         "temp": 12.4,
@@ -373,47 +363,52 @@
         "time": "2026-11-08T04:00",
         "temp": 11.8,
         "code": 1
+      },
+      {
+        "time": "2026-11-08T05:00",
+        "temp": 11.8,
+        "code": 0
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-08T00:00",
-        "temp": 12.8,
+        "time": "2026-11-08T01:00",
+        "temp": 12.4,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-08T03:00",
-        "temp": 11.9,
-        "code": 1,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-08T06:00",
+        "time": "2026-11-08T04:00",
         "temp": 11.8,
+        "code": 1,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-08T07:00",
+        "temp": 12.0,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-08T09:00",
-        "temp": 13.3,
+        "time": "2026-11-08T10:00",
+        "temp": 14.2,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-08T12:00",
-        "temp": 15.8,
+        "time": "2026-11-08T13:00",
+        "temp": 16.3,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-08T15:00",
-        "temp": 16.7,
+        "time": "2026-11-08T16:00",
+        "temp": 16.5,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-08T18:00",
+        "time": "2026-11-08T19:00",
         "temp": 16.0,
         "code": 1,
         "mm": 0.0
@@ -421,36 +416,36 @@
     ],
     "pop3": [
       {
-        "time": "2026-11-08T00:00",
+        "time": "2026-11-08T01:00",
         "pop": 0
       },
       {
-        "time": "2026-11-08T03:00",
+        "time": "2026-11-08T04:00",
         "pop": 0
       },
       {
-        "time": "2026-11-08T06:00",
+        "time": "2026-11-08T07:00",
         "pop": 0
       },
       {
-        "time": "2026-11-08T09:00",
+        "time": "2026-11-08T10:00",
         "pop": 0
       },
       {
-        "time": "2026-11-08T12:00",
+        "time": "2026-11-08T13:00",
         "pop": 0
       },
       {
-        "time": "2026-11-08T15:00",
+        "time": "2026-11-08T16:00",
         "pop": 0
       },
       {
-        "time": "2026-11-08T18:00",
+        "time": "2026-11-08T19:00",
         "pop": 0
       },
       {
-        "time": "2026-11-08T21:00",
-        "pop": 0
+        "time": "2026-11-08T22:00",
+        "pop": 1
       }
     ],
     "tomorrow": {
