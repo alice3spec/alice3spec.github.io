@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:08:19.463680+09:00",
+  "updated": "2026-11-07T11:13:22.128091+09:00",
   "feeds": {
     "kabu": [
       {
@@ -40,15 +40,14 @@
         "date": "2026-11-05T22:30:00+00:00"
       },
       {
-        "title": "日経平均株価、キーエンスの換算係数変更 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wSXBnZjNJNF9RTXFOc1NhX0VkTkhTUXFPX3FHaU5vSmpsZnYwWWhMWlFtc0RTeUFuc1NaUjZQaUNCWE90RDB6Z3FaOXRUSFc0dlhPa1ZvSW1OWlMwamZPdW1xUnJnUXpQMWNkag?oc=5",
-        "date": "2026-11-06T07:30:00+00:00",
-        "body": "a07.txt"
-      },
-      {
         "title": "東証大引け 日経平均は4日続落 終値6万1077円 5カ月半ぶり安値 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GQnJSaE5wZ0Z3VFN3SW50QkhPaXF2c051SVNUYXlQLVI1LTF2Q1IwdmdHUVdpVDB0VEU2TzZ6dDNSUllFQTZjT0JCU0dXOEEybG04YXYxVkdWelBQNmQ1ZFZOVXR1VThJb0cwYw?oc=5",
         "date": "2026-11-05T06:56:47+00:00"
+      },
+      {
+        "title": "日経平均株価、キーエンスの換算係数変更 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wSXBnZjNJNF9RTXFOc1NhX0VkTkhTUXFPX3FHaU5vSmpsZnYwWWhMWlFtc0RTeUFuc1NaUjZQaUNCWE90RDB6Z3FaOXRUSFc0dlhPa1ZvSW1OWlMwamZPdW1xUnJnUXpQMWNkag?oc=5",
+        "date": "2026-11-06T07:30:00+00:00"
       },
       {
         "title": "ローム急落、27年3月期上振れでも市場予想下回る（6日の株式市場） - 日本経済新聞",
@@ -56,14 +55,14 @@
         "date": "2026-11-06T07:30:00+00:00"
       },
       {
-        "title": "東証前引け 日経平均は続落 一時5万7000円割れ、米株急落でリスクオフ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QZTM5aG5zMmZURmo3UlpvOXR6N0pWY012Nl93Vng5VERzUm9sMi1LamxBQWdrM1JtdkZrN1YwckJwME1HS0FhZHhGa3dNVDRzNTB2NWNqdkhhR00yQWpGTHRGWFVRM05RbXVtWg?oc=5",
-        "date": "2026-11-06T02:55:09+00:00"
-      },
-      {
         "title": "日経平均株価、一時2000円超下げ 米中間選挙受け半導体関連下落 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfS0xLNnRpUm82YUxWaXZGWDYxU2VON0FFSzhaM3RrNGxycS1UTnM3WTNKRV9ETjUwZVgyM2p3MjZYQWM1MlhEYWo0WDladTU5dWVFZ0NKVWtKSWcxMG1yQkhXQUw2My1UVFlGTw?oc=5",
         "date": "2026-11-04T01:46:48+00:00"
+      },
+      {
+        "title": "東証前引け 日経平均は続落 一時5万7000円割れ、米株急落でリスクオフ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QZTM5aG5zMmZURmo3UlpvOXR6N0pWY012Nl93Vng5VERzUm9sMi1LamxBQWdrM1JtdkZrN1YwckJwME1HS0FhZHhGa3dNVDRzNTB2NWNqdkhhR00yQWpGTHRGWFVRM05RbXVtWg?oc=5",
+        "date": "2026-11-06T02:55:09+00:00"
       }
     ],
     "ai": [
