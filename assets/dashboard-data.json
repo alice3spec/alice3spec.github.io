@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T00:28:20.669882+09:00",
+  "updated": "2026-11-08T00:33:29.571040+09:00",
   "feeds": {
     "kabu": [
       {
@@ -7,11 +7,6 @@
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHk2Z21PTzRBTFZzSmNRM2tpa1ZGelFReGtIbEdncXREekR6Y2JBdjNhY20ydGx5VWhZTFpFUi1uaW1IUlY0NDh3a3d6RXUxZmYxTjBNV1F1eFRNTFg0NEJTbVgyWTB1RGV2cWE1ZGVHcWltYzhuc0dVdlZDWGw4RTJfYzN1V1k?oc=5",
         "date": "2026-11-05T22:50:10+00:00",
         "body": "a00.txt"
-      },
-      {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-07T14:23:59+00:00"
       },
       {
         "title": "日経平均、米政治混乱回避で自律反発狙いの買いも（先読み株式相場） - 日本経済新聞",
@@ -26,13 +21,7 @@
       {
         "title": "日経平均株価、米株急落が逆風 リスク回避強まる（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KYm43bWJaVmIxVlJaYm9NY3N5LXEtemZ3MXdRQWx6dzhRd3VRZmdINnYyOV9reGdXeXVIN0RMSnBoTnNUSlQycF9JQVpzSjliUV9PaFNiQ3N1aVVLd0hBNHV0WGE1aXpCXzdnYQ?oc=5",
-        "date": "2026-11-05T22:30:00+00:00",
-        "body": "a04.txt"
-      },
-      {
-        "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5",
-        "date": "2026-11-06T07:01:38+00:00"
+        "date": "2026-11-05T22:30:00+00:00"
       },
       {
         "title": "国内株式市場見通し：非AI銘柄への資金シフト期待に加え、AI銘柄には短期資金のリバウンド狙いも(フィスコ) - Yahoo!ファイナンス",
@@ -40,9 +29,15 @@
         "date": "2026-11-07T05:34:25+00:00"
       },
       {
+        "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5",
+        "date": "2026-11-06T07:01:38+00:00"
+      },
+      {
         "title": "東証大引け 日経平均は4日続落 終値6万1077円 5カ月半ぶり安値 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GQnJSaE5wZ0Z3VFN3SW50QkhPaXF2c051SVNUYXlQLVI1LTF2Q1IwdmdHUVdpVDB0VEU2TzZ6dDNSUllFQTZjT0JCU0dXOEEybG04YXYxVkdWelBQNmQ1ZFZOVXR1VThJb0cwYw?oc=5",
-        "date": "2026-11-05T06:56:47+00:00"
+        "date": "2026-11-05T06:56:47+00:00",
+        "body": "a06.txt"
       },
       {
         "title": "日経平均株価、一時4300円安 AI投資不安で6万円割れ - 日本経済新聞",
@@ -63,6 +58,11 @@
         "title": "日経平均株価、米中間選挙の結果をにらむ（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yaHRYb2RwMnN3ODgwOUZfM3A5Uk41eGw2TDQtcEF6RkxTdE96eHdPTU5YS0JQNUJDTEtIdU5TajhmUWRfWTJ1eXM1SFhoYXk3Y3V6RHQ4UmRlVTB6VHl5UTE5cHV3MzNJTW1nVQ?oc=5",
         "date": "2026-11-03T22:30:00+00:00"
+      },
+      {
+        "title": "日経平均株価の終値3643円安、下げ幅歴代3位 半年ぶり6万円割れ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TVRpXzBSUWktOGdMSlprMTI5d3RINUFCMEdOWUduaHlUSmRvd0R4c1VEa1hqZExaYXpQNVJfdnhMcGhtVFVIcHRaRUIxeFdpRjVaNTJkSnllQTMxR1Q3QmZqd1Vpd3ZzSnAyUg?oc=5",
+        "date": "2026-11-06T02:48:44+00:00"
       }
     ],
     "ai": [
