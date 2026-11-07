@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:18:18.228117+09:00",
+  "updated": "2026-11-07T19:23:16.158472+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,75 +213,75 @@
     ],
     "gadget": [
       {
+        "title": "回転しながら空中を飛び回る爆速ヘビ。スローで見たら割と理にかなってた",
+        "link": "https://www.gizmodo.jp/article/22041ecf-dda8-4027-b68e-4ae445679de3/",
+        "date": "2026-11-07T10:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "唯一無二、キャラ立ち最高。職人技が随所に光る、国産腕時計のマイクロブランド",
         "link": "https://www.gizmodo.jp/article/japanese_micro-brand_watches/",
         "date": "2026-11-07T09:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる",
         "link": "https://www.gizmodo.jp/article/google-finland-datacenter-forest/",
         "date": "2026-11-07T08:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "AIのせいで、人間であることの証明がどんどん面倒に…。きっかけは83万件の幽霊学生",
         "link": "https://www.gizmodo.jp/article/ai-proof-of-human-ghost-students/",
         "date": "2026-11-07T08:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "コーヒーは食べる時代に。食感と風味が楽しい新感覚のお菓子 #SCAJ",
         "link": "https://www.gizmodo.jp/article/scaj-mokable-ethiopia/",
         "date": "2026-11-07T07:35:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "ごちゃつくデスクが約4,000円でスッキリ。全部ここ（モニタ裏）にぶち込んじゃえ！",
         "link": "https://www.gizmodo.jp/article/2611-monitor-back-storage-board/",
         "date": "2026-11-07T06:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "山崎実業のNY発ブランド「APTO」の木製マグネットで、冷蔵庫の生活感＆貼りっぱなしが減った",
         "link": "https://www.gizmodo.jp/article/2611-yamazakijiritsu-apto-wood-magnet/",
         "date": "2026-11-07T05:35:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "新型iMac、さっそく使ってみて気づいた。変わらないのは完成している証拠だ、と",
         "link": "https://www.gizmodo.jp/article/m6-imac-review/",
         "date": "2026-11-07T04:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "MetaのQuest 2とQuest Pro、2027年春で新機能の開発終了へ。買ったゲームはどうなる？",
         "link": "https://www.gizmodo.jp/article/2611-meta-quest-2-pro-development-end-2027/",
         "date": "2026-11-07T03:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "手首も心も軽くなる。スマウォが主流のいま、毎日装着したくなる腕時計",
         "link": "https://www.gizmodo.jp/article/light-on-the-wrist-light-on-the-mind_cheap-casio-2/",
         "date": "2026-11-07T02:35:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "アプリを動かすSiri、ついに始動。Siri AIがすべての開発者に開放",
         "link": "https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/",
         "date": "2026-11-07T02:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "新iPad miniのナノ・テクスチャー・ディスプレイ、どこでもコンテンツに集中できるって最高だ",
         "link": "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/",
         "date": "2026-11-06T23:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "ボトルキャップ2個で完成するミニケース。100円玉なら17枚も入ります",
-        "link": "https://www.gizmodo.jp/article/cappy_plastic-bottle-caps_reuse-kot-2/",
-        "date": "2026-11-06T14:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -317,16 +317,15 @@
         "body": "a52.txt"
       },
       {
-        "title": "黄桜CM こぶし利かせる新歌い手",
-        "link": "https://news.yahoo.co.jp/pickup/6601674?source=rss",
-        "date": "2026-11-07T09:24:06+00:00",
-        "body": "a53.txt"
-      },
-      {
         "title": "中山律子さん死去 収録中に300点",
         "link": "https://news.yahoo.co.jp/pickup/6601676?source=rss",
         "date": "2026-11-07T09:10:22+00:00",
-        "body": "a54.txt"
+        "body": "a53.txt"
+      },
+      {
+        "title": "小嶋陽菜 結婚と第1子出産を発表",
+        "link": "https://news.yahoo.co.jp/pickup/6601684?source=rss",
+        "date": "2026-11-07T10:16:32+00:00"
       },
       {
         "title": "筧美和子 夫と喧嘩中わかった妊娠",
