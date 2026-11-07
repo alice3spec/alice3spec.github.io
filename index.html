@@ -379,10 +379,10 @@
         .wx-icon { font-size: 21px; }
         .wx-curtemp { font-size: 20px; margin-left: 5px; }
         .wx-cond { font-size: 15px; line-height: 1.2; padding-bottom: 0; }
-        .wx-temp { font-size: 13px; line-height: 1.3; }
+        .wx-temp { font-size: 14px; line-height: 1.3; }
         .wx-day-ic { font-size: 21px; line-height: 1.1; }
         .wx-day-cond { font-size: 15px; line-height: 1.2; padding-bottom: 0; }
-        .wx-day-temps { font-size: 14px; margin-left: 5px; }
+        .wx-day-temps { font-size: 14px; margin-left: 0; line-height: 1.3; }
         .wx-tmr-label { font-size: 11px; }
         .wx-day-tmr { padding-left: 8px; margin-left: 8px; }
         .wx-rain { font-size: 12.5px; margin-top: 4px; padding: 4px 8px; }
@@ -503,7 +503,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v51";
+      var PAGE_VER = "v52";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -567,7 +567,7 @@
         $("wx-cond").textContent = info.label;
 
         if (typeof w.max === "number" && typeof w.min === "number") {
-          $("wx-hilo").textContent = "（" + Math.round(w.max) + "°/" + Math.round(w.min) + "°）";
+          $("wx-hilo").innerHTML = "<span style=\"color:#ffb3a0\">" + Math.round(w.max) + "°</span> / <span style=\"color:#a8ccff\">" + Math.round(w.min) + "°</span>";
         } else {
           $("wx-hilo").textContent = "";
         }
@@ -581,8 +581,9 @@
             tTemps = "<span style=\"color:#ffb3a0\">" + Math.round(w.tomorrow.max) + "°</span> / <span style=\"color:#a8ccff\">" + Math.round(w.tomorrow.min) + "°</span>";
           }
           tmr.innerHTML = "<div class=\"wx-tmr-label\">明日</div>"
-            + "<div class=\"wx-iconrow\"><span class=\"wx-day-ic\">" + tInfo.icon + "</span>" + (tTemps ? "<span class=\"wx-day-temps\">" + tTemps + "</span>" : "") + "</div>"
-            + "<div class=\"wx-day-cond\">" + tInfo.label + "</div>";
+            + "<div class=\"wx-iconrow\"><span class=\"wx-day-ic\">" + tInfo.icon + "</span></div>"
+            + "<div class=\"wx-day-cond\">" + tInfo.label + "</div>"
+            + (tTemps ? "<div class=\"wx-day-temps\">" + tTemps + "</div>" : "");
         } else {
           tmr.innerHTML = "";
         }
