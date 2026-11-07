@@ -1,16 +1,23 @@
 {
-  "updated": "2026-11-08T06:13:38.211896+09:00",
+  "updated": "2026-11-08T06:18:27.982677+09:00",
   "feeds": {
     "kabu": [
+      {
+        "title": "６日の東京株式市場見通し＝半導体主導で日経平均５万８０００円大幅割れも(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHk2Z21PTzRBTFZzSmNRM2tpa1ZGelFReGtIbEdncXREekR6Y2JBdjNhY20ydGx5VWhZTFpFUi1uaW1IUlY0NDh3a3d6RXUxZmYxTjBNV1F1eFRNTFg0NEJTbVgyWTB1RGV2cWE1ZGVHcWltYzhuc0dVdlZDWGw4RTJfYzN1V1k?oc=5",
+        "date": "2026-11-05T22:50:10+00:00",
+        "body": "a00.txt"
+      },
       {
         "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
         "date": "2026-11-07T14:23:59+00:00"
       },
       {
-        "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5",
-        "date": "2026-11-06T07:01:38+00:00"
+        "title": "日経平均、米政治混乱回避で自律反発狙いの買いも（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbEh1dHBkQkxHT3ZJUUtLckpvQ1dMRk0yaXNSeHdzRmxENE50aHI0YWt0T0lueWtTQW81QVJxakdqdFFPVkZZcFJCV3VjOEdKd1p0dEVuRENxN05qZmhyY3dkTFlwTmItWmM5Wg?oc=5",
+        "date": "2026-11-04T22:30:00+00:00",
+        "body": "a02.txt"
       },
       {
         "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
@@ -18,9 +25,10 @@
         "date": "2026-11-06T12:34:46+00:00"
       },
       {
-        "title": "日経平均、米政治混乱回避で自律反発狙いの買いも（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbEh1dHBkQkxHT3ZJUUtLckpvQ1dMRk0yaXNSeHdzRmxENE50aHI0YWt0T0lueWtTQW81QVJxakdqdFFPVkZZcFJCV3VjOEdKd1p0dEVuRENxN05qZmhyY3dkTFlwTmItWmM5Wg?oc=5",
-        "date": "2026-11-04T22:30:00+00:00"
+        "title": "日経平均株価、米株急落が逆風 リスク回避強まる（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KYm43bWJaVmIxVlJaYm9NY3N5LXEtemZ3MXdRQWx6dzhRd3VRZmdINnYyOV9reGdXeXVIN0RMSnBoTnNUSlQycF9JQVpzSjliUV9PaFNiQ3N1aVVLd0hBNHV0WGE1aXpCXzdnYQ?oc=5",
+        "date": "2026-11-05T22:30:00+00:00",
+        "body": "a04.txt"
       },
       {
         "title": "国内株式市場見通し：非AI銘柄への資金シフト期待に加え、AI銘柄には短期資金のリバウンド狙いも(フィスコ) - Yahoo!ファイナンス",
@@ -28,14 +36,9 @@
         "date": "2026-11-07T05:34:25+00:00"
       },
       {
-        "title": "日経平均株価、米株急落が逆風 リスク回避強まる（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KYm43bWJaVmIxVlJaYm9NY3N5LXEtemZ3MXdRQWx6dzhRd3VRZmdINnYyOV9reGdXeXVIN0RMSnBoTnNUSlQycF9JQVpzSjliUV9PaFNiQ3N1aVVLd0hBNHV0WGE1aXpCXzdnYQ?oc=5",
-        "date": "2026-11-05T22:30:00+00:00"
-      },
-      {
-        "title": "６日の東京株式市場見通し＝半導体主導で日経平均５万８０００円大幅割れも(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHk2Z21PTzRBTFZzSmNRM2tpa1ZGelFReGtIbEdncXREekR6Y2JBdjNhY20ydGx5VWhZTFpFUi1uaW1IUlY0NDh3a3d6RXUxZmYxTjBNV1F1eFRNTFg0NEJTbVgyWTB1RGV2cWE1ZGVHcWltYzhuc0dVdlZDWGw4RTJfYzN1V1k?oc=5",
-        "date": "2026-11-05T22:50:10+00:00"
+        "title": "東証大引け 日経平均は続落 5万8000円割れ、歴代3位の下げ幅で「弱気相場」入り - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BSlEwSXZMM0RNMG1yZndtdkJHRTZpUEdWZWtKZXFCZGZuckM0ZWduNkpWa0djU195QTRIenRNai1sd0dvRXBHcjFjS3pibk1UYVAwa0V1U3U1d3ZBVWs3OWxfWGxBeldRdHpZMw?oc=5",
+        "date": "2026-11-06T07:01:38+00:00"
       },
       {
         "title": "東証大引け 日経平均は4日続落 終値6万1077円 5カ月半ぶり安値 - 日本経済新聞",
@@ -43,14 +46,14 @@
         "date": "2026-11-05T06:56:47+00:00"
       },
       {
-        "title": "日経平均6万円割れ「売りスパイラルに」「自由落下状態」市場の見方 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaX21NbEd1XzRfbDVOeVloQTFJVExIMmstemZJVGh0dENEZ3Z3NUtmOXVBOUtiY0JZM0xWa2FJRmIyR29vLTJzUlB3TjBNalJkWEo0MkJUT2ctajVPQnZHbkRsNXpSbkxYVWU5Uw?oc=5",
-        "date": "2026-11-06T02:11:18+00:00"
-      },
-      {
         "title": "日経平均株価、一時4300円安 AI投資不安で6万円割れ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHYmtLcHJDS0k2T0hKUzdleXNXUENraDVmRGNTRi1LUV9zYkVaclM4LWtKQXJEVzIwOHFGSlNlaWNkVV9vS09DMDVnQldraEs1RVd1MmFESnJWczJLeEhPNGw4aUE2MHM3bGFLbw?oc=5",
         "date": "2026-11-06T00:04:02+00:00"
+      },
+      {
+        "title": "日経平均6万円割れ「売りスパイラルに」「自由落下状態」市場の見方 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaX21NbEd1XzRfbDVOeVloQTFJVExIMmstemZJVGh0dENEZ3Z3NUtmOXVBOUtiY0JZM0xWa2FJRmIyR29vLTJzUlB3TjBNalJkWEo0MkJUT2ctajVPQnZHbkRsNXpSbkxYVWU5Uw?oc=5",
+        "date": "2026-11-06T02:11:18+00:00"
       },
       {
         "title": "日経平均株価、一時2000円超下げ 米中間選挙受け半導体関連下落 - 日本経済新聞",
@@ -58,9 +61,9 @@
         "date": "2026-11-04T01:46:48+00:00"
       },
       {
-        "title": "日経平均株価の終値3643円安、下げ幅歴代3位 半年ぶり6万円割れ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TVRpXzBSUWktOGdMSlprMTI5d3RINUFCMEdOWUduaHlUSmRvd0R4c1VEa1hqZExaYXpQNVJfdnhMcGhtVFVIcHRaRUIxeFdpRjVaNTJkSnllQTMxR1Q3QmZqd1Vpd3ZzSnAyUg?oc=5",
-        "date": "2026-11-06T02:48:44+00:00"
+        "title": "日経平均株価、米中間選挙の結果をにらむ（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yaHRYb2RwMnN3ODgwOUZfM3A5Uk41eGw2TDQtcEF6RkxTdE96eHdPTU5YS0JQNUJDTEtIdU5TajhmUWRfWTJ1eXM1SFhoYXk3Y3V6RHQ4UmRlVTB6VHl5UTE5cHV3MzNJTW1nVQ?oc=5",
+        "date": "2026-11-03T22:30:00+00:00"
       }
     ],
     "ai": [
