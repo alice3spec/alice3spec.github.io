@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:23:18.967625+09:00",
+  "updated": "2026-11-07T11:28:34.031077+09:00",
   "feeds": {
     "kabu": [
       {
@@ -50,11 +50,6 @@
         "date": "2026-11-06T07:30:00+00:00"
       },
       {
-        "title": "来週の株式相場に向けて＝日経平均は史上３番目の下落幅、反データセンターの衝撃響く - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53YWx6c25ZblBXZGxfY3ptclJPelk5a0xwNzNUQ1FZU24tc0dtVVVSRWkzdUVpVHhTUkJrc281RDBLek91QXV2dWJaLTlQZjdpZXhoN2RUU3kydEVwQlJTeQ?oc=5",
-        "date": "2026-11-06T08:48:00+00:00"
-      },
-      {
         "title": "ローム急落、27年3月期上振れでも市場予想下回る（6日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UF9MVUtJTERFSTlWVThUWkZwOXZ4cVB3NG0xdnlfOEVrTlBBTjZuOFRXZjZxMGpTcjd2c3Bxc05hM05zNVl0c2k3R3JCVnAwb29oa3NWZzhoMWpRZXFBUVAxRlNCTlF2WVpNUQ?oc=5",
         "date": "2026-11-06T07:30:00+00:00"
@@ -63,6 +58,11 @@
         "title": "日経平均株価、一時2000円超下げ 米中間選挙受け半導体関連下落 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfS0xLNnRpUm82YUxWaXZGWDYxU2VON0FFSzhaM3RrNGxycS1UTnM3WTNKRV9ETjUwZVgyM2p3MjZYQWM1MlhEYWo0WDladTU5dWVFZ0NKVWtKSWcxMG1yQkhXQUw2My1UVFlGTw?oc=5",
         "date": "2026-11-04T01:46:48+00:00"
+      },
+      {
+        "title": "日経平均6万円割れ「売りスパイラルに」「自由落下状態」市場の見方 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaX21NbEd1XzRfbDVOeVloQTFJVExIMmstemZJVGh0dENEZ3Z3NUtmOXVBOUtiY0JZM0xWa2FJRmIyR29vLTJzUlB3TjBNalJkWEo0MkJUT2ctajVPQnZHbkRsNXpSbkxYVWU5Uw?oc=5",
+        "date": "2026-11-06T02:11:18+00:00"
       }
     ],
     "ai": [
@@ -1890,8 +1890,8 @@
     ]
   },
   "fx": {
-    "price": 158.536,
-    "prev": 157.701
+    "price": 158.5355,
+    "prev": 157.7005
   },
   "topix": {
     "price": 134.27,
