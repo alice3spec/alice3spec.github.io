@@ -359,6 +359,37 @@
         .tab { font-size: 14px; min-height: 42px; }
         .news-title { font-size: 14px; -webkit-line-clamp: 1; }
       }
+
+      /* v50: today/tomorrow move beside the clock (smaller), the freed
+         left-column space goes to the Yahoo News card (taller). */
+      @media (min-width: 701px) {
+        .dash { grid-template-rows: repeat(20, 1fr); }
+        .quad-tl { grid-row: 1 / 8; grid-column: 1; }
+        .quad-bl { grid-row: 8 / 21; grid-column: 1; }
+        .quad-tr { grid-row: 1 / 11; grid-column: 2; }
+        .quad-br { grid-row: 11 / 21; grid-column: 2; }
+        .band { display: flex; flex-direction: row; align-items: flex-start; }
+        .band-left { flex: 0 0 auto; }
+        .weather { flex: 1 1 auto; min-width: 0; margin-left: 16px; }
+        .wx-days { margin-top: 2px; }
+        .clock { font-size: 45px; }
+        .clock .sec { font-size: 17px; margin-left: 4px; }
+        .date-line { font-size: 13.5px; padding-bottom: 4px; margin-top: 1px; }
+        .wx-place { font-size: 11px; margin-bottom: 1px; }
+        .wx-icon { font-size: 24px; }
+        .wx-curtemp { font-size: 22px; margin-left: 5px; }
+        .wx-cond { font-size: 15px; line-height: 1.3; padding-bottom: 0; }
+        .wx-temp { font-size: 13px; line-height: 1.3; }
+        .wx-day-ic { font-size: 24px; line-height: 1.1; }
+        .wx-day-cond { font-size: 15px; line-height: 1.3; padding-bottom: 0; }
+        .wx-day-temps { font-size: 14px; margin-left: 5px; }
+        .wx-tmr-label { font-size: 11px; }
+        .wx-day-tmr { padding-left: 8px; margin-left: 8px; }
+        .wx-rain { font-size: 12.5px; margin-top: 6px; padding: 5px 8px; }
+        .wx-rain-icon { font-size: 18px; margin-right: 6px; vertical-align: -2px; }
+        .foot { top: auto; bottom: 6px; right: 12px; font-size: 10px; }
+        .news-title { font-size: 16px; line-height: 1.25; }
+      }
     </style>
   </head>
   <body>
@@ -369,8 +400,11 @@
     <div class="dash" id="dash">
       <div class="quad quad-tl">
 <div class="card wxcard">
+          <div class="band">
+          <div class="band-left">
           <div class="clock"><span id="clock-main">--:--</span><span class="sec" id="clock-sec">--</span></div>
           <div class="date-line" id="date-line">読み込み中…</div>
+          </div>
           <div class="weather" id="weather">
             <div class="wx-days">
               <div class="wx-day">
@@ -381,9 +415,10 @@
               </div>
               <div class="wx-day wx-day-tmr" id="wx-tmr"></div>
             </div>
-            <div class="wx-rain" id="wx-rain"></div>
-            <div class="wx-hours" id="wx-hours"></div>
           </div>
+          </div>
+          <div class="wx-rain" id="wx-rain"></div>
+          <div class="wx-hours" id="wx-hours"></div>
           <div class="foot" id="foot">--:-- 更新</div>
         </div>
       </div>
@@ -468,7 +503,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v49";
+      var PAGE_VER = "v50";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
