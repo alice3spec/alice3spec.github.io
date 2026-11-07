@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:28:20.042714+09:00",
+  "updated": "2026-11-07T12:33:17.382716+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,11 +53,6 @@
         "date": "2026-11-06T07:30:00+00:00"
       },
       {
-        "title": "ローム急落、27年3月期上振れでも市場予想下回る（6日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UF9MVUtJTERFSTlWVThUWkZwOXZ4cVB3NG0xdnlfOEVrTlBBTjZuOFRXZjZxMGpTcjd2c3Bxc05hM05zNVl0c2k3R3JCVnAwb29oa3NWZzhoMWpRZXFBUVAxRlNCTlF2WVpNUQ?oc=5",
-        "date": "2026-11-06T07:30:00+00:00"
-      },
-      {
         "title": "日経平均6万円割れ「売りスパイラルに」「自由落下状態」市場の見方 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaX21NbEd1XzRfbDVOeVloQTFJVExIMmstemZJVGh0dENEZ3Z3NUtmOXVBOUtiY0JZM0xWa2FJRmIyR29vLTJzUlB3TjBNalJkWEo0MkJUT2ctajVPQnZHbkRsNXpSbkxYVWU5Uw?oc=5",
         "date": "2026-11-06T02:11:18+00:00"
@@ -65,8 +60,12 @@
       {
         "title": "日経平均株価、米中間選挙の結果をにらむ（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yaHRYb2RwMnN3ODgwOUZfM3A5Uk41eGw2TDQtcEF6RkxTdE96eHdPTU5YS0JQNUJDTEtIdU5TajhmUWRfWTJ1eXM1SFhoYXk3Y3V6RHQ4UmRlVTB6VHl5UTE5cHV3MzNJTW1nVQ?oc=5",
-        "date": "2026-11-03T22:30:00+00:00",
-        "body": "a11.txt"
+        "date": "2026-11-03T22:30:00+00:00"
+      },
+      {
+        "title": "ローム急落、27年3月期上振れでも市場予想下回る（6日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11UF9MVUtJTERFSTlWVThUWkZwOXZ4cVB3NG0xdnlfOEVrTlBBTjZuOFRXZjZxMGpTcjd2c3Bxc05hM05zNVl0c2k3R3JCVnAwb29oa3NWZzhoMWpRZXFBUVAxRlNCTlF2WVpNUQ?oc=5",
+        "date": "2026-11-06T07:30:00+00:00"
       }
     ],
     "ai": [
