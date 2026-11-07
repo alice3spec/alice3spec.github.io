@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:13:22.128091+09:00",
+  "updated": "2026-11-07T11:18:26.181121+09:00",
   "feeds": {
     "kabu": [
       {
@@ -215,75 +215,75 @@
     ],
     "gadget": [
       {
+        "title": "アプリを動かすSiri、ついに始動。Siri AIがすべての開発者に開放",
+        "link": "https://www.gizmodo.jp/article/2611-siri-ai-developer-api-release/",
+        "date": "2026-11-07T02:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "新iPad miniのナノ・テクスチャー・ディスプレイ、どこでもコンテンツに集中できるって最高だ",
         "link": "https://www.gizmodo.jp/article/2611-ipad-mini-nano-texture-display/",
         "date": "2026-11-06T23:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "ボトルキャップ2個で完成するミニケース。100円玉なら17枚も入ります",
         "link": "https://www.gizmodo.jp/article/cappy_plastic-bottle-caps_reuse-kot-2/",
         "date": "2026-11-06T14:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "100kgの破片が落下する可能性も。NASA観測衛星「スウィフト」、地球のどこに落ちる？",
         "link": "https://www.gizmodo.jp/article/nasa_swift_satellite_reentry/",
         "date": "2026-11-06T13:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "お手入れの手間も吸ってくれる。Ankerのロボット掃除機がサイクロン載せてきた！",
         "link": "https://www.gizmodo.jp/article/2611-anker-eufy-robot-vacuum-omni-e35/",
         "date": "2026-11-06T12:30:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "合格です。MacBook PROLEDのタッチ操作をWindowsユーザーがチェック",
         "link": "https://www.gizmodo.jp/article/2611-macbook-proled-touch-review/",
         "date": "2026-11-06T12:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "iPhone Duoと新型iPad mini、実機で比較してみた。どっちを選ぶと幸せになれるだろう？",
         "link": "https://www.gizmodo.jp/article/iphone-duo-vs-ipad-mini/",
         "date": "2026-11-06T11:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "深夜の品出し、代わってほしい。ロボット6台をコンビニで24時間働かせてみるテスト",
         "link": "https://www.gizmodo.jp/article/agibot-g2-convenience-store-trial/",
         "date": "2026-11-06T11:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "データセンターの排熱で「街が暑くなる」説。日本で検証したら違う結果に",
         "link": "https://www.gizmodo.jp/article/2611-datacenter-waste-heat-temperature-study/",
         "date": "2026-11-06T10:45:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "タッチと発光と漆黒。気になるところもあった新しいMacBook Pro",
         "link": "https://www.gizmodo.jp/article/apple_macbook-pro_luminescence_richblack_review/",
         "date": "2026-11-06T10:30:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "好きな鍵盤を押すだけでプロ気分。カシオの新型キーボードは演奏をサポート",
         "link": "https://www.gizmodo.jp/article/casio_casiotone-ct-fs1_keyboard/",
         "date": "2026-11-06T10:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "ポテトでベタベタの指、どこも汚さずに拭きたい。自宅ファストフードが捗る",
         "link": "https://www.gizmodo.jp/article/2611-smartru-automatic-wet-tissue-case-review/",
         "date": "2026-11-06T09:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "またしてもサイバー攻撃。狙われたのはお金、ではなく血液",
-        "link": "https://www.gizmodo.jp/article/france_hackers_target_money-and-blood/",
-        "date": "2026-11-06T08:35:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -339,7 +339,7 @@
     ]
   },
   "weather": {
-    "temp": 17.3,
+    "temp": 17.4,
     "code": 0,
     "max": 18.5,
     "min": 13.1,
