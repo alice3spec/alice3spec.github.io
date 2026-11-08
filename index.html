@@ -503,7 +503,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v54";
+      var PAGE_VER = "v55";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -598,7 +598,7 @@
           if (rLabel) { rText += "（" + rLabel + "から雨"; }
           if (typeof w.rain.pop === "number") { rText += " " + Math.round(w.rain.pop) + "%"; }
           if (rLabel) { rText += "）"; }
-          rainEl.innerHTML = '<span class="wx-rain-icon">☂️</span>' + escapeHtml(rText);
+          rainEl.innerHTML = '<span class="wx-rain-icon">☂️</span>' + rText;
         } else {
           rainEl.innerHTML = '<span class="wx-rain-icon">🌂</span>傘は不要です';
         }
@@ -840,10 +840,9 @@
           newsLoaded = true;
           newsLoading = false;
           renderNews();
-          renderWeather(d.weather);
-          renderIndex(d.index);
-          renderMini("fx", d.fx, 2);
-          renderMini("topix", d.topix, 2);
+          try { renderWeather(d.weather); } catch (e) { }
+          try { renderIndex(d.index); } catch (e) { }
+          try { renderMini("fx", d.fx, 2); renderMini("topix", d.topix, 2); } catch (e) { }
           markUpdated();
           $("y-upd").textContent = "更新 " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes());
         }).catch(function () {
