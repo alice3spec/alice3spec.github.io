@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T17:13:26.267776+09:00",
+  "updated": "2026-11-08T17:18:26.974975+09:00",
   "feeds": {
     "kabu": [
       {
@@ -289,27 +289,27 @@
     ],
     "yahoo": [
       {
-        "title": "自民 消費減税採決棄権で処分検討",
-        "link": "https://news.yahoo.co.jp/pickup/6601782?source=rss",
-        "date": "2026-11-08T05:33:35+00:00",
-        "body": "a48.txt"
-      },
-      {
         "title": "台風 強い勢力で小笠原諸島接近か",
         "link": "https://news.yahoo.co.jp/pickup/6601792?source=rss",
         "date": "2026-11-08T06:51:34+00:00",
-        "body": "a49.txt"
+        "body": "a48.txt"
       },
       {
-        "title": "個人情報「手放す」企業が続々",
-        "link": "https://news.yahoo.co.jp/pickup/6601787?source=rss",
-        "date": "2026-11-08T05:32:18+00:00",
-        "body": "a50.txt"
+        "title": "仏全土で抗議デモ 360人拘束",
+        "link": "https://news.yahoo.co.jp/pickup/6601788?source=rss",
+        "date": "2026-11-08T05:55:29+00:00",
+        "body": "a49.txt"
       },
       {
         "title": "書店員刺される 男「社会に恨み」",
         "link": "https://news.yahoo.co.jp/pickup/6601795?source=rss",
         "date": "2026-11-08T06:59:28+00:00",
+        "body": "a50.txt"
+      },
+      {
+        "title": "交通事故で娘失う 癒えない悲しみ",
+        "link": "https://news.yahoo.co.jp/pickup/6601804?source=rss",
+        "date": "2026-11-08T08:05:34+00:00",
         "body": "a51.txt"
       },
       {
@@ -339,7 +339,7 @@
     ]
   },
   "weather": {
-    "temp": 16.2,
+    "temp": 16.1,
     "code": 0,
     "max": 16.7,
     "min": 11.8,
