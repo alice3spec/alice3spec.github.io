@@ -390,6 +390,7 @@
         .foot { top: auto; bottom: 6px; right: 12px; font-size: 10px; }
         .strip-card { position: relative; }
         .foot { top: 4px; bottom: auto; right: 8px; font-size: 10.5px; }
+        .strip-head .foot { position: static; margin-left: auto; }
         .news-title { font-size: 16px; line-height: 1.25; }
       }
     </style>
@@ -425,8 +426,7 @@
       </div>
       <div class="quad quad-tr">
 <div class="card strip-card">
-          <div class="strip-head"><span class="strip-title">3時間ごとの天気</span><span class="strip-sub">気温 / 降水量</span></div>
-          <div class="foot" id="foot">--:-- 更新</div>
+          <div class="strip-head"><span class="strip-title">3時間ごとの天気</span><span class="strip-sub">気温 / 降水量</span><div class="foot" id="foot">--:-- 更新</div></div>
           <div class="strip" id="strip3"></div>
           <div class="minirow">
             <div class="mini2"><div class="mini2-name">ドル円</div><div class="mini2-line"><span class="mini2-price" id="fx-price">--</span><span class="mini2-chg" id="fx-chg"></span></div></div>
@@ -505,7 +505,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v57";
+      var PAGE_VER = "v58";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
