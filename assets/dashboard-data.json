@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T11:08:47.586079+09:00",
+  "updated": "2026-11-08T11:13:18.318398+09:00",
   "feeds": {
     "kabu": [
       {
@@ -17,16 +17,6 @@
         "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
         "date": "2026-11-07T23:25:21+00:00"
-      },
-      {
-        "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
-        "date": "2026-11-06T08:00:00+00:00"
-      },
-      {
-        "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
-        "date": "2026-11-06T12:34:46+00:00"
       },
       {
         "title": "日経平均、米政治混乱回避で自律反発狙いの買いも（先読み株式相場） - 日本経済新聞",
@@ -62,6 +52,16 @@
         "title": "日経平均株価の終値3643円安、下げ幅歴代3位 半年ぶり6万円割れ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TVRpXzBSUWktOGdMSlprMTI5d3RINUFCMEdOWUduaHlUSmRvd0R4c1VEa1hqZExaYXpQNVJfdnhMcGhtVFVIcHRaRUIxeFdpRjVaNTJkSnllQTMxR1Q3QmZqd1Vpd3ZzSnAyUg?oc=5",
         "date": "2026-11-06T02:48:44+00:00"
+      },
+      {
+        "title": "日経平均株価、米中間選挙の結果をにらむ（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yaHRYb2RwMnN3ODgwOUZfM3A5Uk41eGw2TDQtcEF6RkxTdE96eHdPTU5YS0JQNUJDTEtIdU5TajhmUWRfWTJ1eXM1SFhoYXk3Y3V6RHQ4UmRlVTB6VHl5UTE5cHV3MzNJTW1nVQ?oc=5",
+        "date": "2026-11-03T22:30:00+00:00"
+      },
+      {
+        "title": "東証前引け 日経平均は続落 一時5万7000円割れ、米株急落でリスクオフ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QZTM5aG5zMmZURmo3UlpvOXR6N0pWY012Nl93Vng5VERzUm9sMi1LamxBQWdrM1JtdkZrN1YwckJwME1HS0FhZHhGa3dNVDRzNTB2NWNqdkhhR00yQWpGTHRGWFVRM05RbXVtWg?oc=5",
+        "date": "2026-11-06T02:55:09+00:00"
       }
     ],
     "ai": [
