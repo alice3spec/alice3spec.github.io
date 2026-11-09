@@ -52,19 +52,9 @@ SNSでシェア
 
 Special PR
 
-advertisement
-
 ## この記事の著者
 
 ## 関連記事
-
-今、あなたにオススメ
-
-PR(FINCHI on GOETHE)
-
-PR(ITmedia ビジネスオンライン)
-
-PR(ITmedia ビジネスオンライン)
 
 Special PR
 
@@ -101,6 +91,8 @@ Special PR
 
 ITmedia NEWS SNS
 
+> ITmedia News
+
 インフォメーション
 
 注目情報をチェック
@@ -130,15 +122,3 @@ ITmediaNEWSをフォロー
 *   運営会社
 *   採用情報
 *   推奨環境
-
-## ITmedia NEWS の最新記事をお届けします
-
-通知を受け取る
-
-×
-
-✔
-
-## 通知登録完了
-
-閉じる
