@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T01:33:15.605643+09:00",
+  "updated": "2026-11-10T01:38:17.310761+09:00",
   "feeds": {
     "kabu": [
       {
@@ -31,14 +31,15 @@
         "body": "a04.txt"
       },
       {
-        "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5",
-        "date": "2026-11-06T08:00:00+00:00"
-      },
-      {
         "title": "日経平均 一時2000円以上値上がり - Yahoo!ニュース",
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXVnbV84c3hPYW5nV3QzR1pWNzJoT2ppNW5kVjYzX1RCeERsZG0zS2ZlTHJqWGJWYWxrM0p1V2tnS3ZwQWNwTHR0MHhTUUlB?oc=5",
-        "date": "2026-11-09T02:36:24+00:00"
+        "date": "2026-11-09T02:36:24+00:00",
+        "body": "a05.txt"
+      },
+      {
+        "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
+        "date": "2026-11-06T08:00:00+00:00"
       },
       {
         "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
@@ -51,11 +52,6 @@
         "date": "2026-11-09T07:53:40+00:00"
       },
       {
-        "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
-        "date": "2026-11-06T08:00:00+00:00"
-      },
-      {
         "title": "オープンハウスG株価1年3カ月ぶり安値 27年9月期利益、予想下回る - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBYzg4aDBWczctc0hoZ0RUY1Q3ZjNFTF9OMDZ1WTh0QjBlVlRhRFRYZzhMSHBtS0czNWlGWG9zR002a2dTdjRmVURMcUVtd2NiMG5uQUNXYWJwdnNqTzhSYWIyX29sQmJRbUNiXw?oc=5",
         "date": "2026-11-09T04:30:45+00:00"
@@ -64,6 +60,11 @@
         "title": "日経VI：低下、株価反発で警戒感はひとまず緩和(フィスコ) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1E0TGl3MVVkeEcxQ2FnOHVhXzBfZ002bVBiLXl1aVplYUJuak9BSnRHMl92SXlVeUlXa3Z0a01qWUs5VU12TUZRWkVmSDk1bFFscm0wQkJBMVlYMURDV3UxeGY1RUtQZXRzc3otdnJCOUtOTG9hMUh6dkY1bXBMcUFVZnlCeUk?oc=5",
         "date": "2026-11-09T07:35:00+00:00"
+      },
+      {
+        "title": "三井不動産の株価一時6.2%安 4〜9月9%減益、市場予想に届かず - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zQUZqYjlHaHBUM0F5Wkd0cklOSjJSblJ2NTJZb3gzT3RCSEM3Y0VCRkRkYWM2V01ycTJOSmREaTI0SUYwSGQtYXN5clZEMlVaNFVhcHd0c293ZVBVWVRhUG1xZW12ckMwODhNcg?oc=5",
+        "date": "2026-11-09T04:23:40+00:00"
       }
     ],
     "ai": [
@@ -459,7 +460,7 @@
     }
   },
   "index": {
-    "price": 60635.0,
+    "price": 60535.0,
     "prev": 58235.0,
     "points": [
       [
@@ -1906,26 +1907,33 @@
       ],
       [
         "11/10 01:20",
-        60640.0,
+        60650.0,
         60645.0,
         60675.0,
         60610.0
       ],
       [
-        "11/10 01:23",
-        60635.0,
-        60635.0,
-        60635.0,
-        60635.0
+        "11/10 01:25",
+        60490.0,
+        60630.0,
+        60630.0,
+        60480.0
+      ],
+      [
+        "11/10 01:28",
+        60535.0,
+        60535.0,
+        60535.0,
+        60535.0
       ]
     ]
   },
   "fx": {
-    "price": 158.0235,
+    "price": 158.0615,
     "prev": 158.5355
   },
   "topix": {
-    "price": 141.9,
+    "price": 141.845,
     "prev": 134.27
   },
   "ver": "v58"
