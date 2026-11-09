@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T08:28:18.448157+09:00",
+  "updated": "2026-11-10T08:33:15.278410+09:00",
   "feeds": {
     "kabu": [
       {
@@ -18,6 +18,11 @@
         "date": "2026-11-09T22:48:16+00:00"
       },
       {
+        "title": "株価指数先物【寄り前】 6万円固めから-1σ突破を見極め - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MOS01ZkhwRk8tYVlWWEpzdmZSQkQzZ0pGSERRTXVLLXloTDRKWmZJdUlUUk0yY1dpZVFETXpfa05jQVl5T0UwZXBKWE9TVGgtSHdySUY2Y3BVVDVocUpzZg?oc=5",
+        "date": "2026-11-09T23:06:09+00:00"
+      },
+      {
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
         "date": "2026-11-06T08:00:00+00:00"
@@ -28,20 +33,15 @@
         "date": "2026-11-06T12:34:46+00:00"
       },
       {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月10日記）(株探ニュース) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFZXQnYtdlRKMGYyM3hJdGhuQ1RsalExbzJjbWU1MWFNRjk4cVNXU0dTRGtib1ptUkF1ME53aWEtb2pwT25BeFZNR1BSXzRaS1NLU2ZYcGFkdTZBSHRZUVdiNlBhOVVVNHBSQ3dKTHg1bE90MDJpWFpSUzcwUWFTMGxvTDdhNEk?oc=5",
+        "date": "2026-11-09T23:27:07+00:00"
+      },
+      {
         "title": "株価指数先物【引け後】 AI関連株はまちまち、ソフトバンクＧの決算待ちに - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESGY1YWZRMFFpdmpaekV4c2EzYzBWMVBwQUZOa2txTzk2TmNTdl9fNFR3OG1naWNRMVRZM3Uwb2I3Y0laMF9HUEhzb3Vwa09NRDYwT2ZFVkJ2Vk03b1JDQw?oc=5",
-        "date": "2026-11-09T09:34:05+00:00"
-      },
-      {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
-        "date": "2026-11-09T07:53:40+00:00",
-        "body": "a06.txt"
-      },
-      {
-        "title": "明日の株式相場に向けて＝ソフトバンクＧは「バッグホルダー」となるのか - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySTZDOEF3ZnRLRG5aUEpaRW8wTVJNYzBXTmpRd2ktYnZOcWVrWkJISl9KYlN4cTB1YzBtci1NX2h5bnV1dWpoYmE0eGV5Y196VEczLUJlaVBkNU55S3J5cQ?oc=5",
-        "date": "2026-11-09T08:30:00+00:00"
+        "date": "2026-11-09T09:34:05+00:00",
+        "body": "a07.txt"
       },
       {
         "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
@@ -49,20 +49,19 @@
         "date": "2026-11-09T00:06:22+00:00"
       },
       {
-        "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q3VQRHNzSWQzYWVObnFtV0gyS0ZWdWd2SXRPLWZUZlU4c0lJWDlEbURKdFBfMUhLSlZ1Z3VuY2pRTG90TThSa3lHb2ZjeUo4QjJrX2JxSnlXcVY5MEVocVlmN2ZhZllKWjBYSWZ0eFd2emFYanRUQlB2dnJrRlU?oc=5",
-        "date": "2026-11-09T02:29:01+00:00",
-        "body": "a09.txt"
-      },
-      {
-        "title": "来週の株式相場に向けて＝日経平均は史上３番目の下落幅、反データセンターの衝撃響く - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53YWx6c25ZblBXZGxfY3ptclJPelk5a0xwNzNUQ1FZU24tc0dtVVVSRWkzdUVpVHhTUkJrc281RDBLek91QXV2dWJaLTlQZjdpZXhoN2RUU3kydEVwQlJTeQ?oc=5",
-        "date": "2026-11-06T08:48:00+00:00"
+        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
+        "date": "2026-11-09T07:53:40+00:00"
       },
       {
         "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNVlVS1R0QUJRRmZBakJubzV1RHZzeW5SbG1RTFMtTERTaGNDYXNrNjA1TE0yYTY4YmMyVnhCVW1GcnF5SnhoZmxJT2gyNm1UZ2ZuUkFDRkc3TEhjWmxwWk4wWmNzUkx3NmFUcQ?oc=5",
         "date": "2026-11-08T20:00:00+00:00"
+      },
+      {
+        "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q3VQRHNzSWQzYWVObnFtV0gyS0ZWdWd2SXRPLWZUZlU4c0lJWDlEbURKdFBfMUhLSlZ1Z3VuY2pRTG90TThSa3lHb2ZjeUo4QjJrX2JxSnlXcVY5MEVocVlmN2ZhZllKWjBYSWZ0eFd2emFYanRUQlB2dnJrRlU?oc=5",
+        "date": "2026-11-09T02:29:01+00:00"
       }
     ],
     "ai": [
@@ -338,7 +337,7 @@
     ]
   },
   "weather": {
-    "temp": 11.4,
+    "temp": 11.3,
     "code": 55,
     "max": 13.0,
     "min": 10.7,
@@ -513,7 +512,7 @@
       [
         "11/09 08:45",
         57865.0,
-        58045.0,
+        58040.0,
         58125.0,
         57820.0
       ],
@@ -534,7 +533,7 @@
       [
         "11/09 09:00",
         58205.0,
-        58060.0,
+        58020.0,
         58290.0,
         57900.0
       ],
@@ -555,7 +554,7 @@
       [
         "11/09 09:15",
         58580.0,
-        58610.0,
+        58600.0,
         58745.0,
         58535.0
       ],
@@ -618,7 +617,7 @@
       [
         "11/09 10:00",
         58915.0,
-        58900.0,
+        58890.0,
         58975.0,
         58885.0
       ],
@@ -632,7 +631,7 @@
       [
         "11/09 10:10",
         58950.0,
-        59005.0,
+        58995.0,
         59035.0,
         58885.0
       ],
@@ -660,7 +659,7 @@
       [
         "11/09 10:30",
         59095.0,
-        58930.0,
+        58935.0,
         59105.0,
         58885.0
       ],
@@ -828,7 +827,7 @@
       [
         "11/09 12:30",
         59425.0,
-        59360.0,
+        59340.0,
         59500.0,
         59305.0
       ],
@@ -1023,7 +1022,7 @@
       ],
       [
         "11/09 14:50",
-        58850.0,
+        58860.0,
         58905.0,
         58945.0,
         58835.0
@@ -1072,7 +1071,7 @@
       ],
       [
         "11/09 15:25",
-        58775.0,
+        58770.0,
         58810.0,
         58810.0,
         58735.0
@@ -1115,7 +1114,7 @@
       [
         "11/09 15:55",
         58815.0,
-        58840.0,
+        58835.0,
         58880.0,
         58815.0
       ],
@@ -1157,7 +1156,7 @@
       [
         "11/09 16:25",
         58680.0,
-        58665.0,
+        58660.0,
         58705.0,
         58660.0
       ],
@@ -1171,7 +1170,7 @@
       [
         "11/09 16:35",
         58615.0,
-        58635.0,
+        58645.0,
         58660.0,
         58525.0
       ],
@@ -1206,7 +1205,7 @@
       [
         "11/09 17:00",
         58560.0,
-        58495.0,
+        58485.0,
         58560.0,
         58410.0
       ],
@@ -1332,7 +1331,7 @@
       [
         "11/09 18:30",
         58885.0,
-        58825.0,
+        58830.0,
         58920.0,
         58810.0
       ],
@@ -1528,7 +1527,7 @@
       [
         "11/09 20:50",
         59040.0,
-        59065.0,
+        59060.0,
         59075.0,
         59035.0
       ],
@@ -1612,14 +1611,14 @@
       [
         "11/09 21:50",
         59275.0,
-        59380.0,
+        59355.0,
         59395.0,
         59230.0
       ],
       [
         "11/09 21:55",
         59335.0,
-        59270.0,
+        59265.0,
         59355.0,
         59250.0
       ],
@@ -1710,7 +1709,7 @@
       [
         "11/09 23:00",
         59360.0,
-        59355.0,
+        59350.0,
         59370.0,
         59325.0
       ],
@@ -1738,14 +1737,14 @@
       [
         "11/09 23:20",
         59375.0,
-        59340.0,
+        59345.0,
         59395.0,
         59340.0
       ],
       [
         "11/09 23:25",
         59440.0,
-        59385.0,
+        59380.0,
         59465.0,
         59370.0
       ],
@@ -1794,7 +1793,7 @@
       [
         "11/10 00:00",
         60420.0,
-        60425.0,
+        60435.0,
         60450.0,
         60315.0
       ],
@@ -1836,7 +1835,7 @@
       [
         "11/10 00:30",
         60540.0,
-        60575.0,
+        60570.0,
         60620.0,
         60525.0
       ],
@@ -2220,7 +2219,7 @@
       ],
       [
         "11/10 05:15",
-        60975.0,
+        60970.0,
         60950.0,
         61015.0,
         60940.0
@@ -2262,7 +2261,7 @@
       ],
       [
         "11/10 05:45",
-        60955.0,
+        60950.0,
         60935.0,
         60995.0,
         60935.0
@@ -2276,7 +2275,7 @@
       ],
       [
         "11/10 05:55",
-        60925.0,
+        60930.0,
         60905.0,
         60955.0,
         60905.0
@@ -2366,18 +2365,11 @@
         60955.0
       ],
       [
-        "11/10 08:00",
-        60950.0,
-        60975.0,
-        61005.0,
-        60925.0
-      ],
-      [
         "11/10 08:05",
         60975.0,
-        60935.0,
+        60930.0,
         60975.0,
-        60925.0
+        60930.0
       ],
       [
         "11/10 08:10",
@@ -2388,13 +2380,20 @@
       ],
       [
         "11/10 08:15",
+        60970.0,
         60995.0,
         60995.0,
-        60995.0,
-        60990.0
+        60970.0
       ],
       [
-        "11/10 08:18",
+        "11/10 08:20",
+        60995.0,
+        60995.0,
+        60995.0,
+        60975.0
+      ],
+      [
+        "11/10 08:22",
         60995.0,
         60995.0,
         60995.0,
@@ -2403,7 +2402,7 @@
     ]
   },
   "fx": {
-    "price": 157.952,
+    "price": 157.9705,
     "prev": 157.9115
   },
   "topix": {
