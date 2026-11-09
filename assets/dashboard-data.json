@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T08:13:27.383357+09:00",
+  "updated": "2026-11-10T08:18:15.614076+09:00",
   "feeds": {
     "kabu": [
       {
@@ -33,9 +33,15 @@
         "date": "2026-11-09T09:34:05+00:00"
       },
       {
-        "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q3VQRHNzSWQzYWVObnFtV0gyS0ZWdWd2SXRPLWZUZlU4c0lJWDlEbURKdFBfMUhLSlZ1Z3VuY2pRTG90TThSa3lHb2ZjeUo4QjJrX2JxSnlXcVY5MEVocVlmN2ZhZllKWjBYSWZ0eFd2emFYanRUQlB2dnJrRlU?oc=5",
-        "date": "2026-11-09T02:29:01+00:00"
+        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
+        "date": "2026-11-09T07:53:40+00:00",
+        "body": "a06.txt"
+      },
+      {
+        "title": "明日の株式相場に向けて＝ソフトバンクＧは「バッグホルダー」となるのか - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySTZDOEF3ZnRLRG5aUEpaRW8wTVJNYzBXTmpRd2ktYnZOcWVrWkJISl9KYlN4cTB1YzBtci1NX2h5bnV1dWpoYmE0eGV5Y196VEczLUJlaVBkNU55S3J5cQ?oc=5",
+        "date": "2026-11-09T08:30:00+00:00"
       },
       {
         "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
@@ -43,25 +49,20 @@
         "date": "2026-11-09T00:06:22+00:00"
       },
       {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
-        "date": "2026-11-09T07:53:40+00:00"
+        "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q3VQRHNzSWQzYWVObnFtV0gyS0ZWdWd2SXRPLWZUZlU4c0lJWDlEbURKdFBfMUhLSlZ1Z3VuY2pRTG90TThSa3lHb2ZjeUo4QjJrX2JxSnlXcVY5MEVocVlmN2ZhZllKWjBYSWZ0eFd2emFYanRUQlB2dnJrRlU?oc=5",
+        "date": "2026-11-09T02:29:01+00:00",
+        "body": "a09.txt"
       },
       {
         "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNVlVS1R0QUJRRmZBakJubzV1RHZzeW5SbG1RTFMtTERTaGNDYXNrNjA1TE0yYTY4YmMyVnhCVW1GcnF5SnhoZmxJT2gyNm1UZ2ZuUkFDRkc3TEhjWmxwWk4wWmNzUkx3NmFUcQ?oc=5",
-        "date": "2026-11-08T20:00:00+00:00",
-        "body": "a09.txt"
+        "date": "2026-11-08T20:00:00+00:00"
       },
       {
         "title": "鈴木英之氏【大荒れの秋相場、日経平均の底打ち・反発なるか】 ＜相場観特集＞(株探ニュース) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxvajkweVZCLWlwNXhaWDdwOGNWalh1bW5ZOVpyamtnTWZ2OXRsb3BFYTFTeDNPTmtpWkxmSlg2bjRoOFFKR0ZFTnA4LUh2X00xejFOTnJiYUJuOHRWbWxEQ3NTUlpmdGgzR1c5THIwU0xhZXpTTmNYNVFSbUNEaGhGMm83eWc?oc=5",
         "date": "2026-11-09T09:30:30+00:00"
-      },
-      {
-        "title": "三井不動産の株価一時6.2%安 4〜9月9%減益、市場予想に届かず - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zQUZqYjlHaHBUM0F5Wkd0cklOSjJSblJ2NTJZb3gzT3RCSEM3Y0VCRkRkYWM2V01ycTJOSmREaTI0SUYwSGQtYXN5clZEMlVaNFVhcHd0c293ZVBVWVRhUG1xZW12ckMwODhNcg?oc=5",
-        "date": "2026-11-09T04:23:40+00:00"
       }
     ],
     "ai": [
@@ -337,66 +338,66 @@
     ]
   },
   "weather": {
-    "temp": 10.9,
-    "code": 61,
-    "max": 13.2,
-    "min": 10.6,
+    "temp": 11.4,
+    "code": 55,
+    "max": 13.0,
+    "min": 10.7,
     "hours": [
       {
         "time": "2026-11-10T08:00",
-        "temp": 10.9,
+        "temp": 11.4,
         "code": 61
       },
       {
         "time": "2026-11-10T09:00",
-        "temp": 11.2,
-        "code": 53
+        "temp": 11.3,
+        "code": 61
       },
       {
         "time": "2026-11-10T10:00",
-        "temp": 11.2,
+        "temp": 11.5,
         "code": 51
       },
       {
         "time": "2026-11-10T11:00",
-        "temp": 11.4,
-        "code": 51
+        "temp": 11.6,
+        "code": 53
       },
       {
         "time": "2026-11-10T12:00",
         "temp": 11.5,
-        "code": 53
+        "code": 55
       }
     ],
     "hours3": [
       {
         "time": "2026-11-10T08:00",
-        "temp": 10.9,
+        "temp": 11.4,
         "code": 61,
-        "mm": 1.6
+        "mm": 1.5
       },
       {
         "time": "2026-11-10T11:00",
-        "temp": 11.4,
-        "code": 51,
-        "mm": 0.3
+        "temp": 11.6,
+        "code": 53,
+        "mm": 0.5
       },
       {
         "time": "2026-11-10T14:00",
-        "temp": 12.7,
+        "temp": 12.4,
         "code": 2,
         "mm": 0.0
       },
       {
         "time": "2026-11-10T17:00",
-        "temp": 13.0,
+        "temp": 12.9,
         "code": 3,
         "mm": 0.0
       },
       {
         "time": "2026-11-10T20:00",
-        "temp": 12.6,
-        "code": 3,
+        "temp": 12.7,
+        "code": 2,
         "mm": 0.0
       },
       {
@@ -457,7 +458,7 @@
     }
   },
   "index": {
-    "price": 60970.0,
+    "price": 60930.0,
     "prev": 58235.0,
     "points": [
       [
@@ -2365,16 +2366,30 @@
         60955.0
       ],
       [
-        "11/10 06:59",
+        "11/10 08:00",
+        60950.0,
+        60975.0,
+        61005.0,
+        60925.0
+      ],
+      [
+        "11/10 08:05",
+        60930.0,
         60970.0,
         60970.0,
-        60970.0,
-        60970.0
+        60925.0
+      ],
+      [
+        "11/10 08:06",
+        60930.0,
+        60930.0,
+        60930.0,
+        60930.0
       ]
     ]
   },
   "fx": {
-    "price": 157.9255,
+    "price": 157.9445,
     "prev": 157.9115
   },
   "topix": {
