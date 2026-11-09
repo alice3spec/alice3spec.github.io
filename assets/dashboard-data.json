@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T11:53:13.416334+09:00",
+  "updated": "2026-11-09T11:58:26.826840+09:00",
   "feeds": {
     "kabu": [
       {
@@ -58,9 +58,9 @@
         "date": "2026-11-08T22:35:38+00:00"
       },
       {
-        "title": "日経平均、1200円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU05qcWlFNTVhVWE3WDlYeWpCQmpwclFSODZUYUlLdnNhOUZiWTcyZEMwczBRSkhObnFMaVFEWUp4X0tqSlhuSE9kaHVUZzNpOHl4R0U2Wjd6UWw5QU0tSkZad2RkVkZjbnJsMTg4T2c1NTRaVzdyWUZ0ZE9yZ2tEaWtVQ2JKUGM?oc=5",
-        "date": "2026-11-09T00:16:42+00:00"
+        "title": "日本たばこ産業株価ストップ安気配 ロシアが新たに関連3社一時管理下 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VM1VNMzY1S2VpRmhDdGFOWFhGSnZaTVBVUlRMVVlPV3Z2TnRYVmZ4T09KcE5WRFNjMmhCNHZ3Qk1LZW5tbHgybEhKYVcwVmRKN1lBUzJyYV9RZTdyUHJOWnlSeXl6SDVoOHdtVw?oc=5",
+        "date": "2026-11-09T02:06:52+00:00"
       }
     ],
     "ai": [
@@ -455,7 +455,7 @@
     }
   },
   "index": {
-    "price": 59465.0,
+    "price": 59400.0,
     "prev": 58235.0,
     "points": [
       [
@@ -754,22 +754,29 @@
       ],
       [
         "11/09 11:40",
-        59460.0,
+        59440.0,
         59435.0,
         59470.0,
         59420.0
       ],
       [
-        "11/09 11:43",
-        59465.0,
-        59465.0,
-        59465.0,
-        59465.0
+        "11/09 11:45",
+        59410.0,
+        59440.0,
+        59460.0,
+        59380.0
+      ],
+      [
+        "11/09 11:48",
+        59400.0,
+        59400.0,
+        59400.0,
+        59400.0
       ]
     ]
   },
   "fx": {
-    "price": 158.283,
+    "price": 158.301,
     "prev": 158.5355
   },
   "topix": {
