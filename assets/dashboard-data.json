@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:28:18.348034+09:00",
+  "updated": "2026-11-09T23:33:26.448041+09:00",
   "feeds": {
     "kabu": [
       {
@@ -37,6 +37,11 @@
         "body": "a05.txt"
       },
       {
+        "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5",
+        "date": "2026-11-06T08:00:00+00:00"
+      },
+      {
         "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNVlVS1R0QUJRRmZBakJubzV1RHZzeW5SbG1RTFMtTERTaGNDYXNrNjA1TE0yYTY4YmMyVnhCVW1GcnF5SnhoZmxJT2gyNm1UZ2ZuUkFDRkc3TEhjWmxwWk4wWmNzUkx3NmFUcQ?oc=5",
         "date": "2026-11-08T20:00:00+00:00"
@@ -60,11 +65,6 @@
         "title": "オープンハウスG株価1年3カ月ぶり安値 27年9月期利益、予想下回る - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBYzg4aDBWczctc0hoZ0RUY1Q3ZjNFTF9OMDZ1WTh0QjBlVlRhRFRYZzhMSHBtS0czNWlGWG9zR002a2dTdjRmVURMcUVtd2NiMG5uQUNXYWJwdnNqTzhSYWIyX29sQmJRbUNiXw?oc=5",
         "date": "2026-11-09T04:30:45+00:00"
-      },
-      {
-        "title": "鈴木英之氏【大荒れの秋相場、日経平均の底打ち・反発なるか】 ＜相場観特集＞(株探ニュース) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxvajkweVZCLWlwNXhaWDdwOGNWalh1bW5ZOVpyamtnTWZ2OXRsb3BFYTFTeDNPTmtpWkxmSlg2bjRoOFFKR0ZFTnA4LUh2X00xejFOTnJiYUJuOHRWbWxEQ3NTUlpmdGgzR1c5THIwU0xhZXpTTmNYNVFSbUNEaGhGMm83eWc?oc=5",
-        "date": "2026-11-09T09:30:30+00:00"
       }
     ],
     "ai": [
@@ -217,75 +217,75 @@
     ],
     "gadget": [
       {
-        "title": "肉眼では見えないQRコード。A4用紙に2TBのデータを保存",
-        "link": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
-        "date": "2026-11-09T14:00:00+00:00",
-        "body": "a36.txt"
-      },
-      {
         "title": "「独裁者トランプ」に「チベット独立」。iPhoneの予測入力、約10万件の言葉を避けてる模様",
         "link": "https://www.gizmodo.jp/article/2611-iphone-keyboard-censored-words-list/",
         "date": "2026-11-09T13:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a36.txt"
       },
       {
         "title": "まだ生きているのに『人類から忘れられた』生き物たち。「社会的絶滅」という危機",
         "link": "https://www.gizmodo.jp/article/2611-social-extinction-endangered-species/",
         "date": "2026-11-09T12:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a37.txt"
       },
       {
         "title": "6年前に買った初代HomePod miniが最新アプデで進化。グッと来た新機能2つ",
         "link": "https://www.gizmodo.jp/article/homepod-mini-update-new-features/",
         "date": "2026-11-09T12:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a38.txt"
       },
       {
         "title": "PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場",
         "link": "https://www.gizmodo.jp/article/2611-new-playstation-portal-midnight-black/",
         "date": "2026-11-09T11:30:00+00:00",
-        "body": "a40.txt"
+        "body": "a39.txt"
       },
       {
         "title": "VITUREのディスプレイグラス、サイバーパンクの次はカンフーパンク",
         "link": "https://www.gizmodo.jp/article/2611-viture-phantom-blade-zero-xr-glasses/",
         "date": "2026-11-09T11:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a40.txt"
       },
       {
         "title": "タランチュラ3000匹を靴下に入れて密輸しようとした研究者、捕まる",
         "link": "https://www.gizmodo.jp/article/authorities-at-lima-airport-find-more-than-3000-tarantulas-hidden-in-dirty-socks/",
         "date": "2026-11-09T10:30:00+00:00",
-        "body": "a42.txt"
+        "body": "a41.txt"
       },
       {
         "title": "ドラクエが突如スマホ向け新作を発表。その名も『ドラゴンクエストRPG　魔界樹と導かれし島』",
         "link": "https://www.gizmodo.jp/article/dragon-quest-makaiju/",
         "date": "2026-11-09T10:15:00+00:00",
-        "body": "a43.txt"
+        "body": "a42.txt"
       },
       {
         "title": "Meta「記事を利用されるのが嫌なら、うちのSNS使わないでね」→出版業界が猛反発",
         "link": "https://www.gizmodo.jp/article/meta-terms-update-publisher-backlash/",
         "date": "2026-11-09T10:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a43.txt"
       },
       {
         "title": "だからNape Proは生まれた。CEOと鍋を囲み、創業秘話まで聞けた1日",
         "link": "https://www.gizmodo.jp/article/nape-pro-keychron-behind-scenes-repost/",
         "date": "2026-11-09T09:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a44.txt"
       },
       {
         "title": "アプリから“火をつけられる”スマホが発売",
         "link": "https://www.gizmodo.jp/article/oukitel-wp63/",
         "date": "2026-11-09T08:00:00+00:00",
-        "body": "a46.txt"
+        "body": "a45.txt"
       },
       {
         "title": "大きな機能もりもりスマホじゃなくていい人へ。小さめでスペックそこそこな「Enough Phone」をどうぞ",
         "link": "https://www.gizmodo.jp/article/2611-enough-phone-compact-smartphone/",
         "date": "2026-11-09T06:00:00+00:00",
+        "body": "a46.txt"
+      },
+      {
+        "title": "山崎実業のスライドテーブルで「朝のキッチンの渋滞」が解消！ 動線が整いました",
+        "link": "https://www.gizmodo.jp/article/2611-yamazakijirushi-slide-table/",
+        "date": "2026-11-09T05:35:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -321,9 +321,9 @@
         "body": "a52.txt"
       },
       {
-        "title": "270kgの巨大ヒグマ駆除 北海道",
-        "link": "https://news.yahoo.co.jp/pickup/6601965?source=rss",
-        "date": "2026-11-09T14:12:07+00:00"
+        "title": "映像 270kgの巨大ヒグマを捕獲",
+        "link": "https://news.yahoo.co.jp/pickup/6601968?source=rss",
+        "date": "2026-11-09T14:30:57+00:00"
       },
       {
         "title": "コンロキャンセル界隈 なぜ拡大",
@@ -460,7 +460,7 @@
     }
   },
   "index": {
-    "price": 59375.0,
+    "price": 59380.0,
     "prev": 58235.0,
     "points": [
       [
@@ -1732,26 +1732,33 @@
       ],
       [
         "11/09 23:15",
-        59375.0,
+        59340.0,
         59325.0,
         59380.0,
         59320.0
       ],
       [
-        "11/09 23:17",
-        59375.0,
-        59375.0,
-        59375.0,
-        59375.0
+        "11/09 23:20",
+        59380.0,
+        59340.0,
+        59395.0,
+        59340.0
+      ],
+      [
+        "11/09 23:23",
+        59380.0,
+        59380.0,
+        59380.0,
+        59380.0
       ]
     ]
   },
   "fx": {
-    "price": 157.933,
+    "price": 157.9935,
     "prev": 158.5355
   },
   "topix": {
-    "price": 134.27,
+    "price": 137.06,
     "prev": 134.27
   },
   "ver": "v58"
