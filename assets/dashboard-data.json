@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T08:08:24.200788+09:00",
+  "updated": "2026-11-10T08:13:27.383357+09:00",
   "feeds": {
     "kabu": [
       {
@@ -18,12 +18,6 @@
         "date": "2026-11-09T22:48:16+00:00"
       },
       {
-        "title": "【市況】 株価指数先物【引け後】 AI関連株はまちまち、ソフトバンクＧの決算待ちに - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESGY1YWZRMFFpdmpaekV4c2EzYzBWMVBwQUZOa2txTzk2TmNTdl9fNFR3OG1naWNRMVRZM3Uwb2I3Y0laMF9HUEhzb3Vwa09NRDYwT2ZFVkJ2Vk03b1JDQw?oc=5",
-        "date": "2026-11-09T09:34:05+00:00",
-        "body": "a03.txt"
-      },
-      {
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
         "date": "2026-11-06T08:00:00+00:00"
@@ -32,6 +26,11 @@
         "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
         "date": "2026-11-06T12:34:46+00:00"
+      },
+      {
+        "title": "株価指数先物【引け後】 AI関連株はまちまち、ソフトバンクＧの決算待ちに - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESGY1YWZRMFFpdmpaekV4c2EzYzBWMVBwQUZOa2txTzk2TmNTdl9fNFR3OG1naWNRMVRZM3Uwb2I3Y0laMF9HUEhzb3Vwa09NRDYwT2ZFVkJ2Vk03b1JDQw?oc=5",
+        "date": "2026-11-09T09:34:05+00:00"
       },
       {
         "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
@@ -2375,7 +2374,7 @@
     ]
   },
   "fx": {
-    "price": 157.9275,
+    "price": 157.9255,
     "prev": 157.9115
   },
   "topix": {
