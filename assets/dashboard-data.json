@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T20:38:17.834011+09:00",
+  "updated": "2026-11-09T20:43:19.125883+09:00",
   "feeds": {
     "kabu": [
       {
@@ -48,11 +48,6 @@
         "date": "2026-11-09T03:45:28+00:00"
       },
       {
-        "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
-        "date": "2026-11-06T08:00:00+00:00"
-      },
-      {
         "title": "オープンハウスG株価1年3カ月ぶり安値 27年9月期利益、予想下回る - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBYzg4aDBWczctc0hoZ0RUY1Q3ZjNFTF9OMDZ1WTh0QjBlVlRhRFRYZzhMSHBtS0czNWlGWG9zR002a2dTdjRmVURMcUVtd2NiMG5uQUNXYWJwdnNqTzhSYWIyX29sQmJRbUNiXw?oc=5",
         "date": "2026-11-09T04:30:45+00:00"
@@ -61,6 +56,11 @@
         "title": "日経平均、1340円73銭高の5万8775円50銭で終了＝東京株式(時事通信) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDZta191bHMyS09EdEpJUXBOLVQwSE9iLXpzc2IzdXZTVlE3RmotcFZhM1NQV1pjZkh4M0duT0VadTVGblF1RUN0Nl93VE5OdnRURVBKNlRLTGVWOUpJUEs4cENEQUxSUFByMEhZbjQ1MzlpRUlaQjhBc1YxUENJUnpjeXVyT0U?oc=5",
         "date": "2026-11-09T06:31:19+00:00"
+      },
+      {
+        "title": "三井不動産の株価一時6.2%安 4〜9月9%減益、市場予想に届かず - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zQUZqYjlHaHBUM0F5Wkd0cklOSjJSblJ2NTJZb3gzT3RCSEM3Y0VCRkRkYWM2V01ycTJOSmREaTI0SUYwSGQtYXN5clZEMlVaNFVhcHd0c293ZVBVWVRhUG1xZW12ckMwODhNcg?oc=5",
+        "date": "2026-11-09T04:23:40+00:00"
       }
     ],
     "ai": [
@@ -457,7 +457,7 @@
     }
   },
   "index": {
-    "price": 59100.0,
+    "price": 59120.0,
     "prev": 58235.0,
     "points": [
       [
@@ -1491,22 +1491,29 @@
       ],
       [
         "11/09 20:25",
-        59110.0,
+        59070.0,
         59065.0,
         59110.0,
         59040.0
       ],
       [
-        "11/09 20:28",
-        59100.0,
-        59100.0,
-        59100.0,
-        59100.0
+        "11/09 20:30",
+        59120.0,
+        59065.0,
+        59135.0,
+        59065.0
+      ],
+      [
+        "11/09 20:32",
+        59120.0,
+        59120.0,
+        59120.0,
+        59120.0
       ]
     ]
   },
   "fx": {
-    "price": 157.9165,
+    "price": 157.926,
     "prev": 158.5355
   },
   "topix": {
