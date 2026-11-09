@@ -1,70 +1,34 @@
-「いい音なら有線イヤホン」が終わる？ Bluetoothの通信速度が最大約4倍に
+PR動画が豪華だ。Gentle MonsterコラボのAndroid XRスマートグラスが12月発売
 
-Nov 9,2026 12:00
+Nov 9,2026 13:00
 
-Image: Adobe Stock
+そうこ ( GIZMODOライター )
 
-「このイヤホンでは、ロスレスで聴けません」
+Image: Gentle Monster
 
-音楽配信サービスの音質設定を開くと、「ロスレス」や「ハイレゾロスレス」といった選択肢が並んでいます。せっかくなら良い音で聴きたいですよね。
+OSをGoogle（グーグル）、ハードをSamsung（サムスン）が手掛ける、Android XR搭載のスマートグラス（インテリジェントアイウェア）。デザインは、アイウェアメーカーのWarby ParkerとGentle Monsterとコラボすることが発表されており、すでにその見た目が公開されています。先日、Warby Parkerが、11月12日から予約スタート、年末に発売することを発表しましたが、Gentle Monsterもこれに続きます。
 
-ところが注意書きを読むと、ワイヤレスイヤホンは対象外。引き出しの奥から有線イヤホンを探すか、諦めてそのまま再生するか…という場面、ありませんか。
+Gentle Monsterが、11月6日にX公式アカウントを更新。Gentle Monster初となるインテリジェントアイウェア（Android XR搭載スマートグラス）を、12月に発売すると発表しました。
 
-その状況が変わりそうです。
+> Gentle Monster’s first Intelligent Eyewear collection ⠀ Joaquin Phoenix stars in a short film directed by Jonathan Glazer—a cinematic journey between reality and dream. Full film releasing mid-November. ⠀ The collection launches this December. ⠀ Register for the collection preview event in New York at https://t.co/agdOjxuxE1
+>
+> — GENTLE MONSTER (@_GentleMonster_) November 6, 2026
 
-## 「音質にこだわるなら有線」は過去の話に？
+ポストには、夢と現実の間を描いたショート動画も添えられています。なんとこの動画にはホアキン・フェニックス氏が登場しており、今月中旬にはフルバージョンを公開するとのこと。監督は、ジャミロクワイ氏のMV『ヴァーチャル・インサニティ』で知られるジョナサン・グレイザー氏。非常に豪華なPR映像です。
 
-Bluetooth技術の標準化団体であるBluetooth SIGは11月4日（米国時間）、新機能「Bluetooth高データスループット（HDT）」を採択したと発表しました。サポートされる最大ビットレートは7.5Mbpsで、Bluetooth LE 2MのPHYの約4倍に相当します。
+夢の中でよくある、進みたいのに進めない、水のなかみたいに手足が重くてゆっくりしか動けないあの感じ…。まさに夢と現実。フル動画が楽しみです。
 
-今回あらたまったのは、電波に情報を乗せるやり方そのもの。同じ1秒間の通信に、より多くのデータを詰め込めるようになりました。
+予約については公表されていないものの、Warby Parkerコラボと同じく、11月12日からかもしれません。両モデルともに初となるAndroid XRのサムスンスマートグラスなので、予約と発売を合わせている可能性も。
 
-なぜそこまでの量が必要かというと、これまでのBluetoothが、音を送るための通り道を広く取れなかったからです。
+Source: Gentle Monster
 
-ハイレゾ相当の音質をうたうソニーの技術「LDAC」でも、音声データの転送レートは1秒あたり最大990kbpsが精いっぱい。
+[【こちらもおすすめ】 [Meta] Glasses Adventurer](https://www.amazon.co.jp/dp/B0GXLJ9N66?ots=1&tag=gizmodo-ed-22&linkCode=ogi&th=1&psc=1&ref=mgac2017)
 
-Bluetoothが音に使える容量の上限が1Mbpsほど（2015年時点）で、そのギリギリまで使い切った数字だと、開発者がインタビューで語っています。
+50,600 円
 
-音を圧縮せずに送ろうとすると、この細さにはとても収まりません。
+PR
 
-Apple（アップル）がApple Musicでロスレス配信を始めたときも、AirPodsなどのBluetooth接続ではロスレスを利用できないと案内されました。
-
-受け取る側の通り道がやっと広がった、というのが今回の発表。7.5Mbpsあれば、前後左右から音が聞こえるサラウンドや空間オーディオにも余裕が出てきます。
-
-## 音楽以外では「待ち時間」が短くなります
-
-便利になるのは音だけではありません。Bluetooth SIGやチップメーカーが例に挙げているのは、こんな場面です。
-
-*   スマートウォッチにたまった数時間分のセンサーデータを、スマホへ数秒で同期する
-*   イヤホンやスマートホーム機器のファームウェア更新が、待たされている感覚のないうちに終わる
-*   スマートグラスが、処理を任せたいデータをまとめて送り出す
-
-スマートグラスは、今回の技術革新がとくに効いてきそうです。Qualcomm（クアルコム）の担当者は、これまでWi-Fiを使っていたような通信をBluetoothで賄えるようになる点を挙げています。
-
-グラスには大きなバッテリーを積む余裕がないため、省電力な通信で足りるなら設計がぐっと楽になるという話です。
-
-そしてバッテリーの持ちにも、こうした速さがそのまま効いてきます。送信を短い時間で終わらせれば、電波を出し続ける時間が減り、低消費電力の状態でいられる時間が延びますからね。
-
-たくさんのデータを送れるようになって、なおかつ充電も長持ちしそう…ありがたい話ですね。
-
-## 使えるようになるのはいつ？
-
-気になるのはこの技術が実装される時期です。そして送り出す側の準備は、すでに整っているところもあります。
-
-Qualcommが2026年3月に発表したスマホ向け通信チップ「FastConnect 8800」はHDTへの対応をうたっていて、搭載製品は2026年内に登場する見込み。
-
-その一方、受け取る側はもう少し時間が必要です。ロスレスやハイレゾを扱うプレミアムワイヤレスオーディオの標準規格そのものが2027年の見込み。
-
-対応するイヤホンやヘッドホンが並ぶのは、そのあとになります。
-
-もうひとつ注意したいのは、HDTがBluetooth Core 7.0の「オプション機能」だという点です。
-
-ストアの説明や商品の箱に「Bluetooth 7.0」と書いてあっても、HDTが使えるとは限りません。スマホとイヤホンの両方が対応して、やっと4倍速の恩恵を受けられるんです。
-
-ただし最大7.5Mbpsへの対応もオプションなので、すべてのHDT対応製品が4倍近い速度を出せるわけではありません。
-
-それに、基本的には今使っているイヤホンがアップデートで速くなる…という話でもありません。有線イヤホンを処分するのは、もう少し待ってからにしましょう。
-
-Source: Bluetooth SIG, Bluetooth SIG（技術概要）, ソニー, PHILE WEB, AV Watch, Qualcomm, Android Authority
+※商品を購入すると、売上の一部が販売プラットフォームよりメディアジーンに還元されることがあります。掲載されている情報は執筆時点の情報、または自動で更新されています。
 
 Advertisement
 
@@ -124,4 +88,4 @@ PR
 
 プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
 
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy Ja
+FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
