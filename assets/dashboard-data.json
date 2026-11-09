@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:18:22.648689+09:00",
+  "updated": "2026-11-09T23:23:29.548064+09:00",
   "feeds": {
     "kabu": [
       {
@@ -14,9 +14,9 @@
         "date": "2026-11-06T08:00:00+00:00"
       },
       {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
-        "date": "2026-11-09T07:53:40+00:00"
+        "title": "日経平均 一時2000円以上値上がり - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXVnbV84c3hPYW5nV3QzR1pWNzJoT2ppNW5kVjYzX1RCeERsZG0zS2ZlTHJqWGJWYWxrM0p1V2tnS3ZwQWNwTHR0MHhTUUlB?oc=5",
+        "date": "2026-11-09T02:36:24+00:00"
       },
       {
         "title": "株価指数先物【引け後】 AI関連株はまちまち、ソフトバンクＧの決算待ちに - 株探",
@@ -31,15 +31,30 @@
         "body": "a04.txt"
       },
       {
-        "title": "日経平均 一時2000円以上値上がり - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BUXVnbV84c3hPYW5nV3QzR1pWNzJoT2ppNW5kVjYzX1RCeERsZG0zS2ZlTHJqWGJWYWxrM0p1V2tnS3ZwQWNwTHR0MHhTUUlB?oc=5",
-        "date": "2026-11-09T02:36:24+00:00",
-        "body": "a05.txt"
+        "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5",
+        "date": "2026-11-06T08:00:00+00:00"
+      },
+      {
+        "title": "明日の株式相場に向けて＝ソフトバンクＧは「バッグホルダー」となるのか - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySTZDOEF3ZnRLRG5aUEpaRW8wTVJNYzBXTmpRd2ktYnZOcWVrWkJISl9KYlN4cTB1YzBtci1NX2h5bnV1dWpoYmE0eGV5Y196VEczLUJlaVBkNU55S3J5cQ?oc=5",
+        "date": "2026-11-09T08:30:00+00:00"
+      },
+      {
+        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
+        "date": "2026-11-09T07:53:40+00:00"
       },
       {
         "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNVlVS1R0QUJRRmZBakJubzV1RHZzeW5SbG1RTFMtTERTaGNDYXNrNjA1TE0yYTY4YmMyVnhCVW1GcnF5SnhoZmxJT2gyNm1UZ2ZuUkFDRkc3TEhjWmxwWk4wWmNzUkx3NmFUcQ?oc=5",
-        "date": "2026-11-08T20:00:00+00:00"
+        "date": "2026-11-08T20:00:00+00:00",
+        "body": "a08.txt"
+      },
+      {
+        "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
+        "date": "2026-11-06T08:00:00+00:00"
       },
       {
         "title": "日経平均、1976円57銭高の5万9411円34銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
@@ -50,21 +65,6 @@
         "title": "三井不動産の株価一時6.2%安 4〜9月9%減益、市場予想に届かず - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zQUZqYjlHaHBUM0F5Wkd0cklOSjJSblJ2NTJZb3gzT3RCSEM3Y0VCRkRkYWM2V01ycTJOSmREaTI0SUYwSGQtYXN5clZEMlVaNFVhcHd0c293ZVBVWVRhUG1xZW12ckMwODhNcg?oc=5",
         "date": "2026-11-09T04:23:40+00:00"
-      },
-      {
-        "title": "日経VI：低下、株価反発で警戒感はひとまず緩和(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1E0TGl3MVVkeEcxQ2FnOHVhXzBfZ002bVBiLXl1aVplYUJuak9BSnRHMl92SXlVeUlXa3Z0a01qWUs5VU12TUZRWkVmSDk1bFFscm0wQkJBMVlYMURDV3UxeGY1RUtQZXRzc3otdnJCOUtOTG9hMUh6dkY1bXBMcUFVZnlCeUk?oc=5",
-        "date": "2026-11-09T07:35:00+00:00"
-      },
-      {
-        "title": "オープンハウスG株価1年3カ月ぶり安値 27年9月期利益、予想下回る - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBYzg4aDBWczctc0hoZ0RUY1Q3ZjNFTF9OMDZ1WTh0QjBlVlRhRFRYZzhMSHBtS0czNWlGWG9zR002a2dTdjRmVURMcUVtd2NiMG5uQUNXYWJwdnNqTzhSYWIyX29sQmJRbUNiXw?oc=5",
-        "date": "2026-11-09T04:30:45+00:00"
-      },
-      {
-        "title": "鈴木英之氏【大荒れの秋相場、日経平均の底打ち・反発なるか】 ＜相場観特集＞(株探ニュース) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxvajkweVZCLWlwNXhaWDdwOGNWalh1bW5ZOVpyamtnTWZ2OXRsb3BFYTFTeDNPTmtpWkxmSlg2bjRoOFFKR0ZFTnA4LUh2X00xejFOTnJiYUJuOHRWbWxEQ3NTUlpmdGgzR1c5THIwU0xhZXpTTmNYNVFSbUNEaGhGMm83eWc?oc=5",
-        "date": "2026-11-09T09:30:30+00:00"
       }
     ],
     "ai": [
@@ -217,75 +217,75 @@
     ],
     "gadget": [
       {
+        "title": "肉眼では見えないQRコード。A4用紙に2TBのデータを保存",
+        "link": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
+        "date": "2026-11-09T14:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "「独裁者トランプ」に「チベット独立」。iPhoneの予測入力、約10万件の言葉を避けてる模様",
         "link": "https://www.gizmodo.jp/article/2611-iphone-keyboard-censored-words-list/",
         "date": "2026-11-09T13:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "まだ生きているのに『人類から忘れられた』生き物たち。「社会的絶滅」という危機",
         "link": "https://www.gizmodo.jp/article/2611-social-extinction-endangered-species/",
         "date": "2026-11-09T12:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "6年前に買った初代HomePod miniが最新アプデで進化。グッと来た新機能2つ",
         "link": "https://www.gizmodo.jp/article/homepod-mini-update-new-features/",
         "date": "2026-11-09T12:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場",
         "link": "https://www.gizmodo.jp/article/2611-new-playstation-portal-midnight-black/",
         "date": "2026-11-09T11:30:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "VITUREのディスプレイグラス、サイバーパンクの次はカンフーパンク",
         "link": "https://www.gizmodo.jp/article/2611-viture-phantom-blade-zero-xr-glasses/",
         "date": "2026-11-09T11:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "タランチュラ3000匹を靴下に入れて密輸しようとした研究者、捕まる",
         "link": "https://www.gizmodo.jp/article/authorities-at-lima-airport-find-more-than-3000-tarantulas-hidden-in-dirty-socks/",
         "date": "2026-11-09T10:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "ドラクエが突如スマホ向け新作を発表。その名も『ドラゴンクエストRPG　魔界樹と導かれし島』",
         "link": "https://www.gizmodo.jp/article/dragon-quest-makaiju/",
         "date": "2026-11-09T10:15:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "Meta「記事を利用されるのが嫌なら、うちのSNS使わないでね」→出版業界が猛反発",
         "link": "https://www.gizmodo.jp/article/meta-terms-update-publisher-backlash/",
         "date": "2026-11-09T10:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "だからNape Proは生まれた。CEOと鍋を囲み、創業秘話まで聞けた1日",
         "link": "https://www.gizmodo.jp/article/nape-pro-keychron-behind-scenes-repost/",
         "date": "2026-11-09T09:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "アプリから“火をつけられる”スマホが発売",
         "link": "https://www.gizmodo.jp/article/oukitel-wp63/",
         "date": "2026-11-09T08:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "大きな機能もりもりスマホじゃなくていい人へ。小さめでスペックそこそこな「Enough Phone」をどうぞ",
         "link": "https://www.gizmodo.jp/article/2611-enough-phone-compact-smartphone/",
         "date": "2026-11-09T06:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "山崎実業のスライドテーブルで「朝のキッチンの渋滞」が解消！ 動線が整いました",
-        "link": "https://www.gizmodo.jp/article/2611-yamazakijirushi-slide-table/",
-        "date": "2026-11-09T05:35:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -461,7 +461,7 @@
     }
   },
   "index": {
-    "price": 59280.0,
+    "price": 59295.0,
     "prev": 58235.0,
     "points": [
       [
@@ -516,7 +516,7 @@
       [
         "11/09 08:45",
         57865.0,
-        58040.0,
+        58045.0,
         58125.0,
         57820.0
       ],
@@ -537,7 +537,7 @@
       [
         "11/09 09:00",
         58205.0,
-        58020.0,
+        58060.0,
         58290.0,
         57900.0
       ],
@@ -558,7 +558,7 @@
       [
         "11/09 09:15",
         58580.0,
-        58600.0,
+        58610.0,
         58745.0,
         58535.0
       ],
@@ -621,7 +621,7 @@
       [
         "11/09 10:00",
         58915.0,
-        58890.0,
+        58900.0,
         58975.0,
         58885.0
       ],
@@ -635,7 +635,7 @@
       [
         "11/09 10:10",
         58950.0,
-        58995.0,
+        59005.0,
         59035.0,
         58885.0
       ],
@@ -663,7 +663,7 @@
       [
         "11/09 10:30",
         59095.0,
-        58935.0,
+        58930.0,
         59105.0,
         58885.0
       ],
@@ -831,7 +831,7 @@
       [
         "11/09 12:30",
         59425.0,
-        59340.0,
+        59360.0,
         59500.0,
         59305.0
       ],
@@ -1026,7 +1026,7 @@
       ],
       [
         "11/09 14:50",
-        58860.0,
+        58850.0,
         58905.0,
         58945.0,
         58835.0
@@ -1075,7 +1075,7 @@
       ],
       [
         "11/09 15:25",
-        58770.0,
+        58775.0,
         58810.0,
         58810.0,
         58735.0
@@ -1118,7 +1118,7 @@
       [
         "11/09 15:55",
         58815.0,
-        58835.0,
+        58840.0,
         58880.0,
         58815.0
       ],
@@ -1160,7 +1160,7 @@
       [
         "11/09 16:25",
         58680.0,
-        58660.0,
+        58665.0,
         58705.0,
         58660.0
       ],
@@ -1174,7 +1174,7 @@
       [
         "11/09 16:35",
         58615.0,
-        58645.0,
+        58635.0,
         58660.0,
         58525.0
       ],
@@ -1209,7 +1209,7 @@
       [
         "11/09 17:00",
         58560.0,
-        58485.0,
+        58495.0,
         58560.0,
         58410.0
       ],
@@ -1335,7 +1335,7 @@
       [
         "11/09 18:30",
         58885.0,
-        58830.0,
+        58825.0,
         58920.0,
         58810.0
       ],
@@ -1531,7 +1531,7 @@
       [
         "11/09 20:50",
         59040.0,
-        59060.0,
+        59065.0,
         59075.0,
         59035.0
       ],
@@ -1615,14 +1615,14 @@
       [
         "11/09 21:50",
         59275.0,
-        59355.0,
+        59380.0,
         59395.0,
         59230.0
       ],
       [
         "11/09 21:55",
         59335.0,
-        59265.0,
+        59270.0,
         59355.0,
         59250.0
       ],
@@ -1713,28 +1713,35 @@
       [
         "11/09 23:00",
         59360.0,
-        59350.0,
+        59355.0,
         59370.0,
         59325.0
       ],
       [
         "11/09 23:05",
-        59280.0,
+        59255.0,
         59345.0,
         59345.0,
-        59265.0
+        59255.0
       ],
       [
-        "11/09 23:08",
-        59280.0,
-        59280.0,
-        59280.0,
-        59280.0
+        "11/09 23:10",
+        59290.0,
+        59250.0,
+        59305.0,
+        59245.0
+      ],
+      [
+        "11/09 23:13",
+        59295.0,
+        59295.0,
+        59295.0,
+        59295.0
       ]
     ]
   },
   "fx": {
-    "price": 157.9465,
+    "price": 157.914,
     "prev": 158.5355
   },
   "topix": {
