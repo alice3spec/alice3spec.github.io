@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:43:46.010659+09:00",
+  "updated": "2026-11-09T13:48:26.643681+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,75 +213,75 @@
     ],
     "gadget": [
       {
+        "title": "USB-Cで蘇る、It&apos;s a Sonyデザインのヘッドホン",
+        "link": "https://www.gizmodo.jp/article/2611-mdr-3r-usb-c-sony-headphones/",
+        "date": "2026-11-09T04:35:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "PR動画が豪華だ。Gentle MonsterコラボのAndroid XRスマートグラスが12月発売",
         "link": "https://www.gizmodo.jp/article/2611-gentle-monster-android-xr-smart-glasses/",
         "date": "2026-11-09T04:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "Jackeryの手のひらサイズポータブル電源に新モデル。小さいけど長寿命＆大容量",
         "link": "https://www.gizmodo.jp/article/2611-jackery-explorer-100d-portable-power-station/",
         "date": "2026-11-09T03:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "「いい音なら有線イヤホン」が終わる？ Bluetoothの通信速度が最大約4倍に",
         "link": "https://www.gizmodo.jp/article/2611-bluetooth-lossless-wireless-audio-hdt/",
         "date": "2026-11-09T03:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "「1日の長さ」が変わってきてる。何が起きてるんだ？",
         "link": "https://www.gizmodo.jp/article/2611-earths-inner-core-shape-changing/",
         "date": "2026-11-09T02:35:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "見た目はゲームパッド、中身はコックピット。Xbox用フライトシムコントローラーが激アツ",
         "link": "https://www.gizmodo.jp/article/2611-echo-aviation-controller-xpc/",
         "date": "2026-11-09T02:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "発売間近？ Samsungがスポーツタイプのイヤホンを準備中",
         "link": "https://www.gizmodo.jp/article/2611-samsung-galaxy-t1-sports-earphones/",
         "date": "2026-11-09T00:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "新しいMacBook Proの光るリンゴを消す方法",
         "link": "https://www.gizmodo.jp/article/2611-macbook-pro-turn-off-illuminated-apple-logo/",
         "date": "2026-11-08T23:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "アップルの嘘つき！ 新型iPad mini、バッテリー14時間持つらしいじゃん！",
         "link": "https://www.gizmodo.jp/article/2611-new-ipad-mini-battery-life/",
         "date": "2026-11-08T22:30:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "充電不要、ノイズはキャンセル、もちろん光る。ゲーミング・有線イヤホンはこうなる",
         "link": "https://www.gizmodo.jp/article/2611-razer-hammerhead-v3-chroma/",
         "date": "2026-11-08T22:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "海岸に導入された「サメ監視用ドローン」に鳥がマジギレ、海に沈める",
         "link": "https://www.gizmodo.jp/article/2611-birds-vs-beach-drones/",
         "date": "2026-11-08T14:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "アメリカの空、フロッピーディスクが守ってました。連邦航空局が数十年ぶりにシステム更新",
         "link": "https://www.gizmodo.jp/article/2611-faa-floppy-disk-system-update/",
         "date": "2026-11-08T13:30:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "「貯金は無意味」発言から3日後、イーロン・マスクがAI代に音を上げる",
-        "link": "https://www.gizmodo.jp/article/2611-elon-musk-ai-cost-grok-bot/",
-        "date": "2026-11-08T12:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -456,7 +456,7 @@
     }
   },
   "index": {
-    "price": 59320.0,
+    "price": 59280.0,
     "prev": 58235.0,
     "points": [
       [
@@ -915,16 +915,23 @@
         59255.0
       ],
       [
-        "11/09 13:33",
-        59320.0,
-        59320.0,
-        59320.0,
-        59320.0
+        "11/09 13:35",
+        59270.0,
+        59285.0,
+        59335.0,
+        59270.0
+      ],
+      [
+        "11/09 13:38",
+        59280.0,
+        59280.0,
+        59280.0,
+        59280.0
       ]
     ]
   },
   "fx": {
-    "price": 158.296,
+    "price": 158.3095,
     "prev": 158.5355
   },
   "topix": {
