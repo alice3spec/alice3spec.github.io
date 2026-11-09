@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T03:23:26.079334+09:00",
+  "updated": "2026-11-10T03:28:13.925829+09:00",
   "feeds": {
     "kabu": [
       {
@@ -8,14 +8,14 @@
         "date": "2026-11-08T22:30:00+00:00"
       },
       {
-        "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q3VQRHNzSWQzYWVObnFtV0gyS0ZWdWd2SXRPLWZUZlU4c0lJWDlEbURKdFBfMUhLSlZ1Z3VuY2pRTG90TThSa3lHb2ZjeUo4QjJrX2JxSnlXcVY5MEVocVlmN2ZhZllKWjBYSWZ0eFd2emFYanRUQlB2dnJrRlU?oc=5",
-        "date": "2026-11-09T02:29:01+00:00"
-      },
-      {
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
         "date": "2026-11-06T08:00:00+00:00"
+      },
+      {
+        "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q3VQRHNzSWQzYWVObnFtV0gyS0ZWdWd2SXRPLWZUZlU4c0lJWDlEbURKdFBfMUhLSlZ1Z3VuY2pRTG90TThSa3lHb2ZjeUo4QjJrX2JxSnlXcVY5MEVocVlmN2ZhZllKWjBYSWZ0eFd2emFYanRUQlB2dnJrRlU?oc=5",
+        "date": "2026-11-09T02:29:01+00:00"
       },
       {
         "title": "株価指数先物【引け後】 AI関連株はまちまち、ソフトバンクＧの決算待ちに - 株探",
@@ -38,6 +38,16 @@
         "date": "2026-11-09T07:49:09+00:00"
       },
       {
+        "title": "日経平均、1976円57銭高の5万9411円34銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFNmMDFrbnlMOW01WmJHa0txYndpUVpaOERYTEg1N19pX01VTGZKMGRwakJCMGRsdEhSZ3JhRGVoanZjV2lvQWpsU09YMFBXeloxRmRnRTJ0TVZSdHBfY0prYW4xdGUzQ0xNcVlfd0UzRC1PQjNER2ZOMzNxUGdKYWtKcHFRdU0?oc=5",
+        "date": "2026-11-09T02:31:58+00:00"
+      },
+      {
+        "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNVlVS1R0QUJRRmZBakJubzV1RHZzeW5SbG1RTFMtTERTaGNDYXNrNjA1TE0yYTY4YmMyVnhCVW1GcnF5SnhoZmxJT2gyNm1UZ2ZuUkFDRkc3TEhjWmxwWk4wWmNzUkx3NmFUcQ?oc=5",
+        "date": "2026-11-08T20:00:00+00:00"
+      },
+      {
         "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
         "date": "2026-11-09T07:53:40+00:00"
@@ -46,16 +56,6 @@
         "title": "オープンハウスG株価1年3カ月ぶり安値 27年9月期利益、予想下回る - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBYzg4aDBWczctc0hoZ0RUY1Q3ZjNFTF9OMDZ1WTh0QjBlVlRhRFRYZzhMSHBtS0czNWlGWG9zR002a2dTdjRmVURMcUVtd2NiMG5uQUNXYWJwdnNqTzhSYWIyX29sQmJRbUNiXw?oc=5",
         "date": "2026-11-09T04:30:45+00:00"
-      },
-      {
-        "title": "日経VI：低下、株価反発で警戒感はひとまず緩和(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1E0TGl3MVVkeEcxQ2FnOHVhXzBfZ002bVBiLXl1aVplYUJuak9BSnRHMl92SXlVeUlXa3Z0a01qWUs5VU12TUZRWkVmSDk1bFFscm0wQkJBMVlYMURDV3UxeGY1RUtQZXRzc3otdnJCOUtOTG9hMUh6dkY1bXBMcUFVZnlCeUk?oc=5",
-        "date": "2026-11-09T07:35:00+00:00"
-      },
-      {
-        "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNVlVS1R0QUJRRmZBakJubzV1RHZzeW5SbG1RTFMtTERTaGNDYXNrNjA1TE0yYTY4YmMyVnhCVW1GcnF5SnhoZmxJT2gyNm1UZ2ZuUkFDRkc3TEhjWmxwWk4wWmNzUkx3NmFUcQ?oc=5",
-        "date": "2026-11-08T20:00:00+00:00"
       },
       {
         "title": "日経平均 一時2000円以上値上がり - Yahoo!ニュース",
@@ -457,7 +457,7 @@
     }
   },
   "index": {
-    "price": 60580.0,
+    "price": 60540.0,
     "prev": 58235.0,
     "points": [
       [
@@ -2044,26 +2044,33 @@
       ],
       [
         "11/10 03:10",
-        60580.0,
+        60595.0,
         58235.0,
         60595.0,
         58235.0
       ],
       [
-        "11/10 03:13",
-        60580.0,
-        60580.0,
-        60580.0,
-        60580.0
+        "11/10 03:15",
+        60540.0,
+        60590.0,
+        60590.0,
+        60540.0
+      ],
+      [
+        "11/10 03:18",
+        60540.0,
+        60540.0,
+        60540.0,
+        60540.0
       ]
     ]
   },
   "fx": {
-    "price": 158.0375,
+    "price": 158.026,
     "prev": 158.5355
   },
   "topix": {
-    "price": 141.0586,
+    "price": 140.9923,
     "prev": 134.27
   },
   "ver": "v58"
