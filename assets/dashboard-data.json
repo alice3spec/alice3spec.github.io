@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T10:38:30.589329+09:00",
+  "updated": "2026-11-09T10:43:31.712602+09:00",
   "feeds": {
     "kabu": [
       {
@@ -15,10 +15,10 @@
       {
         "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-08T17:29:09+00:00"
+        "date": "2026-11-08T20:28:17+00:00"
       },
       {
-        "title": "日経平均株価が反発、一時800円高 米ハイテク株高で買い先行 - 日本経済新聞",
+        "title": "日経平均株価、一時1200円高 米ハイテク株高で買い先行 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
         "date": "2026-11-09T00:06:22+00:00"
       },
@@ -58,9 +58,9 @@
         "date": "2026-11-08T22:35:38+00:00"
       },
       {
-        "title": "日経平均、900円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN2pDbnBTcmFNWlN1Mks2Z2h4OE1hWVpFX3pySFV3ZEktREN3NzJIaWdrWEg3UnhOc2xKOFhiUVJhc2tHT2VBbXRxTTZzLXJTM0FoOE9ZVlNmQ1Y3UC1pc3R4eHpMTHdzenZKUThIc0szVVUtYk41SXNXNG1CN29XVHNCanpsc1E?oc=5",
-        "date": "2026-11-09T00:11:47+00:00"
+        "title": "日経平均、1600円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTduNWFielFWbWhrODZmQzNrZ3lzOWxRczAyQzN2anEwaHdIbTJETE9FbXpvRWtZZ1BaaFY2em5hd1ZpT1A5SGhXbF9kc2tkazRYRjFaOWlrNTVkQmtXMEJNSkozLUNXdG1WVnJ0aVgzX0lUNElvWjJSSlM1RDFHcnJpMy13S0E?oc=5",
+        "date": "2026-11-09T01:36:53+00:00"
       }
     ],
     "ai": [
@@ -457,7 +457,7 @@
     }
   },
   "index": {
-    "price": 58970.0,
+    "price": 59045.0,
     "prev": 58235.0,
     "points": [
       [
@@ -512,7 +512,7 @@
       [
         "11/09 08:45",
         57865.0,
-        58040.0,
+        58045.0,
         58125.0,
         57820.0
       ],
@@ -533,7 +533,7 @@
       [
         "11/09 09:00",
         58205.0,
-        58020.0,
+        58060.0,
         58290.0,
         57900.0
       ],
@@ -554,7 +554,7 @@
       [
         "11/09 09:15",
         58580.0,
-        58600.0,
+        58610.0,
         58745.0,
         58535.0
       ],
@@ -617,7 +617,7 @@
       [
         "11/09 10:00",
         58915.0,
-        58890.0,
+        58900.0,
         58975.0,
         58885.0
       ],
@@ -631,7 +631,7 @@
       [
         "11/09 10:10",
         58950.0,
-        58995.0,
+        59005.0,
         59035.0,
         58885.0
       ],
@@ -651,22 +651,29 @@
       ],
       [
         "11/09 10:25",
-        58980.0,
+        58925.0,
         58985.0,
         59050.0,
-        58960.0
+        58895.0
       ],
       [
-        "11/09 10:28",
-        58970.0,
-        58970.0,
-        58970.0,
-        58970.0
+        "11/09 10:30",
+        59075.0,
+        58930.0,
+        59075.0,
+        58885.0
+      ],
+      [
+        "11/09 10:33",
+        59045.0,
+        59045.0,
+        59045.0,
+        59045.0
       ]
     ]
   },
   "fx": {
-    "price": 158.2265,
+    "price": 158.22,
     "prev": 158.5355
   },
   "topix": {
