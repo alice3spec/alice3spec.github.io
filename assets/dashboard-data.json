@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T07:48:24.163517+09:00",
+  "updated": "2026-11-10T07:53:31.649207+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,9 +13,15 @@
         "date": "2026-11-09T22:30:00+00:00"
       },
       {
+        "title": "１０日の東京株式市場見通し＝日経平均６万円回復へ、ＴＳＭＣ月次売上を注視(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEJIMDczb1NwNXIzZGkybEJIRE9ocE5MaG9Cekd2RDFRNWl4WkU1WjF0bDhrLWlIcW1fZXFIbkRPcGNyUmpZaGpqY0tzOW90amhxTEItdnhGanJvdjQ0X1dNRGk2RUo0THp6Q21meUtZQWlwR3NHTl9ZQnY3NFFGNmdNaXl5b0k?oc=5",
+        "date": "2026-11-09T22:48:16+00:00"
+      },
+      {
         "title": "【市況】 株価指数先物【引け後】 AI関連株はまちまち、ソフトバンクＧの決算待ちに - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ESGY1YWZRMFFpdmpaekV4c2EzYzBWMVBwQUZOa2txTzk2TmNTdl9fNFR3OG1naWNRMVRZM3Uwb2I3Y0laMF9HUEhzb3Vwa09NRDYwT2ZFVkJ2Vk03b1JDQw?oc=5",
-        "date": "2026-11-09T09:34:05+00:00"
+        "date": "2026-11-09T09:34:05+00:00",
+        "body": "a03.txt"
       },
       {
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
@@ -23,20 +29,14 @@
         "date": "2026-11-06T08:00:00+00:00"
       },
       {
-        "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q3VQRHNzSWQzYWVObnFtV0gyS0ZWdWd2SXRPLWZUZlU4c0lJWDlEbURKdFBfMUhLSlZ1Z3VuY2pRTG90TThSa3lHb2ZjeUo4QjJrX2JxSnlXcVY5MEVocVlmN2ZhZllKWjBYSWZ0eFd2emFYanRUQlB2dnJrRlU?oc=5",
-        "date": "2026-11-09T02:29:01+00:00"
-      },
-      {
         "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！ - ダイヤモンド・オンライン",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
         "date": "2026-11-06T12:34:46+00:00"
       },
       {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
-        "date": "2026-11-09T07:53:40+00:00",
-        "body": "a06.txt"
+        "title": "日経平均株価 一時2000円以上上昇 半導体関連株中心に買い戻し（日テレNEWS NNN） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0Q3VQRHNzSWQzYWVObnFtV0gyS0ZWdWd2SXRPLWZUZlU4c0lJWDlEbURKdFBfMUhLSlZ1Z3VuY2pRTG90TThSa3lHb2ZjeUo4QjJrX2JxSnlXcVY5MEVocVlmN2ZhZllKWjBYSWZ0eFd2emFYanRUQlB2dnJrRlU?oc=5",
+        "date": "2026-11-09T02:29:01+00:00"
       },
       {
         "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
@@ -44,9 +44,9 @@
         "date": "2026-11-09T00:06:22+00:00"
       },
       {
-        "title": "鈴木英之氏【大荒れの秋相場、日経平均の底打ち・反発なるか】 ＜相場観特集＞(株探ニュース) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxvajkweVZCLWlwNXhaWDdwOGNWalh1bW5ZOVpyamtnTWZ2OXRsb3BFYTFTeDNPTmtpWkxmSlg2bjRoOFFKR0ZFTnA4LUh2X00xejFOTnJiYUJuOHRWbWxEQ3NTUlpmdGgzR1c5THIwU0xhZXpTTmNYNVFSbUNEaGhGMm83eWc?oc=5",
-        "date": "2026-11-09T09:30:30+00:00"
+        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、ファーストリテと東エレクの2銘柄で約347円押し上げ(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUmNnRnY0MW1VTnI5ZE1ucWg4NTNwNFhqeWVFY1preHJqMXE1aEZNOEJmWklHVENsNTJsYVlndl81Rk92Ul9nV0ZjdXUyQnNYdmxSWnNtUUJMX2xmLTZVbWNVOU1pT0UtcDljTDR3THZUbVlpVFhXRUppSnRjekJHQXlVZ2tvYVE?oc=5",
+        "date": "2026-11-09T07:53:40+00:00"
       },
       {
         "title": "日経平均株価、米株急落が逆風 リスク回避強まる（先読み株式相場） - 日本経済新聞",
@@ -54,9 +54,9 @@
         "date": "2026-11-05T22:30:00+00:00"
       },
       {
-        "title": "日経VI：低下、株価反発で警戒感はひとまず緩和(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1E0TGl3MVVkeEcxQ2FnOHVhXzBfZ002bVBiLXl1aVplYUJuak9BSnRHMl92SXlVeUlXa3Z0a01qWUs5VU12TUZRWkVmSDk1bFFscm0wQkJBMVlYMURDV3UxeGY1RUtQZXRzc3otdnJCOUtOTG9hMUh6dkY1bXBMcUFVZnlCeUk?oc=5",
-        "date": "2026-11-09T07:35:00+00:00"
+        "title": "鈴木英之氏【大荒れの秋相場、日経平均の底打ち・反発なるか】 ＜相場観特集＞(株探ニュース) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSmxvajkweVZCLWlwNXhaWDdwOGNWalh1bW5ZOVpyamtnTWZ2OXRsb3BFYTFTeDNPTmtpWkxmSlg2bjRoOFFKR0ZFTnA4LUh2X00xejFOTnJiYUJuOHRWbWxEQ3NTUlpmdGgzR1c5THIwU0xhZXpTTmNYNVFSbUNEaGhGMm83eWc?oc=5",
+        "date": "2026-11-09T09:30:30+00:00"
       },
       {
         "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
@@ -2374,7 +2374,7 @@
     ]
   },
   "fx": {
-    "price": 157.921,
+    "price": 157.9245,
     "prev": 157.9115
   },
   "topix": {
