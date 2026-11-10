@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:03:24.473430+09:00",
+  "updated": "2026-11-10T20:08:26.373553+09:00",
   "feeds": {
     "kabu": [
       {
@@ -216,75 +216,75 @@
     ],
     "gadget": [
       {
-        "title": "レトロブーム加速中。KOSSの新型ヘッドホン「KPH40 Retro」は80年代感たっぷり",
-        "link": "https://www.gizmodo.jp/article/2611-koss-kph40-retro/",
-        "date": "2026-11-10T11:00:00+00:00",
-        "body": "a36.txt"
-      },
-      {
         "title": "見た目も音も1979年風。ソニーの復刻版ヘッドホンは「ノスタルジー」だけで買ってよし",
         "link": "https://www.gizmodo.jp/article/sony-mdr-3r-headphone-review-nostalgia/",
         "date": "2026-11-10T10:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a36.txt"
       },
       {
         "title": "Anthropic、早ければ来週にもIPO。想定評価額は半減、160兆円程度？",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-valuation-drop/",
         "date": "2026-11-10T09:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a37.txt"
       },
       {
         "title": "断線しそうな有線イヤホンを秒で補修。ほぼすべての素材に対応する接着剤",
         "link": "https://www.gizmodo.jp/article/bondic_liquid_plastic_repair_tool/",
         "date": "2026-11-10T09:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a38.txt"
       },
       {
         "title": "SHUREの新しいマイク、映画館で体験しませんか？ プロが録った音も、制作の裏側も",
         "link": "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
         "date": "2026-11-10T08:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a39.txt"
       },
       {
         "title": "スマホ禁止で古典を読む授業、ハーバード大では倍率2倍に",
         "link": "https://www.gizmodo.jp/article/harvard-hum10-no-phones-classics/",
         "date": "2026-11-10T07:35:00+00:00",
-        "body": "a41.txt"
+        "body": "a40.txt"
       },
       {
         "title": "「地元のセブン」が再現できる、トミカのジオラマ駐車場が登場。愛車のミニカーを停めてみたい",
         "link": "https://www.gizmodo.jp/article/2611-tomica-diorama-seven-eleven-parking/",
         "date": "2026-11-10T06:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a41.txt"
       },
       {
         "title": "AI相場は不調でも「S&amp;P500が、ケタ外れに上昇する兆しを見せている」と、JPモルガンが強気の指摘",
         "link": "https://www.gizmodo.jp/article/2611-jpmorgan-sp500-rally-signal-czd/",
         "date": "2026-11-10T05:35:00+00:00",
-        "body": "a43.txt"
+        "body": "a42.txt"
       },
       {
         "title": "ホワイトハウスのIPアドレス、誰でも数ドルでレンタルできた",
         "link": "https://www.gizmodo.jp/article/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars/",
         "date": "2026-11-10T04:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a43.txt"
       },
       {
         "title": "折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？",
         "link": "https://www.gizmodo.jp/article/2611-samsung-17-inch-foldable-tablet/",
         "date": "2026-11-10T03:45:00+00:00",
-        "body": "a45.txt"
+        "body": "a44.txt"
       },
       {
         "title": "1回1.9億円のハッカーAI、高い？むしろ安い？OpenAI「バグ報奨金より55倍お得」",
         "link": "https://www.gizmodo.jp/article/2611-openai-ai-vulnerability-detection-cost/",
         "date": "2026-11-10T03:30:00+00:00",
-        "body": "a46.txt"
+        "body": "a45.txt"
       },
       {
         "title": "AIに自販機を経営させたら嘘、談合、不正のオンパレードでした",
         "link": "https://www.gizmodo.jp/article/2611-ai-vending-machine-fraud/",
         "date": "2026-11-10T03:00:00+00:00",
+        "body": "a46.txt"
+      },
+      {
+        "title": "ダイソーの「ペットボトルキャップ」が快適。アウトドアにも最適",
+        "link": "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-gqvz/",
+        "date": "2026-11-10T02:35:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -457,7 +457,7 @@
     "rain": null
   },
   "index": {
-    "price": 60130.0,
+    "price": 60245.0,
     "prev": 60970.0,
     "points": [
       [
@@ -1448,16 +1448,23 @@
         60105.0
       ],
       [
-        "11/10 19:53",
-        60130.0,
-        60130.0,
-        60130.0,
-        60130.0
+        "11/10 19:55",
+        60260.0,
+        60185.0,
+        60260.0,
+        60185.0
+      ],
+      [
+        "11/10 19:58",
+        60245.0,
+        60245.0,
+        60245.0,
+        60245.0
       ]
     ]
   },
   "fx": {
-    "price": 158.1295,
+    "price": 158.1305,
     "prev": 157.9115
   },
   "topix": {
