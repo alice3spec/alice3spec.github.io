@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T15:48:25.611220+09:00",
+  "updated": "2026-11-10T15:53:17.448187+09:00",
   "feeds": {
     "kabu": [
       {
@@ -56,14 +56,14 @@
         "date": "2026-11-10T06:25:08+00:00"
       },
       {
+        "title": "日経平均、1684円08銭高の6万0459円58銭で終了＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVZrUkd2Qi04VDdSY2Y5dW91dDl3Q3oxRlVwcnRNT2RrNWNBcXpTSktZYU52akN3eURJai1aU3lfbEI2aUVqd1dRQW1GYV9KVjN1azJYOUtNTVRkZ1J2d2JSUE5nWkpieE9wbHk0MHFkaUpaWXUxYjh3QUZFTUcyZG9OSGxCSzg?oc=5",
+        "date": "2026-11-10T06:31:18+00:00"
+      },
+      {
         "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
         "date": "2026-11-09T00:06:22+00:00"
-      },
-      {
-        "title": "ソフトバンク株価反落 27年3月期上方修正でも材料出尽くし - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MdkhmVWhBeUlqMDVuR3ZHQmNLZVNvUUQteFB3NlJxYVpOY0dseFc3Snd0YlpPX2c4LXBqcDM3VTV1TWVmS194Y01tTnhVdGtKWTV0QVFsV3VfQXV0Sk1oMHNhM3BVaE5jM2JjUw?oc=5",
-        "date": "2026-11-10T01:13:45+00:00"
       }
     ],
     "ai": [
@@ -308,6 +308,12 @@
         "body": "a50.txt"
       },
       {
+        "title": "義母を窒息させ殺害疑い 男を逮捕",
+        "link": "https://news.yahoo.co.jp/pickup/6602046?source=rss",
+        "date": "2026-11-10T06:49:10+00:00",
+        "body": "a51.txt"
+      },
+      {
         "title": "イノシシか 女性に体当たりの映像",
         "link": "https://news.yahoo.co.jp/pickup/6602018?source=rss",
         "date": "2026-11-10T02:53:56+00:00"
@@ -316,24 +322,18 @@
         "title": "メタとの訴訟 前澤氏の請求を棄却",
         "link": "https://news.yahoo.co.jp/pickup/6602036?source=rss",
         "date": "2026-11-10T05:40:42+00:00",
-        "body": "a52.txt"
+        "body": "a53.txt"
       },
       {
         "title": "「仮面舞踏会」チケ即日完売 なぜ",
         "link": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
         "date": "2026-11-10T06:32:22+00:00",
-        "body": "a53.txt"
+        "body": "a54.txt"
       },
       {
         "title": "中日・工藤監督 根尾昂を熱血指導",
         "link": "https://news.yahoo.co.jp/pickup/6602043?source=rss",
         "date": "2026-11-10T06:34:40+00:00",
-        "body": "a54.txt"
-      },
-      {
-        "title": "「薬屋のひとりごと」躍進の背景",
-        "link": "https://news.yahoo.co.jp/pickup/6602030?source=rss",
-        "date": "2026-11-10T05:02:05+00:00",
         "body": "a55.txt"
       }
     ]
@@ -459,7 +459,7 @@
     }
   },
   "index": {
-    "price": 60400.0,
+    "price": 60385.0,
     "prev": 60970.0,
     "points": [
       [
@@ -1010,22 +1010,29 @@
       ],
       [
         "11/10 15:35",
-        60400.0,
+        60345.0,
         60465.0,
         60475.0,
-        60385.0
+        60325.0
       ],
       [
-        "11/10 15:37",
-        60400.0,
-        60400.0,
-        60400.0,
-        60400.0
+        "11/10 15:40",
+        60380.0,
+        60345.0,
+        60405.0,
+        60330.0
+      ],
+      [
+        "11/10 15:43",
+        60385.0,
+        60385.0,
+        60385.0,
+        60385.0
       ]
     ]
   },
   "fx": {
-    "price": 157.9785,
+    "price": 157.989,
     "prev": 157.9115
   },
   "topix": {
