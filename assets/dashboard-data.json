@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T23:58:42.048051+09:00",
+  "updated": "2026-11-11T00:03:19.996585+09:00",
   "feeds": {
     "kabu": [
       {
@@ -38,10 +38,9 @@
         "body": "a05.txt"
       },
       {
-        "title": "JX金属が続伸 27年3月期上方修正、半導体材料伸びる（10日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1USmJDZHVYaVdWNFZSdlZTM05DTTNNTlVZVkQ0b3BONU9mS0Q0NlVTckpFTUNIdDhEbGJYS2F4aER3a2dMOFc2NEJTVWx2aVpFU2cwb25IYjh3am9nQUU3T1FyTVh4V0hCSVZwZw?oc=5",
-        "date": "2026-11-10T07:30:00+00:00",
-        "body": "a06.txt"
+        "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
+        "date": "2026-11-10T00:07:08+00:00"
       },
       {
         "title": "（朝）米国市場は3指数揃って上昇　ハイテク株が買い戻され相場全体をけん引し買いが優勢の展開 - マネクリ",
@@ -49,9 +48,9 @@
         "date": "2026-11-09T23:03:00+00:00"
       },
       {
-        "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
-        "date": "2026-11-10T00:07:08+00:00"
+        "title": "JX金属が続伸 27年3月期上方修正、半導体材料伸びる（10日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1USmJDZHVYaVdWNFZSdlZTM05DTTNNTlVZVkQ0b3BONU9mS0Q0NlVTckpFTUNIdDhEbGJYS2F4aER3a2dMOFc2NEJTVWx2aVpFU2cwb25IYjh3am9nQUU3T1FyTVh4V0hCSVZwZw?oc=5",
+        "date": "2026-11-10T07:30:00+00:00"
       },
       {
         "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続伸、ソフトバンクGやアドバンテストが2銘柄で約665円分押し上げ - Yahoo!ファイナンス",
@@ -306,33 +305,33 @@
         "body": "a49.txt"
       },
       {
-        "title": "万博のEVバス補助金 返還は半分",
-        "link": "https://news.yahoo.co.jp/pickup/6602091?source=rss",
-        "date": "2026-11-10T13:32:36+00:00",
-        "body": "a50.txt"
-      },
-      {
         "title": "タマホーム社員 保険金を不正請求",
         "link": "https://news.yahoo.co.jp/pickup/6602099?source=rss",
         "date": "2026-11-10T14:38:31+00:00",
-        "body": "a51.txt"
+        "body": "a50.txt"
       },
       {
         "title": "スマホ遠隔操作し詐欺疑い 逮捕",
         "link": "https://news.yahoo.co.jp/pickup/6602082?source=rss",
         "date": "2026-11-10T11:39:05+00:00",
-        "body": "a52.txt"
+        "body": "a51.txt"
       },
       {
         "title": "もう終わりやで 明石ダコ深刻不漁",
         "link": "https://news.yahoo.co.jp/pickup/6602095?source=rss",
         "date": "2026-11-10T14:12:10+00:00",
-        "body": "a53.txt"
+        "body": "a52.txt"
       },
       {
         "title": "集客5万人を掲げたイベ閑散 怒り",
         "link": "https://news.yahoo.co.jp/pickup/6602098?source=rss",
         "date": "2026-11-10T14:30:22+00:00"
+      },
+      {
+        "title": "海自の59歳海将 保育士資格を取得",
+        "link": "https://news.yahoo.co.jp/pickup/6602100?source=rss",
+        "date": "2026-11-10T14:56:35+00:00",
+        "body": "a54.txt"
       },
       {
         "title": "THE MODS苣木寛之さん死去 66歳",
@@ -343,16 +342,11 @@
     ]
   },
   "weather": {
-    "temp": 11.4,
+    "temp": 11.3,
     "code": 0,
-    "max": 13.0,
-    "min": 11.3,
+    "max": 14.1,
+    "min": 10.6,
     "hours": [
-      {
-        "time": "2026-11-10T23:00",
-        "temp": 11.8,
-        "code": 0
-      },
       {
         "time": "2026-11-11T00:00",
         "temp": 11.3,
@@ -372,95 +366,100 @@
         "time": "2026-11-11T03:00",
         "temp": 10.8,
         "code": 0
+      },
+      {
+        "time": "2026-11-11T04:00",
+        "temp": 10.7,
+        "code": 0
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-10T23:00",
-        "temp": 11.8,
+        "time": "2026-11-11T00:00",
+        "temp": 11.3,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T02:00",
-        "temp": 10.9,
+        "time": "2026-11-11T03:00",
+        "temp": 10.8,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T05:00",
+        "time": "2026-11-11T06:00",
         "temp": 10.6,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T08:00",
-        "temp": 10.9,
+        "time": "2026-11-11T09:00",
+        "temp": 11.3,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T11:00",
-        "temp": 12.2,
+        "time": "2026-11-11T12:00",
+        "temp": 12.5,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T14:00",
-        "temp": 13.1,
-        "code": 0,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-11T17:00",
+        "time": "2026-11-11T15:00",
         "temp": 13.4,
+        "code": 0,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-11T18:00",
+        "temp": 13.6,
         "code": 0,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-10T23:00",
+        "time": "2026-11-11T00:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T02:00",
+        "time": "2026-11-11T03:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T05:00",
+        "time": "2026-11-11T06:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T08:00",
+        "time": "2026-11-11T09:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T11:00",
+        "time": "2026-11-11T12:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T14:00",
+        "time": "2026-11-11T15:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T17:00",
+        "time": "2026-11-11T18:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T20:00",
+        "time": "2026-11-11T21:00",
         "pop": 0
       }
     ],
     "tomorrow": {
       "code": 1,
-      "max": 14.1,
-      "min": 10.6
+      "max": 19.0,
+      "min": 11.4
     },
     "rain": null
   },
   "index": {
-    "price": 60070.0,
+    "price": 60230.0,
     "prev": 60970.0,
     "points": [
       [
@@ -1774,26 +1773,33 @@
       ],
       [
         "11/10 23:45",
-        60070.0,
+        60170.0,
         60220.0,
         60260.0,
         60050.0
       ],
       [
-        "11/10 23:48",
-        60070.0,
-        60070.0,
-        60070.0,
-        60070.0
+        "11/10 23:50",
+        60220.0,
+        60160.0,
+        60260.0,
+        60145.0
+      ],
+      [
+        "11/10 23:53",
+        60230.0,
+        60230.0,
+        60230.0,
+        60230.0
       ]
     ]
   },
   "fx": {
-    "price": 158.6905,
+    "price": 158.6525,
     "prev": 157.9115
   },
   "topix": {
-    "price": 143.9,
+    "price": 143.8,
     "prev": 142.07
   },
   "ver": "v58"
