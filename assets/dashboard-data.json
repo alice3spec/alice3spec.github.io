@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T08:03:39.136706+09:00",
+  "updated": "2026-11-11T08:08:34.870057+09:00",
   "feeds": {
     "kabu": [
       {
@@ -20,6 +20,11 @@
         "date": "2026-11-10T22:30:24+00:00"
       },
       {
+        "title": "１１日の東京株式市場見通し＝利益確定売り先行で６万円攻防か(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3M1dlVkSHJDNXJPYU5paXVsRlNQLTZZODZQZGRjcWluZHF5Rjl0V0FQaXlpTVZvNTl5VkdMTkJaamQtWHBTREU0S0pCcU5TSnZVWWZZU1h2eUtoUmdYcmUxbHRsQTNVWGNaU2xGWlExQ3VydWxxZENUOU1odjFWeVV3ZS16X1U?oc=5",
+        "date": "2026-11-10T22:47:05+00:00"
+      },
+      {
         "title": "【日本株】日経平均株価の2つの重要な下値水準 - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kWTBWU19DNjJJRl9kaWMzMzlmVi1nU3Y2T3NlOE1PeDdSLW5Hb0RuUlhneHNHY2xieFJIQ2h5MnBMWFJOUHlmZ0tZYXhRazNCVFBjbdIBV0FVX3lxTFBtNUxINlRiTVRyckMtTmRneE5Dc0RUeGRlbTY2WGpwV25qdl83UzBhcjlnX24xVXFqRkpUZVlzcC1iaEs4X3lVd293OHB2MG1iZXhNQUNtSQ?oc=5",
         "date": "2026-11-10T07:50:00+00:00"
@@ -27,13 +32,7 @@
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅縮小 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XQzZEUlEyS09TQ2pxNWU3bHlfUXR3NkFDa1JnVFBYdDhudU5fbHJtVzVYeUpTS1JqcVlaV1RFeTlySHdnenlydTFVOE8tX0RfcUFScENDeDFTR2pENjlfTA?oc=5",
-        "date": "2026-11-10T03:32:00+00:00",
-        "body": "a04.txt"
-      },
-      {
-        "title": "１１日の東京株式市場見通し＝利益確定売り先行で６万円攻防か(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3M1dlVkSHJDNXJPYU5paXVsRlNQLTZZODZQZGRjcWluZHF5Rjl0V0FQaXlpTVZvNTl5VkdMTkJaamQtWHBTREU0S0pCcU5TSnZVWWZZU1h2eUtoUmdYcmUxbHRsQTNVWGNaU2xGWlExQ3VydWxxZENUOU1odjFWeVV3ZS16X1U?oc=5",
-        "date": "2026-11-10T22:47:05+00:00"
+        "date": "2026-11-10T03:32:00+00:00"
       },
       {
         "title": "日経平均株価、米AI株持ち直しが支えに（先読み株式相場） - 日本経済新聞",
@@ -68,223 +67,212 @@
     ],
     "ai": [
       {
+        "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
+        "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
+        "date": "2026-11-10T22:30:00+00:00",
+        "body": "a12.txt"
+      },
+      {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
         "date": "2026-11-10T22:03:30+00:00",
-        "body": "a12.txt"
+        "body": "a13.txt"
       },
       {
         "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a13.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       },
       {
         "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a14.txt"
+        "body": "a15.txt"
       },
       {
         "title": "なぜAgodaは“異常に”安いのか？　商務責任者が明かす「自腹値引き」と社内競争の正体",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news028.html",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a15.txt"
+        "body": "a16.txt"
       },
       {
         "title": "富士フイルム、Q2過去最高益　「instaxチェキ」ヒットに並ぶ“もう一つの稼ぎ頭”とは？",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news032.html",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a16.txt"
+        "body": "a17.txt"
       },
       {
         "title": "日本製紙ら「たった半年で」釧路にデータセンター新設　なぜスピード稼働できたのか？",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news017.html",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a17.txt"
+        "body": "a18.txt"
       },
       {
         "title": "Google ドライブ、CSE適用で機密ファイルを保護へ　Google Workspaceに6つの仕様変更",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003057/",
-        "date": "2026-11-10T21:00:00+00:00",
-        "body": "a18.txt"
+        "date": "2026-11-10T21:00:00+00:00"
       },
       {
         "title": "NotebookLMに公式APIが登場　WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
         "date": "2026-11-10T20:00:00+00:00",
-        "body": "a19.txt"
+        "body": "a20.txt"
       },
       {
         "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
         "date": "2026-11-10T07:23:08+00:00",
-        "body": "a20.txt"
+        "body": "a21.txt"
       },
       {
         "title": "「Fable 5.2」の用途は？　Claudeモデルの選び方、Anthropicが基本を解説",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
         "date": "2026-11-10T04:26:38+00:00",
-        "body": "a21.txt"
+        "body": "a22.txt"
       },
       {
         "title": "dotsが「複数台のローカルコンピュータ接続」に対応　各マシンでタスクを分担可能に",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/",
         "date": "2026-11-10T03:47:11+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "Instagram、年齢を偽った10代もAIで検出　日本でも保護機能の適用を開始",
-        "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
-        "date": "2026-11-10T03:27:51+00:00",
         "body": "a23.txt"
       }
     ],
     "it": [
       {
+        "title": "簿記などの受験者情報最大98万人分漏えいか　合否や得点も　日商ネット試験に不正アクセス",
+        "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
+        "date": "2026-11-10T22:49:32+00:00",
+        "body": "a24.txt"
+      },
+      {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
         "date": "2026-11-10T22:03:30+00:00",
-        "body": "a24.txt"
+        "body": "a25.txt"
       },
       {
         "title": "「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000002913/",
         "date": "2026-11-10T20:00:00+00:00",
-        "body": "a25.txt"
+        "body": "a26.txt"
       },
       {
         "title": "ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」　7～9月期決算は1兆円超の赤字",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003079/",
         "date": "2026-11-10T11:01:53+00:00",
-        "body": "a26.txt"
+        "body": "a27.txt"
       },
       {
         "title": "スキマバイト「シェアフル」に不正アクセス　最大750万アカウント漏えいか　給与振込用の口座情報なども",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003072/",
-        "date": "2026-11-10T09:50:02+00:00",
-        "body": "a27.txt"
+        "date": "2026-11-10T09:50:02+00:00"
       },
       {
         "title": "サイバー攻撃急増で「人の手では対応しきれない」──ソフトバンク宮川社長、終わりの見えないパッチ修正に「疲弊しきっている」と吐露",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003069/",
-        "date": "2026-11-10T08:23:42+00:00",
-        "body": "a28.txt"
+        "date": "2026-11-10T08:23:42+00:00"
       },
       {
         "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-        "date": "2026-11-10T07:23:08+00:00",
-        "body": "a29.txt"
+        "date": "2026-11-10T07:23:08+00:00"
       },
       {
         "title": "ケンタッキー、一部メニュー画像に生成AI　実験販売の商品など　SNSは「違和感」の声も",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003070/",
         "date": "2026-11-10T07:13:36+00:00",
-        "body": "a30.txt"
+        "body": "a31.txt"
       },
       {
         "title": "マイナカードを使うコンビニ交付に障害　自治体が相次ぎ公表　富士フイルム系システムで通信異常か",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003062/",
         "date": "2026-11-10T05:29:01+00:00",
-        "body": "a31.txt"
+        "body": "a32.txt"
       },
       {
         "title": "ドコモ・バイクシェア刷新、11月24日に「NOLL」始動へ　当初予定から半年遅れ",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003060/",
         "date": "2026-11-10T04:20:17+00:00",
-        "body": "a32.txt"
+        "body": "a33.txt"
       },
       {
         "title": "Instagram、年齢を偽った10代もAIで検出　日本でも保護機能の適用を開始",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
-        "date": "2026-11-10T03:27:51+00:00",
-        "body": "a33.txt"
+        "date": "2026-11-10T03:27:51+00:00"
       },
       {
         "title": "仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定　フランス外務省が声明",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
         "date": "2026-11-10T03:05:09+00:00",
-        "body": "a34.txt"
-      },
-      {
-        "title": "サイバー攻撃受けた医療現場のリアル　患者の死亡率が3割上昇　乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
-        "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
-        "date": "2026-11-10T03:00:00+00:00",
         "body": "a35.txt"
       }
     ],
     "gadget": [
       {
+        "title": "世界でのスマホ売上UPも販売台数は減少。第3四半期はAppleが売上50％をしめる",
+        "link": "https://www.gizmodo.jp/article/smartphone_sales_q3_apple_market_share/",
+        "date": "2026-11-10T23:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "レトロな楽器を腕に巻こう。カシオの新作はインジケーターに技あり",
         "link": "https://www.gizmodo.jp/article/2611-casio-classic-lf40w-retro-watch/",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる",
         "link": "https://www.gizmodo.jp/article/2611-google-antigravity-swarm/",
-        "date": "2026-11-10T18:30:00+00:00",
-        "body": "a37.txt"
+        "date": "2026-11-10T18:30:00+00:00"
       },
       {
         "title": "Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/",
         "date": "2026-11-10T16:35:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "セーラームーンみたいな深海魚が発見される。ツインテールの正体に…ゾッ",
         "link": "https://www.gizmodo.jp/article/deep-sea-fish-has-hair-ish-qczy/",
         "date": "2026-11-10T14:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "トランプ氏、｢AI｣呼びを禁止へ。｢スーパーインテリジェンス｣は定着する？",
         "link": "https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/",
-        "date": "2026-11-10T13:00:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-10T13:00:00+00:00"
       },
       {
         "title": "1回14円でお布団ぽかぽか！ ホース不要の「ふとんジェット」が冬の快眠を助けてくれる",
         "link": "https://www.gizmodo.jp/article/2611-futon-jet-futon-dryer/",
-        "date": "2026-11-10T12:30:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-10T12:30:00+00:00"
       },
       {
         "title": "地球に「第2の月」が誕生",
         "link": "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/",
         "date": "2026-11-10T12:15:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "“一目惚れ”は昭和の恋愛なのか…。令和時代は自分の直感よりもAIによる効率を重視",
         "link": "https://www.gizmodo.jp/article/ai_dating_efficiency_vs_intuition/",
-        "date": "2026-11-10T12:00:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-10T12:00:00+00:00"
       },
       {
         "title": "iPhone Duo 2(仮)は、Face IDに対応するかもだって",
         "link": "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id/",
-        "date": "2026-11-10T11:30:00+00:00",
-        "body": "a44.txt"
+        "date": "2026-11-10T11:30:00+00:00"
       },
       {
         "title": "レトロブーム加速中。KOSSの新型ヘッドホン「KPH40 Retro」は80年代感たっぷり",
         "link": "https://www.gizmodo.jp/article/2611-koss-kph40-retro/",
         "date": "2026-11-10T11:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "見た目も音も1979年風。ソニーの復刻版ヘッドホンは「ノスタルジー」だけで買ってよし",
         "link": "https://www.gizmodo.jp/article/sony-mdr-3r-headphone-review-nostalgia/",
         "date": "2026-11-10T10:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "Anthropic、早ければ来週にもIPO。想定評価額は半減、160兆円程度？",
-        "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-valuation-drop/",
-        "date": "2026-11-10T09:30:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -298,7 +286,8 @@
       {
         "title": "G7外相会合 ウ支援で声明公表へ",
         "link": "https://news.yahoo.co.jp/pickup/6602111?source=rss",
-        "date": "2026-11-10T22:26:40+00:00"
+        "date": "2026-11-10T22:26:40+00:00",
+        "body": "a49.txt"
       },
       {
         "title": "小泉氏 首相総裁選出馬なら支える",
@@ -321,12 +310,14 @@
       {
         "title": "海ほたるで迷惑行為 閉鎖繰り返す",
         "link": "https://news.yahoo.co.jp/pickup/6602108?source=rss",
-        "date": "2026-11-10T21:53:25+00:00"
+        "date": "2026-11-10T21:53:25+00:00",
+        "body": "a53.txt"
       },
       {
         "title": "巨人 元楽天監督の平石氏招へいへ",
         "link": "https://news.yahoo.co.jp/pickup/6602110?source=rss",
-        "date": "2026-11-10T22:25:26+00:00"
+        "date": "2026-11-10T22:25:26+00:00",
+        "body": "a54.txt"
       },
       {
         "title": "亀梨和也&赤西仁 来年8月にライブ",
@@ -458,18 +449,11 @@
     "prev": 60970.0,
     "points": [
       [
-        "11/10 08:00",
-        60950.0,
-        60975.0,
-        61005.0,
-        60925.0
-      ],
-      [
         "11/10 08:05",
         60975.0,
-        60935.0,
+        60930.0,
         60975.0,
-        60925.0
+        60930.0
       ],
       [
         "11/10 08:10",
@@ -508,7 +492,7 @@
       ],
       [
         "11/10 08:35",
-        60855.0,
+        60845.0,
         60845.0,
         60900.0,
         60840.0
@@ -516,8 +500,8 @@
       [
         "11/10 08:40",
         60820.0,
-        60815.0,
-        60820.0,
+        60865.0,
+        60885.0,
         60815.0
       ],
       [
@@ -536,7 +520,7 @@
       ],
       [
         "11/10 08:55",
-        60740.0,
+        60735.0,
         60725.0,
         60790.0,
         60645.0
@@ -544,7 +528,7 @@
       [
         "11/10 09:00",
         60610.0,
-        60710.0,
+        60685.0,
         60710.0,
         60530.0
       ],
@@ -607,7 +591,7 @@
       [
         "11/10 09:45",
         60505.0,
-        60550.0,
+        60565.0,
         60610.0,
         60475.0
       ],
@@ -740,7 +724,7 @@
       [
         "11/10 11:20",
         60510.0,
-        60615.0,
+        60605.0,
         60615.0,
         60510.0
       ],
@@ -860,7 +844,7 @@
         "11/10 12:45",
         59965.0,
         60015.0,
-        60050.0,
+        60045.0,
         59955.0
       ],
       [
@@ -894,7 +878,7 @@
       [
         "11/10 13:10",
         60110.0,
-        60100.0,
+        60090.0,
         60110.0,
         60055.0
       ],
@@ -1075,7 +1059,7 @@
       ],
       [
         "11/10 15:25",
-        60605.0,
+        60600.0,
         60485.0,
         60625.0,
         60475.0
@@ -1089,7 +1073,7 @@
       ],
       [
         "11/10 15:35",
-        60345.0,
+        60335.0,
         60465.0,
         60475.0,
         60325.0
@@ -1104,7 +1088,7 @@
       [
         "11/10 15:45",
         60380.0,
-        60410.0,
+        60405.0,
         60410.0,
         60350.0
       ],
@@ -1222,7 +1206,7 @@
       ],
       [
         "11/10 17:10",
-        60385.0,
+        60390.0,
         60400.0,
         60465.0,
         60380.0
@@ -1251,7 +1235,7 @@
       [
         "11/10 17:30",
         60395.0,
-        60325.0,
+        60320.0,
         60430.0,
         60320.0
       ],
@@ -1293,7 +1277,7 @@
       [
         "11/10 18:00",
         60375.0,
-        60475.0,
+        60465.0,
         60475.0,
         60195.0
       ],
@@ -1426,7 +1410,7 @@
       [
         "11/10 19:35",
         60215.0,
-        60190.0,
+        60185.0,
         60220.0,
         60180.0
       ],
@@ -1537,7 +1521,7 @@
       ],
       [
         "11/10 20:55",
-        60200.0,
+        60195.0,
         60165.0,
         60200.0,
         60145.0
@@ -1685,7 +1669,7 @@
       [
         "11/10 22:40",
         59915.0,
-        59815.0,
+        59820.0,
         59925.0,
         59690.0
       ],
@@ -1755,21 +1739,21 @@
       [
         "11/10 23:30",
         60035.0,
-        60065.0,
+        60070.0,
         60120.0,
         59805.0
       ],
       [
         "11/10 23:35",
         60085.0,
-        60040.0,
+        60035.0,
         60150.0,
         59980.0
       ],
       [
         "11/10 23:40",
         60270.0,
-        60100.0,
+        60095.0,
         60270.0,
         59995.0
       ],
@@ -1783,7 +1767,7 @@
       [
         "11/10 23:50",
         60350.0,
-        60155.0,
+        60160.0,
         60355.0,
         60145.0
       ],
@@ -1803,7 +1787,7 @@
       ],
       [
         "11/11 00:05",
-        60570.0,
+        60565.0,
         60565.0,
         60635.0,
         60535.0
@@ -1817,8 +1801,8 @@
       ],
       [
         "11/11 00:15",
-        60600.0,
-        60610.0,
+        60605.0,
+        60605.0,
         60610.0,
         60530.0
       ],
@@ -1831,7 +1815,7 @@
       ],
       [
         "11/11 00:25",
-        60560.0,
+        60555.0,
         60530.0,
         60655.0,
         60500.0
@@ -1965,7 +1949,7 @@
       [
         "11/11 02:00",
         59960.0,
-        59870.0,
+        59890.0,
         59990.0,
         59870.0
       ],
@@ -2070,7 +2054,7 @@
       [
         "11/11 03:15",
         59860.0,
-        59850.0,
+        59845.0,
         59920.0,
         59845.0
       ],
@@ -2161,7 +2145,7 @@
       [
         "11/11 04:20",
         59990.0,
-        60010.0,
+        60005.0,
         60015.0,
         59960.0
       ],
@@ -2287,7 +2271,7 @@
       [
         "11/11 05:50",
         60050.0,
-        60065.0,
+        60075.0,
         60120.0,
         60035.0
       ],
@@ -2385,7 +2369,7 @@
     ]
   },
   "fx": {
-    "price": 158.71,
+    "price": 158.7095,
     "prev": 158.765
   },
   "topix": {
