@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T08:53:20.557041+09:00",
+  "updated": "2026-11-11T08:58:19.865595+09:00",
   "feeds": {
     "kabu": [
       {
@@ -20,14 +20,14 @@
         "date": "2026-11-10T22:30:24+00:00"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月11日記）(株探ニュース) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlhINWtsdkNSWFFDMTc2OGp5WXJKSjVsWHBuSW9JM1JEMUM5SHNlUHR6YWRnZU5KZWxjci1xWmZzN3hyZ1JYazdMMXduZDIzSlI3b2FxT3FZamUtUWxuM0hjYXBfOVp5QUhzeEVzZGthZnBPQUlEREZad2VyeE5VTG5Xc1VDZEU?oc=5",
-        "date": "2026-11-10T23:14:20+00:00"
-      },
-      {
         "title": "１１日の株式相場見通し＝反落、米株安受け売り優勢で６万円割れも - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3cGh6bS1pUlVySkdzNVlDUTBQSV9hcHhXSzJ4Y1RNREViT3NuQmIzS25TdUlNTnJLSjM5bnluMjNwY2szbDQyS3VfZGpQaC1KdGppcE1ZYXFDVGhheGVSVQ?oc=5",
         "date": "2026-11-10T23:00:00+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月11日記）(株探ニュース) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlhINWtsdkNSWFFDMTc2OGp5WXJKSjVsWHBuSW9JM1JEMUM5SHNlUHR6YWRnZU5KZWxjci1xWmZzN3hyZ1JYazdMMXduZDIzSlI3b2FxT3FZamUtUWxuM0hjYXBfOVp5QUhzeEVzZGthZnBPQUlEREZad2VyeE5VTG5Xc1VDZEU?oc=5",
+        "date": "2026-11-10T23:14:20+00:00"
       },
       {
         "title": "【日本株】日経平均株価の2つの重要な下値水準 - マネクリ",
@@ -61,9 +61,9 @@
         "date": "2026-11-10T07:30:00+00:00"
       },
       {
-        "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
-        "date": "2026-11-10T00:07:08+00:00"
+        "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
+        "date": "2026-11-09T00:06:22+00:00"
       }
     ],
     "ai": [
@@ -302,20 +302,21 @@
         "body": "a49.txt"
       },
       {
-        "title": "小泉氏 首相総裁選出馬なら支える",
-        "link": "https://news.yahoo.co.jp/pickup/6602107?source=rss",
-        "date": "2026-11-10T21:39:18+00:00",
-        "body": "a50.txt"
-      },
-      {
         "title": "生徒乗る遊覧船定員1.7倍で航行か",
         "link": "https://news.yahoo.co.jp/pickup/6602112?source=rss",
-        "date": "2026-11-10T22:40:19+00:00"
+        "date": "2026-11-10T22:40:19+00:00",
+        "body": "a50.txt"
       },
       {
         "title": "イベ閑散 主催は集客「約束せず」",
         "link": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
         "date": "2026-11-10T23:03:13+00:00",
+        "body": "a51.txt"
+      },
+      {
+        "title": "「稼ぐ」マンション管理組合増加",
+        "link": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
+        "date": "2026-11-10T23:41:27+00:00",
         "body": "a52.txt"
       },
       {
@@ -455,7 +456,7 @@
     "rain": null
   },
   "index": {
-    "price": 60415.0,
+    "price": 60405.0,
     "prev": 60970.0,
     "points": [
       [
@@ -2427,22 +2428,29 @@
       ],
       [
         "11/11 08:40",
-        60435.0,
+        60455.0,
         60365.0,
-        60445.0,
+        60460.0,
         60355.0
       ],
       [
-        "11/11 08:43",
-        60415.0,
-        60415.0,
-        60415.0,
-        60415.0
+        "11/11 08:45",
+        60375.0,
+        60450.0,
+        60535.0,
+        60350.0
+      ],
+      [
+        "11/11 08:48",
+        60405.0,
+        60405.0,
+        60405.0,
+        60405.0
       ]
     ]
   },
   "fx": {
-    "price": 158.698,
+    "price": 158.7095,
     "prev": 158.765
   },
   "topix": {
