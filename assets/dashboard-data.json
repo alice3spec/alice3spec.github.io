@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:43:43.858352+09:00",
+  "updated": "2026-11-10T17:48:48.639574+09:00",
   "feeds": {
     "kabu": [
       {
@@ -46,11 +46,6 @@
         "date": "2026-11-10T05:43:30+00:00"
       },
       {
-        "title": "ソフトバンクG株価一時14.9%高 アーム株高やアンソロピック上場観測 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hUS1xUGwxTjdaZHZzbm5iSnp3ZUNSVEMyQVNZdzBDTDEtdWI1NmZCM0pCa1BVOXFmZk9hQ1VoVzAxUjFkZXNFbFEtNDRWX3pVVGRGR3JyZ2d4eUNvMC1yVEY2d3dhMHhrZWVLUQ?oc=5",
-        "date": "2026-11-10T02:25:24+00:00"
-      },
-      {
         "title": "日経平均は大幅続伸、米半導体株高を追い風に6万円台回復／相場概況(フィスコ) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWpXdG1GSm9kVjM4R2ZjZmstVzlQNWVDVUxwX05SZkN2MmFrSmhLYzBrYjQ4UTlpRFltU3dITkt0cEh0NEtPNkNTNFZZa1FsMFlWeHBvbm1aWXRkMUprSHFLcGdMRDhSN0dFV0M5NWxVb3FBMnh3YTlLLVpFRVpsN3UtMXduTlE?oc=5",
         "date": "2026-11-10T07:57:45+00:00"
@@ -64,6 +59,11 @@
         "title": "川崎重工業、株価午後下げる 27年3月期上方修正に物足りないの見方 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jb01lTHZaWGJKd0d0R3R3OWt5RFJ3Vng5QUZqQ3g0dG9iODJOd3VYRTAwbWxFUnVCQlBFcEJyclpzaFoyZFJNam9OMDRHNUFSbzhoYXlxelBNVkc5SGR4RUMtOWFoR1lLTEEtUw?oc=5",
         "date": "2026-11-10T04:24:21+00:00"
+      },
+      {
+        "title": "ソフトバンクG株価一時14.9%高 アーム株高やアンソロピック上場観測 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hUS1xUGwxTjdaZHZzbm5iSnp3ZUNSVEMyQVNZdzBDTDEtdWI1NmZCM0pCa1BVOXFmZk9hQ1VoVzAxUjFkZXNFbFEtNDRWX3pVVGRGR3JyZ2d4eUNvMC1yVEY2d3dhMHhrZWVLUQ?oc=5",
+        "date": "2026-11-10T02:25:24+00:00"
       }
     ],
     "ai": [
@@ -308,15 +308,15 @@
         "body": "a50.txt"
       },
       {
-        "title": "JR東 タッチ不要の改札導入へ",
-        "link": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
-        "date": "2026-11-10T07:55:46+00:00",
+        "title": "脱走犬がかみ女性重傷 飼い主逮捕",
+        "link": "https://news.yahoo.co.jp/pickup/6602058?source=rss",
+        "date": "2026-11-10T08:42:20+00:00",
         "body": "a51.txt"
       },
       {
-        "title": "「仮面舞踏会」チケ即日完売 なぜ",
-        "link": "https://news.yahoo.co.jp/pickup/6602044?source=rss",
-        "date": "2026-11-10T06:32:22+00:00",
+        "title": "JR東 タッチ不要の改札導入へ",
+        "link": "https://news.yahoo.co.jp/pickup/6602052?source=rss",
+        "date": "2026-11-10T07:55:46+00:00",
         "body": "a52.txt"
       },
       {
@@ -457,7 +457,7 @@
     "rain": null
   },
   "index": {
-    "price": 60410.0,
+    "price": 60420.0,
     "prev": 60970.0,
     "points": [
       [
@@ -1246,22 +1246,29 @@
       ],
       [
         "11/10 17:30",
-        60410.0,
+        60395.0,
         60320.0,
         60430.0,
         60320.0
       ],
       [
-        "11/10 17:33",
-        60410.0,
-        60410.0,
-        60410.0,
+        "11/10 17:35",
+        60420.0,
+        60420.0,
+        60465.0,
         60410.0
+      ],
+      [
+        "11/10 17:38",
+        60420.0,
+        60420.0,
+        60420.0,
+        60420.0
       ]
     ]
   },
   "fx": {
-    "price": 157.9205,
+    "price": 157.9635,
     "prev": 157.9115
   },
   "topix": {
