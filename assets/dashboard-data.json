@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:43:35.251037+09:00",
+  "updated": "2026-11-10T12:48:22.336624+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,75 +213,74 @@
     ],
     "gadget": [
       {
+        "title": "折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？",
+        "link": "https://www.gizmodo.jp/article/2611-samsung-17-inch-foldable-tablet/",
+        "date": "2026-11-10T03:45:00+00:00",
+        "body": "a36.txt"
+      },
+      {
+        "title": "1回1.9億円のハッカーAI、高い？むしろ安い？OpenAI「バグ報奨金より55倍お得」",
+        "link": "https://www.gizmodo.jp/article/2611-openai-ai-vulnerability-detection-cost/",
+        "date": "2026-11-10T03:30:00+00:00",
+        "body": "a37.txt"
+      },
+      {
+        "title": "AIに自販機を経営させたら嘘、談合、不正のオンパレードでした",
+        "link": "https://www.gizmodo.jp/article/2611-ai-vending-machine-fraud/",
+        "date": "2026-11-10T03:00:00+00:00",
+        "body": "a38.txt"
+      },
+      {
         "title": "ダイソーの「ペットボトルキャップ」が快適。アウトドアにも最適",
         "link": "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-gqvz/",
         "date": "2026-11-10T02:35:00+00:00",
-        "body": "a36.txt"
+        "body": "a39.txt"
       },
       {
         "title": "オーディオテクニカのモニターヘッドホン、なぜかゲーム配信者界隈でバズる",
         "link": "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
         "date": "2026-11-10T02:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a40.txt"
       },
       {
         "title": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元",
         "link": "https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/",
         "date": "2026-11-10T01:45:00+00:00",
-        "body": "a38.txt"
+        "body": "a41.txt"
       },
       {
         "title": "原発、作りやすくなっちゃうかも。プラモデル的に作って船で運ぶ、工期10年→3年に",
         "link": "https://www.gizmodo.jp/article/blue-energy-shipyard-nuclear-plant/",
         "date": "2026-11-10T01:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a42.txt"
       },
       {
         "title": "OpenAIが「ゲームボーイっぽいの」を発売。“書き込み可能なカートリッジ”付き、Codexで作った自作ゲームで遊べる！",
         "link": "https://www.gizmodo.jp/article/2611-openai-modretro-chromatic-codex-edition/",
-        "date": "2026-11-09T23:35:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-09T23:35:00+00:00"
       },
       {
         "title": "インスタの動画編集アプリ「Edits」Mac OS版が登場。編集しやすい＆AI連携もアリ",
         "link": "https://www.gizmodo.jp/article/instagram-edits-macos/",
         "date": "2026-11-09T23:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a44.txt"
       },
       {
         "title": "NASA、月の住人を募集中。年収2,600万円",
         "link": "https://www.gizmodo.jp/article/2611-nasa-moon-astronaut-recruitment-salary/",
         "date": "2026-11-09T22:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a45.txt"
       },
       {
         "title": "肉眼では見えないQRコード。A4用紙に2TBのデータを保存",
         "link": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
         "date": "2026-11-09T14:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a46.txt"
       },
       {
         "title": "「独裁者トランプ」に「チベット独立」。iPhoneの予測入力、約10万件の言葉を避けてる模様",
         "link": "https://www.gizmodo.jp/article/2611-iphone-keyboard-censored-words-list/",
         "date": "2026-11-09T13:00:00+00:00",
-        "body": "a44.txt"
-      },
-      {
-        "title": "まだ生きているのに『人類から忘れられた』生き物たち。「社会的絶滅」という危機",
-        "link": "https://www.gizmodo.jp/article/2611-social-extinction-endangered-species/",
-        "date": "2026-11-09T12:30:00+00:00",
-        "body": "a45.txt"
-      },
-      {
-        "title": "6年前に買った初代HomePod miniが最新アプデで進化。グッと来た新機能2つ",
-        "link": "https://www.gizmodo.jp/article/homepod-mini-update-new-features/",
-        "date": "2026-11-09T12:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場",
-        "link": "https://www.gizmodo.jp/article/2611-new-playstation-portal-midnight-black/",
-        "date": "2026-11-09T11:30:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -323,21 +322,21 @@
         "body": "a53.txt"
       },
       {
-        "title": "G挨拶不在の織田 監督が胸中代弁",
-        "link": "https://news.yahoo.co.jp/pickup/6602023?source=rss",
-        "date": "2026-11-10T03:04:10+00:00",
+        "title": "福岡うどんチェーン 関東人気理由",
+        "link": "https://news.yahoo.co.jp/pickup/6602028?source=rss",
+        "date": "2026-11-10T03:41:59+00:00",
         "body": "a54.txt"
       },
       {
-        "title": "織田翔希 G指名あいさつ同席せず",
-        "link": "https://news.yahoo.co.jp/pickup/6602012?source=rss",
-        "date": "2026-11-10T02:23:01+00:00",
+        "title": "G挨拶不在の織田 監督が胸中代弁",
+        "link": "https://news.yahoo.co.jp/pickup/6602023?source=rss",
+        "date": "2026-11-10T03:04:10+00:00",
         "body": "a55.txt"
       }
     ]
   },
   "weather": {
-    "temp": 12.0,
+    "temp": 12.1,
     "code": 51,
     "max": 13.1,
     "min": 10.9,
@@ -457,22 +456,15 @@
     }
   },
   "index": {
-    "price": 60270.0,
+    "price": 60150.0,
     "prev": 60970.0,
     "points": [
       [
-        "11/10 08:00",
-        60950.0,
-        60975.0,
-        61005.0,
-        60925.0
-      ],
-      [
         "11/10 08:05",
         60975.0,
-        60935.0,
+        60930.0,
         60975.0,
-        60925.0
+        60930.0
       ],
       [
         "11/10 08:10",
@@ -511,7 +503,7 @@
       ],
       [
         "11/10 08:35",
-        60855.0,
+        60845.0,
         60845.0,
         60900.0,
         60840.0
@@ -519,8 +511,8 @@
       [
         "11/10 08:40",
         60820.0,
-        60815.0,
-        60820.0,
+        60865.0,
+        60885.0,
         60815.0
       ],
       [
@@ -539,7 +531,7 @@
       ],
       [
         "11/10 08:55",
-        60740.0,
+        60735.0,
         60725.0,
         60790.0,
         60645.0
@@ -547,7 +539,7 @@
       [
         "11/10 09:00",
         60610.0,
-        60710.0,
+        60685.0,
         60710.0,
         60530.0
       ],
@@ -610,7 +602,7 @@
       [
         "11/10 09:45",
         60505.0,
-        60550.0,
+        60565.0,
         60610.0,
         60475.0
       ],
@@ -743,7 +735,7 @@
       [
         "11/10 11:20",
         60510.0,
-        60615.0,
+        60605.0,
         60615.0,
         60510.0
       ],
@@ -840,22 +832,29 @@
       ],
       [
         "11/10 12:30",
-        60265.0,
+        60240.0,
         60255.0,
         60380.0,
-        60255.0
+        60240.0
       ],
       [
-        "11/10 12:33",
-        60270.0,
-        60270.0,
-        60270.0,
-        60270.0
+        "11/10 12:35",
+        60135.0,
+        60240.0,
+        60285.0,
+        60120.0
+      ],
+      [
+        "11/10 12:38",
+        60150.0,
+        60150.0,
+        60150.0,
+        60150.0
       ]
     ]
   },
   "fx": {
-    "price": 157.9385,
+    "price": 157.9255,
     "prev": 157.9115
   },
   "topix": {
