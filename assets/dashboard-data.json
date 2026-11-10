@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:28:20.049076+09:00",
+  "updated": "2026-11-10T19:33:38.084885+09:00",
   "feeds": {
     "kabu": [
       {
@@ -30,14 +30,9 @@
         "date": "2026-11-10T09:31:40+00:00"
       },
       {
-        "title": "（朝）米国市場は3指数揃って上昇　ハイテク株が買い戻され相場全体をけん引し買いが優勢の展開 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kWkRRWkV2WlZaRkhQZkhNM0RaRGFMMXBSaEZhNXl6MUlGdjI4bFpSWVNWT2lyR3RZZUgxUTczbThuUHBFOWtEY2FCTmpqREdGMTdyMdIBV0FVX3lxTE8tRGdSTTFSQ3JKZk1SRXZLQkdBdFdjbS1UQWJoUTRtdFVuUWxhWk9nczJXQnlIdWpYY0FVd0FrUUhYYklQWmxuV0NCd3RGNzQ5XzR1eFBqTQ?oc=5",
-        "date": "2026-11-09T23:03:00+00:00"
-      },
-      {
-        "title": "JX金属が続伸 27年3月期上方修正、半導体材料伸びる（10日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1USmJDZHVYaVdWNFZSdlZTM05DTTNNTlVZVkQ0b3BONU9mS0Q0NlVTckpFTUNIdDhEbGJYS2F4aER3a2dMOFc2NEJTVWx2aVpFU2cwb25IYjh3am9nQUU3T1FyTVh4V0hCSVZwZw?oc=5",
-        "date": "2026-11-10T07:30:00+00:00"
+        "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
+        "date": "2026-11-10T00:07:08+00:00"
       },
       {
         "title": "日経平均株価、６万円台に乗せる 上げ幅１４００円超 - 株探",
@@ -45,9 +40,9 @@
         "date": "2026-11-10T00:09:00+00:00"
       },
       {
-        "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
-        "date": "2026-11-10T00:07:08+00:00"
+        "title": "JX金属が続伸 27年3月期上方修正、半導体材料伸びる（10日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1USmJDZHVYaVdWNFZSdlZTM05DTTNNTlVZVkQ0b3BONU9mS0Q0NlVTckpFTUNIdDhEbGJYS2F4aER3a2dMOFc2NEJTVWx2aVpFU2cwb25IYjh3am9nQUU3T1FyTVh4V0hCSVZwZw?oc=5",
+        "date": "2026-11-10T07:30:00+00:00"
       },
       {
         "title": "日経平均、1900円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
@@ -62,7 +57,13 @@
       {
         "title": "日経平均終値1684円高、「トランプ発言」後押し 非鉄株高が映す楽観 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xOFdtTGJoc2xtcnBUTldrUHEzYjJ4RW1nUjQ4U1FrNlNfX2QtOGJ1eXlWcnlobFdZUU5NZUQ5QmVrV0xydUhLd0F1a3hnWVN5WHQtTDFtUUoyMFR4bVM3VlJDSVpESjlQSzdJNw?oc=5",
-        "date": "2026-11-10T02:47:48+00:00"
+        "date": "2026-11-10T02:47:48+00:00",
+        "body": "a10.txt"
+      },
+      {
+        "title": "どっちつかずの円相場 株価回復と原油安のジレンマ、米CPIにも反応薄か - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUSUZKVkc4UC02S1k4SjR1VUtISDZrS3VsZnp1Z0RPRVhEX254X081czZNUk93YW5SZUxObHhHeUpwcVFGRUdhZzd1SmVTcVZwUXJCdDNERHlXdktxVC1wVXd5aUg5QVpraE1udg?oc=5",
+        "date": "2026-11-10T05:09:46+00:00"
       }
     ],
     "ai": [
@@ -215,75 +216,75 @@
     ],
     "gadget": [
       {
+        "title": "見た目も音も1979年風。ソニーの復刻版ヘッドホンは「ノスタルジー」だけで買ってよし",
+        "link": "https://www.gizmodo.jp/article/sony-mdr-3r-headphone-review-nostalgia/",
+        "date": "2026-11-10T10:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "Anthropic、早ければ来週にもIPO。想定評価額は半減、160兆円程度？",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-valuation-drop/",
         "date": "2026-11-10T09:30:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "断線しそうな有線イヤホンを秒で補修。ほぼすべての素材に対応する接着剤",
         "link": "https://www.gizmodo.jp/article/bondic_liquid_plastic_repair_tool/",
         "date": "2026-11-10T09:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "SHUREの新しいマイク、映画館で体験しませんか？ プロが録った音も、制作の裏側も",
         "link": "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
         "date": "2026-11-10T08:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "スマホ禁止で古典を読む授業、ハーバード大では倍率2倍に",
         "link": "https://www.gizmodo.jp/article/harvard-hum10-no-phones-classics/",
         "date": "2026-11-10T07:35:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "「地元のセブン」が再現できる、トミカのジオラマ駐車場が登場。愛車のミニカーを停めてみたい",
         "link": "https://www.gizmodo.jp/article/2611-tomica-diorama-seven-eleven-parking/",
         "date": "2026-11-10T06:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "AI相場は不調でも「S&amp;P500が、ケタ外れに上昇する兆しを見せている」と、JPモルガンが強気の指摘",
         "link": "https://www.gizmodo.jp/article/2611-jpmorgan-sp500-rally-signal-czd/",
         "date": "2026-11-10T05:35:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "ホワイトハウスのIPアドレス、誰でも数ドルでレンタルできた",
         "link": "https://www.gizmodo.jp/article/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars/",
         "date": "2026-11-10T04:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？",
         "link": "https://www.gizmodo.jp/article/2611-samsung-17-inch-foldable-tablet/",
         "date": "2026-11-10T03:45:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "1回1.9億円のハッカーAI、高い？むしろ安い？OpenAI「バグ報奨金より55倍お得」",
         "link": "https://www.gizmodo.jp/article/2611-openai-ai-vulnerability-detection-cost/",
         "date": "2026-11-10T03:30:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "AIに自販機を経営させたら嘘、談合、不正のオンパレードでした",
         "link": "https://www.gizmodo.jp/article/2611-ai-vending-machine-fraud/",
         "date": "2026-11-10T03:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "ダイソーの「ペットボトルキャップ」が快適。アウトドアにも最適",
         "link": "https://www.gizmodo.jp/article/daiso-pet-bottle-cap-gqvz/",
         "date": "2026-11-10T02:35:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "オーディオテクニカのモニターヘッドホン、なぜかゲーム配信者界隈でバズる",
-        "link": "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
-        "date": "2026-11-10T02:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -340,7 +341,7 @@
   },
   "weather": {
     "temp": 13.0,
-    "code": 3,
+    "code": 2,
     "max": 13.1,
     "min": 10.9,
     "hours": [
@@ -456,22 +457,15 @@
     "rain": null
   },
   "index": {
-    "price": 60320.0,
+    "price": 60305.0,
     "prev": 60970.0,
     "points": [
       [
-        "11/10 08:00",
-        60950.0,
-        60975.0,
-        61005.0,
-        60925.0
-      ],
-      [
         "11/10 08:05",
         60975.0,
-        60970.0,
+        60930.0,
         60975.0,
-        60925.0
+        60930.0
       ],
       [
         "11/10 08:10",
@@ -546,7 +540,7 @@
       [
         "11/10 09:00",
         60610.0,
-        60710.0,
+        60685.0,
         60710.0,
         60530.0
       ],
@@ -742,7 +736,7 @@
       [
         "11/10 11:20",
         60510.0,
-        60615.0,
+        60605.0,
         60615.0,
         60510.0
       ],
@@ -840,7 +834,7 @@
       [
         "11/10 12:30",
         60240.0,
-        60275.0,
+        60255.0,
         60380.0,
         60240.0
       ],
@@ -862,7 +856,7 @@
         "11/10 12:45",
         59965.0,
         60015.0,
-        60050.0,
+        60045.0,
         59955.0
       ],
       [
@@ -1077,7 +1071,7 @@
       ],
       [
         "11/10 15:25",
-        60605.0,
+        60600.0,
         60485.0,
         60625.0,
         60475.0
@@ -1085,13 +1079,13 @@
       [
         "11/10 15:30",
         60435.0,
-        60610.0,
+        60595.0,
         60610.0,
         60365.0
       ],
       [
         "11/10 15:35",
-        60345.0,
+        60335.0,
         60465.0,
         60475.0,
         60325.0
@@ -1224,7 +1218,7 @@
       ],
       [
         "11/10 17:10",
-        60385.0,
+        60390.0,
         60400.0,
         60465.0,
         60380.0
@@ -1253,7 +1247,7 @@
       [
         "11/10 17:30",
         60395.0,
-        60325.0,
+        60320.0,
         60430.0,
         60320.0
       ],
@@ -1295,7 +1289,7 @@
       [
         "11/10 18:00",
         60375.0,
-        60475.0,
+        60465.0,
         60475.0,
         60195.0
       ],
@@ -1399,22 +1393,29 @@
       ],
       [
         "11/10 19:15",
-        60310.0,
+        60305.0,
         60300.0,
         60345.0,
         60270.0
       ],
       [
-        "11/10 19:18",
-        60320.0,
-        60320.0,
-        60320.0,
-        60320.0
+        "11/10 19:20",
+        60325.0,
+        60295.0,
+        60325.0,
+        60250.0
+      ],
+      [
+        "11/10 19:23",
+        60305.0,
+        60305.0,
+        60305.0,
+        60305.0
       ]
     ]
   },
   "fx": {
-    "price": 158.1025,
+    "price": 158.1435,
     "prev": 157.9115
   },
   "topix": {
