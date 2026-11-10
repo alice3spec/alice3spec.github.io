@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T08:43:18.428620+09:00",
+  "updated": "2026-11-11T08:48:20.748123+09:00",
   "feeds": {
     "kabu": [
       {
@@ -20,14 +20,14 @@
         "date": "2026-11-10T22:30:24+00:00"
       },
       {
-        "title": "１１日の株式相場見通し＝反落、米株安受け売り優勢で６万円割れも - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3cGh6bS1pUlVySkdzNVlDUTBQSV9hcHhXSzJ4Y1RNREViT3NuQmIzS25TdUlNTnJLSjM5bnluMjNwY2szbDQyS3VfZGpQaC1KdGppcE1ZYXFDVGhheGVSVQ?oc=5",
-        "date": "2026-11-10T23:00:00+00:00"
-      },
-      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月11日記）(株探ニュース) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTlhINWtsdkNSWFFDMTc2OGp5WXJKSjVsWHBuSW9JM1JEMUM5SHNlUHR6YWRnZU5KZWxjci1xWmZzN3hyZ1JYazdMMXduZDIzSlI3b2FxT3FZamUtUWxuM0hjYXBfOVp5QUhzeEVzZGthZnBPQUlEREZad2VyeE5VTG5Xc1VDZEU?oc=5",
         "date": "2026-11-10T23:14:20+00:00"
+      },
+      {
+        "title": "１１日の株式相場見通し＝反落、米株安受け売り優勢で６万円割れも - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3cGh6bS1pUlVySkdzNVlDUTBQSV9hcHhXSzJ4Y1RNREViT3NuQmIzS25TdUlNTnJLSjM5bnluMjNwY2szbDQyS3VfZGpQaC1KdGppcE1ZYXFDVGhheGVSVQ?oc=5",
+        "date": "2026-11-10T23:00:00+00:00"
       },
       {
         "title": "【日本株】日経平均株価の2つの重要な下値水準 - マネクリ",
@@ -46,11 +46,6 @@
         "date": "2026-11-10T07:21:00+00:00"
       },
       {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅縮小 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XQzZEUlEyS09TQ2pxNWU3bHlfUXR3NkFDa1JnVFBYdDhudU5fbHJtVzVYeUpTS1JqcVlaV1RFeTlySHdnenlydTFVOE8tX0RfcUFScENDeDFTR2pENjlfTA?oc=5",
-        "date": "2026-11-10T03:32:00+00:00"
-      },
-      {
         "title": "日経平均株価、米AI株持ち直しが支えに（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wYm5mUDBncGxjQTBuenhxZE9LcW1jUDV6RHQ3THNwREJxdG9QRGMwbGZJWjFXQ2o3cFJ5cEROTXg1VVZJUHdsZHRyRGVXdHJCeEJwSk1XNTF2ZXpBeXdGbWpLR2NUdjRmZWVrQQ?oc=5",
         "date": "2026-11-09T22:30:00+00:00"
@@ -64,6 +59,11 @@
         "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
         "date": "2026-11-10T00:07:08+00:00"
+      },
+      {
+        "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
+        "date": "2026-11-09T00:06:22+00:00"
       }
     ],
     "ai": [
@@ -307,33 +307,31 @@
         "body": "a50.txt"
       },
       {
-        "title": "女性搬送の救急車事故 病院で死亡",
-        "link": "https://news.yahoo.co.jp/pickup/6602106?source=rss",
-        "date": "2026-11-10T21:27:11+00:00",
-        "body": "a51.txt"
-      },
-      {
         "title": "生徒乗る遊覧船定員1.7倍で航行か",
         "link": "https://news.yahoo.co.jp/pickup/6602112?source=rss",
-        "date": "2026-11-10T22:40:19+00:00",
-        "body": "a52.txt"
+        "date": "2026-11-10T22:40:19+00:00"
       },
       {
         "title": "イベ閑散 主催は集客「約束せず」",
         "link": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
         "date": "2026-11-10T23:03:13+00:00",
-        "body": "a53.txt"
+        "body": "a52.txt"
       },
       {
         "title": "海ほたるで迷惑行為 閉鎖繰り返す",
         "link": "https://news.yahoo.co.jp/pickup/6602108?source=rss",
-        "date": "2026-11-10T21:53:25+00:00",
-        "body": "a54.txt"
+        "date": "2026-11-10T21:53:25+00:00"
       },
       {
         "title": "巨人 元楽天監督の平石氏招へいへ",
         "link": "https://news.yahoo.co.jp/pickup/6602110?source=rss",
         "date": "2026-11-10T22:25:26+00:00",
+        "body": "a54.txt"
+      },
+      {
+        "title": "映画「VIVANT」17人が続投決定",
+        "link": "https://news.yahoo.co.jp/pickup/6602119?source=rss",
+        "date": "2026-11-10T23:37:27+00:00",
         "body": "a55.txt"
       }
     ]
@@ -456,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 60220.0,
+    "price": 60330.0,
     "prev": 60970.0,
     "points": [
       [
@@ -2414,22 +2412,29 @@
       ],
       [
         "11/11 08:30",
-        60220.0,
+        60265.0,
         60310.0,
         60330.0,
         60215.0
       ],
       [
-        "11/11 08:32",
-        60220.0,
-        60220.0,
-        60220.0,
-        60220.0
+        "11/11 08:35",
+        60330.0,
+        60285.0,
+        60330.0,
+        60280.0
+      ],
+      [
+        "11/11 08:38",
+        60330.0,
+        60330.0,
+        60330.0,
+        60330.0
       ]
     ]
   },
   "fx": {
-    "price": 158.719,
+    "price": 158.7215,
     "prev": 158.765
   },
   "topix": {
