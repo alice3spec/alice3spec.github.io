@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T09:33:15.437310+09:00",
+  "updated": "2026-11-10T09:38:33.648055+09:00",
   "feeds": {
     "kabu": [
       {
@@ -21,6 +21,11 @@
         "title": "株価指数先物【寄り前】 6万円固めから-1σ突破を見極め - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MOS01ZkhwRk8tYVlWWEpzdmZSQkQzZ0pGSERRTXVLLXloTDRKWmZJdUlUUk0yY1dpZVFETXpfa05jQVl5T0UwZXBKWE9TVGgtSHdySUY2Y3BVVDVocUpzZg?oc=5",
         "date": "2026-11-09T23:06:09+00:00"
+      },
+      {
+        "title": "【日本市況】日経平均6万円回復、半導体関連に見直し買い－債券下落 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTXNsZzZxeEtpa25GQjlnM0pXY0I4SGY3WEtuS2VpLWsxU2pLVEZRQ24xM3ZRT2xOLTNCSl9pOVB5YnBSSDBqalFXSEx6dERpM2NSOGIwT3czUjhHcERTWkZXemx5eUVTbXByYzVPa3ZJb3U0ZFJuR1ZyRG1KOXZoVmlSc2NXdmdXVjZ3eTJQd00?oc=5",
+        "date": "2026-11-10T00:29:00+00:00"
       },
       {
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
@@ -56,158 +61,153 @@
         "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
         "date": "2026-11-09T00:06:22+00:00"
-      },
-      {
-        "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNVlVS1R0QUJRRmZBakJubzV1RHZzeW5SbG1RTFMtTERTaGNDYXNrNjA1TE0yYTY4YmMyVnhCVW1GcnF5SnhoZmxJT2gyNm1UZ2ZuUkFDRkc3TEhjWmxwWk4wWmNzUkx3NmFUcQ?oc=5",
-        "date": "2026-11-08T20:00:00+00:00"
       }
     ],
     "ai": [
       {
+        "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表　「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+        "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
+        "date": "2026-11-10T00:06:40+00:00",
+        "body": "a12.txt"
+      },
+      {
         "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
         "date": "2026-11-09T22:26:48+00:00",
-        "body": "a12.txt"
+        "body": "a13.txt"
       },
       {
         "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
         "date": "2026-11-09T22:03:56+00:00",
-        "body": "a13.txt"
+        "body": "a14.txt"
       },
       {
         "title": "「MCPはもう特別な存在ではない」――その普及と“仕様改訂”がもたらした転換点",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html",
         "date": "2026-11-09T20:00:00+00:00",
-        "body": "a14.txt"
+        "body": "a15.txt"
       },
       {
         "title": "Sakana AI「初のモバイルアプリ」開発中　テスターも募集",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
         "date": "2026-11-09T03:35:58+00:00",
-        "body": "a15.txt"
+        "body": "a16.txt"
       },
       {
         "title": "画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
         "date": "2026-11-09T03:00:00+00:00",
-        "body": "a16.txt"
+        "body": "a17.txt"
       },
       {
         "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
         "date": "2026-11-09T02:30:10+00:00",
-        "body": "a17.txt"
+        "body": "a18.txt"
       },
       {
         "title": "クラウドインフラのシェア、AWSが26％に後退　Google Cloudは16％に上昇　市場全体は過去最大の高成長率へ　2026年第3四半期調査",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
         "date": "2026-11-09T02:00:00+00:00",
-        "body": "a18.txt"
+        "body": "a19.txt"
       },
       {
         "title": "Qwen3.8-27Bベースに「西洋の価値観を強化」したオープンモデル登場、「逆に偏っている」との批判も　Hermes Agent開発元",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003002/",
         "date": "2026-11-09T01:55:45+00:00",
-        "body": "a19.txt"
+        "body": "a20.txt"
       },
       {
         "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
         "date": "2026-11-09T01:18:41+00:00",
-        "body": "a20.txt"
+        "body": "a21.txt"
       },
       {
         "title": "AIに業務を任せる大企業は6割へ　人材育成に投資しない企業はどうなる？",
         "link": "https://www.itmedia.co.jp/enterprise/articles/2611/06/news023.html",
         "date": "2026-11-08T23:00:00+00:00",
-        "body": "a21.txt"
+        "body": "a22.txt"
       },
       {
         "title": "“おいしい魚”を届けられないかも──スシロー、漁業の危機にどう挑む？　富士通とタッグ、AIで「海を解剖」するワケ",
         "link": "https://www.itmedia.co.jp/business/articles/2611/09/news039.html",
-        "date": "2026-11-08T22:00:00+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "「勝手に社外AIを使う」エース社員に困っています……どうすべき？",
-        "link": "https://www.itmedia.co.jp/business/articles/2611/09/news038.html",
         "date": "2026-11-08T22:00:00+00:00",
         "body": "a23.txt"
       }
     ],
     "it": [
       {
+        "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表　「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+        "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
+        "date": "2026-11-10T00:06:40+00:00",
+        "body": "a24.txt"
+      },
+      {
+        "title": "実在しそうで、どこにもいない「AI人」　なぜ人は“完璧なAI映像”に違和感を覚えるのか",
+        "link": "https://www.itmedia.co.jp/news/article/2611/10/2000002985/",
+        "date": "2026-11-10T00:00:00+00:00",
+        "body": "a25.txt"
+      },
+      {
         "title": "「AI店長」、対人関係に苦戦　指摘が生かされずスタッフからの報告減少　PwCが“売店”で実験",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
         "date": "2026-11-09T23:00:00+00:00",
-        "body": "a24.txt"
+        "body": "a26.txt"
       },
       {
         "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
         "date": "2026-11-09T22:26:48+00:00",
-        "body": "a25.txt"
+        "body": "a27.txt"
       },
       {
         "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化",
         "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
         "date": "2026-11-09T22:03:56+00:00",
-        "body": "a26.txt"
+        "body": "a28.txt"
       },
       {
         "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性　法人会員も対象に",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
         "date": "2026-11-09T10:40:53+00:00",
-        "body": "a27.txt"
+        "body": "a29.txt"
       },
       {
         "title": "無印良品、ネットストア再開延期　リスト型攻撃を確認、新たに約27万件漏えいか",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003038/",
         "date": "2026-11-09T10:25:46+00:00",
-        "body": "a28.txt"
+        "body": "a30.txt"
       },
       {
         "title": "秋葉原「スマートごみ箱」22台新設　ごみを自動で約5分の1に圧縮、たまり具合は遠隔で把握",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003031/",
         "date": "2026-11-09T08:45:47+00:00",
-        "body": "a29.txt"
+        "body": "a31.txt"
       },
       {
         "title": "口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
         "date": "2026-11-09T07:10:20+00:00",
-        "body": "a30.txt"
+        "body": "a32.txt"
       },
       {
         "title": "モニターにも値上げの波？　アイオーデータは10月に実施、EIZOも12月以降に　メーカー各社に聞いた",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
         "date": "2026-11-09T06:54:28+00:00",
-        "body": "a31.txt"
+        "body": "a33.txt"
       },
       {
         "title": "自社の認証情報で生成AI不正利用される　ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
         "date": "2026-11-09T06:30:35+00:00",
-        "body": "a32.txt"
+        "body": "a34.txt"
       },
       {
         "title": "早稲田大、PHP脆弱性への対応中に不正アクセス発見　個人情報約3400件流出確認",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003012/",
         "date": "2026-11-09T04:22:14+00:00",
-        "body": "a33.txt"
-      },
-      {
-        "title": "ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出　サービス停止",
-        "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
-        "date": "2026-11-09T03:42:39+00:00",
-        "body": "a34.txt"
-      },
-      {
-        "title": "学園祭の混雑、ITで解消へ　お茶の水女子大・共創工学部の学生がセンサー活用し実証",
-        "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003006/",
-        "date": "2026-11-09T03:34:30+00:00",
         "body": "a35.txt"
       }
     ],
@@ -338,19 +338,19 @@
   },
   "weather": {
     "temp": 11.4,
-    "code": 51,
+    "code": 53,
     "max": 13.0,
     "min": 10.7,
     "hours": [
       {
         "time": "2026-11-10T09:00",
         "temp": 11.3,
-        "code": 61
+        "code": 53
       },
       {
         "time": "2026-11-10T10:00",
         "temp": 11.5,
-        "code": 51
+        "code": 53
       },
       {
         "time": "2026-11-10T11:00",
@@ -360,7 +360,7 @@
       {
         "time": "2026-11-10T12:00",
         "temp": 11.5,
-        "code": 55
+        "code": 51
       },
       {
         "time": "2026-11-10T13:00",
@@ -372,14 +372,14 @@
       {
         "time": "2026-11-10T09:00",
         "temp": 11.3,
-        "code": 61,
-        "mm": 1.3
+        "code": 53,
+        "mm": 0.7
       },
       {
         "time": "2026-11-10T12:00",
         "temp": 11.5,
-        "code": 55,
-        "mm": 1.1
+        "code": 51,
+        "mm": 0.4
       },
       {
         "time": "2026-11-10T15:00",
@@ -457,7 +457,7 @@
     }
   },
   "index": {
-    "price": 60545.0,
+    "price": 60430.0,
     "prev": 60970.0,
     "points": [
       [
@@ -567,22 +567,29 @@
       ],
       [
         "11/10 09:20",
-        60520.0,
+        60530.0,
         60515.0,
         60670.0,
         60500.0
       ],
       [
-        "11/10 09:23",
-        60545.0,
-        60545.0,
-        60545.0,
-        60545.0
+        "11/10 09:25",
+        60445.0,
+        60555.0,
+        60560.0,
+        60420.0
+      ],
+      [
+        "11/10 09:28",
+        60430.0,
+        60430.0,
+        60430.0,
+        60430.0
       ]
     ]
   },
   "fx": {
-    "price": 158.045,
+    "price": 158.044,
     "prev": 157.9115
   },
   "topix": {
