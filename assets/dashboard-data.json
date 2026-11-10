@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T02:28:24.643986+09:00",
+  "updated": "2026-11-11T02:33:36.318191+09:00",
   "feeds": {
     "kabu": [
       {
@@ -46,14 +46,15 @@
         "date": "2026-11-09T23:03:00+00:00"
       },
       {
+        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続伸、ソフトバンクGやアドバンテストが2銘柄で約665円分押し上げ - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM2JFZ1hwX0lNRDFLYUdrZ0RuX2FuZ0JFbkptaXVCcEVodmM1TmExQTdVSGtCdWJuRGJYODBkQ1Q0M1FWN3h4bXN2VXMwLXRrWVQ4VHBmbkR6R2tfM25GTVZHdkwzSWRqZDZmTTFXZWtlal9KenhkNHhjQlZiY29qY1E5Y3FYWjQ?oc=5",
+        "date": "2026-11-10T09:22:47+00:00",
+        "body": "a08.txt"
+      },
+      {
         "title": "JX金属が続伸 27年3月期上方修正、半導体材料伸びる（10日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1USmJDZHVYaVdWNFZSdlZTM05DTTNNTlVZVkQ0b3BONU9mS0Q0NlVTckpFTUNIdDhEbGJYS2F4aER3a2dMOFc2NEJTVWx2aVpFU2cwb25IYjh3am9nQUU3T1FyTVh4V0hCSVZwZw?oc=5",
         "date": "2026-11-10T07:30:00+00:00"
-      },
-      {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続伸、ソフトバンクGやアドバンテストが2銘柄で約665円分押し上げ - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM2JFZ1hwX0lNRDFLYUdrZ0RuX2FuZ0JFbkptaXVCcEVodmM1TmExQTdVSGtCdWJuRGJYODBkQ1Q0M1FWN3h4bXN2VXMwLXRrWVQ4VHBmbkR6R2tfM25GTVZHdkwzSWRqZDZmTTFXZWtlal9KenhkNHhjQlZiY29qY1E5Y3FYWjQ?oc=5",
-        "date": "2026-11-10T09:22:47+00:00"
       },
       {
         "title": "日経平均終値1684円高、「トランプ発言」後押し 非鉄株高が映す楽観 - 日本経済新聞",
@@ -61,9 +62,9 @@
         "date": "2026-11-10T02:47:48+00:00"
       },
       {
-        "title": "どっちつかずの円相場 株価回復と原油安のジレンマ、米CPIにも反応薄か - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUSUZKVkc4UC02S1k4SjR1VUtISDZrS3VsZnp1Z0RPRVhEX254X081czZNUk93YW5SZUxObHhHeUpwcVFGRUdhZzd1SmVTcVZwUXJCdDNERHlXdktxVC1wVXd5aUg5QVpraE1udg?oc=5",
-        "date": "2026-11-10T05:09:46+00:00"
+        "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
+        "date": "2026-11-09T00:06:22+00:00"
       }
     ],
     "ai": [
@@ -456,7 +457,7 @@
     "rain": null
   },
   "index": {
-    "price": 60030.0,
+    "price": 59930.0,
     "prev": 60970.0,
     "points": [
       [
@@ -1987,26 +1988,33 @@
       ],
       [
         "11/11 02:15",
-        59995.0,
+        60000.0,
         60015.0,
         60030.0,
         59930.0
       ],
       [
-        "11/11 02:18",
-        60030.0,
-        60030.0,
-        60030.0,
-        60030.0
+        "11/11 02:20",
+        59930.0,
+        59995.0,
+        60005.0,
+        59930.0
+      ],
+      [
+        "11/11 02:23",
+        59930.0,
+        59930.0,
+        59930.0,
+        59930.0
       ]
     ]
   },
   "fx": {
-    "price": 158.8115,
+    "price": 158.8385,
     "prev": 157.9115
   },
   "topix": {
-    "price": 141.6441,
+    "price": 141.43,
     "prev": 142.07
   },
   "ver": "v58"
