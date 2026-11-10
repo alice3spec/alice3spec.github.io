@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T10:58:38.654887+09:00",
+  "updated": "2026-11-10T11:03:29.283260+09:00",
   "feeds": {
     "kabu": [
       {
@@ -58,9 +58,9 @@
         "date": "2026-11-10T00:09:40+00:00"
       },
       {
-        "title": "今日の株価材料（新聞など、10日）JX金属の純利益53%増 27年3月期 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56WVJZLUQ3cVU0TmtqVlZVMGh3Qk42cmdudDlHTkc4OUE4M3k0dUlrRXA5aV9rMmZXZklVZHhwVXhzT2JUV25CZTFGQjVLcGc5ZDlxQ05DR0VNRU43c1RNdk1uNG1hMkFZcnU3MQ?oc=5",
-        "date": "2026-11-09T22:27:48+00:00"
+        "title": "オリックス株価一時6.8%安 キオクシアHD株安で業績鈍化意識 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lV3F4R2VCd1MyODhoYTVnc3BVZkdjUzZWVmRiQXI2VDRQUXZWX2l2M1F1TmlZcWpqRDhlMmpxSS1FX3JWMnpBQWRoYnA5S1pTT3ZJd3RXYkFwOF9ISGRIeTIzSDkxN25HMkhVLQ?oc=5",
+        "date": "2026-11-10T01:11:18+00:00"
       }
     ],
     "ai": [
@@ -213,90 +213,83 @@
     ],
     "gadget": [
       {
+        "title": "オーディオテクニカのモニターヘッドホン、なぜかゲーム配信者界隈でバズる",
+        "link": "https://www.gizmodo.jp/article/2610-audio-technica-monitor-headphone-fps/",
+        "date": "2026-11-10T02:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "Anthropicが新AI「Claude Fable 5.2」をリリース。ぶっちぎりの高性能、実用例はもはや異次元",
         "link": "https://www.gizmodo.jp/article/2611-claude-fable-5-2-release/",
-        "date": "2026-11-10T01:45:00+00:00",
-        "body": "a36.txt"
+        "date": "2026-11-10T01:45:00+00:00"
       },
       {
         "title": "原発、作りやすくなっちゃうかも。プラモデル的に作って船で運ぶ、工期10年→3年に",
         "link": "https://www.gizmodo.jp/article/blue-energy-shipyard-nuclear-plant/",
-        "date": "2026-11-10T01:00:00+00:00",
-        "body": "a37.txt"
+        "date": "2026-11-10T01:00:00+00:00"
       },
       {
         "title": "OpenAIが「ゲームボーイっぽいの」を発売。“書き込み可能なカートリッジ”付き、Codexで作った自作ゲームで遊べる！",
         "link": "https://www.gizmodo.jp/article/2611-openai-modretro-chromatic-codex-edition/",
         "date": "2026-11-09T23:35:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "インスタの動画編集アプリ「Edits」Mac OS版が登場。編集しやすい＆AI連携もアリ",
         "link": "https://www.gizmodo.jp/article/instagram-edits-macos/",
         "date": "2026-11-09T23:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "NASA、月の住人を募集中。年収2,600万円",
         "link": "https://www.gizmodo.jp/article/2611-nasa-moon-astronaut-recruitment-salary/",
         "date": "2026-11-09T22:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "肉眼では見えないQRコード。A4用紙に2TBのデータを保存",
         "link": "https://www.gizmodo.jp/article/2611-invisible-qr-code-2tb-a4-paper/",
-        "date": "2026-11-09T14:00:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-09T14:00:00+00:00"
       },
       {
         "title": "「独裁者トランプ」に「チベット独立」。iPhoneの予測入力、約10万件の言葉を避けてる模様",
         "link": "https://www.gizmodo.jp/article/2611-iphone-keyboard-censored-words-list/",
         "date": "2026-11-09T13:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "まだ生きているのに『人類から忘れられた』生き物たち。「社会的絶滅」という危機",
         "link": "https://www.gizmodo.jp/article/2611-social-extinction-endangered-species/",
         "date": "2026-11-09T12:30:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "6年前に買った初代HomePod miniが最新アプデで進化。グッと来た新機能2つ",
         "link": "https://www.gizmodo.jp/article/homepod-mini-update-new-features/",
-        "date": "2026-11-09T12:00:00+00:00",
-        "body": "a44.txt"
+        "date": "2026-11-09T12:00:00+00:00"
       },
       {
         "title": "PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場",
         "link": "https://www.gizmodo.jp/article/2611-new-playstation-portal-midnight-black/",
-        "date": "2026-11-09T11:30:00+00:00",
-        "body": "a45.txt"
+        "date": "2026-11-09T11:30:00+00:00"
       },
       {
         "title": "VITUREのディスプレイグラス、サイバーパンクの次はカンフーパンク",
         "link": "https://www.gizmodo.jp/article/2611-viture-phantom-blade-zero-xr-glasses/",
-        "date": "2026-11-09T11:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "タランチュラ3000匹を靴下に入れて密輸しようとした研究者、捕まる",
-        "link": "https://www.gizmodo.jp/article/authorities-at-lima-airport-find-more-than-3000-tarantulas-hidden-in-dirty-socks/",
-        "date": "2026-11-09T10:30:00+00:00",
-        "body": "a47.txt"
+        "date": "2026-11-09T11:00:00+00:00"
       }
     ],
     "yahoo": [
       {
-        "title": "個人向け国債人気 発行額8兆円超",
-        "link": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
-        "date": "2026-11-09T22:43:16+00:00",
-        "body": "a48.txt"
-      },
-      {
         "title": "「国内間通信」も監視対象に 検討",
         "link": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
         "date": "2026-11-10T00:26:31+00:00",
-        "body": "a49.txt"
+        "body": "a48.txt"
+      },
+      {
+        "title": "世界の氷河 1年で4000億t超が減少",
+        "link": "https://news.yahoo.co.jp/pickup/6602005?source=rss",
+        "date": "2026-11-10T01:29:06+00:00"
       },
       {
         "title": "マンション敷地に倒れた2人 死亡",
@@ -337,16 +330,11 @@
     ]
   },
   "weather": {
-    "temp": 11.9,
+    "temp": 11.8,
     "code": 53,
     "max": 13.1,
     "min": 10.9,
     "hours": [
-      {
-        "time": "2026-11-10T10:00",
-        "temp": 11.9,
-        "code": 53
-      },
       {
         "time": "2026-11-10T11:00",
         "temp": 11.8,
@@ -366,47 +354,52 @@
         "time": "2026-11-10T14:00",
         "temp": 12.9,
         "code": 2
+      },
+      {
+        "time": "2026-11-10T15:00",
+        "temp": 12.9,
+        "code": 3
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-10T10:00",
-        "temp": 11.9,
+        "time": "2026-11-10T11:00",
+        "temp": 11.8,
         "code": 53,
-        "mm": 0.6
+        "mm": 0.9
       },
       {
-        "time": "2026-11-10T13:00",
-        "temp": 12.2,
-        "code": 51,
-        "mm": 0.2
+        "time": "2026-11-10T14:00",
+        "temp": 12.9,
+        "code": 2,
+        "mm": 0.0
       },
       {
-        "time": "2026-11-10T16:00",
+        "time": "2026-11-10T17:00",
         "temp": 13.0,
         "code": 3,
         "mm": 0.0
       },
       {
-        "time": "2026-11-10T19:00",
-        "temp": 13.1,
-        "code": 3,
+        "time": "2026-11-10T20:00",
+        "temp": 12.8,
+        "code": 2,
         "mm": 0.0
       },
       {
-        "time": "2026-11-10T22:00",
-        "temp": 11.4,
+        "time": "2026-11-10T23:00",
+        "temp": 11.0,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T01:00",
-        "temp": 10.8,
+        "time": "2026-11-11T02:00",
+        "temp": 10.6,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T04:00",
+        "time": "2026-11-11T05:00",
         "temp": 10.2,
         "code": 0,
         "mm": 0.0
@@ -414,35 +407,35 @@
     ],
     "pop3": [
       {
-        "time": "2026-11-10T10:00",
-        "pop": 88
+        "time": "2026-11-10T11:00",
+        "pop": 94
       },
       {
-        "time": "2026-11-10T13:00",
-        "pop": 75
+        "time": "2026-11-10T14:00",
+        "pop": 50
       },
       {
-        "time": "2026-11-10T16:00",
-        "pop": 17
+        "time": "2026-11-10T17:00",
+        "pop": 9
       },
       {
-        "time": "2026-11-10T19:00",
-        "pop": 1
-      },
-      {
-        "time": "2026-11-10T22:00",
+        "time": "2026-11-10T20:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T01:00",
+        "time": "2026-11-10T23:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T04:00",
+        "time": "2026-11-11T02:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T07:00",
+        "time": "2026-11-11T05:00",
+        "pop": 0
+      },
+      {
+        "time": "2026-11-11T08:00",
         "pop": 0
       }
     ],
@@ -452,12 +445,12 @@
       "min": 10.2
     },
     "rain": {
-      "time": "2026-11-10T10:00",
-      "pop": 88
+      "time": "2026-11-10T11:00",
+      "pop": 94
     }
   },
   "index": {
-    "price": 60455.0,
+    "price": 60445.0,
     "prev": 60970.0,
     "points": [
       [
@@ -686,22 +679,29 @@
       ],
       [
         "11/10 10:45",
-        60455.0,
+        60460.0,
         60525.0,
         60525.0,
         60415.0
       ],
       [
-        "11/10 10:48",
-        60455.0,
-        60455.0,
-        60455.0,
-        60455.0
+        "11/10 10:50",
+        60440.0,
+        60500.0,
+        60565.0,
+        60430.0
+      ],
+      [
+        "11/10 10:53",
+        60445.0,
+        60445.0,
+        60445.0,
+        60445.0
       ]
     ]
   },
   "fx": {
-    "price": 158.0555,
+    "price": 158.043,
     "prev": 157.9115
   },
   "topix": {
