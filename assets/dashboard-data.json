@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T10:43:14.392304+09:00",
+  "updated": "2026-11-10T10:48:23.151281+09:00",
   "feeds": {
     "kabu": [
       {
@@ -11,6 +11,11 @@
         "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
         "date": "2026-11-08T22:30:00+00:00"
+      },
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-09T23:32:08+00:00"
       },
       {
         "title": "日経平均株価、米AI株持ち直しが支えに（先読み株式相場） - 日本経済新聞",
@@ -43,19 +48,14 @@
         "date": "2026-11-06T08:00:00+00:00"
       },
       {
-        "title": "日経平均、1600円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb2ttam9Gd0pYT0l6TlNVcVF4LUpxTjRxTDdPdXpDTWJvMFpHai1XRm1UbGtVYlFzQ005cFlVVW82TE1jbGoyTHFoS2xLeWViRFE0Qmg5YmpjWGhuS29KbVZPRmxFWFE0dXdaUjFWUGJQNFQ5TDExaWlIQVB4Q1dpWDJNbTd4X3M?oc=5",
-        "date": "2026-11-10T00:09:40+00:00"
-      },
-      {
         "title": "株価指数先物【寄り前】 6万円固めから-1σ突破を見極め - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MOS01ZkhwRk8tYVlWWEpzdmZSQkQzZ0pGSERRTXVLLXloTDRKWmZJdUlUUk0yY1dpZVFETXpfa05jQVl5T0UwZXBKWE9TVGgtSHdySUY2Y3BVVDVocUpzZg?oc=5",
         "date": "2026-11-09T23:06:09+00:00"
       },
       {
-        "title": "日経平均、1700円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOal9wX2N6MGV2TUZ2Zi0tbl9mUWI2V1V5M0EyWjRseUNudVFjQVpGMDJETUFTX3h1OTBpQVNhY1l2eU54ME9PV0syVEVTWEVuTlNEQ3FHT2d4clI4UXNzNzZOZjczckp2OW5sS0FkU2pKZzhZYmlMQWdKWm1HZlRTTU44eExab00?oc=5",
-        "date": "2026-11-10T00:10:31+00:00"
+        "title": "日経平均、1600円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb2ttam9Gd0pYT0l6TlNVcVF4LUpxTjRxTDdPdXpDTWJvMFpHai1XRm1UbGtVYlFzQ005cFlVVW82TE1jbGoyTHFoS2xLeWViRFE0Qmg5YmpjWGhuS29KbVZPRmxFWFE0dXdaUjFWUGJQNFQ5TDExaWlIQVB4Q1dpWDJNbTd4X3M?oc=5",
+        "date": "2026-11-10T00:09:40+00:00"
       },
       {
         "title": "今日の株価材料（新聞など、10日）JX金属の純利益53%増 27年3月期 - 日本経済新聞",
@@ -457,7 +457,7 @@
     }
   },
   "index": {
-    "price": 60450.0,
+    "price": 60455.0,
     "prev": 60970.0,
     "points": [
       [
@@ -665,22 +665,29 @@
       ],
       [
         "11/10 10:30",
-        60470.0,
+        60435.0,
         60465.0,
         60480.0,
         60370.0
       ],
       [
-        "11/10 10:33",
-        60450.0,
-        60450.0,
-        60450.0,
-        60450.0
+        "11/10 10:35",
+        60480.0,
+        60445.0,
+        60500.0,
+        60440.0
+      ],
+      [
+        "11/10 10:38",
+        60455.0,
+        60455.0,
+        60455.0,
+        60455.0
       ]
     ]
   },
   "fx": {
-    "price": 158.034,
+    "price": 158.057,
     "prev": 157.9115
   },
   "topix": {
