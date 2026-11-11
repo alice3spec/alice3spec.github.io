@@ -1,65 +1,36 @@
-*   グローバルナビゲーションへジャンプ
-*   メインコンテンツへジャンプ
-*   フッターへジャンプ
+レトロな楽器を腕に巻こう。カシオの新作はインジケーターに技あり
 
-12:55:23
-JST
+Nov 11,2026 07:00
 
-MENUSNS
+巽英俊 ( GIZMODOライター )
 
-# Googleが新AI「Gemini 4 Carbon」をリリース。“空間推論”に優れた強力なフロンティアモデル
+Image: CASIO
 
-Nov 11,2026 01:35 7,935
+1980〜90年代のちょいレトロなデザインをモチーフにしたCASIO（カシオ）の「CASIO CLASSIC」シリーズから、ガジェット感たっぷりのデジタルウオッチ「LF-40W」が登場します。
 
-かみやまたくみ ( GIZMODO編集部 / 残響言語文法論 )
+## 80年代の楽器やオーディオをイメージ
 
-Image: Google
+Image: CASIO
 
-2026年11月11日未明、Googleが新しいフラッグシップAI「Gemini 4 Carbon」をリリースしました。サブスクではAI Ultraユーザーのみ利用可となっています。APIやAI Studioでも利用できます。
+このモデルの最大の特徴は、独創的な液晶ディスプレイ。ケースサイズは37.8×33.7mmと比較的小ぶりなのですが、時刻のデジタル表示の下に3列のバー型表示窓を配置。
 
-Carbonは先日発表はされたものの、分かっているのは優れたベンチマーク結果のみという感じでした。昨日Fable 5.2が発表されるまでは全AIでトップで、現在も2番手につける強力な新AIです。
+上段でアラームや時報、操作音、サマータイム設定のON/OFFを示し、中段と下段は秒表示のインジケーターになっていて、10秒単位、1秒単位でカウントアップします。バーグラフのように視覚化したデザインは、古き良きミキサーのレベル表示やアナログシンセなどを彷彿させます。
 
-リリースに伴って作例などが公開されていて3Dモデルなどを制作する能力が高いことがわかっています。サイバーセキュリティ能力も優れているそうです。
+Image: CASIO
 
-## 3D空間を作成可能な高い空間推論能力。複数AIの運用・管理もいける
+ケースが小ぶりなのに加えて、樹脂ケースとバイオマスプラスチック製バンドを採用したことで重量わずか23g。世界48都市のワールドタイム、1/100秒ストップウオッチ、タイマー、5本のアラーム、LEDバックライトと機能面も充実しています。
 
-Carbonの作例は視覚要素があるものが大半です。人間の思考を理解し、適切に敷衍しながら見る人が楽しんで体験できる形にする、そんな方向性のものばかりです。その背後にはCarbonの高い空間推論能力と複数のAIを統括できる能力がありますよ、という感じになっています。
+メーカー希望小売価格は4,400円とお手ごろ。いわゆる「チプカシ」のカテゴリーに属する製品ですが、単に時刻を確認する道具にとどまらず、レトロフューチャーな遊び心を演出できる1本です。デジタル楽器好きなら持っていてもいいかも。
 
-### 鳥の鳴き声はどうしてあんな感じ？を理解するインタラクティブ3Dシミュレーション
+カラーはブラック、ネイビー、サンドベージュの3種ですが、公式通販では予約段階でブラックは売り切れている模様なので、入手は急いだほうが無難です。
 
-たとえば以下はスズメ亜目7種の発声器官を比較するという3Dシミュレーション。どんな風に鳴き声を出しているのかが視覚的に分かるだけでなく、実際に鳴き声が再生されます。
+Source: CASIO
 
-ここからがすごくて、器官には触れられるようになっています。各部を押すと鳴き声が変わり、どの器官がどのように影響するかを体験できるようにもなっています。これが7種ぜんぶについて可能で、比較できるようにもなっています。
+4,400 円
 
-発想からしてすごいですね。
+PR
 
-> Our strongest frontier model, Gemini 4 Carbon, is now available. Built for deeply complex, long-horizon workflows that push a frontier model’s intelligence, Carbon delivers frontier performance in agentic workflows across complex knowledge work, software engineering and web development, cybersecurity, and scientific reasoning. While Gemini 4 Argon remains the ideal model for the majority of software engineering and knowledge work, Carbon steps in for your hardest tasks that push a model to its limits — from complex, multi-step debugging to open-ended scientific research. Available starting today: — Consumers: use it in the @GeminiApp and AI Mode in Search for Google AI Ultra subscribers — Developers and Enterprises: build via the API in @GoogleAIStudio and @AndroidStudio, Google @Antigravity for Google AI Ultra subscribers, and Gemini for business — Scientists and Researchers: apply for a chance to get 6 months free via @Antigravity — Cybersecurity Defenders: apply to join the Fairwind Program for access to Carbon for cyber Watch how Carbon brings reasoning and coding together, turning avian research into an interactive 3D simulation of a songbird’s vocal organ that synthesizes the sounds of six bird species live.
->
-> — Google AI (@GoogleAI) November 10, 2026
-
-### エッフェル塔はこの順番で建てられた。「実在の資料に基づいた映像化」が可能
-
-一発目からおもしろい例でしたが、こちらもすごくインパクトがあります。
-
-フランスを代表する建造物エッフェル塔は1887年から1889年にかけて建設されました。建設がどのように行われたかは写真などで記録されているんだそうです。
-
-Googleが目をつけたのはここ。それらの資料をCarbonに与え、エッフェル塔が下から順番に組上げられていく様子を3D映像化したのです。
-
-Antigravityに追加された強力なエージェント機能「/swarm」も活用されており、無数のエージェントが写真から3Dでパーツを作成、記録通りに3D空間に配置していく様子が見れます。Carbonの空間推論と統括能力を示す例となっています。
-
-### 3Dゲームも制作。ペリカンがチャリでGoogleのキャンパスを爆走
-
-当然ながら3Dゲームも作れまして、その作例がこの「Pelican Quest」。
-
-Nano BananaやGemini Omniなどを用いてBlenderで3D素材を生成、それらを組み合わせてブラウザで動く3Dゲームとして完成させています。効果音などもちゃんとあり、BGMもLyriaで生成。サブエージェントも使って組上げたそうです。
-
-こういった多数の要素を統合するようなタスクでもCarbonはいけますよ、という例になっています。
-
-こちらのページに他にも作例が紹介されているので、もっと見たい人は見てみてください。一部はAI Studioで実際に遊んだり動作させることもできますよ。
-
-Source: Google (1, 2)
-
-2026年11月11日11:48更新：空間推論・エージェント能力に関連した作例について加筆しました。
+※商品を購入すると、売上の一部が販売プラットフォームよりメディアジーンに還元されることがあります。掲載されている情報は執筆時点の情報、または自動で更新されています。
 
 Advertisement
 
@@ -103,4 +74,20 @@ Amazon
 
 1. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 112,0442. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,3703. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 37,3834. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 26,1405. タランチュラ3000匹を靴下に入れて密輸しようとした研究者、捕まる Nov 9,2026 19:30 24,828
 
-1. G
+1. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 127,9782. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 130,3523. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 112,0444. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,3705. 夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし Nov 8,2026 20:00 56,707
+
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,2632. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,7413. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 130,3524. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 127,9785. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 121,803
+
+PR
+
+## Review
+
+## Sale
+
+© 2026 Mediagene Inc.
+
+運営会社媒体資料のお問い合わせ
+
+プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
+
+FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
