@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:53:32.178920+09:00",
+  "updated": "2026-11-11T11:58:23.172295+09:00",
   "feeds": {
     "kabu": [
       {
@@ -187,7 +187,8 @@
       {
         "title": "簿記などの受験者情報最大98万人分漏えいか　合否や得点も　日商ネット試験に不正アクセス",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
-        "date": "2026-11-10T22:49:32+00:00"
+        "date": "2026-11-10T22:49:32+00:00",
+        "body": "a32.txt"
       },
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
@@ -210,76 +211,65 @@
     ],
     "gadget": [
       {
-        "title": "モンベルの小さな“測り”ひとつで、旅行や出張の不安が解消されました",
-        "link": "https://www.gizmodo.jp/article/mont-bell-handy-scale-5hef/",
-        "date": "2026-11-11T02:35:00+00:00",
-        "body": "a36.txt"
-      },
-      {
         "title": "このキーボード、遺跡から発掘されたん？",
         "link": "https://www.gizmodo.jp/article/2611-keychron-q19-he-8k-review/",
-        "date": "2026-11-11T02:00:00+00:00",
-        "body": "a37.txt"
+        "date": "2026-11-11T02:00:00+00:00"
       },
       {
         "title": "Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/",
-        "date": "2026-11-11T01:30:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-11T01:30:00+00:00"
       },
       {
         "title": "子ども向けの検査、もうぜんぶ飴型でよくない？",
         "link": "https://www.gizmodo.jp/article/lollylab-lollipop-saliva-sensor/",
-        "date": "2026-11-11T01:00:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-11T01:00:00+00:00"
       },
       {
         "title": "世界でのスマホ売上UPも販売台数は減少。第3四半期はAppleが売上50％をしめる",
         "link": "https://www.gizmodo.jp/article/smartphone_sales_q3_apple_market_share/",
-        "date": "2026-11-10T23:00:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-10T23:00:00+00:00"
       },
       {
         "title": "レトロな楽器を腕に巻こう。カシオの新作はインジケーターに技あり",
         "link": "https://www.gizmodo.jp/article/2611-casio-classic-lf40w-retro-watch/",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a40.txt"
       },
       {
         "title": "GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる",
         "link": "https://www.gizmodo.jp/article/2611-google-antigravity-swarm/",
-        "date": "2026-11-10T18:30:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-10T18:30:00+00:00"
       },
       {
         "title": "Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/",
-        "date": "2026-11-10T16:35:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-10T16:35:00+00:00"
       },
       {
         "title": "セーラームーンみたいな深海魚が発見される。ツインテールの正体に…ゾッ",
         "link": "https://www.gizmodo.jp/article/deep-sea-fish-has-hair-ish-qczy/",
-        "date": "2026-11-10T14:00:00+00:00",
-        "body": "a44.txt"
+        "date": "2026-11-10T14:00:00+00:00"
       },
       {
         "title": "トランプ氏、｢AI｣呼びを禁止へ。｢スーパーインテリジェンス｣は定着する？",
         "link": "https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/",
-        "date": "2026-11-10T13:00:00+00:00",
-        "body": "a45.txt"
+        "date": "2026-11-10T13:00:00+00:00"
       },
       {
         "title": "1回14円でお布団ぽかぽか！ ホース不要の「ふとんジェット」が冬の快眠を助けてくれる",
         "link": "https://www.gizmodo.jp/article/2611-futon-jet-futon-dryer/",
-        "date": "2026-11-10T12:30:00+00:00",
-        "body": "a46.txt"
+        "date": "2026-11-10T12:30:00+00:00"
       },
       {
         "title": "地球に「第2の月」が誕生",
         "link": "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/",
-        "date": "2026-11-10T12:15:00+00:00",
-        "body": "a47.txt"
+        "date": "2026-11-10T12:15:00+00:00"
+      },
+      {
+        "title": "“一目惚れ”は昭和の恋愛なのか…。令和時代は自分の直感よりもAIによる効率を重視",
+        "link": "https://www.gizmodo.jp/article/ai_dating_efficiency_vs_intuition/",
+        "date": "2026-11-10T12:00:00+00:00"
       }
     ],
     "yahoo": [
@@ -298,7 +288,8 @@
       {
         "title": "ダンプカー衝突 自転車の15歳死亡",
         "link": "https://news.yahoo.co.jp/pickup/6602142?source=rss",
-        "date": "2026-11-11T02:22:35+00:00"
+        "date": "2026-11-11T02:22:35+00:00",
+        "body": "a50.txt"
       },
       {
         "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
@@ -450,7 +441,7 @@
     "rain": null
   },
   "index": {
-    "price": 61035.0,
+    "price": 61040.0,
     "prev": 60200.0,
     "points": [
       [
@@ -763,22 +754,29 @@
       ],
       [
         "11/11 11:40",
-        61035.0,
+        61055.0,
         60995.0,
-        61040.0,
+        61055.0,
         60990.0
       ],
       [
-        "11/11 11:42",
+        "11/11 11:45",
+        61040.0,
         61035.0,
-        61035.0,
-        61035.0,
-        61035.0
+        61045.0,
+        61020.0
+      ],
+      [
+        "11/11 11:47",
+        61040.0,
+        61040.0,
+        61040.0,
+        61040.0
       ]
     ]
   },
   "fx": {
-    "price": 158.8215,
+    "price": 158.8005,
     "prev": 158.765
   },
   "topix": {
