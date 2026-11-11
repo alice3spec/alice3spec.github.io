@@ -1,25 +1,86 @@
 {
-  "updated": "2026-11-11T22:53:25.201433+09:00",
+  "updated": "2026-11-11T22:59:44.473199+09:00",
   "feeds": {
-    "kabu": [],
+    "kabu": [
+      {
+        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
+        "date": "2026-11-10T22:30:24+00:00"
+      },
+      {
+        "title": "１０日の東京株式市場見通し＝日経平均６万円回復へ、ＴＳＭＣ月次売上を注視(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEJIMDczb1NwNXIzZGkybEJIRE9ocE5MaG9Cekd2RDFRNWl4WkU1WjF0bDhrLWlIcW1fZXFIbkRPcGNyUmpZaGpqY0tzOW90amhxTEItdnhGanJvdjQ0X1dNRGk2RUo0THp6Q21meUtZQWlwR3NHTl9ZQnY3NFFGNmdNaXl5b0k?oc=5",
+        "date": "2026-11-09T22:48:16+00:00"
+      },
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-11T08:38:56+00:00"
+      },
+      {
+        "title": "明日の株式相場に向けて＝「アンソロピック・エフェクト」逆襲の鐘は鳴るか - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rR24wb0pFdVVOd0piNm16QmxobXBqNXZpR3FOVjhNXzVNbVdJR3BaS1B4amlxeVRKRG5VdFRzNTZIbkE5S1U3YVIteXBpa1ZrTlJKWG4zVDV5VE5DR2pILQ?oc=5",
+        "date": "2026-11-11T11:31:33+00:00"
+      },
+      {
+        "title": "（まとめ）日経平均は789円高の3日続伸で急落前の61,000円台を回復 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hYjBiQVZfTXBNZnBRT0ZQaGRIN0JsWWhURGpMTklyNjRGNzQ3ZURMejBuTW1Ja3hHV2plLWtLLWp2WFRpeEszU29KYVU4VmZja2tCcdIBV0FVX3lxTE90SHBNbVk5d3NaYWRPT2ctVGpaNkowdTJvLVdLeTFxZTAzM01iaGl2QmdEVlhfVl9iUmZhdGJ5R0s3WUVRYU1uZkowRThMN1JkdlZBaENfNA?oc=5",
+        "date": "2026-11-11T07:18:00+00:00"
+      },
+      {
+        "title": "日本マクドナルドHDの株価、上場来高値（11日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMHVsVXNfam9kNUYtSHMzZGlXU2Vmd3E4MkFHVE9GVmNuYVY5dXdvaTBFcm5HVUhya3JfZkJyYzMwQnpuOE5zZWx4bHNmNTI0UmJNZUtRYVI4TkZINGZCOHg4WUYyeTYyTk91ag?oc=5",
+        "date": "2026-11-11T07:30:00+00:00"
+      },
+      {
+        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日続伸、アドバンテストや東エレクが2銘柄で約512円分押し上げ - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0s0TUxwMGdjLTZlNW9yVkV6R2ZpTzNPZzBwelFGS25XVGVVMEFOQ1JjUkgzUTliUjlGN2NmVnEtZFhUd2EwVENrRzdQemVTQ0F6MzMyWVJRN0huLUtubXJOb2RSN2R3N1gwUkZWb2hMZklEdjhfT3l4RkttTXUtUjF4cGFmdGM?oc=5",
+        "date": "2026-11-11T08:01:04+00:00"
+      },
+      {
+        "title": "日経平均株価、3日続伸 終値789円高の6万1248円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lY082ZXZjWEYtcF85SkhkSkVLM3FfbDVlc0ZhZ1UzUFo1VlBxV1U1bUwxQXFSbnVmZDVCazhaUGhuVTVwNS1tN21qU2FYSzBKTWdPam1STG9ySkZEd2UyRkpjWHVUT2xINFdUVA?oc=5",
+        "date": "2026-11-11T00:10:38+00:00"
+      },
+      {
+        "title": "日経平均株価「次の最高値は2年後」の衝撃 AIブームの反動大きく - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tUU9ZQU5MY2w3SmxDalB0aGttd256cGd3LXdacG5TWFlXY2lscnBWTWx3WjhMdkxXVS1mWlRjQl9CNFZGdkxwSzNtdGYweWsxZTRfeXpQbFkybHlNM24yMWZEX1dYQzQ5ODJjYQ?oc=5",
+        "date": "2026-11-10T23:22:30+00:00"
+      },
+      {
+        "title": "日経平均は３日続伸、一時６万１０００円台に乗せる＝１１日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThqSU9EYVVtZXFaenBWMU9mT2lwX2Zfc21PVkdRYlZVaUEzMkJTQjNfalhST2ZDenBTVXV5YjFBWldiNEotVTdhY21XeS1kdjRTcmlVeHpGSjNfNGFNVzF3cDVyejMtX0lwRWJLUUdNRlRHRGFyTFlzQnRuMFpPUk5pUlpVZm8?oc=5",
+        "date": "2026-11-11T02:51:09+00:00"
+      },
+      {
+        "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
+        "date": "2026-11-08T22:30:00+00:00"
+      },
+      {
+        "title": "ニチレイの株価が急伸 26年12月期の純利益を上方修正 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zN3dGWFM4eWpKQ195UVhldzgzNlhpUTRfVUZ0anRzeXBleGNmcnh3TzFRY1YwcklaNTBEeW4xMHM0R2ZmaXlCZXhHRGl0ZXZUeWdLdWxOUzRISldxOEJESW5ZT1dkNGxjNms3RQ?oc=5",
+        "date": "2026-11-11T05:33:22+00:00"
+      }
+    ],
     "ai": [
       {
         "title": "「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/",
         "date": "2026-11-11T05:16:43+00:00",
-        "body": "a00.txt"
+        "body": "a12.txt"
       },
       {
         "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
         "date": "2026-11-11T03:50:55+00:00",
-        "body": "a01.txt"
+        "body": "a13.txt"
       },
       {
         "title": "中国AI「Qwen4」ついに登場　プレビュー版を提供開始、AlibabaのAIサービスで",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
         "date": "2026-11-11T02:30:32+00:00",
-        "body": "a02.txt"
+        "body": "a14.txt"
       },
       {
         "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も",
@@ -30,25 +91,24 @@
         "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
         "date": "2026-11-11T00:33:03+00:00",
-        "body": "a04.txt"
+        "body": "a16.txt"
       },
       {
         "title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
-        "date": "2026-11-11T00:27:17+00:00",
-        "body": "a05.txt"
+        "date": "2026-11-11T00:27:17+00:00"
       },
       {
         "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
         "date": "2026-11-11T00:00:00+00:00",
-        "body": "a06.txt"
+        "body": "a18.txt"
       },
       {
         "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html",
         "date": "2026-11-10T23:30:00+00:00",
-        "body": "a07.txt"
+        "body": "a19.txt"
       },
       {
         "title": "「“できる人”ばかり質問されがち」から脱却し、年4400時間削減――紀陽銀行の「社内知識」集約術とは",
@@ -58,20 +118,18 @@
       {
         "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
-        "date": "2026-11-10T22:30:00+00:00",
-        "body": "a09.txt"
+        "date": "2026-11-10T22:30:00+00:00"
       },
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
         "date": "2026-11-10T22:03:30+00:00",
-        "body": "a10.txt"
+        "body": "a22.txt"
       },
       {
         "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a11.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       }
     ],
     "it": [
@@ -79,72 +137,73 @@
         "title": "靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
         "date": "2026-11-11T10:11:24+00:00",
-        "body": "a12.txt"
+        "body": "a24.txt"
       },
       {
         "title": "続くドコモ通信障害　一部除き復旧も、完全解消には至らず　原因は調査中",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
         "date": "2026-11-11T09:36:04+00:00",
-        "body": "a13.txt"
+        "body": "a25.txt"
       },
       {
         "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003114/",
-        "date": "2026-11-11T08:35:52+00:00"
+        "date": "2026-11-11T08:35:52+00:00",
+        "body": "a26.txt"
       },
       {
         "title": "メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
         "date": "2026-11-11T07:12:21+00:00",
-        "body": "a15.txt"
+        "body": "a27.txt"
       },
       {
         "title": "まるで「自宅警備員」？　室内を自律飛行する防犯ドローン、Amazon傘下が発表　約4万円から",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
         "date": "2026-11-11T06:43:42+00:00",
-        "body": "a16.txt"
+        "body": "a28.txt"
       },
       {
         "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討　東京地裁の請求棄却に「野放しでもOK？」",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
         "date": "2026-11-11T06:17:18+00:00",
-        "body": "a17.txt"
+        "body": "a29.txt"
       },
       {
         "title": "内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
         "date": "2026-11-11T05:19:36+00:00",
-        "body": "a18.txt"
+        "body": "a30.txt"
       },
       {
         "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
         "date": "2026-11-11T04:50:38+00:00",
-        "body": "a19.txt"
+        "body": "a31.txt"
       },
       {
         "title": "“タッチ不要”の改札、山手線など40駅に導入　28年春から　JR東",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
         "date": "2026-11-11T03:35:42+00:00",
-        "body": "a20.txt"
+        "body": "a32.txt"
       },
       {
         "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
         "date": "2026-11-11T03:11:32+00:00",
-        "body": "a21.txt"
+        "body": "a33.txt"
       },
       {
         "title": "ドコモまた障害、全国で通話・データ利用しづらく　Xでは「5G SAがつながらない」の声【更新】",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
         "date": "2026-11-11T02:52:53+00:00",
-        "body": "a22.txt"
+        "body": "a34.txt"
       },
       {
         "title": "「ブロッキング」実施検討へ向けた作業部会設置　総務省　法的整理など加速へ",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003094/",
         "date": "2026-11-11T02:03:17+00:00",
-        "body": "a23.txt"
+        "body": "a35.txt"
       }
     ],
     "gadget": [
@@ -152,72 +211,73 @@
         "title": "日本海溝の深海生物に「謎のカプセル」が付着。“未知の生物”の産卵かも",
         "link": "https://www.gizmodo.jp/article/japan_trench_sea_spider_capsule/",
         "date": "2026-11-11T13:00:00+00:00",
-        "body": "a24.txt"
+        "body": "a36.txt"
       },
       {
         "title": "AdobeアプリをChatGPTやClaudeから動かせることが意味するもの",
         "link": "https://www.gizmodo.jp/article/adobe-mcp-integration-chatgpt-claude/",
         "date": "2026-11-11T12:45:00+00:00",
-        "body": "a25.txt"
+        "body": "a37.txt"
       },
       {
         "title": "爆発したのに何度も復活。113日ごとに超新星のように光る星、いったい何が起きている？",
         "link": "https://www.gizmodo.jp/article/2611-at-2016blu-supernova-impostor/",
-        "date": "2026-11-11T12:30:00+00:00"
+        "date": "2026-11-11T12:30:00+00:00",
+        "body": "a38.txt"
       },
       {
         "title": "AIエージェント、手首にも登場。Metaの「Muse」がApple Watchに対応です",
         "link": "https://www.gizmodo.jp/article/2611-muse-apple-watch-support/",
         "date": "2026-11-11T12:00:00+00:00",
-        "body": "a27.txt"
+        "body": "a39.txt"
       },
       {
         "title": "データセンターのための送電網、費用の6割超は住民負担でした",
         "link": "https://www.gizmodo.jp/article/data-center_grid_cost_residents/",
         "date": "2026-11-11T11:00:00+00:00",
-        "body": "a28.txt"
+        "body": "a40.txt"
       },
       {
         "title": "おまたせAndroidユーザー。「Google Pixel Tag」が日本でも発売",
         "link": "https://www.gizmodo.jp/article/google-pixel-tag-release-japan/",
         "date": "2026-11-11T10:35:00+00:00",
-        "body": "a29.txt"
+        "body": "a41.txt"
       },
       {
         "title": "ついにAIがあなたのフォトショを直接いじる。Adobe、主要アプリのMCP対応を予告",
         "link": "https://www.gizmodo.jp/article/2611-adobe-max-2026-mcp-ai-agent/",
         "date": "2026-11-11T10:30:00+00:00",
-        "body": "a30.txt"
+        "body": "a42.txt"
       },
       {
         "title": "Google Chromeを開きっぱなしの人は要注意。またもやセキュリティパッチが配信されました",
         "link": "https://www.gizmodo.jp/article/chrome-security-patch-nov-2026/",
         "date": "2026-11-11T10:00:00+00:00",
-        "body": "a31.txt"
+        "body": "a43.txt"
       },
       {
         "title": "乾燥が気になる冬に。デロンギのオイルヒーターが15％オフ【Amazonセール】",
         "link": "https://www.gizmodo.jp/article/2611-delonghi-oil-heater-amazon-sale/",
         "date": "2026-11-11T09:00:00+00:00",
-        "body": "a32.txt"
+        "body": "a44.txt"
       },
       {
         "title": "スマホの裏に貼れちゃう。カードサイズの電子書籍リーダー「BOOX Picco」日本発売",
         "link": "https://www.gizmodo.jp/article/boox-picco/",
         "date": "2026-11-11T08:00:00+00:00",
-        "body": "a33.txt"
+        "body": "a45.txt"
       },
       {
         "title": "Windows 11の「ペイント」に脆弱性。まずはアップデートの確認を",
         "link": "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/",
         "date": "2026-11-11T06:35:00+00:00",
-        "body": "a34.txt"
+        "body": "a46.txt"
       },
       {
         "title": "Apple、iOS 28とmacOS 28の開発プロセスを変更するかも。新機能開発に注力か",
         "link": "https://www.gizmodo.jp/article/2611-apple-ios28-macos28-development-process/",
         "date": "2026-11-11T06:00:00+00:00",
-        "body": "a35.txt"
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
@@ -225,49 +285,49 @@
         "title": "消費減税法案 支援金巡り野党追及",
         "link": "https://news.yahoo.co.jp/pickup/6602215?source=rss",
         "date": "2026-11-11T12:05:32+00:00",
-        "body": "a36.txt"
+        "body": "a48.txt"
       },
       {
         "title": "ドコモ 障害から完全復旧と発表",
         "link": "https://news.yahoo.co.jp/pickup/6602230?source=rss",
         "date": "2026-11-11T13:11:26+00:00",
-        "body": "a37.txt"
+        "body": "a49.txt"
       },
       {
         "title": "石破氏 高市政権の高支持率に見解",
         "link": "https://news.yahoo.co.jp/pickup/6602218?source=rss",
         "date": "2026-11-11T12:18:49+00:00",
-        "body": "a38.txt"
+        "body": "a50.txt"
       },
       {
         "title": "月収5万円 受診遅れ死亡した男性",
         "link": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
         "date": "2026-11-11T12:30:08+00:00",
-        "body": "a39.txt"
+        "body": "a51.txt"
       },
       {
         "title": "メーガン妃の父親 保釈中に再拘束",
         "link": "https://news.yahoo.co.jp/pickup/6602226?source=rss",
         "date": "2026-11-11T12:51:09+00:00",
-        "body": "a40.txt"
+        "body": "a52.txt"
       },
       {
         "title": "今月閉園でも 模型補修続ける職人",
         "link": "https://news.yahoo.co.jp/pickup/6602217?source=rss",
         "date": "2026-11-11T12:12:51+00:00",
-        "body": "a41.txt"
+        "body": "a53.txt"
       },
       {
         "title": "育成9位指名の18歳 SB入団を辞退",
         "link": "https://news.yahoo.co.jp/pickup/6602228?source=rss",
         "date": "2026-11-11T13:00:39+00:00",
-        "body": "a42.txt"
+        "body": "a54.txt"
       },
       {
         "title": "板倉滉に第1子 可愛すぎてやばい",
         "link": "https://news.yahoo.co.jp/pickup/6602227?source=rss",
         "date": "2026-11-11T12:35:57+00:00",
-        "body": "a43.txt"
+        "body": "a55.txt"
       }
     ]
   },
@@ -389,7 +449,7 @@
     "rain": null
   },
   "index": {
-    "price": 61870.0,
+    "price": 61845.0,
     "prev": 60200.0,
     "points": [
       [
@@ -1619,22 +1679,29 @@
       ],
       [
         "11/11 22:40",
-        61865.0,
+        61855.0,
         61830.0,
         61890.0,
         61830.0
       ],
       [
-        "11/11 22:43",
-        61870.0,
-        61870.0,
-        61870.0,
-        61870.0
+        "11/11 22:45",
+        61840.0,
+        61860.0,
+        61865.0,
+        61840.0
+      ],
+      [
+        "11/11 22:49",
+        61845.0,
+        61845.0,
+        61845.0,
+        61845.0
       ]
     ]
   },
   "fx": {
-    "price": 159.587,
+    "price": 159.56,
     "prev": 158.765
   },
   "topix": {
