@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:03:33.173214+09:00",
+  "updated": "2026-11-11T12:08:33.230996+09:00",
   "feeds": {
     "kabu": [
       {
@@ -58,90 +58,79 @@
         "date": "2026-11-10T22:47:05+00:00"
       },
       {
-        "title": "日本マクドナルドHD株価が上場来高値 26年12月期純利益8%増 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmM3FiQlVxdWRNc0xhMGJvcWM5ekpwXzl0QWNtOGZsY0htOW5WbE5kM1dETE9VLU1yZmRReFRiMkRYUUJMRXpJdGtGZEd4bm81dWZUb0o1RnJFaldHQWxLOHNLQnBOdm1OaFBJTg?oc=5",
-        "date": "2026-11-11T02:11:25+00:00"
+        "title": "ホンダの株価続落 27年3月期最終黒字上振れも市場予想下回る - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYVGNfR2JPLVVmQzhIT0djenhjc2JIV1FzeWROVEZLazRRWmhfYlE0dEtDSnlQZGlSYm1BclZyc1JyNXUtaVpEbFk4TnlhWExzNUJacnVxRm1PWWdlSVVYMHAzWFVwbTdSU0Nrbg?oc=5",
+        "date": "2026-11-11T01:34:45+00:00"
       }
     ],
     "ai": [
       {
+        "title": "中国AI「Qwen4」ついに登場　プレビュー版を提供開始、AlibabaのAIサービスで",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003098/",
+        "date": "2026-11-11T02:30:32+00:00"
+      },
+      {
         "title": "Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/",
-        "date": "2026-11-11T01:47:35+00:00",
-        "body": "a12.txt"
+        "date": "2026-11-11T01:47:35+00:00"
       },
       {
         "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
-        "date": "2026-11-11T00:33:03+00:00",
-        "body": "a13.txt"
+        "date": "2026-11-11T00:33:03+00:00"
       },
       {
         "title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
-        "date": "2026-11-11T00:27:17+00:00",
-        "body": "a14.txt"
+        "date": "2026-11-11T00:27:17+00:00"
       },
       {
         "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
         "date": "2026-11-11T00:00:00+00:00",
-        "body": "a15.txt"
+        "body": "a16.txt"
       },
       {
         "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html",
-        "date": "2026-11-10T23:30:00+00:00",
-        "body": "a16.txt"
+        "date": "2026-11-10T23:30:00+00:00"
       },
       {
         "title": "「“できる人”ばかり質問されがち」から脱却し、年4400時間削減――紀陽銀行の「社内知識」集約術とは",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news029.html",
-        "date": "2026-11-10T23:00:00+00:00",
-        "body": "a17.txt"
+        "date": "2026-11-10T23:00:00+00:00"
       },
       {
         "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
-        "date": "2026-11-10T22:30:00+00:00",
-        "body": "a18.txt"
+        "date": "2026-11-10T22:30:00+00:00"
       },
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-        "date": "2026-11-10T22:03:30+00:00",
-        "body": "a19.txt"
+        "date": "2026-11-10T22:03:30+00:00"
       },
       {
         "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a20.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       },
       {
         "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a21.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       },
       {
         "title": "なぜAgodaは“異常に”安いのか？　商務責任者が明かす「自腹値引き」と社内競争の正体",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news028.html",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "富士フイルム、Q2過去最高益　「instaxチェキ」ヒットに並ぶ“もう一つの稼ぎ頭”とは？",
-        "link": "https://www.itmedia.co.jp/business/articles/2611/11/news032.html",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a23.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       }
     ],
     "it": [
       {
-        "title": "ドコモまた障害、全国で通話・データ利用しづらく　Xでは「5G SAがつながらない」の声",
+        "title": "ドコモまた障害、全国で通話・データ利用しづらく　Xでは「5G SAがつながらない」の声【更新】",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
-        "date": "2026-11-11T02:06:43+00:00"
+        "date": "2026-11-11T02:52:53+00:00"
       },
       {
         "title": "「ブロッキング」実施検討へ向けた作業部会設置　総務省　法的整理など加速へ",
@@ -244,7 +233,8 @@
       {
         "title": "世界でのスマホ売上UPも販売台数は減少。第3四半期はAppleが売上50％をしめる",
         "link": "https://www.gizmodo.jp/article/smartphone_sales_q3_apple_market_share/",
-        "date": "2026-11-10T23:00:00+00:00"
+        "date": "2026-11-10T23:00:00+00:00",
+        "body": "a42.txt"
       },
       {
         "title": "レトロな楽器を腕に巻こう。カシオの新作はインジケーターに技あり",
@@ -295,26 +285,24 @@
         "date": "2026-11-11T02:22:35+00:00"
       },
       {
+        "title": "高級時計が盗まれた事件 男を逮捕",
+        "link": "https://news.yahoo.co.jp/pickup/6602150?source=rss",
+        "date": "2026-11-11T03:00:05+00:00"
+      },
+      {
         "title": "家庭向けの防犯ドローン発売へ 米",
         "link": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
-        "date": "2026-11-11T01:47:34+00:00",
-        "body": "a52.txt"
+        "date": "2026-11-11T01:47:34+00:00"
       },
       {
         "title": "「AIくさい」なぜSNSで批判過熱",
         "link": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
-        "date": "2026-11-11T02:50:12+00:00",
-        "body": "a53.txt"
+        "date": "2026-11-11T02:50:12+00:00"
       },
       {
         "title": "高級スーツに外国人客 老舗逆転劇",
         "link": "https://news.yahoo.co.jp/pickup/6602136?source=rss",
         "date": "2026-11-11T01:49:54+00:00"
-      },
-      {
-        "title": "松井監督 就任前にヤ軍GMに報告",
-        "link": "https://news.yahoo.co.jp/pickup/6602140?source=rss",
-        "date": "2026-11-11T02:12:13+00:00"
       }
     ]
   },
@@ -436,14 +424,21 @@
     "rain": null
   },
   "index": {
-    "price": 61015.0,
+    "price": 60965.0,
     "prev": 60200.0,
     "points": [
       [
+        "11/11 08:00",
+        60190.0,
+        60190.0,
+        60190.0,
+        60190.0
+      ],
+      [
         "11/11 08:05",
         60120.0,
-        60130.0,
-        60130.0,
+        60120.0,
+        60120.0,
         60120.0
       ],
       [
@@ -456,7 +451,7 @@
       [
         "11/11 08:15",
         60235.0,
-        60215.0,
+        60210.0,
         60240.0,
         60190.0
       ],
@@ -484,7 +479,7 @@
       [
         "11/11 08:35",
         60355.0,
-        60290.0,
+        60285.0,
         60355.0,
         60280.0
       ],
@@ -519,7 +514,7 @@
       [
         "11/11 09:00",
         60630.0,
-        60375.0,
+        60355.0,
         60635.0,
         60350.0
       ],
@@ -729,7 +724,7 @@
       [
         "11/11 11:30",
         61005.0,
-        61070.0,
+        61060.0,
         61070.0,
         61005.0
       ],
@@ -743,7 +738,7 @@
       [
         "11/11 11:40",
         61055.0,
-        60990.0,
+        60995.0,
         61055.0,
         60990.0
       ],
@@ -762,16 +757,23 @@
         60995.0
       ],
       [
-        "11/11 11:53",
-        61015.0,
-        61015.0,
-        61015.0,
-        61015.0
+        "11/11 11:55",
+        60965.0,
+        61000.0,
+        61000.0,
+        60960.0
+      ],
+      [
+        "11/11 11:58",
+        60965.0,
+        60965.0,
+        60965.0,
+        60965.0
       ]
     ]
   },
   "fx": {
-    "price": 158.801,
+    "price": 158.808,
     "prev": 158.765
   },
   "topix": {
