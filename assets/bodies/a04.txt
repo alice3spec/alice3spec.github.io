@@ -1,3 +1,3 @@
-Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.
+## Redirect Notice
 
-Select language
+The page you were on is trying to send you to an invalid web address.
