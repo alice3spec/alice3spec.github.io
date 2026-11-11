@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T20:28:18.705619+09:00",
+  "updated": "2026-11-11T20:33:21.225615+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,6 +13,11 @@
         "date": "2026-11-08T22:30:00+00:00"
       },
       {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-11T08:38:56+00:00"
+      },
+      {
         "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
         "date": "2026-11-10T22:30:24+00:00"
@@ -23,19 +28,14 @@
         "date": "2026-11-11T07:18:00+00:00"
       },
       {
-        "title": "日経平均VIは低下、株価上昇ピッチの速さへの警戒感も(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hON2dVcDlnYXNxd1B2U2tqN3YwMnZVUHdaYXZ4eHFkSXFPQVVHV0F5UHdIZ3ZHb1NUN2cwQUtZOHlRSUE0ZDNHZVJkOXowV0xBRFhTX2ljYUhEMExyU0pTY3dHUWRBZnpQN2N4R2cxb0ZnTVItNGd6NHA5aUhaN0FZWlJHZ0E?oc=5",
-        "date": "2026-11-11T05:21:02+00:00"
-      },
-      {
         "title": "日本マクドナルドHDの株価、上場来高値（11日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMHVsVXNfam9kNUYtSHMzZGlXU2Vmd3E4MkFHVE9GVmNuYVY5dXdvaTBFcm5HVUhya3JfZkJyYzMwQnpuOE5zZWx4bHNmNTI0UmJNZUtRYVI4TkZINGZCOHg4WUYyeTYyTk91ag?oc=5",
         "date": "2026-11-11T07:30:00+00:00"
       },
       {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日続伸、アドバンテストや東エレクが2銘柄で約512円分押し上げ - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0s0TUxwMGdjLTZlNW9yVkV6R2ZpTzNPZzBwelFGS25XVGVVMEFOQ1JjUkgzUTliUjlGN2NmVnEtZFhUd2EwVENrRzdQemVTQ0F6MzMyWVJRN0huLUtubXJOb2RSN2R3N1gwUkZWb2hMZklEdjhfT3l4RkttTXUtUjF4cGFmdGM?oc=5",
-        "date": "2026-11-11T08:01:04+00:00"
+        "title": "日経平均VIは低下、株価上昇ピッチの速さへの警戒感も(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hON2dVcDlnYXNxd1B2U2tqN3YwMnZVUHdaYXZ4eHFkSXFPQVVHV0F5UHdIZ3ZHb1NUN2cwQUtZOHlRSUE0ZDNHZVJkOXowV0xBRFhTX2ljYUhEMExyU0pTY3dHUWRBZnpQN2N4R2cxb0ZnTVItNGd6NHA5aUhaN0FZWlJHZ0E?oc=5",
+        "date": "2026-11-11T05:21:02+00:00"
       },
       {
         "title": "（朝）米国市場は3指数揃って下落　インフレが根強いことが示されたことで国債利回りが上昇し株式市場は売り優勢の展開 - マネクリ",
@@ -48,10 +48,9 @@
         "date": "2026-11-11T00:10:38+00:00"
       },
       {
-        "title": "日経平均は３日続伸、一時６万１０００円台に乗せる＝１１日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThqSU9EYVVtZXFaenBWMU9mT2lwX2Zfc21PVkdRYlZVaUEzMkJTQjNfalhST2ZDenBTVXV5YjFBWldiNEotVTdhY21XeS1kdjRTcmlVeHpGSjNfNGFNVzF3cDVyejMtX0lwRWJLUUdNRlRHRGFyTFlzQnRuMFpPUk5pUlpVZm8?oc=5",
-        "date": "2026-11-11T02:51:09+00:00",
-        "body": "a09.txt"
+        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日続伸、アドバンテストや東エレクが2銘柄で約512円分押し上げ - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0s0TUxwMGdjLTZlNW9yVkV6R2ZpTzNPZzBwelFGS25XVGVVMEFOQ1JjUkgzUTliUjlGN2NmVnEtZFhUd2EwVENrRzdQemVTQ0F6MzMyWVJRN0huLUtubXJOb2RSN2R3N1gwUkZWb2hMZklEdjhfT3l4RkttTXUtUjF4cGFmdGM?oc=5",
+        "date": "2026-11-11T08:01:04+00:00"
       },
       {
         "title": "日経平均株価「次の最高値は2年後」の衝撃 AIブームの反動大きく - 日本経済新聞",
@@ -59,9 +58,9 @@
         "date": "2026-11-10T23:22:30+00:00"
       },
       {
-        "title": "ニチレイの株価が急伸 26年12月期の純利益を上方修正 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zN3dGWFM4eWpKQ195UVhldzgzNlhpUTRfVUZ0anRzeXBleGNmcnh3TzFRY1YwcklaNTBEeW4xMHM0R2ZmaXlCZXhHRGl0ZXZUeWdLdWxOUzRISldxOEJESW5ZT1dkNGxjNms3RQ?oc=5",
-        "date": "2026-11-11T05:33:22+00:00"
+        "title": "日経平均は３日続伸、一時６万１０００円台に乗せる＝１１日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThqSU9EYVVtZXFaenBWMU9mT2lwX2Zfc21PVkdRYlZVaUEzMkJTQjNfalhST2ZDenBTVXV5YjFBWldiNEotVTdhY21XeS1kdjRTcmlVeHpGSjNfNGFNVzF3cDVyejMtX0lwRWJLUUdNRlRHRGFyTFlzQnRuMFpPUk5pUlpVZm8?oc=5",
+        "date": "2026-11-11T02:51:09+00:00"
       }
     ],
     "ai": [
@@ -234,7 +233,8 @@
       {
         "title": "Google Chromeを開きっぱなしの人は要注意。またもやセキュリティパッチが配信されました",
         "link": "https://www.gizmodo.jp/article/chrome-security-patch-nov-2026/",
-        "date": "2026-11-11T10:00:00+00:00"
+        "date": "2026-11-11T10:00:00+00:00",
+        "body": "a39.txt"
       },
       {
         "title": "乾燥が気になる冬に。デロンギのオイルヒーターが15％オフ【Amazonセール】",
@@ -301,7 +301,8 @@
       {
         "title": "首脳がCOP31を欠席 日本に化石賞",
         "link": "https://news.yahoo.co.jp/pickup/6602204?source=rss",
-        "date": "2026-11-11T11:11:29+00:00"
+        "date": "2026-11-11T11:11:29+00:00",
+        "body": "a50.txt"
       },
       {
         "title": "放火し保険金など1億円詐取 実刑",
@@ -452,21 +453,14 @@
     "rain": null
   },
   "index": {
-    "price": 61970.0,
+    "price": 62005.0,
     "prev": 60200.0,
     "points": [
       [
-        "11/11 08:00",
-        60190.0,
-        60190.0,
-        60190.0,
-        60190.0
-      ],
-      [
         "11/11 08:05",
         60120.0,
-        60120.0,
-        60120.0,
+        60130.0,
+        60130.0,
         60120.0
       ],
       [
@@ -479,7 +473,7 @@
       [
         "11/11 08:15",
         60235.0,
-        60210.0,
+        60215.0,
         60240.0,
         60190.0
       ],
@@ -507,7 +501,7 @@
       [
         "11/11 08:35",
         60355.0,
-        60285.0,
+        60290.0,
         60355.0,
         60280.0
       ],
@@ -542,7 +536,7 @@
       [
         "11/11 09:00",
         60630.0,
-        60355.0,
+        60375.0,
         60635.0,
         60350.0
       ],
@@ -752,7 +746,7 @@
       [
         "11/11 11:30",
         61005.0,
-        61060.0,
+        61070.0,
         61070.0,
         61005.0
       ],
@@ -766,7 +760,7 @@
       [
         "11/11 11:40",
         61055.0,
-        60995.0,
+        60990.0,
         61055.0,
         60990.0
       ],
@@ -884,16 +878,16 @@
       ],
       [
         "11/11 13:05",
-        61370.0,
+        61330.0,
         61365.0,
         61380.0,
-        61355.0
+        61325.0
       ],
       [
         "11/11 13:10",
         61285.0,
-        61335.0,
-        61335.0,
+        61325.0,
+        61345.0,
         61285.0
       ],
       [
@@ -1004,7 +998,7 @@
       [
         "11/11 14:35",
         61370.0,
-        61390.0,
+        61385.0,
         61415.0,
         61370.0
       ],
@@ -1248,7 +1242,7 @@
       ],
       [
         "11/11 17:30",
-        61470.0,
+        61465.0,
         61380.0,
         61470.0,
         61380.0
@@ -1291,7 +1285,7 @@
       [
         "11/11 18:00",
         61525.0,
-        61465.0,
+        61460.0,
         61525.0,
         61455.0
       ],
@@ -1375,7 +1369,7 @@
       [
         "11/11 19:00",
         61670.0,
-        61645.0,
+        61640.0,
         61685.0,
         61640.0
       ],
@@ -1459,7 +1453,7 @@
       [
         "11/11 20:00",
         61820.0,
-        61850.0,
+        61855.0,
         61870.0,
         61815.0
       ],
@@ -1479,22 +1473,29 @@
       ],
       [
         "11/11 20:15",
-        61950.0,
+        61940.0,
         61965.0,
         61980.0,
-        61945.0
+        61930.0
       ],
       [
-        "11/11 20:18",
-        61970.0,
-        61970.0,
-        61970.0,
-        61970.0
+        "11/11 20:20",
+        62020.0,
+        61935.0,
+        62020.0,
+        61935.0
+      ],
+      [
+        "11/11 20:23",
+        62005.0,
+        62005.0,
+        62005.0,
+        62005.0
       ]
     ]
   },
   "fx": {
-    "price": 159.114,
+    "price": 159.12,
     "prev": 158.765
   },
   "topix": {
