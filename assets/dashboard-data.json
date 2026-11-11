@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:33:23.730406+09:00",
+  "updated": "2026-11-11T19:38:22.698026+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,14 +13,14 @@
         "date": "2026-11-08T22:30:00+00:00"
       },
       {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-11T08:38:56+00:00"
+      },
+      {
         "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
         "date": "2026-11-10T22:30:24+00:00"
-      },
-      {
-        "title": "日経平均VIは低下、株価上昇ピッチの速さへの警戒感も(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hON2dVcDlnYXNxd1B2U2tqN3YwMnZVUHdaYXZ4eHFkSXFPQVVHV0F5UHdIZ3ZHb1NUN2cwQUtZOHlRSUE0ZDNHZVJkOXowV0xBRFhTX2ljYUhEMExyU0pTY3dHUWRBZnpQN2N4R2cxb0ZnTVItNGd6NHA5aUhaN0FZWlJHZ0E?oc=5",
-        "date": "2026-11-11T05:21:02+00:00"
       },
       {
         "title": "日本マクドナルドHDの株価、上場来高値（11日の株式市場） - 日本経済新聞",
@@ -28,14 +28,9 @@
         "date": "2026-11-11T07:30:00+00:00"
       },
       {
-        "title": "（朝）米国市場は3指数揃って下落　インフレが根強いことが示されたことで国債利回りが上昇し株式市場は売り優勢の展開 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQcEItQm8zOGljQ1RVZGpiZmtIT0R5SVE4bGc2eTJlYXE5amNtOWdMVV91elpqeVdnUWNzZkJfTWQ5bWlfaEZ0QnJLdERVMTBiTEtEUtIBV0FVX3lxTE9VbUlRN0hWT1MySmVSYjRzQXJ4c0FaZzFmTkRjV2hyMkUtTFlPSEhCMlJRVHJUNkhrdFFCNkRGYWZPdHJvQldNQlNzb0c3UEY2bUpRNjBtWQ?oc=5",
-        "date": "2026-11-10T23:22:00+00:00"
-      },
-      {
-        "title": "日経平均は大幅続伸、半導体関連株主導で6万1000円台回復／相場概況(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWJvLVA3S0NQbUVRNDBIREdVdUVUc3poZ0F2QmEyTHVOUTNNLXNvaklKeHlzYWtVUE9YYUNGZjk2UHU0cFZpMmU0X1Y3TDBhWS1VTjZoSEVUYm5CM0JtY1FGQS1qczNiTzJfVUxzdWQzYnc3Z2owNVlFbkZlQWItUk9lNVpKV1U?oc=5",
-        "date": "2026-11-11T07:40:43+00:00"
+        "title": "日経平均VIは低下、株価上昇ピッチの速さへの警戒感も(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb3hON2dVcDlnYXNxd1B2U2tqN3YwMnZVUHdaYXZ4eHFkSXFPQVVHV0F5UHdIZ3ZHb1NUN2cwQUtZOHlRSUE0ZDNHZVJkOXowV0xBRFhTX2ljYUhEMExyU0pTY3dHUWRBZnpQN2N4R2cxb0ZnTVItNGd6NHA5aUhaN0FZWlJHZ0E?oc=5",
+        "date": "2026-11-11T05:21:02+00:00"
       },
       {
         "title": "日経平均株価、3日続伸 終値789円高の6万1248円 - 日本経済新聞",
@@ -43,24 +38,30 @@
         "date": "2026-11-11T00:10:38+00:00"
       },
       {
+        "title": "日経平均は大幅続伸、半導体関連株主導で6万1000円台回復／相場概況(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWJvLVA3S0NQbUVRNDBIREdVdUVUc3poZ0F2QmEyTHVOUTNNLXNvaklKeHlzYWtVUE9YYUNGZjk2UHU0cFZpMmU0X1Y3TDBhWS1VTjZoSEVUYm5CM0JtY1FGQS1qczNiTzJfVUxzdWQzYnc3Z2owNVlFbkZlQWItUk9lNVpKV1U?oc=5",
+        "date": "2026-11-11T07:40:43+00:00"
+      },
+      {
+        "title": "日経平均株価「次の最高値は2年後」の衝撃 AIブームの反動大きく - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tUU9ZQU5MY2w3SmxDalB0aGttd256cGd3LXdacG5TWFlXY2lscnBWTWx3WjhMdkxXVS1mWlRjQl9CNFZGdkxwSzNtdGYweWsxZTRfeXpQbFkybHlNM24yMWZEX1dYQzQ5ODJjYQ?oc=5",
+        "date": "2026-11-10T23:22:30+00:00",
+        "body": "a08.txt"
+      },
+      {
         "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅に3日続伸、アドバンテストや東エレクが2銘柄で約512円分押し上げ - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0s0TUxwMGdjLTZlNW9yVkV6R2ZpTzNPZzBwelFGS25XVGVVMEFOQ1JjUkgzUTliUjlGN2NmVnEtZFhUd2EwVENrRzdQemVTQ0F6MzMyWVJRN0huLUtubXJOb2RSN2R3N1gwUkZWb2hMZklEdjhfT3l4RkttTXUtUjF4cGFmdGM?oc=5",
         "date": "2026-11-11T08:01:04+00:00"
       },
       {
-        "title": "日経平均株価「次の最高値は2年後」の衝撃 AIブームの反動大きく - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tUU9ZQU5MY2w3SmxDalB0aGttd256cGd3LXdacG5TWFlXY2lscnBWTWx3WjhMdkxXVS1mWlRjQl9CNFZGdkxwSzNtdGYweWsxZTRfeXpQbFkybHlNM24yMWZEX1dYQzQ5ODJjYQ?oc=5",
-        "date": "2026-11-10T23:22:30+00:00"
+        "title": "ニチレイの株価が急伸 26年12月期の純利益を上方修正 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zN3dGWFM4eWpKQ195UVhldzgzNlhpUTRfVUZ0anRzeXBleGNmcnh3TzFRY1YwcklaNTBEeW4xMHM0R2ZmaXlCZXhHRGl0ZXZUeWdLdWxOUzRISldxOEJESW5ZT1dkNGxjNms3RQ?oc=5",
+        "date": "2026-11-11T05:33:22+00:00"
       },
       {
         "title": "日経平均は３日続伸、一時６万１０００円台に乗せる＝１１日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThqSU9EYVVtZXFaenBWMU9mT2lwX2Zfc21PVkdRYlZVaUEzMkJTQjNfalhST2ZDenBTVXV5YjFBWldiNEotVTdhY21XeS1kdjRTcmlVeHpGSjNfNGFNVzF3cDVyejMtX0lwRWJLUUdNRlRHRGFyTFlzQnRuMFpPUk5pUlpVZm8?oc=5",
         "date": "2026-11-11T02:51:09+00:00"
-      },
-      {
-        "title": "ニチレイの株価が急伸 26年12月期の純利益を上方修正 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zN3dGWFM4eWpKQ195UVhldzgzNlhpUTRfVUZ0anRzeXBleGNmcnh3TzFRY1YwcklaNTBEeW4xMHM0R2ZmaXlCZXhHRGl0ZXZUeWdLdWxOUzRISldxOEJESW5ZT1dkNGxjNms3RQ?oc=5",
-        "date": "2026-11-11T05:33:22+00:00"
       }
     ],
     "ai": [
@@ -139,10 +140,14 @@
     ],
     "it": [
       {
+        "title": "靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
+        "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+        "date": "2026-11-11T10:11:24+00:00"
+      },
+      {
         "title": "続くドコモ通信障害　一部除き復旧も、完全解消には至らず　原因は調査中",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003116/",
-        "date": "2026-11-11T09:36:04+00:00",
-        "body": "a24.txt"
+        "date": "2026-11-11T09:36:04+00:00"
       },
       {
         "title": "メール配信のユミルリンク、不正アクセスで約4786万件漏えい　JR東海やアイスタイルに影響",
@@ -152,94 +157,88 @@
       {
         "title": "メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
-        "date": "2026-11-11T07:12:21+00:00",
-        "body": "a26.txt"
+        "date": "2026-11-11T07:12:21+00:00"
       },
       {
         "title": "まるで「自宅警備員」？　室内を自律飛行する防犯ドローン、Amazon傘下が発表　約4万円から",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
-        "date": "2026-11-11T06:43:42+00:00",
-        "body": "a27.txt"
+        "date": "2026-11-11T06:43:42+00:00"
       },
       {
         "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討　東京地裁の請求棄却に「野放しでもOK？」",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
         "date": "2026-11-11T06:17:18+00:00",
-        "body": "a28.txt"
+        "body": "a29.txt"
       },
       {
         "title": "内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
-        "date": "2026-11-11T05:19:36+00:00",
-        "body": "a29.txt"
+        "date": "2026-11-11T05:19:36+00:00"
       },
       {
         "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
-        "date": "2026-11-11T04:50:38+00:00",
-        "body": "a30.txt"
+        "date": "2026-11-11T04:50:38+00:00"
       },
       {
         "title": "“タッチ不要”の改札、山手線など40駅に導入　28年春から　JR東",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
-        "date": "2026-11-11T03:35:42+00:00",
-        "body": "a31.txt"
+        "date": "2026-11-11T03:35:42+00:00"
       },
       {
         "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003049/",
-        "date": "2026-11-11T03:11:32+00:00",
-        "body": "a32.txt"
+        "date": "2026-11-11T03:11:32+00:00"
       },
       {
         "title": "ドコモまた障害、全国で通話・データ利用しづらく　Xでは「5G SAがつながらない」の声【更新】",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003095/",
-        "date": "2026-11-11T02:52:53+00:00",
-        "body": "a33.txt"
+        "date": "2026-11-11T02:52:53+00:00"
       },
       {
         "title": "「ブロッキング」実施検討へ向けた作業部会設置　総務省　法的整理など加速へ",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003094/",
         "date": "2026-11-11T02:03:17+00:00",
-        "body": "a34.txt"
-      },
-      {
-        "title": "【復旧】「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
-        "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
-        "date": "2026-11-11T01:52:11+00:00",
         "body": "a35.txt"
       }
     ],
     "gadget": [
       {
+        "title": "おまたせAndroidユーザー。「Google Pixel Tag」が日本でも発売",
+        "link": "https://www.gizmodo.jp/article/google-pixel-tag-release-japan/",
+        "date": "2026-11-11T10:35:00+00:00"
+      },
+      {
+        "title": "ついにAIがあなたのフォトショを直接いじる。Adobe、主要アプリのMCP対応を予告",
+        "link": "https://www.gizmodo.jp/article/2611-adobe-max-2026-mcp-ai-agent/",
+        "date": "2026-11-11T10:30:00+00:00"
+      },
+      {
         "title": "Google Chromeを開きっぱなしの人は要注意。またもやセキュリティパッチが配信されました",
         "link": "https://www.gizmodo.jp/article/chrome-security-patch-nov-2026/",
-        "date": "2026-11-11T10:00:00+00:00",
-        "body": "a36.txt"
+        "date": "2026-11-11T10:00:00+00:00"
       },
       {
         "title": "乾燥が気になる冬に。デロンギのオイルヒーターが15％オフ【Amazonセール】",
         "link": "https://www.gizmodo.jp/article/2611-delonghi-oil-heater-amazon-sale/",
         "date": "2026-11-11T09:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a39.txt"
       },
       {
         "title": "スマホの裏に貼れちゃう。カードサイズの電子書籍リーダー「BOOX Picco」日本発売",
         "link": "https://www.gizmodo.jp/article/boox-picco/",
-        "date": "2026-11-11T08:00:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-11T08:00:00+00:00"
       },
       {
         "title": "Windows 11の「ペイント」に脆弱性。まずはアップデートの確認を",
         "link": "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/",
-        "date": "2026-11-11T06:35:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-11T06:35:00+00:00"
       },
       {
         "title": "Apple、iOS 28とmacOS 28の開発プロセスを変更するかも。新機能開発に注力か",
         "link": "https://www.gizmodo.jp/article/2611-apple-ios28-macos28-development-process/",
         "date": "2026-11-11T06:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a42.txt"
       },
       {
         "title": "知っている相手からのGoogleカレンダー招待。ログインしたらアカウント乗っ取られるかも",
@@ -249,38 +248,23 @@
       {
         "title": "Googleのブラックフライデーは20日から。Pixel 11プレミアム機種が実質最大14万5000円お得！",
         "link": "https://www.gizmodo.jp/article/2611-google-black-friday-pixel-sale/",
-        "date": "2026-11-11T03:30:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-11T03:30:00+00:00"
       },
       {
         "title": "LINEのあの顔。AIエージェント「Agent i」が単独アプリになりました",
         "link": "https://www.gizmodo.jp/article/2611-line-agent-i-app/",
-        "date": "2026-11-11T03:15:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-11T03:15:00+00:00"
       },
       {
         "title": "AppleのターナスCEO、AI開発に慎重すぎるフェデリギ上級副社長に「もっとがんばれよ」と圧をかける",
         "link": "https://www.gizmodo.jp/article/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones/",
         "date": "2026-11-11T03:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a46.txt"
       },
       {
         "title": "Anthoropic、IPO内容公開。1株1万2000円前後予想、早ければ来週にも上場",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
-        "date": "2026-11-11T02:55:00+00:00",
-        "body": "a45.txt"
-      },
-      {
-        "title": "サンタさん、ぼくダウンロードでいいよ！ SwitchのDL版ソフトを送れる「プレゼント」機能追加",
-        "link": "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
-        "date": "2026-11-11T02:45:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "モンベルの小さな“測り”ひとつで、旅行や出張の不安が解消されました",
-        "link": "https://www.gizmodo.jp/article/mont-bell-handy-scale-5hef/",
-        "date": "2026-11-11T02:35:00+00:00",
-        "body": "a47.txt"
+        "date": "2026-11-11T02:55:00+00:00"
       }
     ],
     "yahoo": [
@@ -317,7 +301,8 @@
       {
         "title": "陸上・末續慎吾が結婚を報告",
         "link": "https://news.yahoo.co.jp/pickup/6602211?source=rss",
-        "date": "2026-11-11T10:20:43+00:00"
+        "date": "2026-11-11T10:20:43+00:00",
+        "body": "a53.txt"
       },
       {
         "title": "俳優・川口春奈 第1子出産を報告",
@@ -451,7 +436,7 @@
     "rain": null
   },
   "index": {
-    "price": 61590.0,
+    "price": 61635.0,
     "prev": 60200.0,
     "points": [
       [
@@ -1401,22 +1386,29 @@
       ],
       [
         "11/11 19:20",
-        61595.0,
+        61590.0,
         61555.0,
-        61600.0,
+        61645.0,
         61555.0
       ],
       [
-        "11/11 19:23",
-        61590.0,
-        61590.0,
-        61590.0,
-        61590.0
+        "11/11 19:25",
+        61635.0,
+        61580.0,
+        61645.0,
+        61580.0
+      ],
+      [
+        "11/11 19:27",
+        61635.0,
+        61635.0,
+        61635.0,
+        61635.0
       ]
     ]
   },
   "fx": {
-    "price": 158.976,
+    "price": 158.9815,
     "prev": 158.765
   },
   "topix": {
