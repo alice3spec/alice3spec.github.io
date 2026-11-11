@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T06:49:01.140824+09:00",
+  "updated": "2026-11-12T06:54:04.318803+09:00",
   "feeds": {
     "kabu": [
       {
@@ -17,7 +17,7 @@
       {
         "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-11T17:39:41+00:00",
+        "date": "2026-11-11T20:41:18+00:00",
         "body": "a02.txt"
       },
       {
@@ -457,7 +457,7 @@
     "rain": null
   },
   "index": {
-    "price": 61990.0,
+    "price": 61985.0,
     "prev": 60200.0,
     "points": [
       [
@@ -2344,16 +2344,23 @@
         61990.0
       ],
       [
-        "11/12 06:35",
+        "11/12 06:40",
+        61985.0,
+        61985.0,
         61990.0,
-        61990.0,
-        61990.0,
-        61990.0
+        61985.0
+      ],
+      [
+        "11/12 06:43",
+        61985.0,
+        61985.0,
+        61985.0,
+        61985.0
       ]
     ]
   },
   "fx": {
-    "price": 159.807,
+    "price": 159.808,
     "prev": 158.765
   },
   "topix": {
