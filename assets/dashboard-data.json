@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:08:28.654525+09:00",
+  "updated": "2026-11-11T13:13:26.796695+09:00",
   "feeds": {
     "kabu": [
       {
@@ -33,14 +33,14 @@
         "date": "2026-11-10T23:22:30+00:00"
       },
       {
+        "title": "日経平均、906円67銭高の6万1366円25銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFhVSGN0Uml6QTVKWFh5a2h2X1oxeGFnaGU5a2VsSmVya0NJUHBNTG5SbDBjWVVvVXZQMldUZ0JNVUJGQi04OGlXS21JU3V2UVFQdWFxUGZZaHBMUzRRYXpYSVFsZk1SY1ZfSW85R3JSdWpFUU05ZXZqM2syWEVqLUVFLWdPbjg?oc=5",
+        "date": "2026-11-11T03:31:43+00:00"
+      },
+      {
         "title": "１１日の株式相場見通し＝反落、米株安受け売り優勢で６万円割れも - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3cGh6bS1pUlVySkdzNVlDUTBQSV9hcHhXSzJ4Y1RNREViT3NuQmIzS25TdUlNTnJLSjM5bnluMjNwY2szbDQyS3VfZGpQaC1KdGppcE1ZYXFDVGhheGVSVQ?oc=5",
         "date": "2026-11-10T23:00:00+00:00"
-      },
-      {
-        "title": "日経平均、600円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUllITFdfNWlTZGVtd0R6NWpDTnVuLWhqNzh4ZHE5LU1GVmRQOEEyOHZCcXowTkttV1pSR2JXYWpTYzcwSWtyMW5Yc21wSXNmNng4OThVOEZqM3gtVFZIQnJReUg1T0djRzZmLWltWVB1T0NSOHlCUERvOE1yWjN4N296dDdvM3M?oc=5",
-        "date": "2026-11-11T01:33:04+00:00"
       },
       {
         "title": "ホンダの株価続落 27年3月期最終黒字上振れも市場予想下回る - 日本経済新聞",
@@ -48,14 +48,14 @@
         "date": "2026-11-11T01:34:45+00:00"
       },
       {
+        "title": "日経平均、900円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3IweV8wUVJFT1JpNXdKT2hHUHg3VFR6dzBEVGpXYWtfeFVxZzBQRzlzZEZxa2E4VnBUcGRtaGdtakVzcDhaOWVGc0VqY0VkcTFKYXMxYms5NXI1cTN4VFlUdmJtVllMbnRzVU5TbDNlSjRuMGZkdEJpTUxvNmVLaHpDNmNxYzg?oc=5",
+        "date": "2026-11-11T03:30:45+00:00"
+      },
+      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月11日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQNGFtQVVOT2RBYmhlTkpGUGU3bmdhNENCcTlFM3ZXS2s1S2lCNG0ycUNMUmJSTUw0SHN5UDVxcTJEQkxWWVlrdmNLYlF0ZHh0dGtORlBYQUZPZXQ2Mmprcg?oc=5",
         "date": "2026-11-10T23:13:44+00:00"
-      },
-      {
-        "title": "日経平均、6万1000円台を回復＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObjBiSnhlSE10MlAwazd4RnRWRUt4R2xRWXZTTHVxNEdOb09DVDZxLUJZTzlSdTdUVUVKaEtRZHN1UGR3NzdHMEdKX25zT2MwWEl2M2duRHB3cndlT2dFSVVDS3dBOXU4Tl9fUGJCNjVzbDRXQjVxS05abHpIc2JKLWpiMTJuMTA?oc=5",
-        "date": "2026-11-11T01:30:54+00:00"
       },
       {
         "title": "ソフトバンクG、株価一時10.5%安 4~9月最終赤字 - 日本経済新聞",
@@ -88,12 +88,14 @@
       {
         "title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
-        "date": "2026-11-11T00:27:17+00:00"
+        "date": "2026-11-11T00:27:17+00:00",
+        "body": "a16.txt"
       },
       {
         "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
-        "date": "2026-11-11T00:00:00+00:00"
+        "date": "2026-11-11T00:00:00+00:00",
+        "body": "a17.txt"
       },
       {
         "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
@@ -110,7 +112,8 @@
       {
         "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
-        "date": "2026-11-10T22:30:00+00:00"
+        "date": "2026-11-10T22:30:00+00:00",
+        "body": "a20.txt"
       },
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
@@ -134,7 +137,8 @@
       {
         "title": "“タッチ不要”の改札、山手線など40駅に導入　28年春から　JR東",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
-        "date": "2026-11-11T03:35:42+00:00"
+        "date": "2026-11-11T03:35:42+00:00",
+        "body": "a24.txt"
       },
       {
         "title": "“同じWi-Fiにいる誰か”に通信をのぞかれる？　「クライアント分離」を2秒で突破する攻撃　米大学が検証",
@@ -155,7 +159,8 @@
       {
         "title": "【復旧】「iCloud」で朝から障害　「ログインできない」ユーザー混乱、メールやカレンダーも",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003090/",
-        "date": "2026-11-11T01:52:11+00:00"
+        "date": "2026-11-11T01:52:11+00:00",
+        "body": "a28.txt"
       },
       {
         "title": "相次ぐ個人情報流出対策に、パスワードは紙に書いてアナログ管理　一部「伏せ文字」で",
@@ -193,7 +198,8 @@
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-        "date": "2026-11-10T22:03:30+00:00"
+        "date": "2026-11-10T22:03:30+00:00",
+        "body": "a35.txt"
       }
     ],
     "gadget": [
@@ -228,7 +234,8 @@
       {
         "title": "サンタさん、ぼくダウンロードでいいよ！ SwitchのDL版ソフトを送れる「プレゼント」機能追加",
         "link": "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
-        "date": "2026-11-11T02:45:00+00:00"
+        "date": "2026-11-11T02:45:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "モンベルの小さな“測り”ひとつで、旅行や出張の不安が解消されました",
@@ -433,7 +440,7 @@
     "rain": null
   },
   "index": {
-    "price": 61380.0,
+    "price": 61345.0,
     "prev": 60200.0,
     "points": [
       [
@@ -851,22 +858,29 @@
       ],
       [
         "11/11 12:55",
-        61380.0,
+        61385.0,
         61350.0,
-        61380.0,
+        61385.0,
         61350.0
       ],
       [
-        "11/11 12:58",
-        61380.0,
-        61380.0,
-        61380.0,
-        61380.0
+        "11/11 13:00",
+        61345.0,
+        61390.0,
+        61395.0,
+        61345.0
+      ],
+      [
+        "11/11 13:03",
+        61345.0,
+        61345.0,
+        61345.0,
+        61345.0
       ]
     ]
   },
   "fx": {
-    "price": 158.8585,
+    "price": 158.8625,
     "prev": 158.765
   },
   "topix": {
