@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T09:03:21.779571+09:00",
+  "updated": "2026-11-11T09:08:21.152081+09:00",
   "feeds": {
     "kabu": [
       {
@@ -68,76 +68,69 @@
     ],
     "ai": [
       {
+        "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
+        "link": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html",
+        "date": "2026-11-10T23:30:00+00:00"
+      },
+      {
         "title": "「“できる人”ばかり質問されがち」から脱却し、年4400時間削減――紀陽銀行の「社内知識」集約術とは",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news029.html",
         "date": "2026-11-10T23:00:00+00:00",
-        "body": "a12.txt"
+        "body": "a13.txt"
       },
       {
         "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
-        "date": "2026-11-10T22:30:00+00:00",
-        "body": "a13.txt"
+        "date": "2026-11-10T22:30:00+00:00"
       },
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-        "date": "2026-11-10T22:03:30+00:00",
-        "body": "a14.txt"
+        "date": "2026-11-10T22:03:30+00:00"
       },
       {
         "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a15.txt"
+        "body": "a16.txt"
       },
       {
         "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a16.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       },
       {
         "title": "なぜAgodaは“異常に”安いのか？　商務責任者が明かす「自腹値引き」と社内競争の正体",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news028.html",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a17.txt"
+        "body": "a18.txt"
       },
       {
         "title": "富士フイルム、Q2過去最高益　「instaxチェキ」ヒットに並ぶ“もう一つの稼ぎ頭”とは？",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news032.html",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a18.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       },
       {
         "title": "日本製紙ら「たった半年で」釧路にデータセンター新設　なぜスピード稼働できたのか？",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news017.html",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a19.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       },
       {
         "title": "Google ドライブ、CSE適用で機密ファイルを保護へ　Google Workspaceに6つの仕様変更",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003057/",
         "date": "2026-11-10T21:00:00+00:00",
-        "body": "a20.txt"
+        "body": "a21.txt"
       },
       {
         "title": "NotebookLMに公式APIが登場　WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
         "date": "2026-11-10T20:00:00+00:00",
-        "body": "a21.txt"
+        "body": "a22.txt"
       },
       {
         "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
         "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-        "date": "2026-11-10T07:23:08+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "「Fable 5.2」の用途は？　Claudeモデルの選び方、Anthropicが基本を解説",
-        "link": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/",
-        "date": "2026-11-10T04:26:38+00:00",
-        "body": "a23.txt"
+        "date": "2026-11-10T07:23:08+00:00"
       }
     ],
     "it": [
@@ -457,7 +450,7 @@
     "rain": null
   },
   "index": {
-    "price": 60360.0,
+    "price": 60345.0,
     "prev": 60200.0,
     "points": [
       [
@@ -532,22 +525,29 @@
       ],
       [
         "11/11 08:50",
-        60360.0,
+        60340.0,
         60400.0,
         60400.0,
         60320.0
       ],
       [
-        "11/11 08:52",
-        60360.0,
-        60360.0,
-        60360.0,
-        60360.0
+        "11/11 08:55",
+        60390.0,
+        60345.0,
+        60395.0,
+        60310.0
+      ],
+      [
+        "11/11 08:58",
+        60345.0,
+        60345.0,
+        60345.0,
+        60345.0
       ]
     ]
   },
   "fx": {
-    "price": 158.7715,
+    "price": 158.803,
     "prev": 158.765
   },
   "topix": {
