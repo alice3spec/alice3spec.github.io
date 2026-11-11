@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:28:14.450494+09:00",
+  "updated": "2026-11-12T08:33:25.164244+09:00",
   "feeds": {
     "kabu": [
       {
@@ -16,7 +16,7 @@
       {
         "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-11T20:41:18+00:00"
+        "date": "2026-11-11T17:39:41+00:00"
       },
       {
         "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
@@ -39,6 +39,11 @@
         "date": "2026-11-11T07:30:00+00:00"
       },
       {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月12日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iaUxDajBlY1RyWDFUWWxTUlNCeThoTEsySjhfbk5DRGVocFVpYm9QOElqOG1pbURkNVNUTHZETTBwYWpHeFZrYkdPbWFOMGNiMmI0SWJqZDRJNjhsYzg1eA?oc=5",
+        "date": "2026-11-11T23:11:26+00:00"
+      },
+      {
         "title": "日経平均VIは低下、株価上昇ピッチの速さへの警戒感も - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmSUxmVkNUUk1PelpzZXlwanJIbHJvbTFmVVFWeTJEa2laR3M1T3dRcURkTE05UkZlRzdab0RZcXE0dXUteHJjZEF3S2dhV2hqeTNIM0l5b1lDZkcxdkVVcA?oc=5",
         "date": "2026-11-11T05:21:02+00:00"
@@ -46,22 +51,19 @@
       {
         "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
-        "date": "2026-11-08T22:30:00+00:00"
+        "date": "2026-11-08T22:30:00+00:00",
+        "body": "a09.txt"
       },
       {
         "title": "日経平均株価、米AI株持ち直しが支えに（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wYm5mUDBncGxjQTBuenhxZE9LcW1jUDV6RHQ3THNwREJxdG9QRGMwbGZJWjFXQ2o3cFJ5cEROTXg1VVZJUHdsZHRyRGVXdHJCeEJwSk1XNTF2ZXpBeXdGbWpLR2NUdjRmZWVrQQ?oc=5",
-        "date": "2026-11-09T22:30:00+00:00"
+        "date": "2026-11-09T22:30:00+00:00",
+        "body": "a10.txt"
       },
       {
         "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
         "date": "2026-11-10T00:07:08+00:00"
-      },
-      {
-        "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
-        "date": "2026-11-09T00:06:22+00:00"
       }
     ],
     "ai": [
@@ -300,9 +302,9 @@
         "body": "a49.txt"
       },
       {
-        "title": "福山市で住宅が全焼 3人不明",
-        "link": "https://news.yahoo.co.jp/pickup/6602249?source=rss",
-        "date": "2026-11-11T23:17:19+00:00",
+        "title": "エヌビディアがCEO解任準備 報道",
+        "link": "https://news.yahoo.co.jp/pickup/6602248?source=rss",
+        "date": "2026-11-11T23:20:47+00:00",
         "body": "a50.txt"
       },
       {
@@ -338,7 +340,7 @@
     ]
   },
   "weather": {
-    "temp": 13.1,
+    "temp": 13.4,
     "code": 1,
     "max": 19.2,
     "min": 12.0,
@@ -455,7 +457,7 @@
     "rain": null
   },
   "index": {
-    "price": 61505.0,
+    "price": 61515.0,
     "prev": 60200.0,
     "points": [
       [
@@ -2399,22 +2401,29 @@
       ],
       [
         "11/12 08:15",
-        61485.0,
+        61515.0,
         61490.0,
         61565.0,
         61450.0
       ],
       [
-        "11/12 08:18",
-        61505.0,
-        61505.0,
-        61505.0,
-        61505.0
+        "11/12 08:20",
+        61550.0,
+        61490.0,
+        61560.0,
+        61490.0
+      ],
+      [
+        "11/12 08:23",
+        61515.0,
+        61515.0,
+        61515.0,
+        61515.0
       ]
     ]
   },
   "fx": {
-    "price": 159.643,
+    "price": 159.713,
     "prev": 159.8065
   },
   "topix": {
