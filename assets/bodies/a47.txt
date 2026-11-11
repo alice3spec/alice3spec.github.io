@@ -1,71 +1,65 @@
-GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる
+*   グローバルナビゲーションへジャンプ
+*   メインコンテンツへジャンプ
+*   フッターへジャンプ
 
-Nov 11,2026 03:30 5,328
+12:55:23
+JST
+
+MENUSNS
+
+# Googleが新AI「Gemini 4 Carbon」をリリース。“空間推論”に優れた強力なフロンティアモデル
+
+Nov 11,2026 01:35 7,935
 
 かみやまたくみ ( GIZMODO編集部 / 残響言語文法論 )
 
 Image: Google
 
-1000体起動とかもできちゃいそう（予算が許すなら）。
+2026年11月11日未明、Googleが新しいフラッグシップAI「Gemini 4 Carbon」をリリースしました。サブスクではAI Ultraユーザーのみ利用可となっています。APIやAI Studioでも利用できます。
 
-2026年11月11日未明、Googleが同社のAIツール「Antigravity」に /swarm という機能をプレビュー実装すると発表しました。現時点ではAI Ultra加入者しか利用できませんが、アプリ版・CLI版・IDE拡張機能版のいずれでも使えます。
+Carbonは先日発表はされたものの、分かっているのは優れたベンチマーク結果のみという感じでした。昨日Fable 5.2が発表されるまでは全AIでトップで、現在も2番手につける強力な新AIです。
 
-Antigravityはざっくり言っちゃうとGoogle版のClaude Code・Codexみたいなアプリです。
+リリースに伴って作例などが公開されていて3Dモデルなどを制作する能力が高いことがわかっています。サイバーセキュリティ能力も優れているそうです。
 
-Advertisement
+## 3D空間を作成可能な高い空間推論能力。複数AIの運用・管理もいける
 
-swarmは「群れ」という意味。
+Carbonの作例は視覚要素があるものが大半です。人間の思考を理解し、適切に敷衍しながら見る人が楽しんで体験できる形にする、そんな方向性のものばかりです。その背後にはCarbonの高い空間推論能力と複数のAIを統括できる能力がありますよ、という感じになっています。
 
-そう、/swarmはAIのチームをぱっと起動して動かせる機能なんです。しかも、かなり使いやすそう。同時リリースの高性能AI「Gemini 4 Carbon」はこの機能とめっちゃ相性いいはず。
+### 鳥の鳴き声はどうしてあんな感じ？を理解するインタラクティブ3Dシミュレーション
 
-## 1回の入力でAI軍団が起動→手分けして作業をし始める
+たとえば以下はスズメ亜目7種の発声器官を比較するという3Dシミュレーション。どんな風に鳴き声を出しているのかが視覚的に分かるだけでなく、実際に鳴き声が再生されます。
 
-こちらが/swarmを使った際のAntigravityの画面です。左にタスク一覧があり、真ん中がチャット欄、右がAIのアクションを表示する「メッセージボード」になっています。今までにない構成じゃないでしょうか？
+ここからがすごくて、器官には触れられるようになっています。各部を押すと鳴き声が変わり、どの器官がどのように影響するかを体験できるようにもなっています。これが7種ぜんぶについて可能で、比較できるようにもなっています。
 
-Image: Google
+発想からしてすごいですね。
 
-拡大しながら/swamがどう使うものかを見ていきましょう。
+> Our strongest frontier model, Gemini 4 Carbon, is now available. Built for deeply complex, long-horizon workflows that push a frontier model’s intelligence, Carbon delivers frontier performance in agentic workflows across complex knowledge work, software engineering and web development, cybersecurity, and scientific reasoning. While Gemini 4 Argon remains the ideal model for the majority of software engineering and knowledge work, Carbon steps in for your hardest tasks that push a model to its limits — from complex, multi-step debugging to open-ended scientific research. Available starting today: — Consumers: use it in the @GeminiApp and AI Mode in Search for Google AI Ultra subscribers — Developers and Enterprises: build via the API in @GoogleAIStudio and @AndroidStudio, Google @Antigravity for Google AI Ultra subscribers, and Gemini for business — Scientists and Researchers: apply for a chance to get 6 months free via @Antigravity — Cybersecurity Defenders: apply to join the Fairwind Program for access to Carbon for cyber Watch how Carbon brings reasoning and coding together, turning avian research into an interactive 3D simulation of a songbird’s vocal organ that synthesizes the sounds of six bird species live.
+>
+> — Google AI (@GoogleAI) November 10, 2026
 
-まず、チャット欄に/swarmと打ち込み、機能をオンにします。
+### エッフェル塔はこの順番で建てられた。「実在の資料に基づいた映像化」が可能
 
-Image: Google
+一発目からおもしろい例でしたが、こちらもすごくインパクトがあります。
 
-プロンプトを書いて送信すると、チャットが始まり、何体かのエージェントが起動したと表示されます。
+フランスを代表する建造物エッフェル塔は1887年から1889年にかけて建設されました。建設がどのように行われたかは写真などで記録されているんだそうです。
 
-Image: Google
+Googleが目をつけたのはここ。それらの資料をCarbonに与え、エッフェル塔が下から順番に組上げられていく様子を3D映像化したのです。
 
-この場合は次のような役回りのエージェントが起動したことがわかります。
+Antigravityに追加された強力なエージェント機能「/swarm」も活用されており、無数のエージェントが写真から3Dでパーツを作成、記録通りに3D空間に配置していく様子が見れます。Carbonの空間推論と統括能力を示す例となっています。
 
-*   spawned 2 workers：作業担当のエージェントを2体起動（モデルはArgon）
-*   Spawned worker @verifier：チェック役のエージェントを起動（モデルはCarbon）
+### 3Dゲームも制作。ペリカンがチャリでGoogleのキャンパスを爆走
 
-いちばん下には Posted #1 to board というメッセージもありますね。実はこれもこの機能の大きな特徴になっています。
+当然ながら3Dゲームも作れまして、その作例がこの「Pelican Quest」。
 
-boardはAI同士の連絡掲示版みたいなものです。エージェント名がまずあり、次いでそのエージェントが作業をパスした先とその内容が表示されています。
+Nano BananaやGemini Omniなどを用いてBlenderで3D素材を生成、それらを組み合わせてブラウザで動く3Dゲームとして完成させています。効果音などもちゃんとあり、BGMもLyriaで生成。サブエージェントも使って組上げたそうです。
 
-Image: Google
+こういった多数の要素を統合するようなタスクでもCarbonはいけますよ、という例になっています。
 
-この例の場合は、@coordinatorという作業全体を監督するエージェントがまずいます（中身はCarbonです）。それが先ほど起動した2体のworkerに作業を依頼しています。これが1行目の内容です。
+こちらのページに他にも作例が紹介されているので、もっと見たい人は見てみてください。一部はAI Studioで実際に遊んだり動作させることもできますよ。
 
-@cordinatorは2行目で、@verifierにも作業を依頼していますね。
+Source: Google (1, 2)
 
-3行目と4行目はworkerの作業完了報告です。どちらも@verifierに飛ばしていて、自分の作業結果をチェック役に渡しています。
-
-人間が入力したのは1回だけなのに、AIたちが作業を適宜区分して並行して処理、その後のチェックまで進めているという例になっています。人間の仕事はAIたちが問題なくやっているかを眺めることでしょうか？
-
-### 複数のAIを使いつつ、状況も確認しやすい
-
-複数のエージェントを一気に起動する機能はClaude CodeやCodexにもありますが、この/swarmはUIがいいと思います。
-
-board画面は切り替えることができ、エージェントたちがどういう風に連絡を取り合いながら作業をしているかを関係図として表示することもできます。高度なタスクを多数のエージェントで処理するようなときに効くんじゃないかと。
-
-Image: Google
-
-/swarm はすごくいい機能に見えます。今や個人でも複数のエージェントを同時並行で動かすのは珍しくなくなっていると思いますから。
-
-Source: Google
-
-2026年11月11日12:00追記：@coordinatorのモデルを明記しました。
+2026年11月11日11:48更新：空間推論・エージェント能力に関連した作例について加筆しました。
 
 Advertisement
 
@@ -85,11 +79,11 @@ Monthly
 
 Amazon
 
-1. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 113,1342. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,4513. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 37,5844. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 26,3445. タランチュラ3000匹を靴下に入れて密輸しようとした研究者、捕まる Nov 9,2026 19:30 24,833
+1. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 112,0442. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,3703. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 37,3834. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 26,1405. タランチュラ3000匹を靴下に入れて密輸しようとした研究者、捕まる Nov 9,2026 19:30 24,828
 
-1. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 128,0382. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 130,3703. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 113,1344. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,4515. 夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし Nov 8,2026 20:00 56,714
+1. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 127,9782. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 130,3523. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 112,0444. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,3705. 夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし Nov 8,2026 20:00 56,707
 
-1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,2632. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,7433. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 130,3704. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 128,0385. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 121,814
+1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,2632. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,7413. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 130,3524. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 127,9785. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 121,803
 
 PR
 
@@ -107,22 +101,6 @@ Monthly
 
 Amazon
 
-1. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 113,1342. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,4513. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 37,5844. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 26,3445. タランチュラ3000匹を靴下に入れて密輸しようとした研究者、捕まる Nov 9,2026 19:30 24,833
+1. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 112,0442. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,3703. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 37,3834. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 26,1405. タランチュラ3000匹を靴下に入れて密輸しようとした研究者、捕まる Nov 9,2026 19:30 24,828
 
-1. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 128,0382. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 130,3703. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 113,1344. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 83,4515. 夏に太陽光で作った電気を「鉄の粉」で蓄えておこう！ そしたら冬に使えるし Nov 8,2026 20:00 56,714
-
-1. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,2632. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 132,7433. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 130,3704. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 128,0385. 結局“PHP騒動”って、何があったの？ そもそもPHPとは、何がヤバいのか、どうなったのか解説 Oct 22,2026 16:15 121,814
-
-PR
-
-## Review
-
-## Sale
-
-© 2026 Mediagene Inc.
-
-運営会社媒体資料のお問い合わせ
-
-プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
-
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
+1. G
