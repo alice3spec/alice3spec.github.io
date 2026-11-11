@@ -1,30 +1,68 @@
-AIエージェント、手首にも登場。Metaの「Muse」がApple Watchに対応です
+爆発したのに何度も復活。113日ごとに超新星のように光る星、いったい何が起きている？
 
-Nov 11,2026 21:00
+Nov 11,2026 21:30
 
-ヤマダユウス型 ( GIZMODOライター )
+Image: NASA/CXC/Univ. of Virginia/M. Aghakhanloo et al.
 
-Image: MacRumors
+爆発したと思ったら、また復活。しかも、それを何度も繰り返す星があるんです。
 
-ちょっとしたマスコット感覚。
+約113日ごとに超新星爆発のように光り、しばらくすると元に戻る。そんな不思議な星を調べていたNASA（アメリカ航空宇宙局）が11月9日、謎を解く手がかりを発表しました。
 
-便利だけどやりすぎ案件も散見されている、Meta産のAIエージェントMuse。先日正式に、Apple Watchに対応しました。Wear OS版もリリース済み。
+どうやら、この星の近くを回る別の天体が、奇妙な明るさの変化を引き起こしているようです。
 
-> Works around the clock, and now on your wrist. Muse is now on Apple Watch and Wear OS ⌚️ https://t.co/97QRap5XKz
->
-> — Muse (@Muse) November 9, 2026
+## 14年間で少なくとも27回も「爆発」
 
-Apple Watch用のアプリが加わり、文字盤のコンプリケーションからワンタップで起動できます。起動するとMuseのアバターが表示され、テキストや音声で指示が可能。返事も時計の画面にて確認できますし、電話をかけることも。
+この星の名前は「AT 2016blu」。地球から約3000万光年離れた銀河「NGC 4559」にあり、太陽の33倍もの質量を持つ巨大な星です。
 
-利用条件は、iPhoneのMuseアプリをバージョン15.0にアップデートするだけ。Apple Watch側はwatchOS 9以降に対応しています。日本でも利用可能ですので、早速お試しを。
+2012年から2026年6月までに少なくとも27回、急激に明るくなる現象が観測されました。その間隔はおよそ113日。年に3回ほどのペースです。
 
-> I set it up so I can ask Muse to do tasks by voice from my Apple Watch! Kind of like Muse Charm! https://t.co/oR6ElUeaE4
->
-> — mouri45ᯅ (@mouri45) November 8, 2026
+明るくなる前のAT 2016blu
 
-「明日の会議と歯医者がかぶってるから調整して」「この映画のチケット探して」のようなエージェントらしい操作が、手首からできるようになりました。ウェアラブルにエージェントが入ると、いよいよAIらしく感じますね。
+Image: NSF/KAIT
 
-Source: X, MacRumors
+11日後、AT 2016bluが明るく光っている様子
+
+Image: NSF/KAIT
+
+しかも、明るくなるときの様子は超新星爆発にそっくり。
+
+超新星爆発といえば、重い星が一生を終えるときなどに起こる大爆発です。いったん爆発すれば、元の星に戻ることはありません。
+
+ところが、AT 2016bluは明るくなったあと、また元の明るさに戻ります。そして、しばらくすると再び明るくなるのです。
+
+実際に超新星爆発を起こしているわけではないため、こうした現象は「超新星もどき（supernova impostor）」と呼ばれています。
+
+では、なぜ何度も爆発したように光るのでしょうか。
+
+## 隣にいるのはブラックホール？
+
+研究チームが手がかりにしたのは、宇宙から届くX線でした。
+
+2026年3月、NASAのチャンドラX線観測衛星を使って、AT 2016bluが明るくなるタイミングを狙って観測したところ、強いX線が確認されたのです。
+
+2001〜2002年の観測ではX線は検出されておらず、今回確認された明るさは、当時の観測で検出できたはずの明るさの少なくとも100倍だったといいます。
+
+過去のX線観測では、AT 2016bluからX線は検出されませんでした
+
+Image: NASA/CXC/Univ. of Virginia/M. Aghakhanloo et al.
+
+2026年3月には、矢印の先にあるAT 2016bluから強いX線が確認されました
+
+Image: NASA/CXC/Univ. of Virginia/M. Aghakhanloo et al.
+
+研究チームが考えているのは、AT 2016bluのそばをブラックホールか中性子星が回っているという説。
+
+2つの天体は細長い楕円形の軌道を描いていて、約113日ごとに接近。その際、ブラックホールか中性子星が、AT 2016bluから放出された物質を取り込んでいると考えられています。
+
+取り込まれた物質は猛烈な速さで回転しながら熱くなり、強いX線を放ちます。そして、そのX線によって周囲のガスが熱せられ、目に見える光を放つという仕組みです。
+
+これなら、星が約113日ごとに明るくなる理由も説明できます。
+
+研究チームによると、こうした高光度青色変光星による「超新星もどき」でX線が検出されたのは今回が初めて。星が本当に超新星爆発を起こす前に見せる、明るさの変化を理解する手がかりにもなりそうです。
+
+ただ、隣にいるのがブラックホールなのか、それとも中性子星なのか。今回の観測でも、そこまではわからなかったそうです。
+
+Source: NASA, The Astrophysical Journal
 
 Advertisement
 
@@ -32,7 +70,7 @@ Advertisement
 
 Advertisement
 
-# NEO DIY# NEOヘルスケア# iPhone Duo# ギズマート# 20 YEARS OF GIZMODO JAPAN
+#NEO DIY#NEOヘルスケア#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
 ### Ranking
 
@@ -54,7 +92,7 @@ PR
 
 ## Latest
 
-# NEO DIY# NEOヘルスケア# iPhone Duo# ギズマート# 20 YEARS OF GIZMODO JAPAN
+#NEO DIY#NEOヘルスケア#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
 ### Ranking
 
