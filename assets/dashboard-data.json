@@ -1,16 +1,21 @@
 {
-  "updated": "2026-11-11T19:28:23.492952+09:00",
+  "updated": "2026-11-11T19:33:23.730406+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
-        "date": "2026-11-10T22:30:24+00:00"
-      },
       {
         "title": "１０日の東京株式市場見通し＝日経平均６万円回復へ、ＴＳＭＣ月次売上を注視(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEJIMDczb1NwNXIzZGkybEJIRE9ocE5MaG9Cekd2RDFRNWl4WkU1WjF0bDhrLWlIcW1fZXFIbkRPcGNyUmpZaGpqY0tzOW90amhxTEItdnhGanJvdjQ0X1dNRGk2RUo0THp6Q21meUtZQWlwR3NHTl9ZQnY3NFFGNmdNaXl5b0k?oc=5",
         "date": "2026-11-09T22:48:16+00:00"
+      },
+      {
+        "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
+        "date": "2026-11-08T22:30:00+00:00"
+      },
+      {
+        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
+        "date": "2026-11-10T22:30:24+00:00"
       },
       {
         "title": "日経平均VIは低下、株価上昇ピッチの速さへの警戒感も(フィスコ) - Yahoo!ファイナンス",
@@ -20,8 +25,7 @@
       {
         "title": "日本マクドナルドHDの株価、上場来高値（11日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMHVsVXNfam9kNUYtSHMzZGlXU2Vmd3E4MkFHVE9GVmNuYVY5dXdvaTBFcm5HVUhya3JfZkJyYzMwQnpuOE5zZWx4bHNmNTI0UmJNZUtRYVI4TkZINGZCOHg4WUYyeTYyTk91ag?oc=5",
-        "date": "2026-11-11T07:30:00+00:00",
-        "body": "a03.txt"
+        "date": "2026-11-11T07:30:00+00:00"
       },
       {
         "title": "（朝）米国市場は3指数揃って下落　インフレが根強いことが示されたことで国債利回りが上昇し株式市場は売り優勢の展開 - マネクリ",
@@ -46,24 +50,17 @@
       {
         "title": "日経平均株価「次の最高値は2年後」の衝撃 AIブームの反動大きく - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tUU9ZQU5MY2w3SmxDalB0aGttd256cGd3LXdacG5TWFlXY2lscnBWTWx3WjhMdkxXVS1mWlRjQl9CNFZGdkxwSzNtdGYweWsxZTRfeXpQbFkybHlNM24yMWZEX1dYQzQ5ODJjYQ?oc=5",
-        "date": "2026-11-10T23:22:30+00:00",
-        "body": "a08.txt"
+        "date": "2026-11-10T23:22:30+00:00"
       },
       {
         "title": "日経平均は３日続伸、一時６万１０００円台に乗せる＝１１日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThqSU9EYVVtZXFaenBWMU9mT2lwX2Zfc21PVkdRYlZVaUEzMkJTQjNfalhST2ZDenBTVXV5YjFBWldiNEotVTdhY21XeS1kdjRTcmlVeHpGSjNfNGFNVzF3cDVyejMtX0lwRWJLUUdNRlRHRGFyTFlzQnRuMFpPUk5pUlpVZm8?oc=5",
-        "date": "2026-11-11T02:51:09+00:00",
-        "body": "a09.txt"
+        "date": "2026-11-11T02:51:09+00:00"
       },
       {
         "title": "ニチレイの株価が急伸 26年12月期の純利益を上方修正 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zN3dGWFM4eWpKQ195UVhldzgzNlhpUTRfVUZ0anRzeXBleGNmcnh3TzFRY1YwcklaNTBEeW4xMHM0R2ZmaXlCZXhHRGl0ZXZUeWdLdWxOUzRISldxOEJESW5ZT1dkNGxjNms3RQ?oc=5",
         "date": "2026-11-11T05:33:22+00:00"
-      },
-      {
-        "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
-        "date": "2026-11-08T22:30:00+00:00"
       }
     ],
     "ai": [
@@ -223,7 +220,8 @@
       {
         "title": "乾燥が気になる冬に。デロンギのオイルヒーターが15％オフ【Amazonセール】",
         "link": "https://www.gizmodo.jp/article/2611-delonghi-oil-heater-amazon-sale/",
-        "date": "2026-11-11T09:00:00+00:00"
+        "date": "2026-11-11T09:00:00+00:00",
+        "body": "a37.txt"
       },
       {
         "title": "スマホの裏に貼れちゃう。カードサイズの電子書籍リーダー「BOOX Picco」日本発売",
@@ -269,7 +267,8 @@
       {
         "title": "Anthoropic、IPO内容公開。1株1万2000円前後予想、早ければ来週にも上場",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
-        "date": "2026-11-11T02:55:00+00:00"
+        "date": "2026-11-11T02:55:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "サンタさん、ぼくダウンロードでいいよ！ SwitchのDL版ソフトを送れる「プレゼント」機能追加",
@@ -341,11 +340,6 @@
     "min": 10.8,
     "hours": [
       {
-        "time": "2026-11-11T18:00",
-        "temp": 14.7,
-        "code": 0
-      },
-      {
         "time": "2026-11-11T19:00",
         "temp": 14.7,
         "code": 1
@@ -364,83 +358,88 @@
         "time": "2026-11-11T22:00",
         "temp": 14.7,
         "code": 2
+      },
+      {
+        "time": "2026-11-11T23:00",
+        "temp": 14.4,
+        "code": 1
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-11T18:00",
+        "time": "2026-11-11T19:00",
         "temp": 14.7,
-        "code": 0,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-11T21:00",
-        "temp": 14.8,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-12T00:00",
-        "temp": 14.4,
-        "code": 1,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-12T03:00",
-        "temp": 14.3,
+        "time": "2026-11-11T22:00",
+        "temp": 14.7,
         "code": 2,
         "mm": 0.0
       },
       {
-        "time": "2026-11-12T06:00",
-        "temp": 12.5,
+        "time": "2026-11-12T01:00",
+        "temp": 14.5,
+        "code": 2,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-12T04:00",
+        "temp": 13.7,
+        "code": 2,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-12T07:00",
+        "temp": 12.0,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-12T09:00",
-        "temp": 13.1,
+        "time": "2026-11-12T10:00",
+        "temp": 14.2,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-12T12:00",
-        "temp": 16.3,
+        "time": "2026-11-12T13:00",
+        "temp": 16.9,
         "code": 0,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-11T18:00",
+        "time": "2026-11-11T19:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T21:00",
+        "time": "2026-11-11T22:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T00:00",
+        "time": "2026-11-12T01:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T03:00",
+        "time": "2026-11-12T04:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T06:00",
+        "time": "2026-11-12T07:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T09:00",
+        "time": "2026-11-12T10:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T12:00",
+        "time": "2026-11-12T13:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T15:00",
+        "time": "2026-11-12T16:00",
         "pop": 0
       }
     ],
@@ -452,7 +451,7 @@
     "rain": null
   },
   "index": {
-    "price": 61565.0,
+    "price": 61590.0,
     "prev": 60200.0,
     "points": [
       [
@@ -1395,22 +1394,29 @@
       ],
       [
         "11/11 19:15",
-        61565.0,
+        61560.0,
         61575.0,
         61575.0,
         61555.0
       ],
       [
-        "11/11 19:17",
-        61565.0,
-        61565.0,
-        61565.0,
-        61565.0
+        "11/11 19:20",
+        61595.0,
+        61555.0,
+        61600.0,
+        61555.0
+      ],
+      [
+        "11/11 19:23",
+        61590.0,
+        61590.0,
+        61590.0,
+        61590.0
       ]
     ]
   },
   "fx": {
-    "price": 158.97,
+    "price": 158.976,
     "prev": 158.765
   },
   "topix": {
