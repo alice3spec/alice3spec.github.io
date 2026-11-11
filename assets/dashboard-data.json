@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:43:26.456091+09:00",
+  "updated": "2026-11-11T12:48:36.331774+09:00",
   "feeds": {
     "kabu": [
       {
@@ -23,10 +23,9 @@
         "date": "2026-11-10T23:00:00+00:00"
       },
       {
-        "title": "日経平均、600円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUllITFdfNWlTZGVtd0R6NWpDTnVuLWhqNzh4ZHE5LU1GVmRQOEEyOHZCcXowTkttV1pSR2JXYWpTYzcwSWtyMW5Yc21wSXNmNng4OThVOEZqM3gtVFZIQnJReUg1T0djRzZmLWltWVB1T0NSOHlCUERvOE1yWjN4N296dDdvM3M?oc=5",
-        "date": "2026-11-11T01:33:04+00:00",
-        "body": "a04.txt"
+        "title": "日経平均、700円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPem9zREV5ekpCY2JGM2tmQmdrbUQ2VzAweUdPaEdZTkhneFN4U2hMbjMydGRRVVluS2d5bnZtWUxsUV9NT1VYblFqd1NIRGhXSDlQU0lwWmNsbUtUUHAwTjAzTzd4bWVNQ05FWEczQlVZWGJpQmZwNXE1OTA1cXF6ZERaVXdFWWM?oc=5",
+        "date": "2026-11-11T01:34:34+00:00"
       },
       {
         "title": "日経平均株価「次の最高値は2年後」の衝撃 AIブームの反動大きく - 日本経済新聞",
@@ -60,9 +59,9 @@
         "date": "2026-11-10T22:47:05+00:00"
       },
       {
-        "title": "日本マクドナルドHD株価が上場来高値 26年12月期純利益8%増 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmM3FiQlVxdWRNc0xhMGJvcWM5ekpwXzl0QWNtOGZsY0htOW5WbE5kM1dETE9VLU1yZmRReFRiMkRYUUJMRXpJdGtGZEd4bm81dWZUb0o1RnJFaldHQWxLOHNLQnBOdm1OaFBJTg?oc=5",
-        "date": "2026-11-11T02:11:25+00:00"
+        "title": "オムロンの株価一時11%安 27年3月期純利益、市場予想に届かず - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IZV9RdjVuVFdWOUpKU2JKSExCaGpCaDB4OGJFQkpfOWo1M3pDWXlKbUx2aldyNkdUMU4tSTBIdVYtWGc2eFRBOG5uemZxQVZKS3ZDQWFYeXJqTFlrLXFQVVY1Yjk2VlRLTzNrTQ?oc=5",
+        "date": "2026-11-11T02:11:46+00:00"
       }
     ],
     "ai": [
@@ -111,7 +110,8 @@
       {
         "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
-        "date": "2026-11-10T22:30:00+00:00"
+        "date": "2026-11-10T22:30:00+00:00",
+        "body": "a19.txt"
       },
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
@@ -183,7 +183,8 @@
       {
         "title": "GMOあおぞらネット銀、「不正な通信」検知でAPI一時停止　「予防的な措置」",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003087/",
-        "date": "2026-11-11T00:18:27+00:00"
+        "date": "2026-11-11T00:18:27+00:00",
+        "body": "a31.txt"
       },
       {
         "title": "Anthropic、IPOの仮条件を1株70?78ドルに　調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
@@ -261,7 +262,8 @@
       {
         "title": "子ども向けの検査、もうぜんぶ飴型でよくない？",
         "link": "https://www.gizmodo.jp/article/lollylab-lollipop-saliva-sensor/",
-        "date": "2026-11-11T01:00:00+00:00"
+        "date": "2026-11-11T01:00:00+00:00",
+        "body": "a44.txt"
       },
       {
         "title": "世界でのスマホ売上UPも販売台数は減少。第3四半期はAppleが売上50％をしめる",
@@ -277,7 +279,8 @@
       {
         "title": "GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる",
         "link": "https://www.gizmodo.jp/article/2611-google-antigravity-swarm/",
-        "date": "2026-11-10T18:30:00+00:00"
+        "date": "2026-11-10T18:30:00+00:00",
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
@@ -317,10 +320,9 @@
         "body": "a53.txt"
       },
       {
-        "title": "メールの不適切な「CC」境界線は",
-        "link": "https://news.yahoo.co.jp/pickup/6602146?source=rss",
-        "date": "2026-11-11T03:02:49+00:00",
-        "body": "a54.txt"
+        "title": "二岡智宏氏 巨人打撃コーチ就任へ",
+        "link": "https://news.yahoo.co.jp/pickup/6602162?source=rss",
+        "date": "2026-11-11T03:42:39+00:00"
       },
       {
         "title": "ふぉ～ゆ～ 下半身パンツ姿で会見",
@@ -331,7 +333,7 @@
     ]
   },
   "weather": {
-    "temp": 13.2,
+    "temp": 13.3,
     "code": 0,
     "max": 14.5,
     "min": 10.8,
@@ -448,7 +450,7 @@
     "rain": null
   },
   "index": {
-    "price": 61350.0,
+    "price": 61345.0,
     "prev": 60200.0,
     "points": [
       [
@@ -824,22 +826,29 @@
       ],
       [
         "11/11 12:30",
-        61365.0,
+        61360.0,
         61230.0,
         61390.0,
         61230.0
       ],
       [
-        "11/11 12:33",
-        61350.0,
-        61350.0,
-        61350.0,
-        61350.0
+        "11/11 12:35",
+        61335.0,
+        61335.0,
+        61345.0,
+        61285.0
+      ],
+      [
+        "11/11 12:38",
+        61345.0,
+        61345.0,
+        61345.0,
+        61345.0
       ]
     ]
   },
   "fx": {
-    "price": 158.8645,
+    "price": 158.8695,
     "prev": 158.765
   },
   "topix": {
