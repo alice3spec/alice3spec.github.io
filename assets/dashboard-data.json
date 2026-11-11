@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-11T11:28:26.373345+09:00",
+  "updated": "2026-11-11T11:33:26.073057+09:00",
   "feeds": {
     "kabu": [
       {
         "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
         "date": "2026-11-10T22:30:24+00:00"
+      },
+      {
+        "title": "１０日の東京株式市場見通し＝日経平均６万円回復へ、ＴＳＭＣ月次売上を注視(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEJIMDczb1NwNXIzZGkybEJIRE9ocE5MaG9Cekd2RDFRNWl4WkU1WjF0bDhrLWlIcW1fZXFIbkRPcGNyUmpZaGpqY0tzOW90amhxTEItdnhGanJvdjQ0X1dNRGk2RUo0THp6Q21meUtZQWlwR3NHTl9ZQnY3NFFGNmdNaXl5b0k?oc=5",
+        "date": "2026-11-09T22:48:16+00:00"
       },
       {
         "title": "１１日の株式相場見通し＝反落、米株安受け売り優勢で６万円割れも - 株探",
@@ -43,19 +48,14 @@
         "date": "2026-11-10T22:47:05+00:00"
       },
       {
-        "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
-        "date": "2026-11-08T22:30:00+00:00"
-      },
-      {
-        "title": "１０日の東京株式市場見通し＝日経平均６万円回復へ、ＴＳＭＣ月次売上を注視(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEJIMDczb1NwNXIzZGkybEJIRE9ocE5MaG9Cekd2RDFRNWl4WkU1WjF0bDhrLWlIcW1fZXFIbkRPcGNyUmpZaGpqY0tzOW90amhxTEItdnhGanJvdjQ0X1dNRGk2RUo0THp6Q21meUtZQWlwR3NHTl9ZQnY3NFFGNmdNaXl5b0k?oc=5",
-        "date": "2026-11-09T22:48:16+00:00"
-      },
-      {
         "title": "ソフトバンクG株価、一時10.5%安 4〜9月最終赤字 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qTEh0eEpnRFJzY2drbTNLSHhXMTJMVWdlTV9WTHZzLXNHWGs2TUVFTzlPWmdGMGFiZWdoOEdPamJpVkxRZjB4aHZDajB4QzVidzNfYmdVSVhCYVl4UWVpRHpCTW43akRkYlJYVg?oc=5",
         "date": "2026-11-11T01:29:06+00:00"
+      },
+      {
+        "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
+        "date": "2026-11-08T22:30:00+00:00"
       },
       {
         "title": "日経平均、65円72銭高の6万0525円30銭で始まる＝東京株式前場(時事通信) - Yahoo!ファイナンス",
@@ -85,7 +85,8 @@
       {
         "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
-        "date": "2026-11-11T00:00:00+00:00"
+        "date": "2026-11-11T00:00:00+00:00",
+        "body": "a15.txt"
       },
       {
         "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
@@ -334,7 +335,7 @@
     ]
   },
   "weather": {
-    "temp": 12.8,
+    "temp": 12.9,
     "code": 0,
     "max": 14.5,
     "min": 10.8,
@@ -451,14 +452,21 @@
     "rain": null
   },
   "index": {
-    "price": 60990.0,
+    "price": 61020.0,
     "prev": 60200.0,
     "points": [
       [
+        "11/11 08:00",
+        60190.0,
+        60190.0,
+        60190.0,
+        60190.0
+      ],
+      [
         "11/11 08:05",
         60120.0,
-        60130.0,
-        60130.0,
+        60120.0,
+        60120.0,
         60120.0
       ],
       [
@@ -471,7 +479,7 @@
       [
         "11/11 08:15",
         60235.0,
-        60215.0,
+        60210.0,
         60240.0,
         60190.0
       ],
@@ -499,7 +507,7 @@
       [
         "11/11 08:35",
         60355.0,
-        60290.0,
+        60285.0,
         60355.0,
         60280.0
       ],
@@ -534,7 +542,7 @@
       [
         "11/11 09:00",
         60630.0,
-        60375.0,
+        60355.0,
         60635.0,
         60350.0
       ],
@@ -722,22 +730,29 @@
       ],
       [
         "11/11 11:15",
-        60990.0,
+        61005.0,
         60965.0,
-        60990.0,
+        61005.0,
         60965.0
       ],
       [
-        "11/11 11:17",
-        60990.0,
-        60990.0,
-        60990.0,
-        60990.0
+        "11/11 11:20",
+        61010.0,
+        61010.0,
+        61030.0,
+        60975.0
+      ],
+      [
+        "11/11 11:23",
+        61020.0,
+        61020.0,
+        61020.0,
+        61020.0
       ]
     ]
   },
   "fx": {
-    "price": 158.833,
+    "price": 158.831,
     "prev": 158.765
   },
   "topix": {
