@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T08:23:43.653733+09:00",
+  "updated": "2026-11-12T08:28:14.450494+09:00",
   "feeds": {
     "kabu": [
       {
@@ -16,7 +16,7 @@
       {
         "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-11T17:39:41+00:00"
+        "date": "2026-11-11T20:41:18+00:00"
       },
       {
         "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
@@ -59,9 +59,9 @@
         "date": "2026-11-10T00:07:08+00:00"
       },
       {
-        "title": "日経平均株価、3日続伸 終値789円高の6万1248円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lY082ZXZjWEYtcF85SkhkSkVLM3FfbDVlc0ZhZ1UzUFo1VlBxV1U1bUwxQXFSbnVmZDVCazhaUGhuVTVwNS1tN21qU2FYSzBKTWdPam1STG9ySkZEd2UyRkpjWHVUT2xINFdUVA?oc=5",
-        "date": "2026-11-11T00:10:38+00:00"
+        "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
+        "date": "2026-11-09T00:06:22+00:00"
       }
     ],
     "ai": [
@@ -246,7 +246,8 @@
       {
         "title": "爆発したのに何度も復活。113日ごとに超新星のように光る星、いったい何が起きている？",
         "link": "https://www.gizmodo.jp/article/2611-at-2016blu-supernova-impostor/",
-        "date": "2026-11-11T12:30:00+00:00"
+        "date": "2026-11-11T12:30:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "AIエージェント、手首にも登場。Metaの「Muse」がApple Watchに対応です",
@@ -299,21 +300,21 @@
         "body": "a49.txt"
       },
       {
+        "title": "福山市で住宅が全焼 3人不明",
+        "link": "https://news.yahoo.co.jp/pickup/6602249?source=rss",
+        "date": "2026-11-11T23:17:19+00:00",
+        "body": "a50.txt"
+      },
+      {
         "title": "厚労省 残業タクシー「半減」",
         "link": "https://news.yahoo.co.jp/pickup/6602242?source=rss",
         "date": "2026-11-11T22:26:36+00:00",
-        "body": "a50.txt"
+        "body": "a51.txt"
       },
       {
         "title": "月収5万円 受診遅れ死亡した男性",
         "link": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
         "date": "2026-11-11T12:30:08+00:00",
-        "body": "a51.txt"
-      },
-      {
-        "title": "マック 休止中の新チキン開発経緯",
-        "link": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
-        "date": "2026-11-11T21:42:27+00:00",
         "body": "a52.txt"
       },
       {
@@ -454,7 +455,7 @@
     "rain": null
   },
   "index": {
-    "price": 61525.0,
+    "price": 61505.0,
     "prev": 60200.0,
     "points": [
       [
@@ -2391,22 +2392,29 @@
       ],
       [
         "11/12 08:10",
-        61500.0,
+        61495.0,
         61580.0,
         61595.0,
         61490.0
       ],
       [
-        "11/12 08:13",
-        61525.0,
-        61525.0,
-        61525.0,
-        61525.0
+        "11/12 08:15",
+        61485.0,
+        61490.0,
+        61565.0,
+        61450.0
+      ],
+      [
+        "11/12 08:18",
+        61505.0,
+        61505.0,
+        61505.0,
+        61505.0
       ]
     ]
   },
   "fx": {
-    "price": 159.658,
+    "price": 159.643,
     "prev": 159.8065
   },
   "topix": {
