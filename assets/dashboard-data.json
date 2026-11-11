@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:58:20.527926+09:00",
+  "updated": "2026-11-11T17:03:29.716927+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,76 +213,66 @@
     ],
     "gadget": [
       {
+        "title": "スマホの裏に貼れちゃう。カードサイズの電子書籍リーダー「BOOX Picco」日本発売",
+        "link": "https://www.gizmodo.jp/article/boox-picco/",
+        "date": "2026-11-11T08:00:00+00:00"
+      },
+      {
         "title": "Windows 11の「ペイント」に脆弱性。まずはアップデートの確認を",
         "link": "https://www.gizmodo.jp/article/2611-windows11-paint-vulnerability/",
         "date": "2026-11-11T06:35:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "Apple、iOS 28とmacOS 28の開発プロセスを変更するかも。新機能開発に注力か",
         "link": "https://www.gizmodo.jp/article/2611-apple-ios28-macos28-development-process/",
-        "date": "2026-11-11T06:00:00+00:00",
-        "body": "a37.txt"
+        "date": "2026-11-11T06:00:00+00:00"
       },
       {
         "title": "知っている相手からのGoogleカレンダー招待。ログインしたらアカウント乗っ取られるかも",
         "link": "https://www.gizmodo.jp/article/google-calendar_invite_account_takeover/",
-        "date": "2026-11-11T04:00:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-11T04:00:00+00:00"
       },
       {
         "title": "Googleのブラックフライデーは20日から。Pixel 11プレミアム機種が実質最大14万5000円お得！",
         "link": "https://www.gizmodo.jp/article/2611-google-black-friday-pixel-sale/",
-        "date": "2026-11-11T03:30:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-11T03:30:00+00:00"
       },
       {
         "title": "LINEのあの顔。AIエージェント「Agent i」が単独アプリになりました",
         "link": "https://www.gizmodo.jp/article/2611-line-agent-i-app/",
-        "date": "2026-11-11T03:15:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-11T03:15:00+00:00"
       },
       {
         "title": "AppleのターナスCEO、AI開発に慎重すぎるフェデリギ上級副社長に「もっとがんばれよ」と圧をかける",
         "link": "https://www.gizmodo.jp/article/apples-new-ceo-is-reportedly-pushing-to-stuff-more-ai-into-iphones/",
-        "date": "2026-11-11T03:00:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-11T03:00:00+00:00"
       },
       {
         "title": "Anthoropic、IPO内容公開。1株1万2000円前後予想、早ければ来週にも上場",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
-        "date": "2026-11-11T02:55:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-11T02:55:00+00:00"
       },
       {
         "title": "サンタさん、ぼくダウンロードでいいよ！ SwitchのDL版ソフトを送れる「プレゼント」機能追加",
         "link": "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
-        "date": "2026-11-11T02:45:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-11T02:45:00+00:00"
       },
       {
         "title": "モンベルの小さな“測り”ひとつで、旅行や出張の不安が解消されました",
         "link": "https://www.gizmodo.jp/article/mont-bell-handy-scale-5hef/",
-        "date": "2026-11-11T02:35:00+00:00",
-        "body": "a44.txt"
+        "date": "2026-11-11T02:35:00+00:00"
       },
       {
         "title": "このキーボード、遺跡から発掘されたん？",
         "link": "https://www.gizmodo.jp/article/2611-keychron-q19-he-8k-review/",
         "date": "2026-11-11T02:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/",
-        "date": "2026-11-11T01:30:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "子ども向けの検査、もうぜんぶ飴型でよくない？",
-        "link": "https://www.gizmodo.jp/article/lollylab-lollipop-saliva-sensor/",
-        "date": "2026-11-11T01:00:00+00:00",
-        "body": "a47.txt"
+        "date": "2026-11-11T01:30:00+00:00"
       }
     ],
     "yahoo": [
@@ -343,11 +333,6 @@
     "min": 10.8,
     "hours": [
       {
-        "time": "2026-11-11T16:00",
-        "temp": 14.6,
-        "code": 0
-      },
-      {
         "time": "2026-11-11T17:00",
         "temp": 14.5,
         "code": 0
@@ -366,83 +351,88 @@
         "time": "2026-11-11T20:00",
         "temp": 14.7,
         "code": 1
+      },
+      {
+        "time": "2026-11-11T21:00",
+        "temp": 14.8,
+        "code": 1
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-11T16:00",
-        "temp": 14.6,
+        "time": "2026-11-11T17:00",
+        "temp": 14.5,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T19:00",
+        "time": "2026-11-11T20:00",
         "temp": 14.7,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T22:00",
-        "temp": 14.7,
-        "code": 2,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-12T01:00",
-        "temp": 14.5,
-        "code": 2,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-12T04:00",
-        "temp": 13.7,
-        "code": 2,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-12T07:00",
-        "temp": 12.0,
+        "time": "2026-11-11T23:00",
+        "temp": 14.4,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-12T10:00",
-        "temp": 14.2,
+        "time": "2026-11-12T02:00",
+        "temp": 14.4,
+        "code": 2,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-12T05:00",
+        "temp": 12.9,
+        "code": 2,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-12T08:00",
+        "temp": 12.2,
+        "code": 1,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-12T11:00",
+        "temp": 15.3,
         "code": 0,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-11T16:00",
+        "time": "2026-11-11T17:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T19:00",
+        "time": "2026-11-11T20:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T22:00",
+        "time": "2026-11-11T23:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T01:00",
+        "time": "2026-11-12T02:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T04:00",
+        "time": "2026-11-12T05:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T07:00",
+        "time": "2026-11-12T08:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T10:00",
+        "time": "2026-11-12T11:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T13:00",
+        "time": "2026-11-12T14:00",
         "pop": 0
       }
     ],
@@ -454,7 +444,7 @@
     "rain": null
   },
   "index": {
-    "price": 61310.0,
+    "price": 61305.0,
     "prev": 60200.0,
     "points": [
       [
@@ -1159,22 +1149,29 @@
       ],
       [
         "11/11 16:45",
-        61325.0,
+        61310.0,
         61260.0,
         61340.0,
         61260.0
       ],
       [
-        "11/11 16:48",
-        61310.0,
-        61310.0,
-        61310.0,
-        61310.0
+        "11/11 16:50",
+        61305.0,
+        61305.0,
+        61325.0,
+        61295.0
+      ],
+      [
+        "11/11 16:53",
+        61305.0,
+        61305.0,
+        61305.0,
+        61305.0
       ]
     ]
   },
   "fx": {
-    "price": 158.8785,
+    "price": 158.898,
     "prev": 158.765
   },
   "topix": {
