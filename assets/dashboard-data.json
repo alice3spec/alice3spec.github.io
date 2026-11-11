@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T16:28:26.001219+09:00",
+  "updated": "2026-11-11T16:33:15.230457+09:00",
   "feeds": {
     "kabu": [
       {
@@ -39,9 +39,9 @@
         "date": "2026-11-10T23:22:30+00:00"
       },
       {
-        "title": "日経平均、906円67銭高の6万1366円25銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFhVSGN0Uml6QTVKWFh5a2h2X1oxeGFnaGU5a2VsSmVya0NJUHBNTG5SbDBjWVVvVXZQMldUZ0JNVUJGQi04OGlXS21JU3V2UVFQdWFxUGZZaHBMUzRRYXpYSVFsZk1SY1ZfSW85R3JSdWpFUU05ZXZqM2syWEVqLUVFLWdPbjg?oc=5",
-        "date": "2026-11-11T03:31:43+00:00"
+        "title": "日経平均は３日続伸、一時６万１０００円台に乗せる＝１１日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThqSU9EYVVtZXFaenBWMU9mT2lwX2Zfc21PVkdRYlZVaUEzMkJTQjNfalhST2ZDenBTVXV5YjFBWldiNEotVTdhY21XeS1kdjRTcmlVeHpGSjNfNGFNVzF3cDVyejMtX0lwRWJLUUdNRlRHRGFyTFlzQnRuMFpPUk5pUlpVZm8?oc=5",
+        "date": "2026-11-11T02:51:09+00:00"
       },
       {
         "title": "１１日の株式相場見通し＝反落、米株安受け売り優勢で６万円割れも - 株探",
@@ -54,14 +54,15 @@
         "date": "2026-11-11T05:33:22+00:00"
       },
       {
-        "title": "日経平均は３日続伸、一時６万１０００円台に乗せる＝１１日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThqSU9EYVVtZXFaenBWMU9mT2lwX2Zfc21PVkdRYlZVaUEzMkJTQjNfalhST2ZDenBTVXV5YjFBWldiNEotVTdhY21XeS1kdjRTcmlVeHpGSjNfNGFNVzF3cDVyejMtX0lwRWJLUUdNRlRHRGFyTFlzQnRuMFpPUk5pUlpVZm8?oc=5",
-        "date": "2026-11-11T02:51:09+00:00"
+        "title": "日経平均、900円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3IweV8wUVJFT1JpNXdKT2hHUHg3VFR6dzBEVGpXYWtfeFVxZzBQRzlzZEZxa2E4VnBUcGRtaGdtakVzcDhaOWVGc0VqY0VkcTFKYXMxYms5NXI1cTN4VFlUdmJtVllMbnRzVU5TbDNlSjRuMGZkdEJpTUxvNmVLaHpDNmNxYzg?oc=5",
+        "date": "2026-11-11T03:30:45+00:00",
+        "body": "a10.txt"
       },
       {
-        "title": "ソフトバンクG、株価一時10%安 「割安」修正を阻むAI投資不安 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBseDQ2MWhkVjdrUzN5dl83eWxlMGtkZTUtS2pONF9DNTh6UFVBQ1NWSXRhR3R2RTFFT21NbXdINlRkaGpnTlBvalY0cWdnYnhnbTljdldDVm1pQ2NxX1JSaDBsekdkOHBsLUtsdQ?oc=5",
-        "date": "2026-11-11T03:00:05+00:00"
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月11日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQNGFtQVVOT2RBYmhlTkpGUGU3bmdhNENCcTlFM3ZXS2s1S2lCNG0ycUNMUmJSTUw0SHN5UDVxcTJEQkxWWVlrdmNLYlF0ZHh0dGtORlBYQUZPZXQ2Mmprcg?oc=5",
+        "date": "2026-11-10T23:13:44+00:00"
       }
     ],
     "ai": [
@@ -300,28 +301,24 @@
         "body": "a49.txt"
       },
       {
-        "title": "NTTドコモ障害 不正アクセス否定",
-        "link": "https://news.yahoo.co.jp/pickup/6602173?source=rss",
-        "date": "2026-11-11T05:59:22+00:00",
-        "body": "a50.txt"
-      },
-      {
         "title": "横浜の4歳児死亡 男性の無罪確定",
         "link": "https://news.yahoo.co.jp/pickup/6602176?source=rss",
-        "date": "2026-11-11T06:42:43+00:00",
-        "body": "a51.txt"
+        "date": "2026-11-11T06:42:43+00:00"
       },
       {
         "title": "兄弟転落死 部屋に血の付いた刃物",
         "link": "https://news.yahoo.co.jp/pickup/6602169?source=rss",
-        "date": "2026-11-11T04:58:06+00:00",
-        "body": "a52.txt"
+        "date": "2026-11-11T04:58:06+00:00"
       },
       {
         "title": "圏央道で5台絡む事故 1人心肺停止",
         "link": "https://news.yahoo.co.jp/pickup/6602177?source=rss",
-        "date": "2026-11-11T06:46:09+00:00",
-        "body": "a53.txt"
+        "date": "2026-11-11T06:46:09+00:00"
+      },
+      {
+        "title": "ヤンキース 織田翔希に熱意伝える",
+        "link": "https://news.yahoo.co.jp/pickup/6602180?source=rss",
+        "date": "2026-11-11T07:12:41+00:00"
       },
       {
         "title": "結婚ソング「結び」異例の広まり",
@@ -338,7 +335,7 @@
     ]
   },
   "weather": {
-    "temp": 14.6,
+    "temp": 14.5,
     "code": 0,
     "max": 14.8,
     "min": 10.8,
@@ -455,7 +452,7 @@
     "rain": null
   },
   "index": {
-    "price": 61250.0,
+    "price": 61295.0,
     "prev": 60200.0,
     "points": [
       [
@@ -1124,16 +1121,23 @@
         61220.0
       ],
       [
-        "11/11 16:18",
-        61250.0,
-        61250.0,
-        61250.0,
-        61250.0
+        "11/11 16:20",
+        61295.0,
+        61275.0,
+        61300.0,
+        61275.0
+      ],
+      [
+        "11/11 16:22",
+        61295.0,
+        61295.0,
+        61295.0,
+        61295.0
       ]
     ]
   },
   "fx": {
-    "price": 158.884,
+    "price": 158.905,
     "prev": 158.765
   },
   "topix": {
