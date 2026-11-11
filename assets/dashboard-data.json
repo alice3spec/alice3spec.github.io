@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T09:08:21.152081+09:00",
+  "updated": "2026-11-11T09:13:26.860624+09:00",
   "feeds": {
     "kabu": [
       {
@@ -56,14 +56,14 @@
         "date": "2026-11-10T22:21:56+00:00"
       },
       {
-        "title": "JX金属が続伸 27年3月期上方修正、半導体材料伸びる（10日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1USmJDZHVYaVdWNFZSdlZTM05DTTNNTlVZVkQ0b3BONU9mS0Q0NlVTckpFTUNIdDhEbGJYS2F4aER3a2dMOFc2NEJTVWx2aVpFU2cwb25IYjh3am9nQUU3T1FyTVh4V0hCSVZwZw?oc=5",
-        "date": "2026-11-10T07:30:00+00:00"
-      },
-      {
         "title": "日経平均株価、6日ぶり反発 終値は1340円高の5万8775円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4T0pMS3k2TDBZaHFTR1FaaFVxanlOVDhJZUhsRk12Nmg0TVpKQXVaUGVDejg4a3pQZTNDOHk2cFRuMGNMTm40d2t2QWZTb2poWDNFWFAxLXJWWlgtc3M2b0RwSXlOYnF1QXBWOA?oc=5",
         "date": "2026-11-09T00:06:22+00:00"
+      },
+      {
+        "title": "日経平均株価、一時6万円を回復 米AI株上昇や原油安で - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80ODJjZnVGSURCVHdhVWJYdlVkTlhyUFBmN3lpWGtoaEhkdFZGSTFpWXRsUmt4M0J3QUEwS2MxWUM4eVV6Z25XY0Zlclp1V3dOdW1VQjdSelJUOWlDbnI3TUFBQ2Q2eS15OVdNVA?oc=5",
+        "date": "2026-11-10T00:07:08+00:00"
       }
     ],
     "ai": [
@@ -86,7 +86,8 @@
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-        "date": "2026-11-10T22:03:30+00:00"
+        "date": "2026-11-10T22:03:30+00:00",
+        "body": "a15.txt"
       },
       {
         "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
@@ -97,7 +98,8 @@
       {
         "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
-        "date": "2026-11-10T22:00:00+00:00"
+        "date": "2026-11-10T22:00:00+00:00",
+        "body": "a17.txt"
       },
       {
         "title": "なぜAgodaは“異常に”安いのか？　商務責任者が明かす「自腹値引き」と社内競争の正体",
@@ -108,12 +110,14 @@
       {
         "title": "富士フイルム、Q2過去最高益　「instaxチェキ」ヒットに並ぶ“もう一つの稼ぎ頭”とは？",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news032.html",
-        "date": "2026-11-10T22:00:00+00:00"
+        "date": "2026-11-10T22:00:00+00:00",
+        "body": "a19.txt"
       },
       {
         "title": "日本製紙ら「たった半年で」釧路にデータセンター新設　なぜスピード稼働できたのか？",
         "link": "https://www.itmedia.co.jp/business/articles/2611/11/news017.html",
-        "date": "2026-11-10T22:00:00+00:00"
+        "date": "2026-11-10T22:00:00+00:00",
+        "body": "a20.txt"
       },
       {
         "title": "Google ドライブ、CSE適用で機密ファイルを保護へ　Google Workspaceに6つの仕様変更",
@@ -149,8 +153,7 @@
       {
         "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-        "date": "2026-11-10T22:03:30+00:00",
-        "body": "a26.txt"
+        "date": "2026-11-10T22:03:30+00:00"
       },
       {
         "title": "「盗撮」→「法律で規制」が話題のAI眼鏡　海外では大ヒットなのに、日本での普及は限定的　ビジネスでの活用事例を探る",
@@ -450,7 +453,7 @@
     "rain": null
   },
   "index": {
-    "price": 60345.0,
+    "price": 60480.0,
     "prev": 60200.0,
     "points": [
       [
@@ -532,22 +535,29 @@
       ],
       [
         "11/11 08:55",
-        60390.0,
+        60360.0,
         60345.0,
-        60395.0,
+        60425.0,
         60310.0
       ],
       [
-        "11/11 08:58",
-        60345.0,
-        60345.0,
-        60345.0,
-        60345.0
+        "11/11 09:00",
+        60530.0,
+        60355.0,
+        60605.0,
+        60350.0
+      ],
+      [
+        "11/11 09:03",
+        60480.0,
+        60480.0,
+        60480.0,
+        60480.0
       ]
     ]
   },
   "fx": {
-    "price": 158.803,
+    "price": 158.7665,
     "prev": 158.765
   },
   "topix": {
