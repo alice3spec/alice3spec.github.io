@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T10:48:27.930883+09:00",
+  "updated": "2026-11-11T10:53:38.975548+09:00",
   "feeds": {
     "kabu": [
       {
@@ -214,74 +214,73 @@
     ],
     "gadget": [
       {
+        "title": "Anthropicの新AIがチート級。OSを自作しブラックホールの難問も解いた、でも大丈夫かこれ？",
+        "link": "https://www.gizmodo.jp/article/2611-anthropic-claude-5-2-ai-os-black-hole/",
+        "date": "2026-11-11T01:30:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "子ども向けの検査、もうぜんぶ飴型でよくない？",
         "link": "https://www.gizmodo.jp/article/lollylab-lollipop-saliva-sensor/",
         "date": "2026-11-11T01:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "世界でのスマホ売上UPも販売台数は減少。第3四半期はAppleが売上50％をしめる",
         "link": "https://www.gizmodo.jp/article/smartphone_sales_q3_apple_market_share/",
         "date": "2026-11-10T23:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "レトロな楽器を腕に巻こう。カシオの新作はインジケーターに技あり",
         "link": "https://www.gizmodo.jp/article/2611-casio-classic-lf40w-retro-watch/",
-        "date": "2026-11-10T22:00:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-10T22:00:00+00:00"
       },
       {
         "title": "GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる",
         "link": "https://www.gizmodo.jp/article/2611-google-antigravity-swarm/",
         "date": "2026-11-10T18:30:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/",
-        "date": "2026-11-10T16:35:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-10T16:35:00+00:00"
       },
       {
         "title": "セーラームーンみたいな深海魚が発見される。ツインテールの正体に…ゾッ",
         "link": "https://www.gizmodo.jp/article/deep-sea-fish-has-hair-ish-qczy/",
         "date": "2026-11-10T14:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "トランプ氏、｢AI｣呼びを禁止へ。｢スーパーインテリジェンス｣は定着する？",
         "link": "https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/",
         "date": "2026-11-10T13:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "1回14円でお布団ぽかぽか！ ホース不要の「ふとんジェット」が冬の快眠を助けてくれる",
         "link": "https://www.gizmodo.jp/article/2611-futon-jet-futon-dryer/",
         "date": "2026-11-10T12:30:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "地球に「第2の月」が誕生",
         "link": "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/",
-        "date": "2026-11-10T12:15:00+00:00"
+        "date": "2026-11-10T12:15:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "“一目惚れ”は昭和の恋愛なのか…。令和時代は自分の直感よりもAIによる効率を重視",
         "link": "https://www.gizmodo.jp/article/ai_dating_efficiency_vs_intuition/",
-        "date": "2026-11-10T12:00:00+00:00"
+        "date": "2026-11-10T12:00:00+00:00",
+        "body": "a46.txt"
       },
       {
         "title": "iPhone Duo 2(仮)は、Face IDに対応するかもだって",
         "link": "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id/",
-        "date": "2026-11-10T11:30:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "レトロブーム加速中。KOSSの新型ヘッドホン「KPH40 Retro」は80年代感たっぷり",
-        "link": "https://www.gizmodo.jp/article/2611-koss-kph40-retro/",
-        "date": "2026-11-10T11:00:00+00:00",
-        "body": "a47.txt"
+        "date": "2026-11-10T11:30:00+00:00"
       }
     ],
     "yahoo": [
@@ -304,26 +303,26 @@
         "body": "a50.txt"
       },
       {
-        "title": "アパートで火事 1歳含む12人搬送",
-        "link": "https://news.yahoo.co.jp/pickup/6602130?source=rss",
-        "date": "2026-11-11T01:15:21+00:00",
-        "body": "a51.txt"
-      },
-      {
         "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
         "link": "https://news.yahoo.co.jp/pickup/6602126?source=rss",
         "date": "2026-11-11T00:42:48+00:00",
+        "body": "a51.txt"
+      },
+      {
+        "title": "アパートで火事 1歳含む12人搬送",
+        "link": "https://news.yahoo.co.jp/pickup/6602130?source=rss",
+        "date": "2026-11-11T01:15:21+00:00",
         "body": "a52.txt"
+      },
+      {
+        "title": "家庭向けの防犯ドローン発売へ 米",
+        "link": "https://news.yahoo.co.jp/pickup/6602134?source=rss",
+        "date": "2026-11-11T01:47:34+00:00"
       },
       {
         "title": "イベ閑散 主催は集客「約束せず」",
         "link": "https://news.yahoo.co.jp/pickup/6602113?source=rss",
         "date": "2026-11-10T23:03:13+00:00"
-      },
-      {
-        "title": "「稼ぐ」マンション管理組合増加",
-        "link": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
-        "date": "2026-11-10T23:41:27+00:00"
       },
       {
         "title": "映画「VIVANT」17人が続投決定",
@@ -451,7 +450,7 @@
     "rain": null
   },
   "index": {
-    "price": 61275.0,
+    "price": 61320.0,
     "prev": 60200.0,
     "points": [
       [
@@ -673,22 +672,29 @@
       ],
       [
         "11/11 10:35",
-        61260.0,
+        61245.0,
         61235.0,
         61300.0,
         61220.0
       ],
       [
-        "11/11 10:38",
-        61275.0,
-        61275.0,
-        61275.0,
-        61275.0
+        "11/11 10:40",
+        61320.0,
+        61230.0,
+        61330.0,
+        61220.0
+      ],
+      [
+        "11/11 10:43",
+        61320.0,
+        61320.0,
+        61320.0,
+        61320.0
       ]
     ]
   },
   "fx": {
-    "price": 158.9075,
+    "price": 158.9095,
     "prev": 158.765
   },
   "topix": {
