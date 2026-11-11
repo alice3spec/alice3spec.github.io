@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:58:23.172295+09:00",
+  "updated": "2026-11-11T12:03:33.173214+09:00",
   "feeds": {
     "kabu": [
       {
@@ -48,7 +48,7 @@
         "date": "2026-11-11T01:30:54+00:00"
       },
       {
-        "title": "ソフトバンクG株価、一時10.5%安 4〜9月最終赤字 - 日本経済新聞",
+        "title": "ソフトバンクG、株価一時10.5%安 4~9月最終赤字 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qTEh0eEpnRFJzY2drbTNLSHhXMTJMVWdlTV9WTHZzLXNHWGs2TUVFTzlPWmdGMGFiZWdoOEdPamJpVkxRZjB4aHZDajB4QzVidzNfYmdVSVhCYVl4UWVpRHpCTW43akRkYlJYVg?oc=5",
         "date": "2026-11-11T01:29:06+00:00"
       },
@@ -58,9 +58,9 @@
         "date": "2026-11-10T22:47:05+00:00"
       },
       {
-        "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
-        "date": "2026-11-08T22:30:00+00:00"
+        "title": "日本マクドナルドHD株価が上場来高値 26年12月期純利益8%増 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmM3FiQlVxdWRNc0xhMGJvcWM5ekpwXzl0QWNtOGZsY0htOW5WbE5kM1dETE9VLU1yZmRReFRiMkRYUUJMRXpJdGtGZEd4bm81dWZUb0o1RnJFaldHQWxLOHNLQnBOdm1OaFBJTg?oc=5",
+        "date": "2026-11-11T02:11:25+00:00"
       }
     ],
     "ai": [
@@ -164,7 +164,8 @@
       {
         "title": "エディオン、クレカ番号＋セキュリティコードも一部漏えいか　決済処理に不正プログラム、エラーログにも記録",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003091/",
-        "date": "2026-11-11T01:30:44+00:00"
+        "date": "2026-11-11T01:30:44+00:00",
+        "body": "a28.txt"
       },
       {
         "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
@@ -211,6 +212,21 @@
     ],
     "gadget": [
       {
+        "title": "Anthoropic、IPO内容公開。1株1万2000円前後予想、早ければ来週にも上場",
+        "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-nasdaq-valuation/",
+        "date": "2026-11-11T02:55:00+00:00"
+      },
+      {
+        "title": "サンタさん、ぼくダウンロードでいいよ！ SwitchのDL版ソフトを送れる「プレゼント」機能追加",
+        "link": "https://www.gizmodo.jp/article/2611-switch-dl-present-feature/",
+        "date": "2026-11-11T02:45:00+00:00"
+      },
+      {
+        "title": "モンベルの小さな“測り”ひとつで、旅行や出張の不安が解消されました",
+        "link": "https://www.gizmodo.jp/article/mont-bell-handy-scale-5hef/",
+        "date": "2026-11-11T02:35:00+00:00"
+      },
+      {
         "title": "このキーボード、遺跡から発掘されたん？",
         "link": "https://www.gizmodo.jp/article/2611-keychron-q19-he-8k-review/",
         "date": "2026-11-11T02:00:00+00:00"
@@ -234,7 +250,7 @@
         "title": "レトロな楽器を腕に巻こう。カシオの新作はインジケーターに技あり",
         "link": "https://www.gizmodo.jp/article/2611-casio-classic-lf40w-retro-watch/",
         "date": "2026-11-10T22:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a43.txt"
       },
       {
         "title": "GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる",
@@ -242,7 +258,7 @@
         "date": "2026-11-10T18:30:00+00:00"
       },
       {
-        "title": "Googleが新AI「Gemini 4 Carbon」をリリース。サブスクはUltraのみ利用可",
+        "title": "Googleが新AI「Gemini 4 Carbon」をリリース。“空間推論”に優れた強力なフロンティアモデル",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-carbon-release/",
         "date": "2026-11-10T16:35:00+00:00"
       },
@@ -255,47 +271,28 @@
         "title": "トランプ氏、｢AI｣呼びを禁止へ。｢スーパーインテリジェンス｣は定着する？",
         "link": "https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/",
         "date": "2026-11-10T13:00:00+00:00"
-      },
-      {
-        "title": "1回14円でお布団ぽかぽか！ ホース不要の「ふとんジェット」が冬の快眠を助けてくれる",
-        "link": "https://www.gizmodo.jp/article/2611-futon-jet-futon-dryer/",
-        "date": "2026-11-10T12:30:00+00:00"
-      },
-      {
-        "title": "地球に「第2の月」が誕生",
-        "link": "https://www.gizmodo.jp/article/2611-earth-second-moon-2026-qq8/",
-        "date": "2026-11-10T12:15:00+00:00"
-      },
-      {
-        "title": "“一目惚れ”は昭和の恋愛なのか…。令和時代は自分の直感よりもAIによる効率を重視",
-        "link": "https://www.gizmodo.jp/article/ai_dating_efficiency_vs_intuition/",
-        "date": "2026-11-10T12:00:00+00:00"
       }
     ],
     "yahoo": [
       {
-        "title": "ドコモ携帯 全国で障害が発生",
-        "link": "https://news.yahoo.co.jp/pickup/6602147?source=rss",
-        "date": "2026-11-11T02:45:39+00:00",
-        "body": "a48.txt"
-      },
-      {
         "title": "3文書改定 自民は「ブレーキ役」",
         "link": "https://news.yahoo.co.jp/pickup/6602135?source=rss",
-        "date": "2026-11-11T01:56:05+00:00",
-        "body": "a49.txt"
+        "date": "2026-11-11T01:56:05+00:00"
+      },
+      {
+        "title": "ルフィ事件 幹部が起訴内容を否認",
+        "link": "https://news.yahoo.co.jp/pickup/6602143?source=rss",
+        "date": "2026-11-11T02:49:09+00:00"
+      },
+      {
+        "title": "ドコモ携帯 全国で障害が発生",
+        "link": "https://news.yahoo.co.jp/pickup/6602147?source=rss",
+        "date": "2026-11-11T02:45:39+00:00"
       },
       {
         "title": "ダンプカー衝突 自転車の15歳死亡",
         "link": "https://news.yahoo.co.jp/pickup/6602142?source=rss",
-        "date": "2026-11-11T02:22:35+00:00",
-        "body": "a50.txt"
-      },
-      {
-        "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
-        "link": "https://news.yahoo.co.jp/pickup/6602126?source=rss",
-        "date": "2026-11-11T00:42:48+00:00",
-        "body": "a51.txt"
+        "date": "2026-11-11T02:22:35+00:00"
       },
       {
         "title": "家庭向けの防犯ドローン発売へ 米",
@@ -304,36 +301,29 @@
         "body": "a52.txt"
       },
       {
+        "title": "「AIくさい」なぜSNSで批判過熱",
+        "link": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
+        "date": "2026-11-11T02:50:12+00:00",
+        "body": "a53.txt"
+      },
+      {
         "title": "高級スーツに外国人客 老舗逆転劇",
         "link": "https://news.yahoo.co.jp/pickup/6602136?source=rss",
-        "date": "2026-11-11T01:49:54+00:00",
-        "body": "a53.txt"
+        "date": "2026-11-11T01:49:54+00:00"
       },
       {
         "title": "松井監督 就任前にヤ軍GMに報告",
         "link": "https://news.yahoo.co.jp/pickup/6602140?source=rss",
-        "date": "2026-11-11T02:12:13+00:00",
-        "body": "a54.txt"
-      },
-      {
-        "title": "映画「VIVANT」17人が続投決定",
-        "link": "https://news.yahoo.co.jp/pickup/6602119?source=rss",
-        "date": "2026-11-10T23:37:27+00:00",
-        "body": "a55.txt"
+        "date": "2026-11-11T02:12:13+00:00"
       }
     ]
   },
   "weather": {
-    "temp": 12.9,
+    "temp": 13.0,
     "code": 0,
     "max": 14.5,
     "min": 10.8,
     "hours": [
-      {
-        "time": "2026-11-11T11:00",
-        "temp": 12.7,
-        "code": 0
-      },
       {
         "time": "2026-11-11T12:00",
         "temp": 13.0,
@@ -353,83 +343,88 @@
         "time": "2026-11-11T15:00",
         "temp": 13.9,
         "code": 0
+      },
+      {
+        "time": "2026-11-11T16:00",
+        "temp": 13.9,
+        "code": 0
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-11T11:00",
-        "temp": 12.7,
+        "time": "2026-11-11T12:00",
+        "temp": 13.0,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T14:00",
-        "temp": 13.6,
+        "time": "2026-11-11T15:00",
+        "temp": 13.9,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T17:00",
-        "temp": 13.8,
-        "code": 0,
+        "time": "2026-11-11T18:00",
+        "temp": 14.0,
+        "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T20:00",
+        "time": "2026-11-11T21:00",
         "temp": 14.4,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-11T23:00",
+        "time": "2026-11-12T00:00",
         "temp": 14.4,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-12T02:00",
-        "temp": 14.4,
-        "code": 2,
+        "time": "2026-11-12T03:00",
+        "temp": 14.1,
+        "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-12T05:00",
-        "temp": 12.5,
+        "time": "2026-11-12T06:00",
+        "temp": 11.8,
         "code": 1,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-11T11:00",
+        "time": "2026-11-11T12:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T14:00",
+        "time": "2026-11-11T15:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T17:00",
+        "time": "2026-11-11T18:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T20:00",
+        "time": "2026-11-11T21:00",
         "pop": 0
       },
       {
-        "time": "2026-11-11T23:00",
+        "time": "2026-11-12T00:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T02:00",
+        "time": "2026-11-12T03:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T05:00",
+        "time": "2026-11-12T06:00",
         "pop": 0
       },
       {
-        "time": "2026-11-12T08:00",
+        "time": "2026-11-12T09:00",
         "pop": 0
       }
     ],
@@ -441,21 +436,14 @@
     "rain": null
   },
   "index": {
-    "price": 61040.0,
+    "price": 61015.0,
     "prev": 60200.0,
     "points": [
       [
-        "11/11 08:00",
-        60190.0,
-        60190.0,
-        60190.0,
-        60190.0
-      ],
-      [
         "11/11 08:05",
         60120.0,
-        60120.0,
-        60120.0,
+        60130.0,
+        60130.0,
         60120.0
       ],
       [
@@ -468,7 +456,7 @@
       [
         "11/11 08:15",
         60235.0,
-        60210.0,
+        60215.0,
         60240.0,
         60190.0
       ],
@@ -496,7 +484,7 @@
       [
         "11/11 08:35",
         60355.0,
-        60285.0,
+        60290.0,
         60355.0,
         60280.0
       ],
@@ -531,7 +519,7 @@
       [
         "11/11 09:00",
         60630.0,
-        60355.0,
+        60375.0,
         60635.0,
         60350.0
       ],
@@ -741,7 +729,7 @@
       [
         "11/11 11:30",
         61005.0,
-        61060.0,
+        61070.0,
         61070.0,
         61005.0
       ],
@@ -755,28 +743,35 @@
       [
         "11/11 11:40",
         61055.0,
-        60995.0,
+        60990.0,
         61055.0,
         60990.0
       ],
       [
         "11/11 11:45",
-        61040.0,
+        61030.0,
         61035.0,
         61045.0,
         61020.0
       ],
       [
-        "11/11 11:47",
-        61040.0,
-        61040.0,
-        61040.0,
-        61040.0
+        "11/11 11:50",
+        61005.0,
+        61035.0,
+        61035.0,
+        60995.0
+      ],
+      [
+        "11/11 11:53",
+        61015.0,
+        61015.0,
+        61015.0,
+        61015.0
       ]
     ]
   },
   "fx": {
-    "price": 158.8005,
+    "price": 158.801,
     "prev": 158.765
   },
   "topix": {
