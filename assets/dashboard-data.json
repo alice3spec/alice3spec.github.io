@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T17:23:20.845761+09:00",
+  "updated": "2026-11-12T17:28:22.676898+09:00",
   "feeds": {
     "kabu": [
       {
@@ -20,38 +20,34 @@
         "body": "a02.txt"
       },
       {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-12T02:44:02+00:00"
-      },
-      {
         "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
-        "date": "2026-11-11T22:30:00+00:00",
-        "body": "a04.txt"
+        "date": "2026-11-11T22:30:00+00:00"
       },
       {
         "title": "日経平均VIは上昇、株価上昇ピッチの速さを警戒 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DR1h3ek5KTUo1OXBnSHZ4dm16MnNxVjFkQUtTN2VnaXFka2VIQ1lZOU91WExTeUh5cTN1alhfcklSZGtBbDdYcEt3VVZiWHp5SVE?oc=5",
-        "date": "2026-11-12T05:22:36+00:00",
-        "body": "a05.txt"
+        "date": "2026-11-12T05:22:36+00:00"
       },
       {
         "title": "（朝）米国市場は3指数揃って上昇　ハイテク株が市場全体をけん引し買いが優勢の展開 - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zamFkZWkzWEVQMHRGb25EQ080YXVkMnloSjBMTGhFZ0oxZlNsNUNDY3Z0Z0M1WFdmT1NMNHBBbGl3X09hbjBGZVhid1lMTGNveFA2VdIBV0FVX3lxTE51QkxkclFOS2V2VnhJRE9icWNyTnFPZ0hVOVRQdTR1TXlBaUFKNGYwWjhlNkowN3lrVlhNdWhwWER4UWpoNHpTczNBZkRiZi03SmoxSFB2WQ?oc=5",
-        "date": "2026-11-11T23:10:00+00:00",
-        "body": "a06.txt"
+        "date": "2026-11-11T23:10:00+00:00"
+      },
+      {
+        "title": "イビデン8%安、米NVIDIA報道で連想売り（12日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82LTc5cUtUVDBtMWJlWUJhTXBqZGxlMEpMT1pQU1BBbnlFV3hEakl6dWhCRzU5d2JqVHRaUEl2ZEljTXBCQXo4TzF5U0Zxb3Vvbk9JQ2R1STRwYlVkMGZCUzljXy1wWEx1MWsxOA?oc=5",
+        "date": "2026-11-12T07:30:00+00:00"
+      },
+      {
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅縮小 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90XzJMdTZjSE9rSzBNTWcwdFhzR0JKcjZrZ0ZLS0x3MFpMX1Q1cFlkLXNNUFcyeWRxT3lPa09jQXFWSUF2MHlaN05YTXVTZnozTHhFbUFla3RkZnpzeTNTWg?oc=5",
+        "date": "2026-11-12T03:31:00+00:00"
       },
       {
         "title": "東証14時 日経平均は軟調 200円安 米エヌビディア巡る懸念根強く - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02S0NLczMxaE1la1pfRHJOYVhDTG5XczJjRmh6S2pPWXNvWWFvaXFwaFBsd2JjZGZpVnQ2Zm50X1V2MHJ1NHgwUk5kYmRreWFnU1JyeUZ5YmI3SE9NRVdQcEV4R2JMQzlUVWlvYQ?oc=5",
         "date": "2026-11-12T05:14:35+00:00"
-      },
-      {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅縮小 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90XzJMdTZjSE9rSzBNTWcwdFhzR0JKcjZrZ0ZLS0x3MFpMX1Q1cFlkLXNNUFcyeWRxT3lPa09jQXFWSUF2MHlaN05YTXVTZnozTHhFbUFla3RkZnpzeTNTWg?oc=5",
-        "date": "2026-11-12T03:31:00+00:00",
-        "body": "a08.txt"
       },
       {
         "title": "日経平均終値429円安、NVIDIA報道に揺れるAI株 買いは商社へ - 日本経済新聞",
@@ -329,9 +325,10 @@
         "body": "a53.txt"
       },
       {
-        "title": "万博ガンダム「頭部」展示へ 大阪",
-        "link": "https://news.yahoo.co.jp/pickup/6602306?source=rss",
-        "date": "2026-11-12T06:50:09+00:00"
+        "title": "初代「長嶋茂雄賞」は佐藤輝明",
+        "link": "https://news.yahoo.co.jp/pickup/6602318?source=rss",
+        "date": "2026-11-12T08:23:24+00:00",
+        "body": "a54.txt"
       },
       {
         "title": "右肩負傷 SB小久保監督が手術へ",
@@ -459,15 +456,15 @@
     "rain": null
   },
   "index": {
-    "price": 60935.0,
+    "price": 60880.0,
     "prev": 62015.0,
     "points": [
       [
         "11/12 08:00",
         61670.0,
-        61850.0,
-        61850.0,
-        61585.0
+        61670.0,
+        61670.0,
+        61670.0
       ],
       [
         "11/12 08:05",
@@ -485,7 +482,7 @@
       ],
       [
         "11/12 08:15",
-        61515.0,
+        61520.0,
         61490.0,
         61565.0,
         61450.0
@@ -507,28 +504,28 @@
       [
         "11/12 08:30",
         61700.0,
-        61680.0,
+        61690.0,
         61725.0,
         61630.0
       ],
       [
         "11/12 08:35",
         61500.0,
-        61655.0,
+        61675.0,
         61675.0,
         61470.0
       ],
       [
         "11/12 08:40",
-        61465.0,
+        61480.0,
         61500.0,
         61525.0,
-        61465.0
+        61470.0
       ],
       [
         "11/12 08:45",
         61520.0,
-        61445.0,
+        61450.0,
         61635.0,
         61445.0
       ],
@@ -549,7 +546,7 @@
       [
         "11/12 09:00",
         61650.0,
-        61500.0,
+        61490.0,
         61750.0,
         61425.0
       ],
@@ -579,14 +576,14 @@
         61485.0,
         61445.0,
         61500.0,
-        61385.0
+        61415.0
       ],
       [
         "11/12 09:25",
         61510.0,
-        61520.0,
+        61470.0,
         61525.0,
-        61430.0
+        61435.0
       ],
       [
         "11/12 09:30",
@@ -633,7 +630,7 @@
       [
         "11/12 10:00",
         61520.0,
-        61540.0,
+        61535.0,
         61615.0,
         61485.0
       ],
@@ -661,7 +658,7 @@
       [
         "11/12 10:20",
         61495.0,
-        61520.0,
+        61530.0,
         61565.0,
         61455.0
       ],
@@ -689,7 +686,7 @@
       [
         "11/12 10:40",
         61630.0,
-        61675.0,
+        61670.0,
         61680.0,
         61595.0
       ],
@@ -737,7 +734,7 @@
       ],
       [
         "11/12 11:15",
-        61865.0,
+        61870.0,
         61755.0,
         61870.0,
         61750.0
@@ -843,7 +840,7 @@
       [
         "11/12 12:30",
         61475.0,
-        61640.0,
+        61630.0,
         61640.0,
         61450.0
       ],
@@ -1037,16 +1034,9 @@
         60755.0
       ],
       [
-        "11/12 14:55",
-        60755.0,
-        60755.0,
-        60805.0,
-        60750.0
-      ],
-      [
         "11/12 15:00",
         60775.0,
-        60750.0,
+        60735.0,
         60785.0,
         60730.0
       ],
@@ -1080,7 +1070,7 @@
       ],
       [
         "11/12 15:25",
-        60870.0,
+        60860.0,
         60885.0,
         60905.0,
         60815.0
@@ -1088,13 +1078,13 @@
       [
         "11/12 15:30",
         60765.0,
-        60855.0,
+        60850.0,
         60935.0,
         60765.0
       ],
       [
         "11/12 15:35",
-        60855.0,
+        60860.0,
         60790.0,
         60860.0,
         60780.0
@@ -1109,13 +1099,13 @@
       [
         "11/12 15:45",
         60675.0,
-        60725.0,
+        60715.0,
         60725.0,
         60660.0
       ],
       [
         "11/12 15:50",
-        60690.0,
+        60695.0,
         60685.0,
         60710.0,
         60660.0
@@ -1144,7 +1134,7 @@
       [
         "11/12 16:10",
         60830.0,
-        60895.0,
+        60890.0,
         60900.0,
         60810.0
       ],
@@ -1227,22 +1217,29 @@
       ],
       [
         "11/12 17:10",
-        60945.0,
+        60905.0,
         60875.0,
         60950.0,
         60865.0
       ],
       [
-        "11/12 17:13",
-        60935.0,
-        60935.0,
-        60935.0,
-        60935.0
+        "11/12 17:15",
+        60880.0,
+        60895.0,
+        60905.0,
+        60865.0
+      ],
+      [
+        "11/12 17:18",
+        60880.0,
+        60880.0,
+        60880.0,
+        60880.0
       ]
     ]
   },
   "fx": {
-    "price": 159.706,
+    "price": 159.7545,
     "prev": 159.8065
   },
   "topix": {
