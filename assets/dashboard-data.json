@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T16:53:15.572296+09:00",
+  "updated": "2026-11-12T16:58:39.464915+09:00",
   "feeds": {
     "kabu": [
       {
@@ -55,11 +55,6 @@
         "body": "a08.txt"
       },
       {
-        "title": "日経平均、429円23銭安の6万0819円36銭で終了＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ28wbUZPZnZSdzQ3Y2Jwek1ZcW5aZHI3dVNXN3ozMVNyaUphd2FmZ1VNenVPTFlqcTNueW95ajJwQnpYQ0lHejJwenYzOF9iTk9uLWYtdENyY0tIeW9RbVg5SEJpUXN6WGVldzVaTVgxb1BGRlhmVmxNTVlPd1ZwT1FscmlYYVU?oc=5",
-        "date": "2026-11-12T06:31:01+00:00"
-      },
-      {
         "title": "日経平均終値429円安、NVIDIA報道に揺れるAI株 買いは商社へ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13c05HVy1DYmpXa3FsVHdiT3hvbmZvUDJ3WXU4R3RuYzEyRWFqUnJ3LXhnLUdyR3lxUTVGanpIeEdVdzRZXzFSQ1dkbWk4VWFmTUJ0LU1IdHlRX2dkTFlWQUxQYkFfLXc1YkI1UQ?oc=5",
         "date": "2026-11-12T02:47:20+00:00"
@@ -68,6 +63,11 @@
         "title": "日産自動車、株価続落 4〜9月が2年連続で最終赤字 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YkliaXdqOXBkcm10eXBNWWowYmJlUFNJdUJRTVd1dmNPOWl0RWdTUDNjTXNpS0V6YjNBVktnanFoMDlKVG5RTXpGM0kwVG5DUFR5c29qMnNhSEdpejNvRkNTN19aX1V0TkUyVA?oc=5",
         "date": "2026-11-12T01:18:32+00:00"
+      },
+      {
+        "title": "楽天銀行の株価急落 カード事業の苦戦警戒、「弱い内容」の声 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mQnVNdTVFUTFDaXQyTEtOUXpvdmllZEpPM3JKSW1iYmhaRXlPWTVGTHdJM1N4Q2hhUEFVZ0UxY1NyQWlTZjV5d3gzUllqU1kzYVdtYTQtYmFiQkxudUdfcVp5Y1NmLWp1T3ZzRg?oc=5",
+        "date": "2026-11-12T05:56:00+00:00"
       }
     ],
     "ai": [
@@ -220,75 +220,75 @@
     ],
     "gadget": [
       {
-        "title": "ドラクエの序曲やレベルUP音が鳴る。ファミコンカセット型名刺入れでビジネスの冒険に旅立とう",
-        "link": "https://www.gizmodo.jp/article/2611-dq-sound-card-case/",
-        "date": "2026-11-12T07:35:00+00:00",
-        "body": "a36.txt"
-      },
-      {
         "title": "iPhone20周年モデルは、アクションボタンが消えるかも",
         "link": "https://www.gizmodo.jp/article/2611-iphone-20-no-action-button/",
         "date": "2026-11-12T06:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a36.txt"
       },
       {
         "title": "ホテルのテレビ、使わないのはもったいない。役に立つのは、Ankerの「魔法のケーブル」",
         "link": "https://www.gizmodo.jp/article/2611-anker-nano-usb-c-hdmi-cable/",
         "date": "2026-11-12T05:35:00+00:00",
-        "body": "a38.txt"
+        "body": "a37.txt"
       },
       {
         "title": "世界のCO₂排出量、今年は減る見込み。でも理由には「イラン紛争」がある",
         "link": "https://www.gizmodo.jp/article/2611-global-co2-emissions-iran-conflict/",
         "date": "2026-11-12T05:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a38.txt"
       },
       {
         "title": "データセンターの水不足リスク、思った以上に深刻だった",
         "link": "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/",
         "date": "2026-11-12T04:30:00+00:00",
-        "body": "a40.txt"
+        "body": "a39.txt"
       },
       {
         "title": "iPhone 18と18e、一部仕様が共通化の噂。画面サイズも同じになっちゃうの？",
         "link": "https://www.gizmodo.jp/article/2611-iphone-18-and-18e-shared-specs-rumor/",
         "date": "2026-11-12T04:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a40.txt"
       },
       {
         "title": "NVIDIAのCEOが離婚したら...慰謝料は12兆円くらいになりそう",
         "link": "https://www.gizmodo.jp/article/2611-jensen-huang-divorce-settlement/",
         "date": "2026-11-12T03:15:00+00:00",
-        "body": "a42.txt"
+        "body": "a41.txt"
       },
       {
         "title": "AIで社長になりすまし、従業員に金を振り込ませる。新手の詐欺で200億円超が騙し取られた",
         "link": "https://www.gizmodo.jp/article/ai-ceo-impersonation-fraud-200-billion/",
         "date": "2026-11-12T03:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a42.txt"
       },
       {
         "title": "M6 iMacで本当に欲しいのは、NeoとProかもしれない",
         "link": "https://www.gizmodo.jp/article/2611-m6-imac-neo-and-pro/",
         "date": "2026-11-12T02:45:00+00:00",
-        "body": "a44.txt"
+        "body": "a43.txt"
       },
       {
         "title": "爆発直後の超新星、撮れました",
         "link": "https://www.gizmodo.jp/article/supernova_images-c5i-lrt/",
         "date": "2026-11-12T02:35:00+00:00",
-        "body": "a45.txt"
+        "body": "a44.txt"
       },
       {
         "title": "Xアプリ、動画の切り抜き機能を実装",
         "link": "https://www.gizmodo.jp/article/2611-x-app-video-clipping-feature/",
         "date": "2026-11-12T02:30:00+00:00",
-        "body": "a46.txt"
+        "body": "a45.txt"
       },
       {
         "title": "夜の駐車場でも「誰か」までわかる。Wi-Fiの届かない場所でも愛車を守る4Gカメラ",
         "link": "https://www.gizmodo.jp/article/tapo-c665g-kit-4g-security-camera/",
         "date": "2026-11-12T02:00:00+00:00",
+        "body": "a46.txt"
+      },
+      {
+        "title": "PlayStation Portal プレーヤーの謎…本体ストレージの正体は？ 新たなハンドヘルドゲーム機となるか",
+        "link": "https://www.gizmodo.jp/article/2611-playstation-portal-player-storage-mystery/",
+        "date": "2026-11-12T01:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -300,27 +300,27 @@
         "body": "a48.txt"
       },
       {
-        "title": "ポスト高市の首相再選支持 相次ぐ",
-        "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
-        "date": "2026-11-12T03:09:55+00:00",
-        "body": "a49.txt"
-      },
-      {
         "title": "北海道新聞 拘束記者の実名掲載",
         "link": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
         "date": "2026-11-12T07:41:26+00:00",
-        "body": "a50.txt"
-      },
-      {
-        "title": "すかいらーくHDがShin-Shin買収",
-        "link": "https://news.yahoo.co.jp/pickup/6602300?source=rss",
-        "date": "2026-11-12T04:43:45+00:00",
-        "body": "a51.txt"
+        "body": "a49.txt"
       },
       {
         "title": "利根川に遺体 不明の14歳と判明",
         "link": "https://news.yahoo.co.jp/pickup/6602307?source=rss",
         "date": "2026-11-12T06:56:04+00:00",
+        "body": "a50.txt"
+      },
+      {
+        "title": "おうし座北流星群 13日頃に極大",
+        "link": "https://news.yahoo.co.jp/pickup/6602298?source=rss",
+        "date": "2026-11-12T04:44:01+00:00",
+        "body": "a51.txt"
+      },
+      {
+        "title": "アラーム確認せず 患者に重い障害",
+        "link": "https://news.yahoo.co.jp/pickup/6602314?source=rss",
+        "date": "2026-11-12T07:48:01+00:00",
         "body": "a52.txt"
       },
       {
@@ -460,7 +460,7 @@
     "rain": null
   },
   "index": {
-    "price": 60770.0,
+    "price": 60745.0,
     "prev": 62015.0,
     "points": [
       [
@@ -1186,22 +1186,29 @@
       ],
       [
         "11/12 16:40",
-        60770.0,
+        60750.0,
         60865.0,
         60865.0,
-        60770.0
+        60745.0
       ],
       [
-        "11/12 16:42",
-        60770.0,
-        60770.0,
-        60770.0,
-        60770.0
+        "11/12 16:45",
+        60745.0,
+        60760.0,
+        60775.0,
+        60730.0
+      ],
+      [
+        "11/12 16:48",
+        60745.0,
+        60745.0,
+        60745.0,
+        60745.0
       ]
     ]
   },
   "fx": {
-    "price": 159.7595,
+    "price": 159.707,
     "prev": 159.8065
   },
   "topix": {
