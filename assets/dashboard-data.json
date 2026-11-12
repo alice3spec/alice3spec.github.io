@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:38:13.028665+09:00",
+  "updated": "2026-11-12T14:43:13.164557+09:00",
   "feeds": {
     "kabu": [
       {
@@ -49,11 +49,6 @@
         "date": "2026-11-12T03:31:13+00:00"
       },
       {
-        "title": "株価指数先物【寄り前】 ショートカバーを誘う動きが強まる可能性 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LS01ydU5aRUQ5MFRuU3gzaEFYdVdmMDlEd0ZFLWw3NkUtc0RYeHBqX0p1ZkZxUXVYQnRYWWVrV2RMc0pFcDBydDQzTk1ENVpySmowaWs5a3JYdTEwYlo0Vw?oc=5",
-        "date": "2026-11-11T23:02:07+00:00"
-      },
-      {
         "title": "日経平均午前465円高、NVIDIA報道に揺れるAI株 買いは商社へ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13c05HVy1DYmpXa3FsVHdiT3hvbmZvUDJ3WXU4R3RuYzEyRWFqUnJ3LXhnLUdyR3lxUTVGanpIeEdVdzRZXzFSQ1dkbWk4VWFmTUJ0LU1IdHlRX2dkTFlWQUxQYkFfLXc1YkI1UQ?oc=5",
         "date": "2026-11-12T02:47:20+00:00"
@@ -62,6 +57,11 @@
         "title": "日経平均、465円57銭高の6万1714円16銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVQwS2Y5OWVSaXpLQXpnaldqaGs0cXU5ZFBRN1JwZFZ4MkNUQXliUk8wcG9HZEV4RGxzMUdJUDNsSDJMbVhNR3ZwUERvRUlSSXdhcGFwTGFuR2pqaVRVNlAwUkZqZ3VmQ2trYzJXRnY0LW1EQ05GRHdrcktUbnduSUNHdUpSS2M?oc=5",
         "date": "2026-11-12T02:31:00+00:00"
+      },
+      {
+        "title": "日産自動車、株価続落 4〜9月が2年連続で最終赤字 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YkliaXdqOXBkcm10eXBNWWowYmJlUFNJdUJRTVd1dmNPOWl0RWdTUDNjTXNpS0V6YjNBVktnanFoMDlKVG5RTXpGM0kwVG5DUFR5c29qMnNhSEdpejNvRkNTN19aX1V0TkUyVA?oc=5",
+        "date": "2026-11-12T01:18:32+00:00"
       }
     ],
     "ai": [
@@ -214,75 +214,75 @@
     ],
     "gadget": [
       {
+        "title": "ホテルのテレビ、使わないのはもったいない。役に立つのは、Ankerの「魔法のケーブル」",
+        "link": "https://www.gizmodo.jp/article/2611-anker-nano-usb-c-hdmi-cable/",
+        "date": "2026-11-12T05:35:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "世界のCO₂排出量、今年は減る見込み。でも理由には「イラン紛争」がある",
         "link": "https://www.gizmodo.jp/article/2611-global-co2-emissions-iran-conflict/",
         "date": "2026-11-12T05:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "データセンターの水不足リスク、思った以上に深刻だった",
         "link": "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/",
         "date": "2026-11-12T04:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "iPhone 18と18e、一部仕様が共通化の噂。画面サイズも同じになっちゃうの？",
         "link": "https://www.gizmodo.jp/article/2611-iphone-18-and-18e-shared-specs-rumor/",
         "date": "2026-11-12T04:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "NVIDIAのCEOが離婚したら...慰謝料は12兆円くらいになりそう",
         "link": "https://www.gizmodo.jp/article/2611-jensen-huang-divorce-settlement/",
         "date": "2026-11-12T03:15:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "AIで社長になりすまし、従業員に金を振り込ませる。新手の詐欺で200億円超が騙し取られた",
         "link": "https://www.gizmodo.jp/article/ai-ceo-impersonation-fraud-200-billion/",
         "date": "2026-11-12T03:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "M6 iMacで本当に欲しいのは、NeoとProかもしれない",
         "link": "https://www.gizmodo.jp/article/2611-m6-imac-neo-and-pro/",
         "date": "2026-11-12T02:45:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "爆発直後の超新星、撮れました",
         "link": "https://www.gizmodo.jp/article/supernova_images-c5i-lrt/",
         "date": "2026-11-12T02:35:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "Xアプリ、動画の切り抜き機能を実装",
         "link": "https://www.gizmodo.jp/article/2611-x-app-video-clipping-feature/",
         "date": "2026-11-12T02:30:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "夜の駐車場でも「誰か」までわかる。Wi-Fiの届かない場所でも愛車を守る4Gカメラ",
         "link": "https://www.gizmodo.jp/article/tapo-c665g-kit-4g-security-camera/",
         "date": "2026-11-12T02:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "PlayStation Portal プレーヤーの謎…本体ストレージの正体は？ 新たなハンドヘルドゲーム機となるか",
         "link": "https://www.gizmodo.jp/article/2611-playstation-portal-player-storage-mystery/",
         "date": "2026-11-12T01:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "ジェンスン・フアン解任準備と報道。NVIDIAを揺るがすハニートラップ疑惑",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-affair-spy/",
         "date": "2026-11-12T00:45:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "トランプコイン、史上最安値を記録。今後もかなり厳しそう",
-        "link": "https://www.gizmodo.jp/article/trump-coins-hit-all-time-lows-as-elizabeth-warren-targets-trump-familys-crypto-empire/",
-        "date": "2026-11-11T23:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -455,15 +455,15 @@
     "rain": null
   },
   "index": {
-    "price": 60860.0,
+    "price": 60880.0,
     "prev": 62015.0,
     "points": [
       [
         "11/12 08:00",
         61670.0,
-        61670.0,
-        61670.0,
-        61670.0
+        61850.0,
+        61850.0,
+        61585.0
       ],
       [
         "11/12 08:05",
@@ -481,7 +481,7 @@
       ],
       [
         "11/12 08:15",
-        61520.0,
+        61515.0,
         61490.0,
         61565.0,
         61450.0
@@ -503,28 +503,28 @@
       [
         "11/12 08:30",
         61700.0,
-        61690.0,
+        61680.0,
         61725.0,
         61630.0
       ],
       [
         "11/12 08:35",
         61500.0,
-        61675.0,
+        61655.0,
         61675.0,
         61470.0
       ],
       [
         "11/12 08:40",
-        61480.0,
+        61465.0,
         61500.0,
         61525.0,
-        61470.0
+        61465.0
       ],
       [
         "11/12 08:45",
         61520.0,
-        61450.0,
+        61445.0,
         61635.0,
         61445.0
       ],
@@ -545,7 +545,7 @@
       [
         "11/12 09:00",
         61650.0,
-        61490.0,
+        61500.0,
         61750.0,
         61425.0
       ],
@@ -575,14 +575,14 @@
         61485.0,
         61445.0,
         61500.0,
-        61415.0
+        61385.0
       ],
       [
         "11/12 09:25",
         61510.0,
-        61470.0,
+        61520.0,
         61525.0,
-        61435.0
+        61430.0
       ],
       [
         "11/12 09:30",
@@ -621,73 +621,10 @@
       ],
       [
         "11/12 09:55",
-        61550.0,
-        61555.0,
-        61600.0,
-        61525.0
-      ],
-      [
-        "11/12 10:00",
-        61520.0,
-        61535.0,
-        61615.0,
-        61485.0
-      ],
-      [
-        "11/12 10:05",
-        61450.0,
-        61500.0,
-        61535.0,
-        61415.0
-      ],
-      [
-        "11/12 10:10",
-        61495.0,
-        61425.0,
-        61530.0,
-        61405.0
-      ],
-      [
-        "11/12 10:15",
-        61540.0,
-        61505.0,
-        61540.0,
-        61435.0
-      ],
-      [
-        "11/12 10:20",
-        61495.0,
-        61530.0,
         61565.0,
-        61455.0
-      ],
-      [
-        "11/12 10:25",
-        61515.0,
-        61485.0,
         61555.0,
-        61475.0
-      ],
-      [
-        "11/12 10:30",
         61600.0,
-        61500.0,
-        61610.0,
-        61465.0
-      ],
-      [
-        "11/12 10:35",
-        61660.0,
-        61595.0,
-        61675.0,
-        61545.0
-      ],
-      [
-        "11/12 10:40",
-        61600.0,
-        61670.0,
-        61680.0,
-        61595.0
+        61550.0
       ],
       [
         "11/12 14:05",
@@ -719,22 +656,29 @@
       ],
       [
         "11/12 14:25",
-        60845.0,
+        60870.0,
         60900.0,
         60945.0,
         60835.0
       ],
       [
-        "11/12 14:28",
-        60860.0,
-        60860.0,
-        60860.0,
-        60860.0
+        "11/12 14:30",
+        60870.0,
+        60815.0,
+        60930.0,
+        60810.0
+      ],
+      [
+        "11/12 14:33",
+        60880.0,
+        60880.0,
+        60880.0,
+        60880.0
       ]
     ]
   },
   "fx": {
-    "price": 159.674,
+    "price": 159.6945,
     "prev": 159.8065
   },
   "topix": {
