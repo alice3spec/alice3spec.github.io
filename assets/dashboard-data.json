@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T05:43:12.469372+09:00",
+  "updated": "2026-11-13T05:48:18.117859+09:00",
   "feeds": {
     "kabu": [
       {
@@ -15,11 +15,6 @@
         "body": "a01.txt"
       },
       {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-12T17:49:11+00:00"
-      },
-      {
         "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
         "date": "2026-11-11T22:30:00+00:00"
@@ -27,7 +22,8 @@
       {
         "title": "日経平均VIは上昇、株価上昇ピッチの速さを警戒 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DR1h3ek5KTUo1OXBnSHZ4dm16MnNxVjFkQUtTN2VnaXFka2VIQ1lZOU91WExTeUh5cTN1alhfcklSZGtBbDdYcEt3VVZiWHp5SVE?oc=5",
-        "date": "2026-11-12T05:22:36+00:00"
+        "date": "2026-11-12T05:22:36+00:00",
+        "body": "a03.txt"
       },
       {
         "title": "東証14時 日経平均は軟調 200円安 米エヌビディア巡る懸念根強く - 日本経済新聞",
@@ -37,12 +33,18 @@
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅縮小 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90XzJMdTZjSE9rSzBNTWcwdFhzR0JKcjZrZ0ZLS0x3MFpMX1Q1cFlkLXNNUFcyeWRxT3lPa09jQXFWSUF2MHlaN05YTXVTZnozTHhFbUFla3RkZnpzeTNTWg?oc=5",
-        "date": "2026-11-12T03:31:00+00:00"
+        "date": "2026-11-12T03:31:00+00:00",
+        "body": "a05.txt"
       },
       {
         "title": "日経平均株価は4日ぶり反落 終値は429円安の6万0819円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LUhDZDJpTlVreEJjOGVucGViOXRMWjQwVlBiU2F4R2UyN0lBcDVPZ25HXzk3dnF5MWIzdXVWM2FocVRZQldTaEVvUGZEUVRvdWctOVVoMTR6UFFQSGZMcXYtZER6dE5sdWZWQg?oc=5",
         "date": "2026-11-12T00:05:37+00:00"
+      },
+      {
+        "title": "明日の株式相場に向けて＝ファンＣＥＯ退任後の世界を織り込みはじめたマーケット - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VVHdEM25LYkU0bTFLX0RIWmdtUUZiQ0hqTWxWQ0V5RTdFNnVUN3V3NjFxV1RtSzlrVHpQemMtVnNodXFxN1A1Vm9FaUl3dUZJRUc4aXlHcnpRT1M0X1Rfdg?oc=5",
+        "date": "2026-11-12T08:53:00+00:00"
       },
       {
         "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
@@ -339,7 +341,7 @@
     ]
   },
   "weather": {
-    "temp": 15.4,
+    "temp": 14.9,
     "code": 2,
     "max": 20.4,
     "min": 13.7,
@@ -459,7 +461,7 @@
     }
   },
   "index": {
-    "price": 61165.0,
+    "price": 61185.0,
     "prev": 62015.0,
     "points": [
       [
@@ -2263,26 +2265,33 @@
       ],
       [
         "11/13 05:30",
-        61165.0,
+        61170.0,
         61215.0,
         61215.0,
         61145.0
       ],
       [
-        "11/13 05:32",
-        61165.0,
-        61165.0,
-        61165.0,
-        61165.0
+        "11/13 05:35",
+        61185.0,
+        61170.0,
+        61185.0,
+        61155.0
+      ],
+      [
+        "11/13 05:38",
+        61185.0,
+        61185.0,
+        61185.0,
+        61185.0
       ]
     ]
   },
   "fx": {
-    "price": 159.8745,
+    "price": 159.8895,
     "prev": 159.8065
   },
   "topix": {
-    "price": 141.3,
+    "price": 141.25,
     "prev": 139.75
   },
   "ver": "v58"
