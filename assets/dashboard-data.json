@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:18:26.211698+09:00",
+  "updated": "2026-11-12T19:23:13.512308+09:00",
   "feeds": {
     "kabu": [
       {
@@ -44,6 +44,11 @@
         "date": "2026-11-12T07:30:00+00:00"
       },
       {
+        "title": "明日の株式相場に向けて＝ファンＣＥＯ退任後の世界を織り込みはじめたマーケット - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VVHdEM25LYkU0bTFLX0RIWmdtUUZiQ0hqTWxWQ0V5RTdFNnVUN3V3NjFxV1RtSzlrVHpQemMtVnNodXFxN1A1Vm9FaUl3dUZJRUc4aXlHcnpRT1M0X1Rfdg?oc=5",
+        "date": "2026-11-12T08:53:00+00:00"
+      },
+      {
         "title": "日経平均終値429円安、NVIDIA報道に揺れるAI株 買いは商社へ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13c05HVy1DYmpXa3FsVHdiT3hvbmZvUDJ3WXU4R3RuYzEyRWFqUnJ3LXhnLUdyR3lxUTVGanpIeEdVdzRZXzFSQ1dkbWk4VWFmTUJ0LU1IdHlRX2dkTFlWQUxQYkFfLXc1YkI1UQ?oc=5",
         "date": "2026-11-12T02:47:20+00:00"
@@ -57,11 +62,6 @@
         "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGpMWE5fdTVpdW1rYkRmYXFCTC0yNFNIbHdDUUJSWG9iUF9GeEpzbTRVcHJXT1lOdlhZOHFxNFRibWQtdHB5dkpYaW1nLUhwMnAtLWdhYllGTi1fbUtvMmliX09WbVc2S3BiNA?oc=5",
         "date": "2026-11-08T22:30:00+00:00"
-      },
-      {
-        "title": "日産自動車、株価続落 4〜9月が2年連続で最終赤字 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YkliaXdqOXBkcm10eXBNWWowYmJlUFNJdUJRTVd1dmNPOWl0RWdTUDNjTXNpS0V6YjNBVktnanFoMDlKVG5RTXpGM0kwVG5DUFR5c29qMnNhSEdpejNvRkNTN19aX1V0TkUyVA?oc=5",
-        "date": "2026-11-12T01:18:32+00:00"
       }
     ],
     "ai": [
@@ -306,20 +306,21 @@
         "body": "a50.txt"
       },
       {
+        "title": "すかいらーく Shin-Shinなぜ買収",
+        "link": "https://news.yahoo.co.jp/pickup/6602322?source=rss",
+        "date": "2026-11-12T10:02:14+00:00",
+        "body": "a51.txt"
+      },
+      {
         "title": "丸亀製麺が値下げ 社長語る危機感",
         "link": "https://news.yahoo.co.jp/pickup/6602316?source=rss",
         "date": "2026-11-12T08:08:13+00:00"
       },
       {
-        "title": "あくびは重要「肺魚」研究で確認",
-        "link": "https://news.yahoo.co.jp/pickup/6602317?source=rss",
-        "date": "2026-11-12T08:07:37+00:00",
-        "body": "a52.txt"
-      },
-      {
-        "title": "「マック過疎地」に新店舗 行列",
-        "link": "https://news.yahoo.co.jp/pickup/6602284?source=rss",
-        "date": "2026-11-12T03:02:44+00:00"
+        "title": "Appleサポートコミュ 20日閉鎖へ",
+        "link": "https://news.yahoo.co.jp/pickup/6602292?source=rss",
+        "date": "2026-11-12T03:37:32+00:00",
+        "body": "a53.txt"
       },
       {
         "title": "速報アジアプロ野球 侍Jvs台湾",
@@ -453,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 61110.0,
+    "price": 61120.0,
     "prev": 62015.0,
     "points": [
       [
@@ -1385,19 +1386,26 @@
         61095.0,
         61130.0,
         61135.0,
+        61080.0
+      ],
+      [
+        "11/12 19:10",
+        61120.0,
+        61095.0,
+        61140.0,
         61095.0
       ],
       [
-        "11/12 19:08",
-        61110.0,
-        61110.0,
-        61110.0,
-        61110.0
+        "11/12 19:12",
+        61120.0,
+        61120.0,
+        61120.0,
+        61120.0
       ]
     ]
   },
   "fx": {
-    "price": 159.633,
+    "price": 159.641,
     "prev": 159.8065
   },
   "topix": {
