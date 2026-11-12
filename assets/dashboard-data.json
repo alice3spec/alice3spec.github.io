@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T15:23:30.881150+09:00",
+ "updated": "2026-11-12T15:28:22.766963+09:00",
  "feeds": {
   "kabu": [
    {
@@ -59,9 +59,9 @@
     "date": "2026-11-12T03:31:13+00:00"
    },
    {
-    "title": "日経平均、465円57銭高の6万1714円16銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVQwS2Y5OWVSaXpLQXpnaldqaGs0cXU5ZFBRN1JwZFZ4MkNUQXliUk8wcG9HZEV4RGxzMUdJUDNsSDJMbVhNR3ZwUERvRUlSSXdhcGFwTGFuR2pqaVRVNlAwUkZqZ3VmQ2trYzJXRnY0LW1EQ05GRHdrcktUbnduSUNHdUpSS2M?oc=5",
-    "date": "2026-11-12T02:31:00+00:00"
+    "title": "日経平均、500円超安＝東京株式（時事通信） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HTVRoenlpQlNLYU01bGhOWW5aXzRTS2FSRHNFS0xQYkktRVljWlhUUy1TOG5XblcydWNQYlk1UlNjbU9XMUoycXpaWVZjb1d2MVlVTzBCeldDRk5BOHZQZW1yWDR5VlE3NTF2R3MtLVk3WC0yZkZPTWJXSDk0ejA?oc=5",
+    "date": "2026-11-12T05:30:25+00:00"
    }
   ],
   "ai": [
@@ -455,7 +455,7 @@
   "rain": null
  },
  "index": {
-  "price": 60885.0,
+  "price": 60890.0,
   "prev": 62015.0,
   "points": [
    [
@@ -1061,16 +1061,23 @@
     60825.0
    ],
    [
-    "11/12 15:13",
-    60885.0,
-    60885.0,
-    60885.0,
-    60885.0
+    "11/12 15:15",
+    60895.0,
+    60850.0,
+    60900.0,
+    60815.0
+   ],
+   [
+    "11/12 15:18",
+    60890.0,
+    60890.0,
+    60890.0,
+    60890.0
    ]
   ]
  },
  "fx": {
-  "price": 159.789,
+  "price": 159.755,
   "prev": 159.8065
  },
  "topix": {
