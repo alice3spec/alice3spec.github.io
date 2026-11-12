@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T16:33:23.772271+09:00",
+  "updated": "2026-11-12T16:38:24.128129+09:00",
   "feeds": {
     "kabu": [
       {
@@ -20,24 +20,27 @@
         "body": "a02.txt"
       },
       {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-12T02:44:02+00:00"
+      },
+      {
         "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
-        "date": "2026-11-11T22:30:00+00:00"
+        "date": "2026-11-11T22:30:00+00:00",
+        "body": "a04.txt"
       },
       {
         "title": "日経平均VIは上昇、株価上昇ピッチの速さを警戒 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DR1h3ek5KTUo1OXBnSHZ4dm16MnNxVjFkQUtTN2VnaXFka2VIQ1lZOU91WExTeUh5cTN1alhfcklSZGtBbDdYcEt3VVZiWHp5SVE?oc=5",
-        "date": "2026-11-12T05:22:36+00:00"
+        "date": "2026-11-12T05:22:36+00:00",
+        "body": "a05.txt"
       },
       {
         "title": "（朝）米国市場は3指数揃って上昇　ハイテク株が市場全体をけん引し買いが優勢の展開 - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zamFkZWkzWEVQMHRGb25EQ080YXVkMnloSjBMTGhFZ0oxZlNsNUNDY3Z0Z0M1WFdmT1NMNHBBbGl3X09hbjBGZVhid1lMTGNveFA2VdIBV0FVX3lxTE51QkxkclFOS2V2VnhJRE9icWNyTnFPZ0hVOVRQdTR1TXlBaUFKNGYwWjhlNkowN3lrVlhNdWhwWER4UWpoNHpTczNBZkRiZi03SmoxSFB2WQ?oc=5",
-        "date": "2026-11-11T23:10:00+00:00"
-      },
-      {
-        "title": "日経平均、429円23銭安の6万0819円36銭で終了＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ28wbUZPZnZSdzQ3Y2Jwek1ZcW5aZHI3dVNXN3ozMVNyaUphd2FmZ1VNenVPTFlqcTNueW95ajJwQnpYQ0lHejJwenYzOF9iTk9uLWYtdENyY0tIeW9RbVg5SEJpUXN6WGVldzVaTVgxb1BGRlhmVmxNTVlPd1ZwT1FscmlYYVU?oc=5",
-        "date": "2026-11-12T06:31:01+00:00"
+        "date": "2026-11-11T23:10:00+00:00",
+        "body": "a06.txt"
       },
       {
         "title": "日経平均株価は続伸 午前終値は465円高の6万1714円 - 日本経済新聞",
@@ -216,75 +219,75 @@
     ],
     "gadget": [
       {
+        "title": "ドラクエの序曲やレベルUP音が鳴る。ファミコンカセット型名刺入れでビジネスの冒険に旅立とう",
+        "link": "https://www.gizmodo.jp/article/2611-dq-sound-card-case/",
+        "date": "2026-11-12T07:35:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "iPhone20周年モデルは、アクションボタンが消えるかも",
         "link": "https://www.gizmodo.jp/article/2611-iphone-20-no-action-button/",
         "date": "2026-11-12T06:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "ホテルのテレビ、使わないのはもったいない。役に立つのは、Ankerの「魔法のケーブル」",
         "link": "https://www.gizmodo.jp/article/2611-anker-nano-usb-c-hdmi-cable/",
         "date": "2026-11-12T05:35:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "世界のCO₂排出量、今年は減る見込み。でも理由には「イラン紛争」がある",
         "link": "https://www.gizmodo.jp/article/2611-global-co2-emissions-iran-conflict/",
         "date": "2026-11-12T05:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "データセンターの水不足リスク、思った以上に深刻だった",
         "link": "https://www.gizmodo.jp/article/2611-data-center-water-shortage-risk/",
         "date": "2026-11-12T04:30:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "iPhone 18と18e、一部仕様が共通化の噂。画面サイズも同じになっちゃうの？",
         "link": "https://www.gizmodo.jp/article/2611-iphone-18-and-18e-shared-specs-rumor/",
         "date": "2026-11-12T04:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "NVIDIAのCEOが離婚したら...慰謝料は12兆円くらいになりそう",
         "link": "https://www.gizmodo.jp/article/2611-jensen-huang-divorce-settlement/",
         "date": "2026-11-12T03:15:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "AIで社長になりすまし、従業員に金を振り込ませる。新手の詐欺で200億円超が騙し取られた",
         "link": "https://www.gizmodo.jp/article/ai-ceo-impersonation-fraud-200-billion/",
         "date": "2026-11-12T03:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "M6 iMacで本当に欲しいのは、NeoとProかもしれない",
         "link": "https://www.gizmodo.jp/article/2611-m6-imac-neo-and-pro/",
         "date": "2026-11-12T02:45:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "爆発直後の超新星、撮れました",
         "link": "https://www.gizmodo.jp/article/supernova_images-c5i-lrt/",
         "date": "2026-11-12T02:35:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "Xアプリ、動画の切り抜き機能を実装",
         "link": "https://www.gizmodo.jp/article/2611-x-app-video-clipping-feature/",
         "date": "2026-11-12T02:30:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "夜の駐車場でも「誰か」までわかる。Wi-Fiの届かない場所でも愛車を守る4Gカメラ",
         "link": "https://www.gizmodo.jp/article/tapo-c665g-kit-4g-security-camera/",
         "date": "2026-11-12T02:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "PlayStation Portal プレーヤーの謎…本体ストレージの正体は？ 新たなハンドヘルドゲーム機となるか",
-        "link": "https://www.gizmodo.jp/article/2611-playstation-portal-player-storage-mystery/",
-        "date": "2026-11-12T01:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -457,7 +460,7 @@
     "rain": null
   },
   "index": {
-    "price": 60755.0,
+    "price": 60795.0,
     "prev": 62015.0,
     "points": [
       [
@@ -1148,22 +1151,29 @@
       ],
       [
         "11/12 16:20",
-        60755.0,
+        60805.0,
         60795.0,
         60815.0,
         60755.0
       ],
       [
-        "11/12 16:23",
-        60755.0,
-        60755.0,
-        60755.0,
-        60755.0
+        "11/12 16:25",
+        60795.0,
+        60800.0,
+        60800.0,
+        60775.0
+      ],
+      [
+        "11/12 16:27",
+        60795.0,
+        60795.0,
+        60795.0,
+        60795.0
       ]
     ]
   },
   "fx": {
-    "price": 159.8745,
+    "price": 159.8295,
     "prev": 159.8065
   },
   "topix": {
