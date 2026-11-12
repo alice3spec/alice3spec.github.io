@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:48:23.130256+09:00",
+  "updated": "2026-11-12T13:53:19.142685+09:00",
   "feeds": {
     "kabu": [
       {
@@ -12,11 +12,6 @@
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEJIMDczb1NwNXIzZGkybEJIRE9ocE5MaG9Cekd2RDFRNWl4WkU1WjF0bDhrLWlIcW1fZXFIbkRPcGNyUmpZaGpqY0tzOW90amhxTEItdnhGanJvdjQ0X1dNRGk2RUo0THp6Q21meUtZQWlwR3NHTl9ZQnY3NFFGNmdNaXl5b0k?oc=5",
         "date": "2026-11-09T22:48:16+00:00",
         "body": "a01.txt"
-      },
-      {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-12T02:44:02+00:00"
       },
       {
         "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
@@ -34,14 +29,19 @@
         "date": "2026-11-11T23:10:00+00:00"
       },
       {
+        "title": "日経平均、260円45銭高の6万1509円04銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnlzakNSWlZPV2EyMHczbU9qVk5CZFhEck9vLTcwNHE4MksxSm5HM2NjcGZXeVVYMUlsdVZXLWRFMTZDeUVCb3d5V0RpaVhSSEt0NE4xc2czTVBDek44S1ZMa25GVjZMaDFBaTRRWXdjb0FDV3dkXzZ6SXpHQnlGMmM0WEtyMlU?oc=5",
+        "date": "2026-11-12T03:31:13+00:00"
+      },
+      {
         "title": "日経平均株価は続伸 午前終値は465円高の6万1714円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LUhDZDJpTlVreEJjOGVucGViOXRMWjQwVlBiU2F4R2UyN0lBcDVPZ25HXzk3dnF5MWIzdXVWM2FocVRZQldTaEVvUGZEUVRvdWctOVVoMTR6UFFQSGZMcXYtZER6dE5sdWZWQg?oc=5",
         "date": "2026-11-12T00:05:37+00:00"
       },
       {
-        "title": "日経平均、260円45銭高の6万1509円04銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnlzakNSWlZPV2EyMHczbU9qVk5CZFhEck9vLTcwNHE4MksxSm5HM2NjcGZXeVVYMUlsdVZXLWRFMTZDeUVCb3d5V0RpaVhSSEt0NE4xc2czTVBDek44S1ZMa25GVjZMaDFBaTRRWXdjb0FDV3dkXzZ6SXpHQnlGMmM0WEtyMlU?oc=5",
-        "date": "2026-11-12T03:31:13+00:00"
+        "title": "日経平均、465円57銭高の6万1714円16銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVQwS2Y5OWVSaXpLQXpnaldqaGs0cXU5ZFBRN1JwZFZ4MkNUQXliUk8wcG9HZEV4RGxzMUdJUDNsSDJMbVhNR3ZwUERvRUlSSXdhcGFwTGFuR2pqaVRVNlAwUkZqZ3VmQ2trYzJXRnY0LW1EQ05GRHdrcktUbnduSUNHdUpSS2M?oc=5",
+        "date": "2026-11-12T02:31:00+00:00"
       },
       {
         "title": "日経平均午前465円高、NVIDIA報道に揺れるAI株 買いは商社へ - 日本経済新聞",
@@ -306,10 +306,16 @@
         "body": "a50.txt"
       },
       {
+        "title": "すかいらーくHDがShin-Shin買収",
+        "link": "https://news.yahoo.co.jp/pickup/6602300?source=rss",
+        "date": "2026-11-12T04:43:45+00:00",
+        "body": "a51.txt"
+      },
+      {
         "title": "猟犬が飼い猫をかみ殺す 市が謝罪",
         "link": "https://news.yahoo.co.jp/pickup/6602295?source=rss",
         "date": "2026-11-12T04:17:24+00:00",
-        "body": "a51.txt"
+        "body": "a52.txt"
       },
       {
         "title": "「マック過疎地」に新店舗 行列",
@@ -320,18 +326,12 @@
         "title": "二重かわいい 女子大学生の違和感",
         "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
         "date": "2026-11-12T02:02:36+00:00",
-        "body": "a53.txt"
+        "body": "a54.txt"
       },
       {
         "title": "大谷 オールMLBチーム選出されず",
         "link": "https://news.yahoo.co.jp/pickup/6602297?source=rss",
         "date": "2026-11-12T04:23:29+00:00",
-        "body": "a54.txt"
-      },
-      {
-        "title": "山瀬まみ 脳梗塞闘病して心に変化",
-        "link": "https://news.yahoo.co.jp/pickup/6602296?source=rss",
-        "date": "2026-11-12T04:36:29+00:00",
         "body": "a55.txt"
       }
     ]
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 61275.0,
+    "price": 61235.0,
     "prev": 62015.0,
     "points": [
       [
@@ -928,22 +928,29 @@
       ],
       [
         "11/12 13:35",
-        61245.0,
+        61225.0,
         61210.0,
         61275.0,
         61210.0
       ],
       [
-        "11/12 13:38",
-        61275.0,
-        61275.0,
-        61275.0,
-        61275.0
+        "11/12 13:40",
+        61255.0,
+        61220.0,
+        61255.0,
+        61195.0
+      ],
+      [
+        "11/12 13:43",
+        61235.0,
+        61235.0,
+        61235.0,
+        61235.0
       ]
     ]
   },
   "fx": {
-    "price": 159.642,
+    "price": 159.6925,
     "prev": 159.8065
   },
   "topix": {
