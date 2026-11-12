@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:33:27.865488+09:00",
+  "updated": "2026-11-13T06:38:27.986272+09:00",
   "feeds": {
     "kabu": [
       {
@@ -67,75 +67,75 @@
     ],
     "ai": [
       {
+        "title": "AIに書かせたkintoneのコード、そのまま使って大丈夫？　無料診断の提供始まる",
+        "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003159/",
+        "date": "2026-11-12T21:00:00+00:00",
+        "body": "a12.txt"
+      },
+      {
         "title": "総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html",
         "date": "2026-11-12T20:00:00+00:00",
-        "body": "a12.txt"
+        "body": "a13.txt"
       },
       {
         "title": "Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
         "date": "2026-11-12T05:43:18+00:00",
-        "body": "a13.txt"
+        "body": "a14.txt"
       },
       {
         "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
         "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
         "date": "2026-11-12T05:10:47+00:00",
-        "body": "a14.txt"
+        "body": "a15.txt"
       },
       {
         "title": "パナソニックが250人体制で挑む「フィジカルAI」　職人の暗黙知をAI化、外販も視野に",
         "link": "https://www.itmedia.co.jp/business/articles/2611/12/news037.html",
         "date": "2026-11-12T04:30:00+00:00",
-        "body": "a15.txt"
+        "body": "a16.txt"
       },
       {
         "title": "AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/",
         "date": "2026-11-12T03:52:57+00:00",
-        "body": "a16.txt"
+        "body": "a17.txt"
       },
       {
         "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
         "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
         "date": "2026-11-12T02:29:43+00:00",
-        "body": "a17.txt"
+        "body": "a18.txt"
       },
       {
         "title": "OpenAI APIで国内推論可能に　GPT-6 Lunaのみ",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003129/",
         "date": "2026-11-12T02:25:53+00:00",
-        "body": "a18.txt"
+        "body": "a19.txt"
       },
       {
         "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
         "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
         "date": "2026-11-12T01:49:56+00:00",
-        "body": "a19.txt"
+        "body": "a20.txt"
       },
       {
         "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
         "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
         "date": "2026-11-12T00:56:17+00:00",
-        "body": "a20.txt"
+        "body": "a21.txt"
       },
       {
         "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
         "date": "2026-11-11T23:00:00+00:00",
-        "body": "a21.txt"
+        "body": "a22.txt"
       },
       {
         "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
         "date": "2026-11-11T22:03:58+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "AWSで「ChatGPT Enterprise」を購入可能に　AWSアカウントで一括管理するメリットは",
-        "link": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003080/",
-        "date": "2026-11-11T22:00:00+00:00",
         "body": "a23.txt"
       }
     ],
@@ -459,7 +459,7 @@
     }
   },
   "index": {
-    "price": 61240.0,
+    "price": 61315.0,
     "prev": 62015.0,
     "points": [
       [
@@ -2333,22 +2333,29 @@
       ],
       [
         "11/13 06:20",
+        61255.0,
         61240.0,
-        61240.0,
-        61240.0,
+        61255.0,
         61240.0
       ],
       [
-        "11/13 06:22",
-        61240.0,
-        61240.0,
-        61240.0,
-        61240.0
+        "11/13 06:25",
+        61315.0,
+        61275.0,
+        61315.0,
+        61270.0
+      ],
+      [
+        "11/13 06:27",
+        61315.0,
+        61315.0,
+        61315.0,
+        61315.0
       ]
     ]
   },
   "fx": {
-    "price": 159.883,
+    "price": 159.871,
     "prev": 159.8065
   },
   "topix": {
