@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:38:27.986272+09:00",
+  "updated": "2026-11-13T06:43:44.743119+09:00",
   "feeds": {
     "kabu": [
       {
@@ -331,9 +331,9 @@
         "body": "a54.txt"
       },
       {
-        "title": "幾田りら 映画で本格俳優デビュー",
-        "link": "https://news.yahoo.co.jp/pickup/6602358?source=rss",
-        "date": "2026-11-12T21:27:20+00:00",
+        "title": "幾田りら 髪染め本格俳優デビュー",
+        "link": "https://news.yahoo.co.jp/pickup/6602359?source=rss",
+        "date": "2026-11-12T21:40:10+00:00",
         "body": "a55.txt"
       }
     ]
@@ -2355,7 +2355,7 @@
     ]
   },
   "fx": {
-    "price": 159.871,
+    "price": 159.8655,
     "prev": 159.8065
   },
   "topix": {
