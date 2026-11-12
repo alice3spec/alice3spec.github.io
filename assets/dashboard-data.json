@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T10:48:27.917926+09:00",
+  "updated": "2026-11-12T10:53:21.335120+09:00",
   "feeds": {
     "kabu": [
       {
@@ -59,9 +59,9 @@
         "date": "2026-11-12T00:04:04+00:00"
       },
       {
-        "title": "１２日の東京株式市場見通し＝６万２０００円台試すも利益確定売り意識(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEc5Tnc1dHNueEhYbkFIYWd5c09OclBQbk5HeFdkSU1VekxRZ0hDV2FIdjN5QVZRX0c3eWxWOXpEaDdxX0pDY1NVcF9EeUItSE1vcjJBVVVLei15Q0JyU016d05yZzVpVm5IZXo4RjRpek1Va2RiVFZKWmZmdVZ1VUlZTC01bUE?oc=5",
-        "date": "2026-11-11T22:48:03+00:00"
+        "title": "日本マクドナルドHDの株価、上場来高値（11日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KMHVsVXNfam9kNUYtSHMzZGlXU2Vmd3E4MkFHVE9GVmNuYVY5dXdvaTBFcm5HVUhya3JfZkJyYzMwQnpuOE5zZWx4bHNmNTI0UmJNZUtRYVI4TkZINGZCOHg4WUYyeTYyTk91ag?oc=5",
+        "date": "2026-11-11T07:30:00+00:00"
       }
     ],
     "ai": [
@@ -306,9 +306,9 @@
         "body": "a50.txt"
       },
       {
-        "title": "スペインでゼネスト 400万人参加",
-        "link": "https://news.yahoo.co.jp/pickup/6602261?source=rss",
-        "date": "2026-11-12T00:55:43+00:00",
+        "title": "スペイン 14年ぶりの全国ゼネスト",
+        "link": "https://news.yahoo.co.jp/pickup/6602272?source=rss",
+        "date": "2026-11-12T01:50:03+00:00",
         "body": "a51.txt"
       },
       {
@@ -455,7 +455,7 @@
     "rain": null
   },
   "index": {
-    "price": 61565.0,
+    "price": 61655.0,
     "prev": 62015.0,
     "points": [
       [
@@ -677,22 +677,29 @@
       ],
       [
         "11/12 10:35",
-        61565.0,
+        61660.0,
         61595.0,
-        61625.0,
+        61675.0,
         61545.0
       ],
       [
-        "11/12 10:38",
-        61565.0,
-        61565.0,
-        61565.0,
-        61565.0
+        "11/12 10:40",
+        61655.0,
+        61675.0,
+        61680.0,
+        61595.0
+      ],
+      [
+        "11/12 10:42",
+        61655.0,
+        61655.0,
+        61655.0,
+        61655.0
       ]
     ]
   },
   "fx": {
-    "price": 159.6565,
+    "price": 159.6685,
     "prev": 159.8065
   },
   "topix": {
