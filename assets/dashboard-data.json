@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T20:18:16.635027+09:00",
+  "updated": "2026-11-12T20:23:16.848304+09:00",
   "feeds": {
     "kabu": [
       {
@@ -40,6 +40,11 @@
         "date": "2026-11-12T08:53:00+00:00"
       },
       {
+        "title": "日経平均VIは上昇、株価上昇ピッチの速さを警戒(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQa2cwdzBrOWpLVDYxTDJ2WTZRVlRGSnpFb054MjZ3d2E5YUtoM0FvRFc5YzE4S3N1RlRsVVlkbk5nNXo2LUUzY0lNZlkxdlM4d0pTSnFWZXZSaFJaMS1BX1V6Ti1YZ2JfclM0ME1SOE1Hc1hFa3lZbDY0czkwR2ozdng1RkZsSWM?oc=5",
+        "date": "2026-11-12T05:22:36+00:00"
+      },
+      {
         "title": "日経平均株価は4日ぶり反落 終値は429円安の6万0819円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LUhDZDJpTlVreEJjOGVucGViOXRMWjQwVlBiU2F4R2UyN0lBcDVPZ25HXzk3dnF5MWIzdXVWM2FocVRZQldTaEVvUGZEUVRvdWctOVVoMTR6UFFQSGZMcXYtZER6dE5sdWZWQg?oc=5",
         "date": "2026-11-12T00:05:37+00:00"
@@ -58,11 +63,6 @@
         "title": "日産自動車、株価続落 4〜9月が2年連続で最終赤字 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YkliaXdqOXBkcm10eXBNWWowYmJlUFNJdUJRTVd1dmNPOWl0RWdTUDNjTXNpS0V6YjNBVktnanFoMDlKVG5RTXpGM0kwVG5DUFR5c29qMnNhSEdpejNvRkNTN19aX1V0TkUyVA?oc=5",
         "date": "2026-11-12T01:18:32+00:00"
-      },
-      {
-        "title": "楽天銀行の株価急落 カード事業の苦戦警戒、「弱い内容」の声 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mQnVNdTVFUTFDaXQyTEtOUXpvdmllZEpPM3JKSW1iYmhaRXlPWTVGTHdJM1N4Q2hhUEFVZ0UxY1NyQWlTZjV5d3gzUllqU1kzYVdtYTQtYmFiQkxudUdfcVp5Y1NmLWp1T3ZzRg?oc=5",
-        "date": "2026-11-12T05:56:00+00:00"
       }
     ],
     "ai": [
@@ -456,7 +456,7 @@
     "rain": null
   },
   "index": {
-    "price": 61130.0,
+    "price": 61175.0,
     "prev": 62015.0,
     "points": [
       [
@@ -1469,22 +1469,29 @@
       ],
       [
         "11/12 20:05",
-        61145.0,
+        61165.0,
         61070.0,
-        61145.0,
+        61165.0,
         61070.0
       ],
       [
-        "11/12 20:08",
-        61130.0,
-        61130.0,
-        61130.0,
-        61130.0
+        "11/12 20:10",
+        61175.0,
+        61165.0,
+        61175.0,
+        61160.0
+      ],
+      [
+        "11/12 20:12",
+        61175.0,
+        61175.0,
+        61175.0,
+        61175.0
       ]
     ]
   },
   "fx": {
-    "price": 159.6745,
+    "price": 159.66,
     "prev": 159.8065
   },
   "topix": {
