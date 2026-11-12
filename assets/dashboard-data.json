@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T03:03:26.343340+09:00",
+  "updated": "2026-11-13T03:08:28.786043+09:00",
   "feeds": {
     "kabu": [
       {
@@ -37,19 +37,20 @@
         "body": "a05.txt"
       },
       {
+        "title": "東証14時 日経平均は軟調 200円安 米エヌビディア巡る懸念根強く - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02S0NLczMxaE1la1pfRHJOYVhDTG5XczJjRmh6S2pPWXNvWWFvaXFwaFBsd2JjZGZpVnQ2Zm50X1V2MHJ1NHgwUk5kYmRreWFnU1JyeUZ5YmI3SE9NRVdQcEV4R2JMQzlUVWlvYQ?oc=5",
+        "date": "2026-11-12T05:13:50+00:00"
+      },
+      {
         "title": "明日の株式相場に向けて＝ファンＣＥＯ退任後の世界を織り込みはじめたマーケット - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VVHdEM25LYkU0bTFLX0RIWmdtUUZiQ0hqTWxWQ0V5RTdFNnVUN3V3NjFxV1RtSzlrVHpQemMtVnNodXFxN1A1Vm9FaUl3dUZJRUc4aXlHcnpRT1M0X1Rfdg?oc=5",
-        "date": "2026-11-12T08:53:00+00:00"
+        "date": "2026-11-12T08:53:00+00:00",
+        "body": "a07.txt"
       },
       {
         "title": "日経平均終値429円安、NVIDIA報道に揺れるAI株 買いは商社へ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13c05HVy1DYmpXa3FsVHdiT3hvbmZvUDJ3WXU4R3RuYzEyRWFqUnJ3LXhnLUdyR3lxUTVGanpIeEdVdzRZXzFSQ1dkbWk4VWFmTUJ0LU1IdHlRX2dkTFlWQUxQYkFfLXc1YkI1UQ?oc=5",
         "date": "2026-11-12T02:47:20+00:00"
-      },
-      {
-        "title": "【市況】 本日の【株式分割】銘柄 (12日大引け後 発表分) - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvMDVmOE1HNDNkTGl3Y3NLbS1meHFLR2ZDb0dxempxVVBZWUNBTnU2V2FGYUJOVlFtZVN6UGctUVJpZkwyaW1QRVo4VnFsamdtLXN6ZzRBM3RSM1R3aDc4UQ?oc=5",
-        "date": "2026-11-12T09:50:00+00:00"
       },
       {
         "title": "日経平均株価、米ハイテク株高が追い風（先読み株式相場） - 日本経済新聞",
@@ -458,7 +459,7 @@
     "rain": null
   },
   "index": {
-    "price": 61540.0,
+    "price": 61465.0,
     "prev": 62015.0,
     "points": [
       [
@@ -2031,26 +2032,33 @@
       ],
       [
         "11/13 02:50",
-        61550.0,
+        61530.0,
         61545.0,
         61570.0,
         61525.0
       ],
       [
-        "11/13 02:53",
-        61540.0,
-        61540.0,
-        61540.0,
-        61540.0
+        "11/13 02:55",
+        61410.0,
+        61530.0,
+        61535.0,
+        61410.0
+      ],
+      [
+        "11/13 02:58",
+        61465.0,
+        61465.0,
+        61465.0,
+        61465.0
       ]
     ]
   },
   "fx": {
-    "price": 159.79,
+    "price": 159.7625,
     "prev": 159.8065
   },
   "topix": {
-    "price": 142.695,
+    "price": 142.59,
     "prev": 139.75
   },
   "ver": "v58"
