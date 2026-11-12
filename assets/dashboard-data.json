@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T19:38:14.865779+09:00",
+  "updated": "2026-11-12T19:43:21.721586+09:00",
   "feeds": {
     "kabu": [
       {
@@ -19,9 +19,10 @@
         "date": "2026-11-11T22:30:00+00:00"
       },
       {
-        "title": "日経平均VIは上昇、株価上昇ピッチの速さを警戒 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DR1h3ek5KTUo1OXBnSHZ4dm16MnNxVjFkQUtTN2VnaXFka2VIQ1lZOU91WExTeUh5cTN1alhfcklSZGtBbDdYcEt3VVZiWHp5SVE?oc=5",
-        "date": "2026-11-12T05:22:36+00:00"
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅縮小 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90XzJMdTZjSE9rSzBNTWcwdFhzR0JKcjZrZ0ZLS0x3MFpMX1Q1cFlkLXNNUFcyeWRxT3lPa09jQXFWSUF2MHlaN05YTXVTZnozTHhFbUFla3RkZnpzeTNTWg?oc=5",
+        "date": "2026-11-12T03:31:00+00:00",
+        "body": "a03.txt"
       },
       {
         "title": "（朝）米国市場は3指数揃って上昇　ハイテク株が市場全体をけん引し買いが優勢の展開 - マネクリ",
@@ -34,19 +35,14 @@
         "date": "2026-11-12T05:14:35+00:00"
       },
       {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅縮小 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90XzJMdTZjSE9rSzBNTWcwdFhzR0JKcjZrZ0ZLS0x3MFpMX1Q1cFlkLXNNUFcyeWRxT3lPa09jQXFWSUF2MHlaN05YTXVTZnozTHhFbUFla3RkZnpzeTNTWg?oc=5",
-        "date": "2026-11-12T03:31:00+00:00"
-      },
-      {
-        "title": "イビデン8%安、米NVIDIA報道で連想売り（12日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82LTc5cUtUVDBtMWJlWUJhTXBqZGxlMEpMT1pQU1BBbnlFV3hEakl6dWhCRzU5d2JqVHRaUEl2ZEljTXBCQXo4TzF5U0Zxb3Vvbk9JQ2R1STRwYlVkMGZCUzljXy1wWEx1MWsxOA?oc=5",
-        "date": "2026-11-12T07:30:00+00:00"
-      },
-      {
         "title": "明日の株式相場に向けて＝ファンＣＥＯ退任後の世界を織り込みはじめたマーケット - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VVHdEM25LYkU0bTFLX0RIWmdtUUZiQ0hqTWxWQ0V5RTdFNnVUN3V3NjFxV1RtSzlrVHpQemMtVnNodXFxN1A1Vm9FaUl3dUZJRUc4aXlHcnpRT1M0X1Rfdg?oc=5",
         "date": "2026-11-12T08:53:00+00:00"
+      },
+      {
+        "title": "日経平均株価は4日ぶり反落 終値は429円安の6万0819円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LUhDZDJpTlVreEJjOGVucGViOXRMWjQwVlBiU2F4R2UyN0lBcDVPZ25HXzk3dnF5MWIzdXVWM2FocVRZQldTaEVvUGZEUVRvdWctOVVoMTR6UFFQSGZMcXYtZER6dE5sdWZWQg?oc=5",
+        "date": "2026-11-12T00:05:37+00:00"
       },
       {
         "title": "日経平均終値429円安、NVIDIA報道に揺れるAI株 買いは商社へ - 日本経済新聞",
@@ -62,6 +58,11 @@
         "title": "日産自動車、株価続落 4〜9月が2年連続で最終赤字 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4YkliaXdqOXBkcm10eXBNWWowYmJlUFNJdUJRTVd1dmNPOWl0RWdTUDNjTXNpS0V6YjNBVktnanFoMDlKVG5RTXpGM0kwVG5DUFR5c29qMnNhSEdpejNvRkNTN19aX1V0TkUyVA?oc=5",
         "date": "2026-11-12T01:18:32+00:00"
+      },
+      {
+        "title": "楽天銀行の株価急落 カード事業の苦戦警戒、「弱い内容」の声 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mQnVNdTVFUTFDaXQyTEtOUXpvdmllZEpPM3JKSW1iYmhaRXlPWTVGTHdJM1N4Q2hhUEFVZ0UxY1NyQWlTZjV5d3gzUllqU1kzYVdtYTQtYmFiQkxudUdfcVp5Y1NmLWp1T3ZzRg?oc=5",
+        "date": "2026-11-12T05:56:00+00:00"
       }
     ],
     "ai": [
@@ -455,15 +456,15 @@
     "rain": null
   },
   "index": {
-    "price": 61185.0,
+    "price": 61175.0,
     "prev": 62015.0,
     "points": [
       [
         "11/12 08:00",
         61670.0,
-        61670.0,
-        61670.0,
-        61670.0
+        61850.0,
+        61850.0,
+        61585.0
       ],
       [
         "11/12 08:05",
@@ -481,7 +482,7 @@
       ],
       [
         "11/12 08:15",
-        61520.0,
+        61515.0,
         61490.0,
         61565.0,
         61450.0
@@ -503,28 +504,28 @@
       [
         "11/12 08:30",
         61700.0,
-        61690.0,
+        61680.0,
         61725.0,
         61630.0
       ],
       [
         "11/12 08:35",
         61500.0,
-        61675.0,
+        61655.0,
         61675.0,
         61470.0
       ],
       [
         "11/12 08:40",
-        61480.0,
+        61465.0,
         61500.0,
         61525.0,
-        61470.0
+        61465.0
       ],
       [
         "11/12 08:45",
         61520.0,
-        61450.0,
+        61445.0,
         61635.0,
         61445.0
       ],
@@ -545,7 +546,7 @@
       [
         "11/12 09:00",
         61650.0,
-        61490.0,
+        61500.0,
         61750.0,
         61425.0
       ],
@@ -575,14 +576,14 @@
         61485.0,
         61445.0,
         61500.0,
-        61415.0
+        61385.0
       ],
       [
         "11/12 09:25",
         61510.0,
-        61470.0,
+        61520.0,
         61525.0,
-        61435.0
+        61430.0
       ],
       [
         "11/12 09:30",
@@ -629,7 +630,7 @@
       [
         "11/12 10:00",
         61520.0,
-        61535.0,
+        61540.0,
         61615.0,
         61485.0
       ],
@@ -657,7 +658,7 @@
       [
         "11/12 10:20",
         61495.0,
-        61530.0,
+        61520.0,
         61565.0,
         61455.0
       ],
@@ -685,7 +686,7 @@
       [
         "11/12 10:40",
         61630.0,
-        61670.0,
+        61675.0,
         61680.0,
         61595.0
       ],
@@ -733,7 +734,7 @@
       ],
       [
         "11/12 11:15",
-        61870.0,
+        61865.0,
         61755.0,
         61870.0,
         61750.0
@@ -839,7 +840,7 @@
       [
         "11/12 12:30",
         61475.0,
-        61630.0,
+        61640.0,
         61640.0,
         61450.0
       ],
@@ -1033,9 +1034,16 @@
         60755.0
       ],
       [
+        "11/12 14:55",
+        60755.0,
+        60755.0,
+        60805.0,
+        60750.0
+      ],
+      [
         "11/12 15:00",
         60775.0,
-        60735.0,
+        60750.0,
         60785.0,
         60730.0
       ],
@@ -1069,7 +1077,7 @@
       ],
       [
         "11/12 15:25",
-        60860.0,
+        60870.0,
         60885.0,
         60905.0,
         60815.0
@@ -1077,13 +1085,13 @@
       [
         "11/12 15:30",
         60765.0,
-        60850.0,
+        60855.0,
         60935.0,
         60765.0
       ],
       [
         "11/12 15:35",
-        60860.0,
+        60855.0,
         60790.0,
         60860.0,
         60780.0
@@ -1098,13 +1106,13 @@
       [
         "11/12 15:45",
         60675.0,
-        60715.0,
+        60725.0,
         60725.0,
         60660.0
       ],
       [
         "11/12 15:50",
-        60695.0,
+        60690.0,
         60685.0,
         60710.0,
         60660.0
@@ -1133,7 +1141,7 @@
       [
         "11/12 16:10",
         60830.0,
-        60890.0,
+        60895.0,
         60900.0,
         60810.0
       ],
@@ -1266,7 +1274,7 @@
       [
         "11/12 17:45",
         60820.0,
-        60835.0,
+        60825.0,
         60855.0,
         60800.0
       ],
@@ -1411,16 +1419,23 @@
         61155.0
       ],
       [
-        "11/12 19:28",
+        "11/12 19:30",
+        61175.0,
         61185.0,
-        61185.0,
-        61185.0,
-        61185.0
+        61200.0,
+        61175.0
+      ],
+      [
+        "11/12 19:32",
+        61175.0,
+        61175.0,
+        61175.0,
+        61175.0
       ]
     ]
   },
   "fx": {
-    "price": 159.63,
+    "price": 159.588,
     "prev": 159.8065
   },
   "topix": {
