@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:43:18.723149+09:00",
+  "updated": "2026-11-12T09:48:21.398324+09:00",
   "feeds": {
     "kabu": [
       {
@@ -51,19 +51,19 @@
         "date": "2026-11-11T08:30:00+00:00"
       },
       {
-        "title": "日経平均、300円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTEZodEgwOWxGaFpaUVdTRGtiVUNuR3cyaWtIMEljR1pYOEE4ZEVTdUhLYldOSERVVHBOYXNoeU51WW1pVXR0WlZDOXZaYnRZQUZLbjNob2VGUHloaUNJcTBuTnNIVlNQVWlvVWFGbVktbU0yQ1YxTGJicERjOVBWNmtZLVJqQUU?oc=5",
-        "date": "2026-11-12T00:03:24+00:00"
+        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
+        "date": "2026-11-10T22:30:24+00:00"
+      },
+      {
+        "title": "日経平均、400円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdTZHZ0RXRmxNaGZmRC1WclNwYkZoc2k4NTZfMVFZYXp5bHV4enJtUEx3OFZuYWFXYmhvSmw4aFAxZjFoM2F2M3JyT3VEQ1NvUk1BR25IaXRGYVJ4dnJJOFhMU2VxODFzeG0xQXdIcjZWOGZKQUF2YmZGb1kwYnd3Z1I3dEhMbGc?oc=5",
+        "date": "2026-11-12T00:04:04+00:00"
       },
       {
         "title": "日経平均VIは低下、株価上昇ピッチの速さへの警戒感も - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmSUxmVkNUUk1PelpzZXlwanJIbHJvbTFmVVFWeTJEa2laR3M1T3dRcURkTE05UkZlRzdab0RZcXE0dXUteHJjZEF3S2dhV2hqeTNIM0l5b1lDZkcxdkVVcA?oc=5",
         "date": "2026-11-11T05:21:02+00:00"
-      },
-      {
-        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
-        "date": "2026-11-10T22:30:24+00:00"
       }
     ],
     "ai": [
@@ -308,9 +308,10 @@
         "body": "a50.txt"
       },
       {
-        "title": "給食費を自腹で穴埋め 課題指摘",
-        "link": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
-        "date": "2026-11-11T23:20:24+00:00"
+        "title": "EU「ダークパターン」禁止へ",
+        "link": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
+        "date": "2026-11-12T00:11:57+00:00",
+        "body": "a51.txt"
       },
       {
         "title": "「毛沢東」中国若者の間でブーム",
@@ -339,7 +340,7 @@
     ]
   },
   "weather": {
-    "temp": 14.9,
+    "temp": 15.2,
     "code": 0,
     "max": 19.3,
     "min": 12.1,
@@ -456,7 +457,7 @@
     "rain": null
   },
   "index": {
-    "price": 61460.0,
+    "price": 61375.0,
     "prev": 62015.0,
     "points": [
       [
@@ -587,22 +588,29 @@
       ],
       [
         "11/12 09:30",
-        61390.0,
+        61420.0,
         61515.0,
         61520.0,
-        61375.0
+        61370.0
       ],
       [
-        "11/12 09:33",
-        61460.0,
-        61460.0,
-        61460.0,
-        61460.0
+        "11/12 09:35",
+        61375.0,
+        61415.0,
+        61445.0,
+        61360.0
+      ],
+      [
+        "11/12 09:37",
+        61375.0,
+        61375.0,
+        61375.0,
+        61375.0
       ]
     ]
   },
   "fx": {
-    "price": 159.601,
+    "price": 159.602,
     "prev": 159.8065
   },
   "topix": {
