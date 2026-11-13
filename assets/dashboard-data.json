@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T09:53:23.409013+09:00",
+  "updated": "2026-11-13T09:58:20.299876+09:00",
   "feeds": {
     "kabu": [
       {
@@ -7,11 +7,6 @@
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
         "date": "2026-11-10T22:30:24+00:00",
         "body": "a00.txt"
-      },
-      {
-        "title": "１０日の東京株式市場見通し＝日経平均６万円回復へ、ＴＳＭＣ月次売上を注視(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSEJIMDczb1NwNXIzZGkybEJIRE9ocE5MaG9Cekd2RDFRNWl4WkU1WjF0bDhrLWlIcW1fZXFIbkRPcGNyUmpZaGpqY0tzOW90amhxTEItdnhGanJvdjQ0X1dNRGk2RUo0THp6Q21meUtZQWlwR3NHTl9ZQnY3NFFGNmdNaXl5b0k?oc=5",
-        "date": "2026-11-09T22:48:16+00:00"
       },
       {
         "title": "日経平均株価、AI銘柄の不透明感で内需株に注目（先読み株式相場） - 日本経済新聞",
@@ -29,14 +24,14 @@
         "date": "2026-11-13T00:01:50+00:00"
       },
       {
-        "title": "（朝）米国市場は主要3指数が下落　エヌビディアのCEO辞任と中東情勢を巡る懸念が重し - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zMW1vbzRyaVBMbHBPWEU2dmR5WlBxMGhiUDFkcE9JR2FDdm1kZGNUaUNhQWw1S1dWSDNWY1c5YjFYemVXbF9GWF9pYTRaZGNCa21tZtIBV0FVX3lxTE1hd3E3OFRKenFaTG5PWmV5Y2l1V0ZXekhkSG0zdDdoWnJId2NwX285MDNRRmxvczJvcFgtV2lrWVV0TE5rWXF4WnBMTDJ0cE5xdnJHSHZWaw?oc=5",
-        "date": "2026-11-12T23:22:00+00:00"
-      },
-      {
         "title": "日経平均株価、一時900円高 海外勢が先物買い - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dEJOeHJTODM4aTJabGFwamQySzU4MHJrQ3ozOWw1enFJaEp3WlFnSVhrNWxjZ1A1MU5TOVI1d2lIX3doVDdsbUJtYTVxU1hYc2k1ZHY0WGZ3M05qdy12Ti04cGk2NWZtVFJSQg?oc=5",
         "date": "2026-11-13T00:05:34+00:00"
+      },
+      {
+        "title": "（朝）米国市場は主要3指数が下落　エヌビディアのCEO辞任と中東情勢を巡る懸念が重し - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zMW1vbzRyaVBMbHBPWEU2dmR5WlBxMGhiUDFkcE9JR2FDdm1kZGNUaUNhQWw1S1dWSDNWY1c5YjFYemVXbF9GWF9pYTRaZGNCa21tZtIBV0FVX3lxTE1hd3E3OFRKenFaTG5PWmV5Y2l1V0ZXekhkSG0zdDdoWnJId2NwX285MDNRRmxvczJvcFgtV2lrWVV0TE5rWXF4WnBMTDJ0cE5xdnJHSHZWaw?oc=5",
+        "date": "2026-11-12T23:22:00+00:00"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月13日記） - 株探",
@@ -62,6 +57,11 @@
         "title": "日経平均、800円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa291akZHbi1IakFxb0FXOWZrWHRYT1hxMTFFdGtjT25qT2JzUlY4UW5nVlc1VHotbmh2TnFoU3lOMTh2YU1PMmY1alZRQ3pXQ3oyX3hUX2VWU1B3QzdMZXQyQzd5aUxCc0gxcFVkVy0tY3BxbVJpdG52bEExMVZ1V09YdWg4eTQ?oc=5",
         "date": "2026-11-13T00:07:50+00:00"
+      },
+      {
+        "title": "東証14時 日経平均は軟調 200円安 米エヌビディア巡る懸念根強く - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02S0NLczMxaE1la1pfRHJOYVhDTG5XczJjRmh6S2pPWXNvWWFvaXFwaFBsd2JjZGZpVnQ2Zm50X1V2MHJ1NHgwUk5kYmRreWFnU1JyeUZ5YmI3SE9NRVdQcEV4R2JMQzlUVWlvYQ?oc=5",
+        "date": "2026-11-12T05:13:50+00:00"
       }
     ],
     "ai": [
@@ -455,7 +455,7 @@
     "rain": null
   },
   "index": {
-    "price": 61755.0,
+    "price": 61780.0,
     "prev": 61320.0,
     "points": [
       [
@@ -600,22 +600,29 @@
       ],
       [
         "11/13 09:40",
-        61760.0,
+        61775.0,
         61850.0,
         61865.0,
         61755.0
       ],
       [
-        "11/13 09:43",
-        61755.0,
-        61755.0,
-        61755.0,
-        61755.0
+        "11/13 09:45",
+        61780.0,
+        61815.0,
+        61860.0,
+        61780.0
+      ],
+      [
+        "11/13 09:47",
+        61780.0,
+        61780.0,
+        61780.0,
+        61780.0
       ]
     ]
   },
   "fx": {
-    "price": 159.8995,
+    "price": 159.8465,
     "prev": 159.8515
   },
   "topix": {
