@@ -1,12 +1,7 @@
 {
-  "updated": "2026-11-13T14:58:18.069002+09:00",
+  "updated": "2026-11-13T15:03:19.556050+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
-        "date": "2026-11-10T22:30:24+00:00"
-      },
       {
         "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
@@ -33,24 +28,9 @@
         "date": "2026-11-12T22:48:57+00:00"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月13日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TRmtNNFFiN2duRmN5XzRtV3A3R2VMUVJLeGJnMXJ5WWtkXzJ3TFNYU212RDVEOUxXT2dYaFNhTUtJa3liMW9DdXdheEhtWi1lejFGVkk1Zy1HOFdzSktGMQ?oc=5",
-        "date": "2026-11-12T23:17:42+00:00"
-      },
-      {
-        "title": "日経平均、400円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWxCckQtUGFqcVhncnVYTXdhSW1JZFdkaGN3djgzQlRpZXR5SE5oQzJHZzdvVWg1ZFZ5M2YwbVdXRXNSQ2xSeDRPeFRQRXJjOGNNZVRETjh4UGgxRDhNQXpRbnNwcWMtTUFtN3ZPNkhOZENILThGZnNEYmRULXRQazdoSkFob1U?oc=5",
-        "date": "2026-11-13T00:01:50+00:00"
-      },
-      {
-        "title": "（朝）米国市場は主要3指数が下落　エヌビディアのCEO辞任と中東情勢を巡る懸念が重し - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zMW1vbzRyaVBMbHBPWEU2dmR5WlBxMGhiUDFkcE9JR2FDdm1kZGNUaUNhQWw1S1dWSDNWY1c5YjFYemVXbF9GWF9pYTRaZGNCa21tZtIBV0FVX3lxTE1hd3E3OFRKenFaTG5PWmV5Y2l1V0ZXekhkSG0zdDdoWnJId2NwX285MDNRRmxvczJvcFgtV2lrWVV0TE5rWXF4WnBMTDJ0cE5xdnJHSHZWaw?oc=5",
-        "date": "2026-11-12T23:22:00+00:00"
-      },
-      {
-        "title": "メルカリ株価大幅続落 7〜9月純利益2倍でも取引額・利用人数頭打ち - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WSnp3QmJJNGpSdDBkUlhZd1FNX0gxM002Q1Y5MWpobzBrUEZ5Zm1VbWM2Q1NGd0lZWWktcjQ5emtRRUxnSm9Za2NiVGdUUGRHdnZtNlh4YjczVmotM0poYXc0X0ZMcXFyZ3luYg?oc=5",
-        "date": "2026-11-13T02:14:31+00:00"
+        "title": "日経平均VIは小幅に低下、強弱材料混在し市場心理は一方向に傾かず - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rc0h5RUxJVC1CZHk4MHpxWnU5U0RubXRXcGw2RTdUU1AtQll6OWNhNW5xRDdocHhFak5sS2hXOUhWWlhnalI2U0dJY1I3bUhGaXc?oc=5",
+        "date": "2026-11-13T05:23:23+00:00"
       },
       {
         "title": "日経平均、757円31銭高の6万1576円67銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
@@ -58,9 +38,29 @@
         "date": "2026-11-13T03:31:48+00:00"
       },
       {
-        "title": "日経平均は766円高、寄り後は上げ幅拡大 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tWmk4TE8xbjFVM0xMSWdMXzlSX3ZaYWpFU0VwUDFCQ2FOMU04WUw3YTlpUXNXaWtXQzlYM3dCRGR4azBEZ1cxQkI5aXVDRXpVaWMtOXVhUl9mYUVoNkt2WQ?oc=5",
-        "date": "2026-11-13T00:05:54+00:00"
+        "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
+        "date": "2026-11-11T22:30:00+00:00"
+      },
+      {
+        "title": "日経平均、400円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWxCckQtUGFqcVhncnVYTXdhSW1JZFdkaGN3djgzQlRpZXR5SE5oQzJHZzdvVWg1ZFZ5M2YwbVdXRXNSQ2xSeDRPeFRQRXJjOGNNZVRETjh4UGgxRDhNQXpRbnNwcWMtTUFtN3ZPNkhOZENILThGZnNEYmRULXRQazdoSkFob1U?oc=5",
+        "date": "2026-11-13T00:01:50+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月13日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TRmtNNFFiN2duRmN5XzRtV3A3R2VMUVJLeGJnMXJ5WWtkXzJ3TFNYU212RDVEOUxXT2dYaFNhTUtJa3liMW9DdXdheEhtWi1lejFGVkk1Zy1HOFdzSktGMQ?oc=5",
+        "date": "2026-11-12T23:17:42+00:00"
+      },
+      {
+        "title": "日経平均株価は4日ぶり反落 終値は429円安の6万0819円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LUhDZDJpTlVreEJjOGVucGViOXRMWjQwVlBiU2F4R2UyN0lBcDVPZ25HXzk3dnF5MWIzdXVWM2FocVRZQldTaEVvUGZEUVRvdWctOVVoMTR6UFFQSGZMcXYtZER6dE5sdWZWQg?oc=5",
+        "date": "2026-11-12T00:05:37+00:00"
+      },
+      {
+        "title": "日経平均、997円36銭高の6万1816円72銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2Z1V0VzQmdLWjB6a2pHYWZyU0RPX2pycFNWMkNWTUdMRjJrS2xSV042UGY3YnNKenIyZ3ZHd2NuN0dSbzF0ak4tMTZfWnlhb1lxM2VUbUJXY1NEWG94X2Vzdk5wZ1A1aUxJRV9rZnlCMDBTRkNlemJBV1AxN0Z6REhrQjdFU3M?oc=5",
+        "date": "2026-11-13T02:32:41+00:00"
       }
     ],
     "ai": [
@@ -287,15 +287,15 @@
     ],
     "yahoo": [
       {
-        "title": "イラン側 バーレーンの米施設攻撃",
-        "link": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
-        "date": "2026-11-13T03:57:37+00:00",
+        "title": "政府 ロシアに首脳会談を打診",
+        "link": "https://news.yahoo.co.jp/pickup/6602418?source=rss",
+        "date": "2026-11-13T05:37:03+00:00",
         "body": "a48.txt"
       },
       {
-        "title": "冬の電気・ガスなど支援 6500億円",
-        "link": "https://news.yahoo.co.jp/pickup/6602397?source=rss",
-        "date": "2026-11-13T02:50:29+00:00",
+        "title": "イラン側 バーレーンの米施設攻撃",
+        "link": "https://news.yahoo.co.jp/pickup/6602406?source=rss",
+        "date": "2026-11-13T03:57:37+00:00",
         "body": "a49.txt"
       },
       {
@@ -337,16 +337,11 @@
     ]
   },
   "weather": {
-    "temp": 18.8,
+    "temp": 18.9,
     "code": 0,
     "max": 19.7,
     "min": 13.9,
     "hours": [
-      {
-        "time": "2026-11-13T14:00",
-        "temp": 18.5,
-        "code": 0
-      },
       {
         "time": "2026-11-13T15:00",
         "temp": 18.9,
@@ -366,83 +361,88 @@
         "time": "2026-11-13T18:00",
         "temp": 19.7,
         "code": 0
+      },
+      {
+        "time": "2026-11-13T19:00",
+        "temp": 19.6,
+        "code": 0
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-13T14:00",
-        "temp": 18.5,
+        "time": "2026-11-13T15:00",
+        "temp": 18.9,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-13T17:00",
-        "temp": 19.6,
+        "time": "2026-11-13T18:00",
+        "temp": 19.7,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-13T20:00",
-        "temp": 19.5,
+        "time": "2026-11-13T21:00",
+        "temp": 19.4,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-13T23:00",
-        "temp": 17.3,
-        "code": 0,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-14T02:00",
-        "temp": 15.1,
+        "time": "2026-11-14T00:00",
+        "temp": 16.0,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-14T05:00",
-        "temp": 14.5,
-        "code": 1,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-14T08:00",
+        "time": "2026-11-14T03:00",
         "temp": 14.9,
+        "code": 1,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-14T06:00",
+        "temp": 14.4,
+        "code": 0,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-14T09:00",
+        "temp": 15.8,
         "code": 1,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-13T14:00",
+        "time": "2026-11-13T15:00",
         "pop": 0
       },
       {
-        "time": "2026-11-13T17:00",
+        "time": "2026-11-13T18:00",
         "pop": 0
       },
       {
-        "time": "2026-11-13T20:00",
+        "time": "2026-11-13T21:00",
         "pop": 0
       },
       {
-        "time": "2026-11-13T23:00",
-        "pop": 1
+        "time": "2026-11-14T00:00",
+        "pop": 2
       },
       {
-        "time": "2026-11-14T02:00",
+        "time": "2026-11-14T03:00",
         "pop": 4
       },
       {
-        "time": "2026-11-14T05:00",
-        "pop": 3
+        "time": "2026-11-14T06:00",
+        "pop": 2
       },
       {
-        "time": "2026-11-14T08:00",
-        "pop": 1
+        "time": "2026-11-14T09:00",
+        "pop": 0
       },
       {
-        "time": "2026-11-14T11:00",
+        "time": "2026-11-14T12:00",
         "pop": 0
       }
     ],
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 61260.0,
+    "price": 61215.0,
     "prev": 61320.0,
     "points": [
       [
@@ -865,22 +865,29 @@
       ],
       [
         "11/13 14:45",
-        61250.0,
+        61225.0,
         61335.0,
         61335.0,
-        61245.0
+        61220.0
       ],
       [
-        "11/13 14:47",
-        61260.0,
-        61260.0,
-        61260.0,
-        61260.0
+        "11/13 14:50",
+        61215.0,
+        61235.0,
+        61235.0,
+        61190.0
+      ],
+      [
+        "11/13 14:52",
+        61215.0,
+        61215.0,
+        61215.0,
+        61215.0
       ]
     ]
   },
   "fx": {
-    "price": 159.9555,
+    "price": 159.9615,
     "prev": 159.8515
   },
   "topix": {
