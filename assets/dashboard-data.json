@@ -1,16 +1,11 @@
 {
- "updated": "2026-11-14T02:08:14.067026+09:00",
+ "updated": "2026-11-14T02:13:11.533064+09:00",
  "feeds": {
   "kabu": [
    {
     "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
     "date": "2026-11-10T22:30:24+00:00"
-   },
-   {
-    "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-    "date": "2026-11-13T11:52:45+00:00"
    },
    {
     "title": "日経平均株価、AI銘柄の不透明感で内需株に注目（先読み株式相場） - 日本経済新聞",
@@ -56,6 +51,11 @@
     "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
     "date": "2026-11-11T22:30:00+00:00"
+   },
+   {
+    "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月13日記） - 株探",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TRmtNNFFiN2duRmN5XzRtV3A3R2VMUVJLeGJnMXJ5WWtkXzJ3TFNYU212RDVEOUxXT2dYaFNhTUtJa3liMW9DdXdheEhtWi1lejFGVkk1Zy1HOFdzSktGMQ?oc=5",
+    "date": "2026-11-12T23:17:42+00:00"
    },
    {
     "title": "アシックス株価、午後急落 1〜9月38%営業増益も市場予想下回る - 日本経済新聞",
@@ -1957,13 +1957,20 @@
    ],
    [
     "11/14 01:55",
-    60475.0,
+    60485.0,
     60445.0,
     60490.0,
     60410.0
    ],
    [
-    "11/14 01:57",
+    "11/14 02:00",
+    60470.0,
+    60460.0,
+    60470.0,
+    60415.0
+   ],
+   [
+    "11/14 02:02",
     60470.0,
     60470.0,
     60470.0,
@@ -1972,11 +1979,11 @@
   ]
  },
  "fx": {
-  "price": 159.9335,
+  "price": 159.888,
   "prev": 159.8515
  },
  "topix": {
-  "price": 138.795,
+  "price": 138.62,
   "prev": 139.94
  },
  "ver": "v59"
