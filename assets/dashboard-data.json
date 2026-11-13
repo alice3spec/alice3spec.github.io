@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:33:16.239835+09:00",
+  "updated": "2026-11-13T12:38:12.445682+09:00",
   "feeds": {
     "kabu": [
       {
@@ -38,9 +38,9 @@
         "date": "2026-11-13T00:05:54+00:00"
       },
       {
-        "title": "１３日の東京株式市場見通し＝決算を手掛かりにした個別物色が相場を左右しそう(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaURPak9RUXhMcG9JdjI0dzdjWlhKVWxBalVxMEdtZTNQS1Jic0tvT3dfaGM2T2FXekJDS1pIR1FNZGtMY2tWN29vZk5Tbk1TNW9BVHVZclItMG1mOWE2eEhBcHd1TFA0TlJHQjdnWVFhYzVpSVVDYXVSSXI0WngwM2RVVDBoS2c?oc=5",
-        "date": "2026-11-12T22:47:28+00:00"
+        "title": "日経平均、997円36銭高の6万1816円72銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2Z1V0VzQmdLWjB6a2pHYWZyU0RPX2pycFNWMkNWTUdMRjJrS2xSV042UGY3YnNKenIyZ3ZHd2NuN0dSbzF0ak4tMTZfWnlhb1lxM2VUbUJXY1NEWG94X2Vzdk5wZ1A1aUxJRV9rZnlCMDBTRkNlemJBV1AxN0Z6REhrQjdFU3M?oc=5",
+        "date": "2026-11-13T02:32:41+00:00"
       },
       {
         "title": "アドバンテスト株価一時7%高 主要検査装置、年産1万台前倒し達成へ - 日本経済新聞",
@@ -53,161 +53,161 @@
         "date": "2026-11-13T02:30:20+00:00"
       },
       {
+        "title": "１３日の東京株式市場見通し＝決算を手掛かりにした個別物色が相場を左右しそう(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaURPak9RUXhMcG9JdjI0dzdjWlhKVWxBalVxMEdtZTNQS1Jic0tvT3dfaGM2T2FXekJDS1pIR1FNZGtMY2tWN29vZk5Tbk1TNW9BVHVZclItMG1mOWE2eEhBcHd1TFA0TlJHQjdnWVFhYzVpSVVDYXVSSXI0WngwM2RVVDBoS2c?oc=5",
+        "date": "2026-11-12T22:47:28+00:00"
+      },
+      {
         "title": "ワタミ株価がストップ高気配 MBO報道、会社側も検討認める - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Fd1FtTDlNeTRyRDc5RmNLa0hOdkYweXZvazZidHdDY0UyOXRxNUFiaTZVaXBnNExleVVPQ0pxSVJFR3JBdmlhY1JQUmlraU1aZjM5a2hHQXlsbTNMTVhLbm9aLU1XOWV5ZFF2aw?oc=5",
         "date": "2026-11-13T02:09:52+00:00"
-      },
-      {
-        "title": "日経平均VIは上昇、株価上昇ピッチの速さを警戒 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DR1h3ek5KTUo1OXBnSHZ4dm16MnNxVjFkQUtTN2VnaXFka2VIQ1lZOU91WExTeUh5cTN1alhfcklSZGtBbDdYcEt3VVZiWHp5SVE?oc=5",
-        "date": "2026-11-12T05:22:36+00:00"
       }
     ],
     "ai": [
       {
+        "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
+        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+        "date": "2026-11-13T03:00:00+00:00",
+        "body": "a12.txt"
+      },
+      {
         "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
         "date": "2026-11-13T01:44:00+00:00",
-        "body": "a12.txt"
+        "body": "a13.txt"
       },
       {
         "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
         "date": "2026-11-13T01:22:05+00:00",
-        "body": "a13.txt"
+        "body": "a14.txt"
       },
       {
         "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
         "date": "2026-11-13T00:08:39+00:00",
-        "body": "a14.txt"
+        "body": "a15.txt"
       },
       {
         "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
         "date": "2026-11-12T23:04:46+00:00",
-        "body": "a15.txt"
+        "body": "a16.txt"
       },
       {
         "title": "NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦",
         "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
         "date": "2026-11-12T23:00:00+00:00",
-        "body": "a16.txt"
+        "body": "a17.txt"
       },
       {
         "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news012.html",
         "date": "2026-11-12T23:00:00+00:00",
-        "body": "a17.txt"
+        "body": "a18.txt"
       },
       {
         "title": "AIエージェントを「追えない、止められない」　約半数が経験する“暴走”、浮上する3つの盲点",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
         "date": "2026-11-12T22:45:00+00:00",
-        "body": "a18.txt"
+        "body": "a19.txt"
       },
       {
         "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発　2?3カ月で完成させた方法",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
         "date": "2026-11-12T22:00:00+00:00",
-        "body": "a19.txt"
+        "body": "a20.txt"
       },
       {
         "title": "なぜゾーホーは「広告を載せない」のか？　情報漏えいを防ぐ「独自の設計」、AI研究責任者に聞く",
         "link": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
         "date": "2026-11-12T22:00:00+00:00",
-        "body": "a20.txt"
+        "body": "a21.txt"
       },
       {
         "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
         "date": "2026-11-12T21:45:00+00:00",
-        "body": "a21.txt"
+        "body": "a22.txt"
       },
       {
         "title": "AIに書かせたkintoneのコード、そのまま使って大丈夫？　無料診断の提供始まる",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003159/",
         "date": "2026-11-12T21:00:00+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる",
-        "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html",
-        "date": "2026-11-12T20:00:00+00:00",
         "body": "a23.txt"
       }
     ],
     "it": [
       {
+        "title": "メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
+        "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
+        "date": "2026-11-13T03:27:56+00:00",
+        "body": "a24.txt"
+      },
+      {
+        "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
+        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+        "date": "2026-11-13T03:00:00+00:00",
+        "body": "a25.txt"
+      },
+      {
         "title": "ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
         "date": "2026-11-13T02:51:05+00:00",
-        "body": "a24.txt"
+        "body": "a26.txt"
       },
       {
         "title": "緊急情報の音声放送システムにランサムウェア攻撃　滋賀県甲賀市、屋外拡声器など使えず",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
         "date": "2026-11-13T00:44:12+00:00",
-        "body": "a25.txt"
+        "body": "a27.txt"
       },
       {
         "title": "Google、Gemini搭載のメガネを米韓で予約開始　395ドルからで12月10日発売へ",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
         "date": "2026-11-13T00:30:33+00:00",
-        "body": "a26.txt"
+        "body": "a28.txt"
       },
       {
         "title": "サイバーセキュリティクラウド、GitHubから顧客情報流出か　「セキュリティ企業として重く受け止め」",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003163/",
         "date": "2026-11-12T23:15:50+00:00",
-        "body": "a27.txt"
+        "body": "a29.txt"
       },
       {
         "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
         "date": "2026-11-12T23:04:46+00:00",
-        "body": "a28.txt"
+        "body": "a30.txt"
       },
       {
         "title": "Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
         "date": "2026-11-12T21:41:21+00:00",
-        "body": "a29.txt"
+        "body": "a31.txt"
       },
       {
         "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任　クレスCFOが暫定CEOに",
         "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
         "date": "2026-11-12T14:53:52+00:00",
-        "body": "a30.txt"
+        "body": "a32.txt"
       },
       {
         "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性　リスト型攻撃か",
         "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
         "date": "2026-11-12T09:54:27+00:00",
-        "body": "a31.txt"
+        "body": "a33.txt"
       },
       {
         "title": "介護現場の人手不足を補う「ヒト型助手ロボット」　遠隔で利用者見守る最新テクノロジーも",
         "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
         "date": "2026-11-12T08:30:48+00:00",
-        "body": "a32.txt"
+        "body": "a34.txt"
       },
       {
         "title": "セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
         "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
         "date": "2026-11-12T08:15:59+00:00",
-        "body": "a33.txt"
-      },
-      {
-        "title": "無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
-        "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
-        "date": "2026-11-12T08:00:22+00:00",
-        "body": "a34.txt"
-      },
-      {
-        "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-        "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-        "date": "2026-11-12T05:10:47+00:00",
         "body": "a35.txt"
       }
     ],
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 61655.0,
+    "price": 61680.0,
     "prev": 61320.0,
     "points": [
       [
@@ -523,7 +523,7 @@
       [
         "11/13 08:45",
         61495.0,
-        61470.0,
+        61490.0,
         61565.0,
         61425.0
       ],
@@ -537,7 +537,7 @@
       [
         "11/13 08:55",
         61595.0,
-        61465.0,
+        61455.0,
         61595.0,
         61420.0
       ],
@@ -551,7 +551,7 @@
       [
         "11/13 09:05",
         61595.0,
-        61685.0,
+        61675.0,
         61700.0,
         61565.0
       ],
@@ -747,7 +747,7 @@
       [
         "11/13 11:25",
         61900.0,
-        61755.0,
+        61750.0,
         61915.0,
         61730.0
       ],
@@ -823,22 +823,29 @@
       ],
       [
         "11/13 12:20",
-        61660.0,
+        61675.0,
         61710.0,
         61725.0,
         61650.0
       ],
       [
-        "11/13 12:23",
-        61655.0,
-        61655.0,
-        61655.0,
+        "11/13 12:25",
+        61680.0,
+        61675.0,
+        61685.0,
         61655.0
+      ],
+      [
+        "11/13 12:27",
+        61680.0,
+        61680.0,
+        61680.0,
+        61680.0
       ]
     ]
   },
   "fx": {
-    "price": 159.9215,
+    "price": 159.935,
     "prev": 159.8515
   },
   "topix": {
