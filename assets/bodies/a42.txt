@@ -1,32 +1,38 @@
-Appleの有機EL化が止まらない。iPad mini、MacBook Proに続いてiPad Airも？
+ついに予約開始、Google × Samsungのスマートグラス。iPhoneにも対応するって
 
-Nov 13,2026 15:00
+Nov 13,2026 13:30
 
 そうこ ( GIZMODOライター )
 
-Photo: Chisato Kuroda
+Image: Google
 
-iPadではProモデルのみの高スペックだったOLEDも、ついにこの秋、iPad miniにも搭載されました。
+今年に入ってから、ずーっと公式チラ見せされ続けていたGoogleとSamsungが手がけるスマートグラス「Intelligent Eyewear（インテリジェントアイウェア）」、ついに予約がはじまりました。
 
-iPadで液晶ディスプレイが残されたのは無印iPadとiPad Airですが、iPad Airの方が先にアップグレードしそうです。
+予約スタートのタイミングで、Intelligent EyewearがAndroidだけでなくiPhoneにも対応することが判明。逆に、Android端末は対応端末が限られることもわかりました。
 
-## Apple端末はOLEDへ
+GoogleとSamsungが開発するだけに、リリース時対応はGoogleとSamsungの端末だけなんですね。ゆえに、ここにiPhoneが追加されたのはそのシェアの大きさを感じるところ。
 
-ネタ元のDigitimesが、2027年前半、iPad AirがOLEDになってリリースされると報じています。既存の11インチ・13インチ両モデルとも健在、一緒にOLEDへ。
+Intelligent Eyewear は、OSとなるAndoird XRをGoogle、ハードをSmasungが担い、アイウェアメーカーのGentle MonsterとWarby Parkerとコラボしています。発売は年末。
 
-iPad miniがOLEDになった時点で、OLEDはiPad Proの専売特許、つまりプレミアムモデルだけのハイスペックではなくなりました。
+以下、Intelligent Eyewearと連携して使えるスマホです。
 
-が、ネタ元のDigitimesによれば、OLEDはOLEDでも、iPad ProとiPad Airに搭載されるディスプレイは異なるといいます。
+## iPhoneも使えるよ。連携可能なスマホ
 
-iPad Airのディスプレイは、発光層が1枚のシングルスタック型、一方でiPad Proは2枚重ねてより明るいタンデム型。また、バックパネル技術も異なり、Airは低温ポリシリコン（LTPS）、Proは低温多結晶酸化物（LTPO）。LTPOは可変リフレッシュレートへの対応力が高く、スムーズ、かつ省エネ性に優れているのが魅力です。
+Google端末からは、2022年リリースのPixel 7以上。Pixel a、Pixel Proなどモデルに問わずすべて対応。OSはAndroid 17以上（今年9月のアプデ配布分以上）をインストールしている必要あり。
 
-iPad Air‌のOLEDディスプレイのサプライヤーとなるのは、Samsung Displayというのが濃厚。Samsung DisplayはiPad miniのOLEDディスプレイも供給。一方で、iPad ProのOLEDはLG Display。
+Samsung端末は、One UI 9.0以上のOSをインストールしているGalaxyスマホ。Galaxy Sシリーズ、Galaxy S FEシリーズに加え、折りたたみのGalaxy Z Fold・Flip・Fold Ultraシリーズも対象です。
 
-今年はMacBook Proも初めてOLEDディスプレイを搭載。チップが異なる非OLEDモデルもリリースされたものの、今後はOLEDモデルに一本化されるという見方が強いです。
+iPhoneは、iPhone 13 Pro以上。
 
-今後、Apple製品のディスプレイはOLEDがスタンダードとなりそう。
+## ただし、使用には条件が…
 
-Source:Digitimes via MacRumors
+連携できるスマホだけでなく、使用にも条件があります。
+
+Intelligent Eyewearを使用するには、アメリカまたは韓国のGoogleアカウントでのログインが必須。たとえ、日本からモノ自体を個人輸入したとしても、アカウントなしでは機能が使えないので注意。
+
+Gentle Monsterモデルは449ドルから（約7万1800円）。現時点では、アメリカ、韓国のみで発売。Warby Parkerモデルは395ドル（約6万3100円）から。
+
+Source:Google
 
 Advertisement
 
@@ -34,7 +40,7 @@ Advertisement
 
 Advertisement
 
-# NEO DIY# NEOヘルスケア# iPhone Duo# ギズマート# 20 YEARS OF GIZMODO JAPAN
+#NEO DIY#NEOヘルスケア#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
 ### Ranking
 
@@ -56,7 +62,7 @@ PR
 
 ## Latest
 
-# NEO DIY# NEOヘルスケア# iPhone Duo# ギズマート# 20 YEARS OF GIZMODO JAPAN
+#NEO DIY#NEOヘルスケア#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
 ### Ranking
 
