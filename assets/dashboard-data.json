@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T09:33:15.742005+09:00",
+  "updated": "2026-11-13T09:38:28.670176+09:00",
   "feeds": {
     "kabu": [
       {
@@ -66,75 +66,75 @@
     ],
     "ai": [
       {
+        "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+        "date": "2026-11-13T00:08:39+00:00",
+        "body": "a12.txt"
+      },
+      {
         "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
         "date": "2026-11-12T23:04:46+00:00",
-        "body": "a12.txt"
+        "body": "a13.txt"
       },
       {
         "title": "NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦",
         "link": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
         "date": "2026-11-12T23:00:00+00:00",
-        "body": "a13.txt"
+        "body": "a14.txt"
       },
       {
         "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
         "date": "2026-11-12T23:00:00+00:00",
-        "body": "a14.txt"
+        "body": "a15.txt"
       },
       {
         "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news012.html",
         "date": "2026-11-12T23:00:00+00:00",
-        "body": "a15.txt"
+        "body": "a16.txt"
       },
       {
         "title": "AIエージェントを「追えない、止められない」　約半数が経験する“暴走”、浮上する3つの盲点",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
         "date": "2026-11-12T22:45:00+00:00",
-        "body": "a16.txt"
+        "body": "a17.txt"
       },
       {
         "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発　2?3カ月で完成させた方法",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
         "date": "2026-11-12T22:00:00+00:00",
-        "body": "a17.txt"
+        "body": "a18.txt"
       },
       {
         "title": "なぜゾーホーは「広告を載せない」のか？　情報漏えいを防ぐ「独自の設計」、AI研究責任者に聞く",
         "link": "https://www.itmedia.co.jp/business/articles/2611/13/news021.html",
         "date": "2026-11-12T22:00:00+00:00",
-        "body": "a18.txt"
+        "body": "a19.txt"
       },
       {
         "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news055.html",
         "date": "2026-11-12T21:45:00+00:00",
-        "body": "a19.txt"
+        "body": "a20.txt"
       },
       {
         "title": "AIに書かせたkintoneのコード、そのまま使って大丈夫？　無料診断の提供始まる",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003159/",
         "date": "2026-11-12T21:00:00+00:00",
-        "body": "a20.txt"
+        "body": "a21.txt"
       },
       {
         "title": "総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる",
         "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html",
         "date": "2026-11-12T20:00:00+00:00",
-        "body": "a21.txt"
+        "body": "a22.txt"
       },
       {
         "title": "Notionの「AIチャット流出懸念」影響広がる　国内企業が相次ぎ報告　「打ち合わせ内容」も漏えいか",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003140/",
         "date": "2026-11-12T05:43:18+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-        "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-        "date": "2026-11-12T05:10:47+00:00",
         "body": "a23.txt"
       }
     ],
@@ -306,9 +306,9 @@
         "body": "a50.txt"
       },
       {
-        "title": "イノシシに襲われ重傷 夫語る状況",
-        "link": "https://news.yahoo.co.jp/pickup/6602374?source=rss",
-        "date": "2026-11-12T23:32:04+00:00",
+        "title": "米国防長官 自身注意の衛兵に勲章",
+        "link": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
+        "date": "2026-11-13T00:29:49+00:00",
         "body": "a51.txt"
       },
       {
@@ -339,53 +339,53 @@
   },
   "weather": {
     "temp": 15.7,
-    "code": 0,
+    "code": 1,
     "max": 19.7,
     "min": 13.5,
     "hours": [
       {
         "time": "2026-11-13T09:00",
         "temp": 15.0,
-        "code": 0
+        "code": 1
       },
       {
         "time": "2026-11-13T10:00",
         "temp": 16.2,
-        "code": 0
+        "code": 1
       },
       {
         "time": "2026-11-13T11:00",
         "temp": 16.9,
-        "code": 1
+        "code": 2
       },
       {
         "time": "2026-11-13T12:00",
         "temp": 17.7,
-        "code": 2
+        "code": 3
       },
       {
         "time": "2026-11-13T13:00",
         "temp": 18.8,
-        "code": 1
+        "code": 2
       }
     ],
     "hours3": [
       {
         "time": "2026-11-13T09:00",
         "temp": 15.0,
-        "code": 0,
+        "code": 1,
         "mm": 0.0
       },
       {
         "time": "2026-11-13T12:00",
         "temp": 17.7,
-        "code": 2,
+        "code": 3,
         "mm": 0.0
       },
       {
         "time": "2026-11-13T15:00",
         "temp": 19.4,
-        "code": 0,
+        "code": 1,
         "mm": 0.0
       },
       {
@@ -397,7 +397,7 @@
       {
         "time": "2026-11-13T21:00",
         "temp": 19.4,
-        "code": 0,
+        "code": 1,
         "mm": 0.0
       },
       {
@@ -455,7 +455,7 @@
     "rain": null
   },
   "index": {
-    "price": 61765.0,
+    "price": 61645.0,
     "prev": 61320.0,
     "points": [
       [
@@ -524,7 +524,7 @@
       [
         "11/13 08:45",
         61495.0,
-        61490.0,
+        61470.0,
         61565.0,
         61425.0
       ],
@@ -538,7 +538,7 @@
       [
         "11/13 08:55",
         61595.0,
-        61455.0,
+        61465.0,
         61595.0,
         61420.0
       ],
@@ -552,7 +552,7 @@
       [
         "11/13 09:05",
         61595.0,
-        61675.0,
+        61685.0,
         61700.0,
         61565.0
       ],
@@ -572,22 +572,29 @@
       ],
       [
         "11/13 09:20",
-        61765.0,
+        61770.0,
         61725.0,
         61800.0,
         61700.0
       ],
       [
-        "11/13 09:22",
+        "11/13 09:25",
+        61665.0,
         61765.0,
         61765.0,
-        61765.0,
-        61765.0
+        61605.0
+      ],
+      [
+        "11/13 09:28",
+        61645.0,
+        61645.0,
+        61645.0,
+        61645.0
       ]
     ]
   },
   "fx": {
-    "price": 159.863,
+    "price": 159.8285,
     "prev": 159.8515
   },
   "topix": {
