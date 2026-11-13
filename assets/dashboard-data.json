@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T19:48:22.363759+09:00",
+  "updated": "2026-11-13T19:53:19.547696+09:00",
   "feeds": {
     "kabu": [
       {
@@ -58,9 +58,9 @@
         "date": "2026-11-13T08:30:47+00:00"
       },
       {
-        "title": "ゼンショーHD株価が上場来高値 27年3月期上方修正、すき家など堅調 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaYzZKMURyWFJILWRCRWdHWlpTM05aMTZrNGdPeXFaSTA5dUNUZkVPRGpRbmY4SUdWbTNRZ1VHTm1QMExCdEVVR0sybmI0QzZMQWx0SlhDdXhmZ3ZFdlNTd3J3QUVnY0szam94dg?oc=5",
-        "date": "2026-11-13T04:18:10+00:00"
+        "title": "日経平均は反発、半導体株の買い戻し先行も後場に上げ幅縮小／相場概況 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pOUwxR3ViRFZ2VXptckFnYXQxZE92dXprNGpGRkFpNThnS2RSU3BVQjEyYzFxUC1JN2RLWC1MbjktOS1hYThJY25GTmFQTWR5U0E?oc=5",
+        "date": "2026-11-13T07:21:01+00:00"
       }
     ],
     "ai": [
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 61480.0,
+    "price": 61475.0,
     "prev": 61320.0,
     "points": [
       [
@@ -1431,16 +1431,23 @@
         61430.0
       ],
       [
-        "11/13 19:38",
+        "11/13 19:40",
         61480.0,
         61480.0,
-        61480.0,
-        61480.0
+        61500.0,
+        61470.0
+      ],
+      [
+        "11/13 19:43",
+        61475.0,
+        61475.0,
+        61475.0,
+        61475.0
       ]
     ]
   },
   "fx": {
-    "price": 159.9515,
+    "price": 159.95,
     "prev": 159.8515
   },
   "topix": {
