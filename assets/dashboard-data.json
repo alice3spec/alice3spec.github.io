@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:28:17.673744+09:00",
+  "updated": "2026-11-13T12:33:16.239835+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,14 +13,14 @@
         "date": "2026-11-13T02:45:20+00:00"
       },
       {
-        "title": "日経平均、400円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWxCckQtUGFqcVhncnVYTXdhSW1JZFdkaGN3djgzQlRpZXR5SE5oQzJHZzdvVWg1ZFZ5M2YwbVdXRXNSQ2xSeDRPeFRQRXJjOGNNZVRETjh4UGgxRDhNQXpRbnNwcWMtTUFtN3ZPNkhOZENILThGZnNEYmRULXRQazdoSkFob1U?oc=5",
-        "date": "2026-11-13T00:01:50+00:00"
-      },
-      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月13日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TRmtNNFFiN2duRmN5XzRtV3A3R2VMUVJLeGJnMXJ5WWtkXzJ3TFNYU212RDVEOUxXT2dYaFNhTUtJa3liMW9DdXdheEhtWi1lejFGVkk1Zy1HOFdzSktGMQ?oc=5",
         "date": "2026-11-13T02:30:19+00:00"
+      },
+      {
+        "title": "日経平均、400円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWxCckQtUGFqcVhncnVYTXdhSW1JZFdkaGN3djgzQlRpZXR5SE5oQzJHZzdvVWg1ZFZ5M2YwbVdXRXNSQ2xSeDRPeFRQRXJjOGNNZVRETjh4UGgxRDhNQXpRbnNwcWMtTUFtN3ZPNkhOZENILThGZnNEYmRULXRQazdoSkFob1U?oc=5",
+        "date": "2026-11-13T00:01:50+00:00"
       },
       {
         "title": "日経平均株価、AI銘柄の不透明感で内需株に注目（先読み株式相場） - 日本経済新聞",
@@ -213,75 +213,75 @@
     ],
     "gadget": [
       {
+        "title": "トランプ大統領、時期NVIDIA CEOにティム・クック氏を激推し！",
+        "link": "https://www.gizmodo.jp/article/2611-trump-recommends-tim-cook-for-nvidia-ceo/",
+        "date": "2026-11-13T03:15:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "iPhone Duoを折ると、ちいさなMacBookになる無料アプリ",
         "link": "https://www.gizmodo.jp/article/iphone-duo_duobook_pocket_mac/",
         "date": "2026-11-13T03:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "トイレでスマホやゲームは10分まで。それ超えると体がおかしくなる",
         "link": "https://www.gizmodo.jp/article/restroom-smartphone-10min-rhn-vky/",
         "date": "2026-11-13T02:35:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
-        "title": "健康管理は、意識しないくらいがちょうどいい。着けっぱなしでデータが貯まる「RingConn Gen 2」",
+        "title": "健康状態のチェックをほったらかしで実現。スマートリングデビューはこれでいい",
         "link": "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
         "date": "2026-11-13T02:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "Adobe Sneaksで一番盛り上がったのはコレ。どんな面にも文字やロゴを自然になじませる新技術",
         "link": "https://www.gizmodo.jp/article/2611-adobe-sneaks-project-deep-brush/",
         "date": "2026-11-13T01:30:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "テレビ、オワコンじゃなかった。見逃し配信アプリ「Tver」月間ユーザー5000万突破",
         "link": "https://www.gizmodo.jp/article/tver-monthly-users-exceed-50-million/",
         "date": "2026-11-13T01:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "「AIでサイバー攻撃を防ぐ」ってこういうことなんだ",
         "link": "https://www.gizmodo.jp/article/2611-ai-cybersecurity-defense/",
         "date": "2026-11-12T23:40:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "Suicaタッチ不要「ウォークスルー改札」はなぜ隣の人と同時に通っても見分けられるのか",
         "link": "https://www.gizmodo.jp/article/2611-suica-walk-through-ticket-gate/",
         "date": "2026-11-12T23:30:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "移動中もおしゃべりを続けよう。CarPlayにGeminiがやってきた",
         "link": "https://www.gizmodo.jp/article/gemini_apple_carplay/",
         "date": "2026-11-12T23:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "もうアメリカを頼りません？ HUAWEIが部品100%中国製のPCを発表した",
         "link": "https://www.gizmodo.jp/article/2611-huawei-qingyun-hm650-harmonyos/",
         "date": "2026-11-12T23:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "OpenAIが開発中の「次期サイバー特化AI」がとんでもなさそう",
         "link": "https://www.gizmodo.jp/article/2611-openai-next-gen-cyber-ai-exploitgym/",
         "date": "2026-11-12T22:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "【速報】NVIDIA CEOのジェンスン氏が辞任。暫定CEOにコレット氏",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-huang-resigns/",
         "date": "2026-11-12T14:05:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "小さく運んで大きく使う。ガラケーみたいなキャンピング・トレーラー",
-        "link": "https://www.gizmodo.jp/article/urbanoid-booba-wzs-ngf/",
-        "date": "2026-11-12T14:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -311,15 +311,15 @@
         "body": "a51.txt"
       },
       {
-        "title": "参議院議員の山崎正昭氏が死去",
-        "link": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
-        "date": "2026-11-13T01:00:12+00:00",
-        "body": "a52.txt"
-      },
-      {
         "title": "奈良で妻が行方不明 捜索続け12年",
         "link": "https://news.yahoo.co.jp/pickup/6602389?source=rss",
         "date": "2026-11-13T02:04:30+00:00",
+        "body": "a52.txt"
+      },
+      {
+        "title": "市議兼業 売名と言われたアイドル",
+        "link": "https://news.yahoo.co.jp/pickup/6602404?source=rss",
+        "date": "2026-11-13T03:30:54+00:00",
         "body": "a53.txt"
       },
       {
@@ -337,8 +337,8 @@
     ]
   },
   "weather": {
-    "temp": 17.4,
-    "code": 3,
+    "temp": 17.7,
+    "code": 2,
     "max": 19.8,
     "min": 13.9,
     "hours": [
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 61675.0,
+    "price": 61655.0,
     "prev": 61320.0,
     "points": [
       [
@@ -816,22 +816,29 @@
       ],
       [
         "11/13 12:15",
-        61675.0,
+        61700.0,
         61745.0,
         61750.0,
         61670.0
       ],
       [
-        "11/13 12:18",
-        61675.0,
-        61675.0,
-        61675.0,
-        61675.0
+        "11/13 12:20",
+        61660.0,
+        61710.0,
+        61725.0,
+        61650.0
+      ],
+      [
+        "11/13 12:23",
+        61655.0,
+        61655.0,
+        61655.0,
+        61655.0
       ]
     ]
   },
   "fx": {
-    "price": 159.9525,
+    "price": 159.9215,
     "prev": 159.8515
   },
   "topix": {
