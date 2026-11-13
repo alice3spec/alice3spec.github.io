@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:33:28.484376+09:00",
+  "updated": "2026-11-14T08:38:33.137388+09:00",
   "feeds": {
     "kabu": [
       {
@@ -293,15 +293,15 @@
         "body": "a48.txt"
       },
       {
-        "title": "米で遊覧船とタンカーが衝突 報道",
-        "link": "https://news.yahoo.co.jp/pickup/6602491?source=rss",
-        "date": "2026-11-13T22:59:22+00:00",
+        "title": "バンス氏 米大統領選見送り検討か",
+        "link": "https://news.yahoo.co.jp/pickup/6602499?source=rss",
+        "date": "2026-11-13T23:17:38+00:00",
         "body": "a49.txt"
       },
       {
-        "title": "マネックス証券 免許証画像流出か",
-        "link": "https://news.yahoo.co.jp/pickup/6602486?source=rss",
-        "date": "2026-11-13T22:28:18+00:00",
+        "title": "米で遊覧船とタンカーが衝突 報道",
+        "link": "https://news.yahoo.co.jp/pickup/6602491?source=rss",
+        "date": "2026-11-13T22:59:22+00:00",
         "body": "a50.txt"
       },
       {
@@ -329,9 +329,9 @@
         "body": "a54.txt"
       },
       {
-        "title": "櫻井翔「占拠」シリーズ第4弾発表",
-        "link": "https://news.yahoo.co.jp/pickup/6602493?source=rss",
-        "date": "2026-11-13T22:51:19+00:00",
+        "title": "紅白出場 追加発表あと7組ほど?",
+        "link": "https://news.yahoo.co.jp/pickup/6602498?source=rss",
+        "date": "2026-11-13T23:07:37+00:00",
         "body": "a55.txt"
       }
     ]
@@ -2395,8 +2395,8 @@
     ]
   },
   "fx": {
-    "price": 159.6805,
-    "prev": 159.852
+    "price": 159.68,
+    "prev": 159.8515
   },
   "topix": {
     "price": 139.11,
