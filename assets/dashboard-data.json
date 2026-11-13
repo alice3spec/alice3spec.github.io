@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T19:43:19.057439+09:00",
+  "updated": "2026-11-13T19:48:22.363759+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,71 +213,76 @@
     ],
     "gadget": [
       {
+        "title": "FTCがAmazonを追及。広告料をこっそり最大250％上乗せした疑い",
+        "link": "https://www.gizmodo.jp/article/2611-amazon-black-friday-ad-fee-increase/",
+        "date": "2026-11-13T10:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "26年モデルMac mini（M6 ）、Amazonで11%分の16,348ポイントも付いてますケドォ!?",
         "link": "https://www.gizmodo.jp/article/2611-m6-mac-mini-amazon-points/",
         "date": "2026-11-13T09:10:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "マイクロソフトの大規模障害、なぜまだ復旧しない？",
         "link": "https://www.gizmodo.jp/article/2611-microsoft-365-outage-20241113/",
-        "date": "2026-11-13T09:05:00+00:00"
+        "date": "2026-11-13T09:05:00+00:00",
+        "body": "a38.txt"
       },
       {
         "title": "クイズ：米国の次にNVIDIA製チップを一番買ってる国はどこでしょう？",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-chips-singapore-sales/",
         "date": "2026-11-13T09:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "M6チップ搭載MacBook Pro、性能向上でもどこか切ない…。このタイプは最後なのか？",
         "link": "https://www.gizmodo.jp/article/m6_macbook-pro_review/",
         "date": "2026-11-13T08:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "マイクロソフトが従業員6万人に｢お金を払うから辞めて｣とオファー。残ってもリストラされるかも",
         "link": "https://www.gizmodo.jp/article/microsoft_voluntary_resignation_offer/",
         "date": "2026-11-13T07:35:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "Keychron Orca echo 通常プロファイル版が登場！ 「ロープロ→通常」の変換キットも",
         "link": "https://www.gizmodo.jp/article/keychron-orca-echo-normal-profile/",
-        "date": "2026-11-13T06:30:00+00:00"
+        "date": "2026-11-13T06:30:00+00:00",
+        "body": "a42.txt"
       },
       {
         "title": "Appleの有機EL化が止まらない。iPad mini、MacBook Proに続いてiPad Airも？",
         "link": "https://www.gizmodo.jp/article/2611-ipad-air-oled-2027/",
-        "date": "2026-11-13T06:00:00+00:00"
+        "date": "2026-11-13T06:00:00+00:00",
+        "body": "a43.txt"
       },
       {
         "title": "2026年11月、銀行「預金金利」ランキングTOP3。メガバンク3行、10年定期金利を1.35％へ",
         "link": "https://www.gizmodo.jp/article/2611-bank-deposit-interest-rate-ranking-202611/",
         "date": "2026-11-13T05:35:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "ついに予約開始、Google × Samsungのスマートグラス。iPhoneにも対応するって",
         "link": "https://www.gizmodo.jp/article/google-samsung-smart-glasses-intelligent-eyewear/",
-        "date": "2026-11-13T04:30:00+00:00"
+        "date": "2026-11-13T04:30:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "買い切りで生涯使える「pCloud」。撮った写真はどんどん上げてスマホを軽くしましょ",
         "link": "https://www.gizmodo.jp/article/pcloud-smartphone-camera-storage/",
         "date": "2026-11-13T04:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "アメリカの発電量が過去最高。理由はやっぱりデータセンター、あと酷暑",
         "link": "https://www.gizmodo.jp/article/2611-us-electricity-generation-record-datacenter-heat/",
         "date": "2026-11-13T03:45:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "ついに来た！ Windows 11の右クリックメニュー、カスタマイズ機能が正式配信",
-        "link": "https://www.gizmodo.jp/article/windows11_right-click_menu_customize/",
-        "date": "2026-11-13T03:30:00+00:00"
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
@@ -332,7 +337,7 @@
     ]
   },
   "weather": {
-    "temp": 19.6,
+    "temp": 19.5,
     "code": 0,
     "max": 19.8,
     "min": 13.9,
@@ -414,27 +419,27 @@
       },
       {
         "time": "2026-11-13T22:00",
-        "pop": 1
+        "pop": 0
       },
       {
         "time": "2026-11-14T01:00",
-        "pop": 3
-      },
-      {
-        "time": "2026-11-14T04:00",
-        "pop": 4
-      },
-      {
-        "time": "2026-11-14T07:00",
         "pop": 1
       },
       {
+        "time": "2026-11-14T04:00",
+        "pop": 3
+      },
+      {
+        "time": "2026-11-14T07:00",
+        "pop": 4
+      },
+      {
         "time": "2026-11-14T10:00",
-        "pop": 0
+        "pop": 2
       },
       {
         "time": "2026-11-14T13:00",
-        "pop": 0
+        "pop": 1
       },
       {
         "time": "2026-11-14T16:00",
@@ -449,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 61445.0,
+    "price": 61480.0,
     "prev": 61320.0,
     "points": [
       [
@@ -1413,22 +1418,29 @@
       ],
       [
         "11/13 19:30",
-        61450.0,
+        61440.0,
         61440.0,
         61460.0,
         61425.0
       ],
       [
-        "11/13 19:33",
-        61445.0,
-        61445.0,
-        61445.0,
-        61445.0
+        "11/13 19:35",
+        61485.0,
+        61430.0,
+        61485.0,
+        61430.0
+      ],
+      [
+        "11/13 19:38",
+        61480.0,
+        61480.0,
+        61480.0,
+        61480.0
       ]
     ]
   },
   "fx": {
-    "price": 159.929,
+    "price": 159.9515,
     "prev": 159.8515
   },
   "topix": {
