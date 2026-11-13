@@ -1,11 +1,16 @@
 {
-  "updated": "2026-11-13T14:03:33.172702+09:00",
+  "updated": "2026-11-13T14:08:21.200659+09:00",
   "feeds": {
     "kabu": [
       {
         "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
         "date": "2026-11-10T22:30:24+00:00"
+      },
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-13T02:47:26+00:00"
       },
       {
         "title": "日経平均株価が反発 午前終値は997円高の6万1816円 - 日本経済新聞",
@@ -23,11 +28,6 @@
         "date": "2026-11-13T03:33:00+00:00"
       },
       {
-        "title": "日経平均、400円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWxCckQtUGFqcVhncnVYTXdhSW1JZFdkaGN3djgzQlRpZXR5SE5oQzJHZzdvVWg1ZFZ5M2YwbVdXRXNSQ2xSeDRPeFRQRXJjOGNNZVRETjh4UGgxRDhNQXpRbnNwcWMtTUFtN3ZPNkhOZENILThGZnNEYmRULXRQazdoSkFob1U?oc=5",
-        "date": "2026-11-13T00:01:50+00:00"
-      },
-      {
         "title": "日経平均株価、AI銘柄の不透明感で内需株に注目（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaRXk1Y1JJRGpZbDRnVmU4czVQVWoycHViSU53Wm8zaHBLLVlqSDFoZHFtS0NkQjlkNjJraC1QLXhEMnh1Y0M0eDN1WmxvWEhzOHFva1FkTWM0VVA3RXI2WUNEUVNvU25ZQzl4Yw?oc=5",
         "date": "2026-11-12T22:48:57+00:00"
@@ -38,9 +38,9 @@
         "date": "2026-11-13T02:30:19+00:00"
       },
       {
-        "title": "日経平均、757円31銭高の6万1576円67銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUxsNUM3VU5Zb1J3ckpTcGhjUTVNRXZKcXVQX29wLU1nZFRhbmJNM3ltSmR6UVI4dkdMVW1qdkl4SGhYb0MwOEVWNll2OEFZVFluUXlDYUV3NHR6NXpPMGxUZkNiclVCbWxWbUxxYi1ZSWg1ZG1IRW1ITmpiUlFMRmFTMy01TmM?oc=5",
-        "date": "2026-11-13T03:31:48+00:00"
+        "title": "日経平均、400円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYWxCckQtUGFqcVhncnVYTXdhSW1JZFdkaGN3djgzQlRpZXR5SE5oQzJHZzdvVWg1ZFZ5M2YwbVdXRXNSQ2xSeDRPeFRQRXJjOGNNZVRETjh4UGgxRDhNQXpRbnNwcWMtTUFtN3ZPNkhOZENILThGZnNEYmRULXRQazdoSkFob1U?oc=5",
+        "date": "2026-11-13T00:01:50+00:00"
       },
       {
         "title": "（朝）米国市場は主要3指数が下落　エヌビディアのCEO辞任と中東情勢を巡る懸念が重し - マネクリ",
@@ -53,14 +53,14 @@
         "date": "2026-11-13T01:10:10+00:00"
       },
       {
+        "title": "日経平均、757円31銭高の6万1576円67銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQUxsNUM3VU5Zb1J3ckpTcGhjUTVNRXZKcXVQX29wLU1nZFRhbmJNM3ltSmR6UVI4dkdMVW1qdkl4SGhYb0MwOEVWNll2OEFZVFluUXlDYUV3NHR6NXpPMGxUZkNiclVCbWxWbUxxYi1ZSWg1ZG1IRW1ITmpiUlFMRmFTMy01TmM?oc=5",
+        "date": "2026-11-13T03:31:48+00:00"
+      },
+      {
         "title": "日経平均は766円高、寄り後は上げ幅拡大 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tWmk4TE8xbjFVM0xMSWdMXzlSX3ZaYWpFU0VwUDFCQ2FOMU04WUw3YTlpUXNXaWtXQzlYM3dCRGR4azBEZ1cxQkI5aXVDRXpVaWMtOXVhUl9mYUVoNkt2WQ?oc=5",
         "date": "2026-11-13T00:05:54+00:00"
-      },
-      {
-        "title": "日経平均、997円36銭高の6万1816円72銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2Z1V0VzQmdLWjB6a2pHYWZyU0RPX2pycFNWMkNWTUdMRjJrS2xSV042UGY3YnNKenIyZ3ZHd2NuN0dSbzF0ak4tMTZfWnlhb1lxM2VUbUJXY1NEWG94X2Vzdk5wZ1A1aUxJRV9rZnlCMDBTRkNlemJBV1AxN0Z6REhrQjdFU3M?oc=5",
-        "date": "2026-11-13T02:32:41+00:00"
       }
     ],
     "ai": [
@@ -139,75 +139,75 @@
     ],
     "it": [
       {
+        "title": "「Qoo10」不正アクセス、個人情報漏えい　「住所の地理座標」や「身体的特徴」も対象の可能性",
+        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003186/",
+        "date": "2026-11-13T04:31:03+00:00",
+        "body": "a24.txt"
+      },
+      {
         "title": "AWS、Microsoft 365障害の影響を否定　正常稼働を強調",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003185/",
         "date": "2026-11-13T04:02:15+00:00",
-        "body": "a24.txt"
+        "body": "a25.txt"
       },
       {
         "title": "パナHD、AIとロボ組み合わせた「フィジカルAI」研究開発強化　倉庫・物流へ展開視野",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003184/",
         "date": "2026-11-13T03:55:31+00:00",
-        "body": "a25.txt"
+        "body": "a26.txt"
       },
       {
         "title": "MS障害、政府共通システムにも影響　デジタル相「朝、なんで使えないんだろうと思ったら」",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003183/",
         "date": "2026-11-13T03:48:15+00:00",
-        "body": "a26.txt"
+        "body": "a27.txt"
       },
       {
         "title": "虎柄ロボットに「阪神君」と命名　首相、フィジカルAIを体験　関連企業と意見交換",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003182/",
         "date": "2026-11-13T03:38:07+00:00",
-        "body": "a27.txt"
+        "body": "a28.txt"
       },
       {
         "title": "メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
         "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
         "date": "2026-11-13T03:27:56+00:00",
-        "body": "a28.txt"
+        "body": "a29.txt"
       },
       {
         "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
         "date": "2026-11-13T03:00:00+00:00",
-        "body": "a29.txt"
+        "body": "a30.txt"
       },
       {
         "title": "ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/",
         "date": "2026-11-13T02:51:05+00:00",
-        "body": "a30.txt"
+        "body": "a31.txt"
       },
       {
         "title": "緊急情報の音声放送システムにランサムウェア攻撃　滋賀県甲賀市、屋外拡声器など使えず",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
         "date": "2026-11-13T00:44:12+00:00",
-        "body": "a31.txt"
+        "body": "a32.txt"
       },
       {
         "title": "Google、Gemini搭載のメガネを米韓で予約開始　395ドルからで12月10日発売へ",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
         "date": "2026-11-13T00:30:33+00:00",
-        "body": "a32.txt"
+        "body": "a33.txt"
       },
       {
         "title": "サイバーセキュリティクラウド、GitHubから顧客情報流出か　「セキュリティ企業として重く受け止め」",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003163/",
         "date": "2026-11-12T23:15:50+00:00",
-        "body": "a33.txt"
+        "body": "a34.txt"
       },
       {
         "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
         "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
         "date": "2026-11-12T23:04:46+00:00",
-        "body": "a34.txt"
-      },
-      {
-        "title": "Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
-        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
-        "date": "2026-11-12T21:41:21+00:00",
         "body": "a35.txt"
       }
     ],
@@ -317,9 +317,9 @@
         "body": "a52.txt"
       },
       {
-        "title": "市議兼業 売名と言われたアイドル",
-        "link": "https://news.yahoo.co.jp/pickup/6602404?source=rss",
-        "date": "2026-11-13T03:30:54+00:00",
+        "title": "馬に物投げられる JRA「お願い」",
+        "link": "https://news.yahoo.co.jp/pickup/6602413?source=rss",
+        "date": "2026-11-13T04:59:24+00:00",
         "body": "a53.txt"
       },
       {
@@ -329,33 +329,33 @@
         "body": "a54.txt"
       },
       {
-        "title": "TM NETWORK 38年ぶり紅白出場",
-        "link": "https://news.yahoo.co.jp/pickup/6602409?source=rss",
-        "date": "2026-11-13T04:47:49+00:00",
+        "title": "紅白 稲葉浩志がソロで「タッチ」",
+        "link": "https://news.yahoo.co.jp/pickup/6602408?source=rss",
+        "date": "2026-11-13T04:31:26+00:00",
         "body": "a55.txt"
       }
     ]
   },
   "weather": {
-    "temp": 18.7,
-    "code": 1,
-    "max": 19.8,
+    "temp": 18.5,
+    "code": 0,
+    "max": 19.7,
     "min": 13.9,
     "hours": [
       {
         "time": "2026-11-13T14:00",
-        "temp": 18.7,
-        "code": 1
+        "temp": 18.5,
+        "code": 0
       },
       {
         "time": "2026-11-13T15:00",
-        "temp": 18.7,
-        "code": 1
+        "temp": 18.9,
+        "code": 0
       },
       {
         "time": "2026-11-13T16:00",
-        "temp": 19.0,
-        "code": 1
+        "temp": 19.4,
+        "code": 0
       },
       {
         "time": "2026-11-13T17:00",
@@ -364,15 +364,15 @@
       },
       {
         "time": "2026-11-13T18:00",
-        "temp": 19.8,
+        "temp": 19.7,
         "code": 0
       }
     ],
     "hours3": [
       {
         "time": "2026-11-13T14:00",
-        "temp": 18.7,
-        "code": 1,
+        "temp": 18.5,
+        "code": 0,
         "mm": 0.0
       },
       {
@@ -383,32 +383,32 @@
       },
       {
         "time": "2026-11-13T20:00",
-        "temp": 19.4,
+        "temp": 19.5,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-13T23:00",
-        "temp": 18.2,
+        "temp": 17.3,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-14T02:00",
-        "temp": 15.0,
+        "temp": 15.1,
         "code": 1,
         "mm": 0.0
       },
       {
         "time": "2026-11-14T05:00",
-        "temp": 14.6,
+        "temp": 14.5,
         "code": 1,
         "mm": 0.0
       },
       {
         "time": "2026-11-14T08:00",
-        "temp": 15.0,
-        "code": 2,
+        "temp": 14.9,
+        "code": 1,
         "mm": 0.0
       }
     ],
@@ -448,13 +448,13 @@
     ],
     "tomorrow": {
       "code": 2,
-      "max": 19.3,
-      "min": 14.2
+      "max": 19.0,
+      "min": 14.3
     },
     "rain": null
   },
   "index": {
-    "price": 61440.0,
+    "price": 61325.0,
     "prev": 61320.0,
     "points": [
       [
@@ -523,7 +523,7 @@
       [
         "11/13 08:45",
         61495.0,
-        61490.0,
+        61470.0,
         61565.0,
         61425.0
       ],
@@ -537,7 +537,7 @@
       [
         "11/13 08:55",
         61595.0,
-        61455.0,
+        61465.0,
         61595.0,
         61420.0
       ],
@@ -551,7 +551,7 @@
       [
         "11/13 09:05",
         61595.0,
-        61675.0,
+        61685.0,
         61700.0,
         61565.0
       ],
@@ -747,7 +747,7 @@
       [
         "11/13 11:25",
         61900.0,
-        61750.0,
+        61755.0,
         61915.0,
         61730.0
       ],
@@ -802,22 +802,22 @@
       ],
       [
         "11/13 12:05",
-        61810.0,
+        61820.0,
         61885.0,
         61890.0,
-        61810.0
+        61820.0
       ],
       [
-        "11/13 13:52",
-        61440.0,
-        61440.0,
-        61440.0,
-        61440.0
+        "11/13 13:58",
+        61325.0,
+        61325.0,
+        61325.0,
+        61325.0
       ]
     ]
   },
   "fx": {
-    "price": 159.93,
+    "price": 159.9345,
     "prev": 159.8515
   },
   "topix": {
