@@ -134,6 +134,10 @@
       .ix-chg.up { color: #7ee2a0; }
       .ix-chg.down { color: #ff9d8a; }
       .ix-chart { display: block; width: 100%; flex: 1 1 auto; min-height: 0; margin-top: 4px; }
+      .ix-chart-wrap { display: flex; flex-direction: row; flex: 1 1 auto; min-height: 0; margin-top: 4px; }
+      .ix-chart-wrap .ix-chart { flex: 1 1 auto; width: auto; min-width: 0; margin-top: 0; }
+      .ix-axis { position: relative; flex: 0 0 44px; margin-left: 5px; }
+      .ix-tick { position: absolute; right: 0; transform: translateY(-50%); font-size: 9.5px; line-height: 1; color: rgba(255,255,255,0.78); font-variant-numeric: tabular-nums; white-space: nowrap; }
       .ix-range { display: flex; justify-content: space-between; font-size: 11px; color: rgba(255,255,255,0.65); margin-top: 2px; } .ix-toggle { margin-left: auto; background: rgba(255,255,255,0.12); color: #cfe8ff; border: 1px solid rgba(255,255,255,0.25); border-radius: 6px; font-size: 11px; padding: 2px 8px; cursor: pointer; font-family: inherit; }
       .mini { width: 128px; flex: 0 0 auto; margin-left: 10px; padding: 9px 10px; border-left: 3px solid #ff8a5c; display: flex; flex-direction: column; justify-content: center; min-height: 0; }
       .mini-name { font-size: 13px; font-weight: 700; color: rgba(255,255,255,0.92); }
@@ -392,6 +396,8 @@
         .foot { top: 4px; bottom: auto; right: 8px; font-size: 10.5px; }
         .strip-head .foot { position: static; margin-left: auto; }
         .news-title { font-size: 16px; line-height: 1.25; }
+        .ix-axis { flex-basis: 46px; }
+        .ix-tick { font-size: 10px; }
       }
     </style>
   </head>
@@ -449,7 +455,7 @@
               <span class="ix-price" id="ix-price">--</span>
               <span class="ix-chg" id="ix-chg"></span><button type="button" class="ix-toggle" id="ix-toggle">ローソク足</button>
             </div>
-            <svg class="ix-chart" id="ix-chart" viewBox="0 0 300 78" preserveAspectRatio="none" aria-hidden="true"></svg>
+            <div class="ix-chart-wrap"><svg class="ix-chart" id="ix-chart" viewBox="0 0 300 78" preserveAspectRatio="none" aria-hidden="true"></svg><div class="ix-axis" id="ix-axis"></div></div>
             <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span>
       </div>
     </div>
@@ -505,7 +511,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v58";
+      var PAGE_VER = "v59";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -673,6 +679,16 @@
         var line = "";
         for (i = 0; i < pts.length; i++) { line += (i ? "L" : "M") + X(i) + " " + Y(pts[i][1]) + " "; }
         var svg = "";
+        var axis = "";
+        var hi = max - pad, lo = min + pad, k2, tv, ty;
+        if (hi > lo) {
+          for (k2 = 0; k2 <= 3; k2++) {
+            tv = hi - (hi - lo) * k2 / 3;
+            ty = Y(tv);
+            svg += "<line x1=\"0\" y1=\"" + ty + "\" x2=\"" + W + "\" y2=\"" + ty + "\" stroke=\"rgba(255,255,255,0.13)\" stroke-width=\"1\" vector-effect=\"non-scaling-stroke\"/>";
+            axis += "<span class=\"ix-tick\" style=\"top:" + (ty / H * 100).toFixed(1) + "%\">" + fmtNum(tv) + "</span>";
+          }
+        }
         if (typeof ix.prev === "number") {
           svg += "<line x1=\"0\" y1=\"" + Y(ix.prev) + "\" x2=\"" + W + "\" y2=\"" + Y(ix.prev) + "\" stroke=\"rgba(255,255,255,0.4)\" stroke-width=\"1\" stroke-dasharray=\"4 3\" vector-effect=\"non-scaling-stroke\"/>";
         }
@@ -694,6 +710,7 @@
           svg += "<circle cx=\"" + X(pts.length - 1) + "\" cy=\"" + Y(pts[pts.length - 1][1]) + "\" r=\"3\" fill=\"" + col + "\"/>";
         }
         $("ix-chart").innerHTML = svg;
+        $("ix-axis").innerHTML = axis;
         $("ix-note").textContent = "高 " + fmtNum(max - pad) + " ／ 安 " + fmtNum(min + pad);
         $("ix-open").textContent = pts[0][0];
         $("ix-close").textContent = pts[pts.length - 1][0];
