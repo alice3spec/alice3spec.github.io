@@ -1,12 +1,7 @@
 {
-  "updated": "2026-11-14T13:28:40.396412+09:00",
+  "updated": "2026-11-14T13:33:30.625736+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
-        "date": "2026-11-10T22:30:24+00:00"
-      },
       {
         "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
@@ -16,6 +11,11 @@
         "title": "来週（11/16～20）の日経平均株価の予想レンジは、5万9500～6万3500円！ 6万2000円(200日移動平均線)近辺での攻防や、好決算の内需株･金融株に注目 - ダイヤモンド・オンライン",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoSk9wSU5EU1JHRnRGUVdDd01Vb3FvOFNETmZOdlIxTm1EUDh0X1pvRzNXUHVPaGVOakh0eEdJZ3N2SVUtVmlyMXRVS0FmYmlwbkRJ?oc=5",
         "date": "2026-11-14T01:47:49+00:00"
+      },
+      {
+        "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
+        "date": "2026-11-11T22:30:00+00:00"
       },
       {
         "title": "来週の株式相場に向けて＝「エヌビディア」と「アンソロピック」に視線集中 - 株探",
@@ -28,14 +28,19 @@
         "date": "2026-11-13T04:17:00+00:00"
       },
       {
-        "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
-        "date": "2026-11-11T22:30:00+00:00"
+        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
+        "date": "2026-11-10T22:30:24+00:00"
       },
       {
         "title": "今週の【早わかり株式市況】大幅反発、悲観ムードから一転してセンチメント回復(株探ニュース) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUl9reWpBbV9UcURmMnlENmYwQUpPUDBDSkhaQUpNMG5uT0tDbGtJX2t3XzFUUlEzaWNfY25XdGJDd2FPQ1FBT25Nd0JDcGtTYWFmZHlyQWpKTXFKZzdRS29Wd1Zia3hETjBDOXkzWm1tY3FSbWlFdG5Qa0R0cWNvS3pFY0dnb1U?oc=5",
         "date": "2026-11-13T21:40:33+00:00"
+      },
+      {
+        "title": "明日の株式相場に向けて＝「アンソロピック・エフェクト」逆襲の鐘は鳴るか - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rR24wb0pFdVVOd0piNm16QmxobXBqNXZpR3FOVjhNXzVNbVdJR3BaS1B4amlxeVRKRG5VdFRzNTZIbkE5S1U3YVIteXBpa1ZrTlJKWG4zVDV5VE5DR2pILQ?oc=5",
+        "date": "2026-11-11T08:30:00+00:00"
       },
       {
         "title": "日経平均株価、AI銘柄の不透明感で内需株に注目（先読み株式相場） - 日本経済新聞",
@@ -46,11 +51,6 @@
         "title": "日経平均株価が反発 終値は322円高の6万1142円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dEJOeHJTODM4aTJabGFwamQySzU4MHJrQ3ozOWw1enFJaEp3WlFnSVhrNWxjZ1A1MU5TOVI1d2lIX3doVDdsbUJtYTVxU1hYc2k1ZHY0WGZ3M05qdy12Ti04cGk2NWZtVFJSQg?oc=5",
         "date": "2026-11-13T00:05:34+00:00"
-      },
-      {
-        "title": "日経平均株価、米AI株持ち直しが支えに（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wYm5mUDBncGxjQTBuenhxZE9LcW1jUDV6RHQ3THNwREJxdG9QRGMwbGZJWjFXQ2o3cFJ5cEROTXg1VVZJUHdsZHRyRGVXdHJCeEJwSk1XNTF2ZXpBeXdGbWpLR2NUdjRmZWVrQQ?oc=5",
-        "date": "2026-11-09T22:30:00+00:00"
       },
       {
         "title": "日本マクドナルドHDの株価、上場来高値（11日の株式市場） - 日本経済新聞",
@@ -307,12 +307,14 @@
       {
         "title": "婚活に300万円課金 結婚した男性",
         "link": "https://news.yahoo.co.jp/pickup/6602518?source=rss",
-        "date": "2026-11-14T01:30:03+00:00"
+        "date": "2026-11-14T01:30:03+00:00",
+        "body": "a51.txt"
       },
       {
         "title": "「人生初FAX」MS障害で代替手段",
         "link": "https://news.yahoo.co.jp/pickup/6602497?source=rss",
-        "date": "2026-11-13T23:03:31+00:00"
+        "date": "2026-11-13T23:03:31+00:00",
+        "body": "a52.txt"
       },
       {
         "title": "速報アジアプロ野球 侍Jvs.豪州",
