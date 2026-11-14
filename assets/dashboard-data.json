@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T17:33:22.243926+09:00",
+  "updated": "2026-11-14T17:38:24.592667+09:00",
   "feeds": {
     "kabu": [
       {
@@ -34,11 +34,6 @@
         "date": "2026-11-11T08:30:00+00:00"
       },
       {
-        "title": "来週の株式相場に向けて＝「エヌビディア」と「アンソロピック」に視線集中 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CaXdRdzU0LTBtRF9TdF9ycmg5Tm8tNjMyd2d0R3RLYmJUc1VOWG9WbHNqcnE0Zi1mNGFnUTBQZWRBOE91MVdTNU9EQVN1SDEza3JaOXRoVExPNFBwOVlyeQ?oc=5",
-        "date": "2026-11-13T08:48:00+00:00"
-      },
-      {
         "title": "日経平均株価、AI銘柄の不透明感で内需株に注目（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaRXk1Y1JJRGpZbDRnVmU4czVQVWoycHViSU53Wm8zaHBLLVlqSDFoZHFtS0NkQjlkNjJraC1QLXhEMnh1Y0M0eDN1WmxvWEhzOHFva1FkTWM0VVA3RXI2WUNEUVNvU25ZQzl4Yw?oc=5",
         "date": "2026-11-12T22:48:57+00:00"
@@ -62,6 +57,11 @@
         "title": "日経平均株価、米AI株持ち直しが支えに（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wYm5mUDBncGxjQTBuenhxZE9LcW1jUDV6RHQ3THNwREJxdG9QRGMwbGZJWjFXQ2o3cFJ5cEROTXg1VVZJUHdsZHRyRGVXdHJCeEJwSk1XNTF2ZXpBeXdGbWpLR2NUdjRmZWVrQQ?oc=5",
         "date": "2026-11-09T22:30:00+00:00"
+      },
+      {
+        "title": "東証14時 日経平均は軟調 200円安 米エヌビディア巡る懸念根強く - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02S0NLczMxaE1la1pfRHJOYVhDTG5XczJjRmh6S2pPWXNvWWFvaXFwaFBsd2JjZGZpVnQ2Zm50X1V2MHJ1NHgwUk5kYmRreWFnU1JyeUZ5YmI3SE9NRVdQcEV4R2JMQzlUVWlvYQ?oc=5",
+        "date": "2026-11-12T05:13:50+00:00"
       }
     ],
     "ai": [
