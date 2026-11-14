@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T17:28:28.800576+09:00",
+  "updated": "2026-11-14T17:33:22.243926+09:00",
   "feeds": {
     "kabu": [
       {
@@ -306,15 +306,15 @@
         "body": "a50.txt"
       },
       {
-        "title": "首都圏でクマ目撃増 神奈川や埼玉",
-        "link": "https://news.yahoo.co.jp/pickup/6602558?source=rss",
-        "date": "2026-11-14T07:25:03+00:00",
-        "body": "a51.txt"
-      },
-      {
         "title": "市営住宅236戸に別人が入居 伊賀",
         "link": "https://news.yahoo.co.jp/pickup/6602552?source=rss",
         "date": "2026-11-14T06:51:30+00:00",
+        "body": "a51.txt"
+      },
+      {
+        "title": "友達は0人 居場所求めて東大受験",
+        "link": "https://news.yahoo.co.jp/pickup/6602560?source=rss",
+        "date": "2026-11-14T08:23:01+00:00",
         "body": "a52.txt"
       },
       {
@@ -338,7 +338,7 @@
     ]
   },
   "weather": {
-    "temp": 17.9,
+    "temp": 18.0,
     "code": 2,
     "max": 18.5,
     "min": 14.1,
