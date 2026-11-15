@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T15:48:19.529761+09:00",
+  "updated": "2026-11-15T15:53:23.432489+09:00",
   "feeds": {
     "kabu": [
       {
@@ -294,9 +294,9 @@
     ],
     "yahoo": [
       {
-        "title": "米中露が会談へ 日本は蚊帳の外か",
-        "link": "https://news.yahoo.co.jp/pickup/6602660?source=rss",
-        "date": "2026-11-15T04:19:08+00:00",
+        "title": "首相APEC出席へ 焦点は日中関係",
+        "link": "https://news.yahoo.co.jp/pickup/6602674?source=rss",
+        "date": "2026-11-15T06:39:22+00:00",
         "body": "a48.txt"
       },
       {
@@ -2402,8 +2402,8 @@
     ]
   },
   "fx": {
-    "price": 159.68,
-    "prev": 159.8515
+    "price": 159.6805,
+    "prev": 159.852
   },
   "topix": {
     "price": 139.11,
