@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:43:21.944214+09:00",
+  "updated": "2026-11-15T20:48:20.908446+09:00",
   "feeds": {
     "kabu": [
       {
@@ -11,6 +11,11 @@
         "title": "伊藤智洋が読むマーケット・シナリオ【週間展望】 11月15日版 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tcHQyNjc2dGo0R2RCV0k1TFpHenlISHgxRFdjZmtmdktINWR0X2I2N0h0cXVETXhNc0gwdkFEcUhLdzB4eTlDYWV5QVA4Qk9relRlNXJrOTZiQW9oWVVyYg?oc=5",
         "date": "2026-11-15T11:30:15+00:00"
+      },
+      {
+        "title": "米中間選挙 上下院結果別の4つのシナリオで「株価反応」を予想 野村證券ストラテジストが解説 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZT0djTUdjcHAzQU5hN2tEN3hwVGV0OHBpTlhDTzdyN1lLVklaeGpIbGFIWnh5dVpnd3dwcll5UFlVaVhxTHd6YTh2QWtBeVpLS0FiVjhJaVlvYU14ekM4?oc=5",
+        "date": "2026-11-13T08:00:00+00:00"
       },
       {
         "title": "来週（11/16～20）の日経平均株価の予想レンジは、5万9500～6万3500円！ 6万2000円(200日移動平均線)近辺での攻防や、好決算の内需株･金融株に注目 - ダイヤモンド・オンライン",
@@ -30,7 +35,8 @@
       {
         "title": "日経平均株価は4日ぶり反落 終値は429円安の6万0819円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LUhDZDJpTlVreEJjOGVucGViOXRMWjQwVlBiU2F4R2UyN0lBcDVPZ25HXzk3dnF5MWIzdXVWM2FocVRZQldTaEVvUGZEUVRvdWctOVVoMTR6UFFQSGZMcXYtZER6dE5sdWZWQg?oc=5",
-        "date": "2026-11-12T00:05:37+00:00"
+        "date": "2026-11-12T00:05:37+00:00",
+        "body": "a06.txt"
       },
       {
         "title": "来週の株式相場に向けて＝「エヌビディア」と「アンソロピック」に視線集中 - 株探",
@@ -40,8 +46,7 @@
       {
         "title": "日経平均株価、AI銘柄の不透明感で内需株に注目（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaRXk1Y1JJRGpZbDRnVmU4czVQVWoycHViSU53Wm8zaHBLLVlqSDFoZHFtS0NkQjlkNjJraC1QLXhEMnh1Y0M0eDN1WmxvWEhzOHFva1FkTWM0VVA3RXI2WUNEUVNvU25ZQzl4Yw?oc=5",
-        "date": "2026-11-12T22:48:57+00:00",
-        "body": "a07.txt"
+        "date": "2026-11-12T22:48:57+00:00"
       },
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で上げ幅広げる - 株探",
@@ -51,12 +56,8 @@
       {
         "title": "東証14時 日経平均は軟調 200円安 米エヌビディア巡る懸念根強く - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02S0NLczMxaE1la1pfRHJOYVhDTG5XczJjRmh6S2pPWXNvWWFvaXFwaFBsd2JjZGZpVnQ2Zm50X1V2MHJ1NHgwUk5kYmRreWFnU1JyeUZ5YmI3SE9NRVdQcEV4R2JMQzlUVWlvYQ?oc=5",
-        "date": "2026-11-12T05:13:50+00:00"
-      },
-      {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は上昇幅縮小 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OS3JNTzJRbVdwVjZaMFE0X00xTVNjOS1sdFJoeHJpd013TFBqT3prTUR4QmxyNU42WnIxUzZRYUFxWEJnSjBCLXdRaWlUdi00SVE?oc=5",
-        "date": "2026-11-13T03:33:00+00:00"
+        "date": "2026-11-12T05:13:50+00:00",
+        "body": "a10.txt"
       },
       {
         "title": "アドバンテスト株上昇 検査装置、年産1万台前倒しへ（13日の株式市場） - 日本経済新聞",
@@ -338,7 +339,7 @@
     ]
   },
   "weather": {
-    "temp": 13.8,
+    "temp": 13.9,
     "code": 61,
     "max": 17.6,
     "min": 13.1,
