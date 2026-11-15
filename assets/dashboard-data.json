@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T07:53:16.324757+09:00",
+  "updated": "2026-11-16T07:58:10.597589+09:00",
   "feeds": {
     "kabu": [
       {
@@ -312,9 +312,9 @@
         "body": "a51.txt"
       },
       {
-        "title": "大阪3歳死亡 児童相談所接触せず",
-        "link": "https://news.yahoo.co.jp/pickup/6602741?source=rss",
-        "date": "2026-11-15T22:19:36+00:00",
+        "title": "JSR売却 差益9000億円超の見込み",
+        "link": "https://news.yahoo.co.jp/pickup/6602747?source=rss",
+        "date": "2026-11-15T22:47:18+00:00",
         "body": "a52.txt"
       },
       {
@@ -2393,7 +2393,7 @@
     ]
   },
   "fx": {
-    "price": 159.6435,
+    "price": 159.6995,
     "prev": 159.68
   },
   "topix": {
