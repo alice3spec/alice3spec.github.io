@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T21:23:23.524302+09:00",
+  "updated": "2026-11-15T21:28:29.379225+09:00",
   "feeds": {
     "kabu": [
       {
@@ -296,16 +296,14 @@
         "body": "a48.txt"
       },
       {
-        "title": "福岡市長選 再選挙の可能性",
-        "link": "https://news.yahoo.co.jp/pickup/6602719?source=rss",
-        "date": "2026-11-15T12:18:00+00:00",
-        "body": "a49.txt"
-      },
-      {
         "title": "漁船同士が衝突し1隻沈没 8人搬送",
         "link": "https://news.yahoo.co.jp/pickup/6602713?source=rss",
-        "date": "2026-11-15T11:37:45+00:00",
-        "body": "a50.txt"
+        "date": "2026-11-15T11:37:45+00:00"
+      },
+      {
+        "title": "福岡市長選 再選挙の可能性",
+        "link": "https://news.yahoo.co.jp/pickup/6602719?source=rss",
+        "date": "2026-11-15T12:18:00+00:00"
       },
       {
         "title": "妻が酒でひょう変 限界感じた夫",
