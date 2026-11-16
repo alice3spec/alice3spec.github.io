@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T23:23:31.784256+09:00",
+  "updated": "2026-11-16T23:28:13.228703+09:00",
   "feeds": {
     "kabu": [
       {
@@ -215,78 +215,83 @@
     ],
     "gadget": [
       {
-        "title": "Teenage Engineering、今度はCDプレーヤーを作ってるっぽい",
-        "link": "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/",
-        "date": "2026-11-16T14:15:00+00:00"
-      },
-      {
-        "title": "土星の環、お前だったのか。犯人は1億年前に消えた“幻の衛星”",
-        "link": "https://www.gizmodo.jp/article/2611-saturn-rings-lost-moon-origin/",
-        "date": "2026-11-16T14:00:00+00:00"
-      },
-      {
         "title": "1年間、窓のない施設で4人が暮らす。NASAの「模擬火星プロジェクト」が完走",
         "link": "https://www.gizmodo.jp/article/2611-nasa-chapea-mars-simulation-project/",
         "date": "2026-11-16T13:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a36.txt"
       },
       {
         "title": "モバ充の未来を変えるかも。電池の充放電をスムーズにする「ビタミンB12」",
         "link": "https://www.gizmodo.jp/article/f174c419-272c-4f3c-b9d3-e89cff36ac6a/",
-        "date": "2026-11-16T13:15:00+00:00"
+        "date": "2026-11-16T13:15:00+00:00",
+        "body": "a37.txt"
       },
       {
         "title": "Googleに約2645億円の制裁金。いったん取り消されたけど、支払いの可能性が再浮上",
         "link": "https://www.gizmodo.jp/article/2611-google-eu-fine-appeal/",
         "date": "2026-11-16T13:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a38.txt"
       },
       {
         "title": "眠っているPSPや3DSを、電子楽器として蘇らせる激ヤバソフト",
         "link": "https://www.gizmodo.jp/article/psp_3ds_granular_sampler_dzagrain/",
-        "date": "2026-11-16T12:45:00+00:00"
+        "date": "2026-11-16T12:45:00+00:00",
+        "body": "a39.txt"
       },
       {
         "title": "ChatGPT、ユーザーのクレカでお買い物をしてくれるようになったけど…、大丈夫？",
         "link": "https://www.gizmodo.jp/article/2611-chatgpt-wallet-credit-card-ai/",
         "date": "2026-11-16T12:30:00+00:00",
-        "body": "a42.txt"
+        "body": "a40.txt"
       },
       {
         "title": "模様が美しい。防弾チョッキにも使われるアラミド繊維で織り上げたiPhoneケース",
         "link": "https://www.gizmodo.jp/article/pitaka-wind-over-wheat-phone-cases/",
         "date": "2026-11-16T12:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a41.txt"
       },
       {
         "title": "ノルウェー「新しいデータセンターに回す電気はねえ！」国の全力を越えてます",
         "link": "https://www.gizmodo.jp/article/2611-norway-datacenters-power-shortage/",
         "date": "2026-11-16T11:30:00+00:00",
-        "body": "a44.txt"
+        "body": "a42.txt"
       },
       {
         "title": "コンセントに生やそう。バッファローから爆誕、「ワイヤレス充電器×USB充電器」のキメラ",
         "link": "https://www.gizmodo.jp/article/2611-buffalo-qi2-wireless-usb-charger/",
         "date": "2026-11-16T11:15:00+00:00",
-        "body": "a45.txt"
+        "body": "a43.txt"
       },
       {
         "title": "人型ロボットのAtlas君、車輪を装備したら...。横滑り、360度回転ジャンプまで習得",
         "link": "https://www.gizmodo.jp/article/2611-boston-dynamics-atlas-wheels/",
-        "date": "2026-11-16T11:00:00+00:00"
+        "date": "2026-11-16T11:00:00+00:00",
+        "body": "a44.txt"
       },
       {
         "title": "「Photoshop」の名に騙されるな。2次元の壁はとっくに超えている",
         "link": "https://www.gizmodo.jp/article/2611-photoshop-ai-features-adobe-max/",
         "date": "2026-11-16T10:45:00+00:00",
+        "body": "a45.txt"
+      },
+      {
+        "title": "すごいのはわかった。で、毎日使う？ グーグル✕サムスンのスマートグラス使ってみた",
+        "link": "https://www.gizmodo.jp/article/2611-google-samsung-intelligent-eyewear-hands-on/",
+        "date": "2026-11-16T10:30:00+00:00",
+        "body": "a46.txt"
+      },
+      {
+        "title": "AIのかしこさとは。『ポケモン』で同じ崖から3回落ちる→メモを整理してミスに気づく",
+        "link": "https://www.gizmodo.jp/article/2611-claude-pokemon-gameplay-ai-memory/",
+        "date": "2026-11-16T10:15:00+00:00",
         "body": "a47.txt"
       }
     ],
     "yahoo": [
       {
-        "title": "政府 19日の米中ロ首脳会談を注視",
-        "link": "https://news.yahoo.co.jp/pickup/6602819?source=rss",
-        "date": "2026-11-16T10:16:28+00:00",
+        "title": "3カ国会談巡り中国「戦勝国」強調",
+        "link": "https://news.yahoo.co.jp/pickup/6602847?source=rss",
+        "date": "2026-11-16T14:25:07+00:00",
         "body": "a48.txt"
       },
       {
@@ -314,21 +319,21 @@
         "body": "a52.txt"
       },
       {
-        "title": "矢野ら カープに謝罪求める要請書",
-        "link": "https://news.yahoo.co.jp/pickup/6602841?source=rss",
-        "date": "2026-11-16T13:20:14+00:00",
+        "title": "FWルカク ベルギー代表引退表明",
+        "link": "https://news.yahoo.co.jp/pickup/6602845?source=rss",
+        "date": "2026-11-16T13:56:46+00:00",
         "body": "a53.txt"
       },
       {
-        "title": "高橋一生が公演中に負傷 舞台中止",
-        "link": "https://news.yahoo.co.jp/pickup/6602834?source=rss",
-        "date": "2026-11-16T12:44:03+00:00",
+        "title": "カバディの観客増 アジア大会効果",
+        "link": "https://news.yahoo.co.jp/pickup/6602803?source=rss",
+        "date": "2026-11-16T07:17:50+00:00",
         "body": "a54.txt"
       },
       {
-        "title": "中田乃愛さん死去 テレ東など追悼",
-        "link": "https://news.yahoo.co.jp/pickup/6602827?source=rss",
-        "date": "2026-11-16T11:15:16+00:00",
+        "title": "漫画ひらやすみ 連載5年半に幕",
+        "link": "https://news.yahoo.co.jp/pickup/6602831?source=rss",
+        "date": "2026-11-16T11:57:43+00:00",
         "body": "a55.txt"
       }
     ]
@@ -454,7 +459,7 @@
     }
   },
   "index": {
-    "price": 59725.0,
+    "price": 59790.0,
     "prev": 61065.0,
     "points": [
       [
@@ -1719,22 +1724,29 @@
       ],
       [
         "11/16 23:10",
-        59725.0,
+        59730.0,
         59705.0,
         59745.0,
         59705.0
       ],
       [
-        "11/16 23:13",
+        "11/16 23:15",
+        59805.0,
         59725.0,
-        59725.0,
-        59725.0,
-        59725.0
+        59805.0,
+        59720.0
+      ],
+      [
+        "11/16 23:18",
+        59790.0,
+        59790.0,
+        59790.0,
+        59790.0
       ]
     ]
   },
   "fx": {
-    "price": 159.63,
+    "price": 159.648,
     "prev": 159.686
   },
   "topix": {
