@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T15:08:24.825161+09:00",
+  "updated": "2026-11-16T15:13:27.607700+09:00",
   "feeds": {
     "kabu": [
       {
@@ -23,14 +23,14 @@
         "date": "2026-11-16T02:53:59+00:00"
       },
       {
-        "title": "日経平均、1300円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTFNcDNRLXc3UUYycHB6cnhobHhKbnFkck04SDVhMl9KQkF2endCdWRFSk1aSWthOUNSaWVZVkhOSUk2ZWRDTjZPeTJ1TGUwSVlabzJXMHc4a3Z0WGNZdWQ4NkZJcWZEdmJjcjZ0bU9ZdUtQZ1BMLXdHYjJ0ZzNRT25OM0RTdGs?oc=5",
-        "date": "2026-11-16T03:50:31+00:00"
-      },
-      {
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
         "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "日経平均、1300円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTFNcDNRLXc3UUYycHB6cnhobHhKbnFkck04SDVhMl9KQkF2endCdWRFSk1aSWthOUNSaWVZVkhOSUk2ZWRDTjZPeTJ1TGUwSVlabzJXMHc4a3Z0WGNZdWQ4NkZJcWZEdmJjcjZ0bU9ZdUtQZ1BMLXdHYjJ0ZzNRT25OM0RTdGs?oc=5",
+        "date": "2026-11-16T03:50:31+00:00"
       },
       {
         "title": "日経平均株価が反落 午前終値は959円安の6万0182円 - 日本経済新聞",
@@ -213,75 +213,75 @@
     ],
     "gadget": [
       {
+        "title": "Claude Codeに「カスタムテーマ」がきた。カラフルで動きまくり、楽しそう！",
+        "link": "https://www.gizmodo.jp/article/2611-claude-code-custom-theme/",
+        "date": "2026-11-16T06:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "あるんだ?! あのカメラが生えてるロボスマホに後継機開発の噂",
         "link": "https://www.gizmodo.jp/article/honor-robot-phone-2_successor/",
         "date": "2026-11-16T04:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "発売5日前にまさかの延期。ソニーの新型ゲーミングスピーカーに何が？",
         "link": "https://www.gizmodo.jp/article/2611-sony-pulse-elevate-release-delayed/",
         "date": "2026-11-16T03:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "AIへの「いつものお願い」をワンタッチ送信。Keychronの小型キーボードが登場",
         "link": "https://www.gizmodo.jp/article/2611-keychron-f4-he-8k-vibe-coding-keypad/",
         "date": "2026-11-16T03:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "元FBI捜査官、約3.9億円の暗号資産を盗む",
         "link": "https://www.gizmodo.jp/article/2611-ex-fbi-agent-crypto-theft/",
         "date": "2026-11-16T02:45:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "電気と水をドカ食いする「データセンター問題」。結局どうすればいいのか専門家3人に聞いてみた",
         "link": "https://www.gizmodo.jp/article/2611-ai-data-center-water-power-issue/",
         "date": "2026-11-16T02:35:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "メールの返事もカレンダーの調整もやってくれるスマホ「Blue Phone」",
         "link": "https://www.gizmodo.jp/article/2611-blue-phone-ai-agent-smartphone/",
         "date": "2026-11-16T02:15:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "南極点の情シス、募集中。年収1,270万円",
         "link": "https://www.gizmodo.jp/article/south-pole-linux-winterover-job/",
         "date": "2026-11-16T02:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "「Starlink Mini 2」発表。着脱式バッテリー搭載でもっと便利になった",
         "link": "https://www.gizmodo.jp/article/starlink-mini-2/",
         "date": "2026-11-16T01:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "Amazonの「買い物AI」がAlexaに統合。ペットや家族の好みまで覚えてくれます",
         "link": "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/",
         "date": "2026-11-16T00:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "トヨタ、「かわいい」軽トラをアメリカで発売へ",
         "link": "https://www.gizmodo.jp/article/2611-toyota-kei-truck-us-release/",
         "date": "2026-11-15T23:45:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え",
         "link": "https://www.gizmodo.jp/article/touch-macbook-pro-1week-review/",
         "date": "2026-11-15T23:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される",
-        "link": "https://www.gizmodo.jp/article/2611-ram-altman-spam-device/",
-        "date": "2026-11-15T22:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -457,7 +457,7 @@
     }
   },
   "index": {
-    "price": 59745.0,
+    "price": 59830.0,
     "prev": 61065.0,
     "points": [
       [
@@ -596,7 +596,7 @@
       [
         "11/16 09:45",
         60695.0,
-        60570.0,
+        60575.0,
         60760.0,
         60560.0
       ],
@@ -624,7 +624,7 @@
       [
         "11/16 10:05",
         60520.0,
-        60525.0,
+        60530.0,
         60635.0,
         60470.0
       ],
@@ -707,73 +707,10 @@
       ],
       [
         "11/16 11:05",
-        60330.0,
+        60350.0,
         60355.0,
         60400.0,
         60290.0
-      ],
-      [
-        "11/16 11:10",
-        60305.0,
-        60320.0,
-        60375.0,
-        60305.0
-      ],
-      [
-        "11/16 11:15",
-        60350.0,
-        60275.0,
-        60350.0,
-        60260.0
-      ],
-      [
-        "11/16 11:20",
-        60360.0,
-        60325.0,
-        60380.0,
-        60260.0
-      ],
-      [
-        "11/16 11:25",
-        60270.0,
-        60355.0,
-        60360.0,
-        60255.0
-      ],
-      [
-        "11/16 11:30",
-        60250.0,
-        60240.0,
-        60250.0,
-        60195.0
-      ],
-      [
-        "11/16 11:35",
-        60340.0,
-        60250.0,
-        60350.0,
-        60250.0
-      ],
-      [
-        "11/16 11:40",
-        60235.0,
-        60305.0,
-        60345.0,
-        60235.0
-      ],
-      [
-        "11/16 11:45",
-        60135.0,
-        60190.0,
-        60230.0,
-        60125.0
-      ],
-      [
-        "11/16 11:50",
-        60100.0,
-        60130.0,
-        60130.0,
-        60075.0
       ],
       [
         "11/16 14:00",
@@ -854,22 +791,29 @@
       ],
       [
         "11/16 14:55",
-        59745.0,
+        59800.0,
         59800.0,
         59800.0,
         59745.0
       ],
       [
-        "11/16 14:56",
-        59745.0,
-        59745.0,
-        59745.0,
-        59745.0
+        "11/16 15:00",
+        59825.0,
+        59785.0,
+        59865.0,
+        59755.0
+      ],
+      [
+        "11/16 15:03",
+        59830.0,
+        59830.0,
+        59830.0,
+        59830.0
       ]
     ]
   },
   "fx": {
-    "price": 159.387,
+    "price": 159.402,
     "prev": 159.686
   },
   "topix": {
