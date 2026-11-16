@@ -1,1 +1,805 @@
-{"updated": "2026-11-16T12:08:13.032158+09:00", "feeds": {"kabu": [{"title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5", "date": "2026-11-15T21:06:56+00:00"}, {"title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5", "date": "2026-11-15T22:37:44+00:00"}, {"title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月16日記） - 株探", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rV1RibHlWY0RKeEZldlJNbVlpVmVZSnJ5M3NRYlg4MUpyd3FEUXhueG84SElfVk5HLW14MTZIVDNFczRrRkI2dGY2WU5fVTZOSUtORHFTbEtXd3BmLVRvUA?oc=5", "date": "2026-11-15T22:42:52+00:00"}, {"title": "日経平均株価、下落に転じる 半導体関連に売り膨らむ - 日本経済新聞", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Rb1NjSEJaS0xEMzBjR3VObmFpNkhTbk1ueDdzeFZYeTdaalJfbDJjNDhDZldTOVc3V1NWWWFUZDIyZWJjamticVVHSkwzUF8zbnV5bFRHaXA3dzdEcXdNdDVITmNrbzNwcGhJbA?oc=5", "date": "2026-11-16T00:08:41+00:00"}, {"title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5", "date": "2026-11-13T08:00:00+00:00"}, {"title": "（朝）米国市場は高安まちまち　物価指標が市場予想を下回った安心感とハイテク株の売りにより方向感を欠く展開 - マネクリ", "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWUGRxS1k3YnVfcC1ybDJHX1NpRzNfejgyLWJqYmJqZm9sV2lkTnN6OENxdnlnYnJqakxhR1FESnFSRWlXRHpVTmh0U2pjWVdudWs1Q9IBV0FVX3lxTE94bGlzWWtjaG9YU3hnUFpsamVFOWFCQUFtU0p6eUpaSTU4cFJYQmd6MnpMaTFqcXBFN3lHb2VPb3dGSHpaelR4WmREc2UyNE0weGtFa3hHaw?oc=5", "date": "2026-11-15T23:13:00+00:00"}, {"title": "日経平均、959円85銭安の6万0182円50銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス", "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzJDQnBiTDRZMkxIa3RzWHRGb2xURjRoQU53SzF0ZzVLcXMwNnpNZGR3TXZ6SWlSUTIybEZEU25YMHY5OWpPZ2JPR0N0OEhPSjdKZVpNb3BYN3FCdEVmdm95VDZkMmRDQjJZb2ticW9rck84NHJuM3lLbzEwclpiS0RaN1ZVdmc?oc=5", "date": "2026-11-16T02:32:47+00:00"}, {"title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5", "date": "2026-11-13T08:00:00+00:00"}, {"title": "三菱UFJFG株価一時3.1%安 27年3月期純利益上方修正に「想定下回る」 - 日本経済新聞", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DNVZZcVNFSkdWRGtXMnlLQ0Z5TG1ab3Q0alhqZmJrTUczWGlUOU9vQ05KVm1KYnNMUzRLcGtwaFNqM0FtcUxzTnU1ZUozRlh3YjhvX3JSb3QzY21Ea2hFal8xd3ZXbUxkNVlUaw?oc=5", "date": "2026-11-16T01:28:36+00:00"}, {"title": "日経平均、205円86銭高の6万1348円21銭で始まる＝東京株式前場(時事通信) - Yahoo!ファイナンス", "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWl1dllpNU9TRDZTQnhkcVlYY0plN05kVXNpb0VPVEY3VnhVd2RiVmtaUjIxSUZ3WllhWU9pTnlGdEFickp0U25JaFJWNENUeDUzT1h0eWRFVzZfUDUycXhzM2FLcllaa0FGMWhoNVk1VkpaREJhM0t6dTZXRUFmeTFwT1ZnNUU?oc=5", "date": "2026-11-16T00:01:15+00:00"}, {"title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5", "date": "2026-11-13T08:00:00+00:00"}, {"title": "アドバンテスト株価が大幅反落 米半導体株安が波及、200日平均割る - 日本経済新聞", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rUEtValV2LW9CbnpCT0RZNnJnbDhTVnc3Z2JsTnFJS2pYWGE4ZGhrY2l0VzYtb21HLXpMQ1FTLXBLTHlSbnUzTWRfNFVpUW5BQjBMR2d5UU9JZEp0a0V0ODFxQmJKR3VrWXpncA?oc=5", "date": "2026-11-16T01:26:15+00:00"}], "ai": [{"title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証", "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/", "date": "2026-11-16T00:49:03+00:00", "body": "a12.txt"}, {"title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から", "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/", "date": "2026-11-16T00:44:05+00:00", "body": "a13.txt"}, {"title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応", "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html", "date": "2026-11-16T00:00:00+00:00", "body": "a14.txt"}, {"title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」", "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html", "date": "2026-11-15T23:30:00+00:00", "body": "a15.txt"}, {"title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い", "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/", "date": "2026-11-15T23:00:00+00:00", "body": "a16.txt"}, {"title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割", "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html", "date": "2026-11-15T23:00:00+00:00", "body": "a17.txt"}, {"title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示", "link": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news012.html", "date": "2026-11-15T22:45:00+00:00", "body": "a18.txt"}, {"title": "ライセンス更新を機に「脱マクロ」　オートバックスセブンがGeminiで目指す売上高5000億円", "link": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/", "date": "2026-11-15T22:00:00+00:00", "body": "a19.txt"}, {"title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！", "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html", "date": "2026-11-15T22:00:00+00:00", "body": "a20.txt"}, {"title": "メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？", "link": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html", "date": "2026-11-15T22:00:00+00:00", "body": "a21.txt"}, {"title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」", "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/", "date": "2026-11-14T11:35:45+00:00", "body": "a22.txt"}, {"title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生", "link": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html", "date": "2026-11-13T22:30:00+00:00", "body": "a23.txt"}], "it": [{"title": "「艦これアーケード」「オンゲキ」など一部再開　不正アクセスで停止のセガ系システムが試験復旧", "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003220/", "date": "2026-11-16T02:26:04+00:00", "body": "a24.txt"}, {"title": "ドコモ、また「5G SA」で通信障害　今月3回目【更新】", "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/", "date": "2026-11-16T01:58:42+00:00", "body": "a25.txt"}, {"title": "エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く", "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/", "date": "2026-11-16T01:14:23+00:00", "body": "a26.txt"}, {"title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証", "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/", "date": "2026-11-16T00:49:03+00:00", "body": "a27.txt"}, {"title": "京成、公式サイト「システム不具合」で閲覧できない状態に　復旧未定", "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003210/", "date": "2026-11-15T23:24:20+00:00", "body": "a28.txt"}, {"title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く", "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/", "date": "2026-11-15T23:05:13+00:00", "body": "a29.txt"}, {"title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続", "link": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/", "date": "2026-11-14T22:15:24+00:00", "body": "a30.txt"}, {"title": "相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた", "link": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/", "date": "2026-11-13T22:30:00+00:00", "body": "a31.txt"}, {"title": "AI×裸眼3Dディスプレイ？　2D映像をその場で3D化し、見る人の目も追う　現地で確かめた", "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/", "date": "2026-11-13T14:34:56+00:00", "body": "a32.txt"}, {"title": "データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた", "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/", "date": "2026-11-13T10:45:49+00:00", "body": "a33.txt"}, {"title": "「お名前.com」不正アクセス、補償申請約30億円に　GMOインターネットが決算説明会で謝罪", "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/", "date": "2026-11-13T09:17:23+00:00", "body": "a34.txt"}, {"title": "【復旧】ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に", "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003178/", "date": "2026-11-13T05:58:17+00:00", "body": "a35.txt"}], "gadget": [{"title": "AIへの「いつものお願い」をワンタッチ送信。Keychronの小型キーボードが登場", "link": "https://www.gizmodo.jp/article/2611-keychron-f4-he-8k-vibe-coding-keypad/", "date": "2026-11-16T03:00:00+00:00", "body": "a36.txt"}, {"title": "元FBI捜査官、約3.9億円の暗号資産を盗む", "link": "https://www.gizmodo.jp/article/2611-ex-fbi-agent-crypto-theft/", "date": "2026-11-16T02:45:00+00:00", "body": "a37.txt"}, {"title": "電気と水をドカ食いする「データセンター問題」。結局どうすればいいのか専門家3人に聞いてみた", "link": "https://www.gizmodo.jp/article/2611-ai-data-center-water-power-issue/", "date": "2026-11-16T02:35:00+00:00", "body": "a38.txt"}, {"title": "めんどうな作業はぜんぶスマホにおまかせ。AIがアプリを操作する「Blue Phone」", "link": "https://www.gizmodo.jp/article/2611-blue-phone-ai-agent-smartphone/", "date": "2026-11-16T02:15:00+00:00", "body": "a39.txt"}, {"title": "南極点の情シス、募集中。年収1,270万円", "link": "https://www.gizmodo.jp/article/south-pole-linux-winterover-job/", "date": "2026-11-16T02:00:00+00:00", "body": "a40.txt"}, {"title": "「Starlink Mini 2」発表。着脱式バッテリー搭載でもっと便利になった", "link": "https://www.gizmodo.jp/article/starlink-mini-2/", "date": "2026-11-16T01:00:00+00:00", "body": "a41.txt"}, {"title": "Amazonの「買い物AI」がAlexaに統合。ペットや家族の好みまで覚えてくれます", "link": "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/", "date": "2026-11-16T00:00:00+00:00", "body": "a42.txt"}, {"title": "トヨタ、「かわいい」軽トラをアメリカで発売へ", "link": "https://www.gizmodo.jp/article/2611-toyota-kei-truck-us-release/", "date": "2026-11-15T23:45:00+00:00", "body": "a43.txt"}, {"title": "大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え", "link": "https://www.gizmodo.jp/article/touch-macbook-pro-1week-review/", "date": "2026-11-15T23:00:00+00:00", "body": "a44.txt"}, {"title": "RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される", "link": "https://www.gizmodo.jp/article/2611-ram-altman-spam-device/", "date": "2026-11-15T22:00:00+00:00", "body": "a45.txt"}, {"title": "「山がいらない揚水発電」が実現？カギは水の2.5倍の密度を持つ謎の流体", "link": "https://www.gizmodo.jp/article/2611-pumped-storage-hydro-without-mountains/", "date": "2026-11-15T14:00:00+00:00", "body": "a46.txt"}, {"title": "NASAが1977年に打ち上げたボイジャー1号、まもなく地球から「1光日」の彼方へ", "link": "https://www.gizmodo.jp/article/voyager-1-light-day-distance/", "date": "2026-11-15T13:30:00+00:00", "body": "a47.txt"}], "yahoo": [{"title": "日韓首脳 17日にフィリピンで会談", "link": "https://news.yahoo.co.jp/pickup/6602766?source=rss", "date": "2026-11-16T02:38:36+00:00", "body": "a48.txt"}, {"title": "常磐道で車7台絡む事故 12人けが", "link": "https://news.yahoo.co.jp/pickup/6602763?source=rss", "date": "2026-11-16T01:44:09+00:00", "body": "a49.txt"}, {"title": "ドコモ「5G SA」でまた通信障害", "link": "https://news.yahoo.co.jp/pickup/6602767?source=rss", "date": "2026-11-16T02:26:41+00:00", "body": "a50.txt"}, {"title": "元ジャンポケ斉藤被告 実刑判決", "link": "https://news.yahoo.co.jp/pickup/6602765?source=rss", "date": "2026-11-16T02:09:34+00:00", "body": "a51.txt"}, {"title": "コンテナホテル8年で145店舗 背景", "link": "https://news.yahoo.co.jp/pickup/6602759?source=rss", "date": "2026-11-16T00:42:07+00:00", "body": "a52.txt"}, {"title": "中国に隕石落下 ハンターが殺到", "link": "https://news.yahoo.co.jp/pickup/6602760?source=rss", "date": "2026-11-16T00:40:35+00:00", "body": "a53.txt"}, {"title": "今季世界最高V 中井亜美がガッツ", "link": "https://news.yahoo.co.jp/pickup/6602775?source=rss", "date": "2026-11-16T02:52:10+00:00", "body": "a54.txt"}, {"title": "ちばてつやさん死去 賞は継続方針", "link": "https://news.yahoo.co.jp/pickup/6602771?source=rss", "date": "2026-11-16T02:43:49+00:00", "body": "a55.txt"}]}, "weather": {"temp": 18.5, "code": 1, "max": 18.9, "min": 14.5, "hours": [{"time": "2026-11-16T12:00", "temp": 18.5, "code": 1}, {"time": "2026-11-16T13:00", "temp": 18.7, "code": 1}, {"time": "2026-11-16T14:00", "temp": 18.9, "code": 2}, {"time": "2026-11-16T15:00", "temp": 18.7, "code": 2}, {"time": "2026-11-16T16:00", "temp": 18.3, "code": 2}], "hours3": [{"time": "2026-11-16T12:00", "temp": 18.5, "code": 1, "mm": 0.0}, {"time": "2026-11-16T15:00", "temp": 18.7, "code": 2, "mm": 0.0}, {"time": "2026-11-16T18:00", "temp": 17.1, "code": 2, "mm": 0.0}, {"time": "2026-11-16T21:00", "temp": 15.8, "code": 2, "mm": 0.0}, {"time": "2026-11-17T00:00", "temp": 15.0, "code": 1, "mm": 0.0}, {"time": "2026-11-17T03:00", "temp": 14.5, "code": 1, "mm": 0.0}, {"time": "2026-11-17T06:00", "temp": 14.2, "code": 2, "mm": 0.0}], "pop3": [{"time": "2026-11-16T12:00", "pop": 0}, {"time": "2026-11-16T15:00", "pop": 0}, {"time": "2026-11-16T18:00", "pop": 0}, {"time": "2026-11-16T21:00", "pop": 2}, {"time": "2026-11-17T00:00", "pop": 6}, {"time": "2026-11-17T03:00", "pop": 2}, {"time": "2026-11-17T06:00", "pop": 4}, {"time": "2026-11-17T09:00", "pop": 2}], "tomorrow": {"code": 63, "max": 15.0, "min": 11.1}, "rain": null}, "index": {"price": 60205.0, "prev": 61065.0, "points": [["11/16 08:10", 61325.0, 61400.0, 61410.0, 61325.0], ["11/16 08:15", 61295.0, 61330.0, 61375.0, 61265.0], ["11/16 08:20", 61360.0, 61300.0, 61360.0, 61250.0], ["11/16 08:25", 61365.0, 61350.0, 61445.0, 61300.0], ["11/16 08:30", 61365.0, 61335.0, 61385.0, 61285.0], ["11/16 08:35", 61545.0, 61405.0, 61545.0, 61405.0], ["11/16 08:40", 61470.0, 61560.0, 61560.0, 61470.0], ["11/16 08:45", 61575.0, 61490.0, 61610.0, 61440.0], ["11/16 08:50", 61500.0, 61555.0, 61555.0, 61435.0], ["11/16 08:55", 61365.0, 61475.0, 61500.0, 61340.0], ["11/16 09:00", 61300.0, 61410.0, 61565.0, 61245.0], ["11/16 09:05", 61175.0, 61290.0, 61320.0, 61130.0], ["11/16 09:10", 60850.0, 61145.0, 61145.0, 60850.0], ["11/16 09:15", 60855.0, 60850.0, 60915.0, 60780.0], ["11/16 09:20", 60880.0, 60830.0, 60940.0, 60765.0], ["11/16 09:25", 60900.0, 60875.0, 60900.0, 60790.0], ["11/16 09:30", 60825.0, 60900.0, 60915.0, 60815.0], ["11/16 09:35", 60695.0, 60790.0, 60825.0, 60685.0], ["11/16 09:40", 60600.0, 60705.0, 60725.0, 60585.0], ["11/16 09:45", 60695.0, 60575.0, 60760.0, 60560.0], ["11/16 09:50", 60805.0, 60695.0, 60805.0, 60680.0], ["11/16 09:55", 60900.0, 60775.0, 60915.0, 60740.0], ["11/16 10:00", 60535.0, 60900.0, 60900.0, 60530.0], ["11/16 10:05", 60520.0, 60530.0, 60635.0, 60470.0], ["11/16 10:10", 60530.0, 60510.0, 60595.0, 60510.0], ["11/16 10:15", 60490.0, 60525.0, 60540.0, 60365.0], ["11/16 10:20", 60400.0, 60475.0, 60505.0, 60355.0], ["11/16 10:25", 60385.0, 60355.0, 60410.0, 60290.0], ["11/16 10:30", 60335.0, 60390.0, 60440.0, 60330.0], ["11/16 10:35", 60355.0, 60330.0, 60370.0, 60315.0], ["11/16 10:40", 60320.0, 60375.0, 60375.0, 60265.0], ["11/16 10:45", 60330.0, 60310.0, 60410.0, 60300.0], ["11/16 10:50", 60295.0, 60325.0, 60345.0, 60260.0], ["11/16 10:55", 60175.0, 60260.0, 60285.0, 60145.0], ["11/16 11:00", 60345.0, 60170.0, 60380.0, 60150.0], ["11/16 11:05", 60330.0, 60355.0, 60400.0, 60290.0], ["11/16 11:10", 60305.0, 60320.0, 60375.0, 60305.0], ["11/16 11:15", 60350.0, 60275.0, 60350.0, 60260.0], ["11/16 11:20", 60360.0, 60325.0, 60380.0, 60260.0], ["11/16 11:25", 60270.0, 60355.0, 60360.0, 60255.0], ["11/16 11:30", 60250.0, 60245.0, 60250.0, 60195.0], ["11/16 11:35", 60340.0, 60250.0, 60350.0, 60250.0], ["11/16 11:40", 60235.0, 60305.0, 60345.0, 60235.0], ["11/16 11:45", 60135.0, 60190.0, 60230.0, 60125.0], ["11/16 11:50", 60150.0, 60130.0, 60150.0, 60075.0], ["11/16 11:55", 60245.0, 60175.0, 60245.0, 60160.0], ["11/16 11:58", 60205.0, 60205.0, 60205.0, 60205.0]]}, "fx": {"price": 159.692, "prev": 159.68}, "topix": {"price": 139.11, "prev": 139.94}, "ver": "v59"}
+{
+  "updated": "2026-11-16T12:13:27.784363+09:00",
+  "feeds": {
+    "kabu": [
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-15T21:06:56+00:00"
+      },
+      {
+        "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
+        "date": "2026-11-15T22:37:44+00:00"
+      },
+      {
+        "title": "日経平均株価が反落 午前終値は959円安の6万0182円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Rb1NjSEJaS0xEMzBjR3VObmFpNkhTbk1ueDdzeFZYeTdaalJfbDJjNDhDZldTOVc3V1NWWWFUZDIyZWJjamticVVHSkwzUF8zbnV5bFRHaXA3dzdEcXdNdDVITmNrbzNwcGhJbA?oc=5",
+        "date": "2026-11-16T02:58:29+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月16日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rV1RibHlWY0RKeEZldlJNbVlpVmVZSnJ5M3NRYlg4MUpyd3FEUXhueG84SElfVk5HLW14MTZIVDNFczRrRkI2dGY2WU5fVTZOSUtORHFTbEtXd3BmLVRvUA?oc=5",
+        "date": "2026-11-15T22:42:52+00:00"
+      },
+      {
+        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
+        "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "（朝）米国市場は高安まちまち　物価指標が市場予想を下回った安心感とハイテク株の売りにより方向感を欠く展開 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWUGRxS1k3YnVfcC1ybDJHX1NpRzNfejgyLWJqYmJqZm9sV2lkTnN6OENxdnlnYnJqakxhR1FESnFSRWlXRHpVTmh0U2pjWVdudWs1Q9IBV0FVX3lxTE94bGlzWWtjaG9YU3hnUFpsamVFOWFCQUFtU0p6eUpaSTU4cFJYQmd6MnpMaTFqcXBFN3lHb2VPb3dGSHpaelR4WmREc2UyNE0weGtFa3hHaw?oc=5",
+        "date": "2026-11-15T23:13:00+00:00"
+      },
+      {
+        "title": "日経平均、959円85銭安の6万0182円50銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTzJDQnBiTDRZMkxIa3RzWHRGb2xURjRoQU53SzF0ZzVLcXMwNnpNZGR3TXZ6SWlSUTIybEZEU25YMHY5OWpPZ2JPR0N0OEhPSjdKZVpNb3BYN3FCdEVmdm95VDZkMmRDQjJZb2ticW9rck84NHJuM3lLbzEwclpiS0RaN1ZVdmc?oc=5",
+        "date": "2026-11-16T02:32:47+00:00"
+      },
+      {
+        "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5",
+        "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "三菱UFJFG株価一時3.1%安 27年3月期純利益上方修正に「想定下回る」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DNVZZcVNFSkdWRGtXMnlLQ0Z5TG1ab3Q0alhqZmJrTUczWGlUOU9vQ05KVm1KYnNMUzRLcGtwaFNqM0FtcUxzTnU1ZUozRlh3YjhvX3JSb3QzY21Ea2hFal8xd3ZXbUxkNVlUaw?oc=5",
+        "date": "2026-11-16T01:28:36+00:00"
+      },
+      {
+        "title": "日経平均、205円86銭高の6万1348円21銭で始まる＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWl1dllpNU9TRDZTQnhkcVlYY0plN05kVXNpb0VPVEY3VnhVd2RiVmtaUjIxSUZ3WllhWU9pTnlGdEFickp0U25JaFJWNENUeDUzT1h0eWRFVzZfUDUycXhzM2FLcllaa0FGMWhoNVk1VkpaREJhM0t6dTZXRUFmeTFwT1ZnNUU?oc=5",
+        "date": "2026-11-16T00:01:15+00:00"
+      },
+      {
+        "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
+        "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "アドバンテスト株価が大幅反落 米半導体株安が波及、200日平均割る - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rUEtValV2LW9CbnpCT0RZNnJnbDhTVnc3Z2JsTnFJS2pYWGE4ZGhrY2l0VzYtb21HLXpMQ1FTLXBLTHlSbnUzTWRfNFVpUW5BQjBMR2d5UU9JZEp0a0V0ODFxQmJKR3VrWXpncA?oc=5",
+        "date": "2026-11-16T01:26:15+00:00"
+      }
+    ],
+    "ai": [
+      {
+        "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+        "date": "2026-11-16T00:49:03+00:00",
+        "body": "a12.txt"
+      },
+      {
+        "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
+        "date": "2026-11-16T00:44:05+00:00",
+        "body": "a13.txt"
+      },
+      {
+        "title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応",
+        "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html",
+        "date": "2026-11-16T00:00:00+00:00",
+        "body": "a14.txt"
+      },
+      {
+        "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
+        "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
+        "date": "2026-11-15T23:30:00+00:00",
+        "body": "a15.txt"
+      },
+      {
+        "title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/",
+        "date": "2026-11-15T23:00:00+00:00",
+        "body": "a16.txt"
+      },
+      {
+        "title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割",
+        "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html",
+        "date": "2026-11-15T23:00:00+00:00",
+        "body": "a17.txt"
+      },
+      {
+        "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
+        "link": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news012.html",
+        "date": "2026-11-15T22:45:00+00:00",
+        "body": "a18.txt"
+      },
+      {
+        "title": "ライセンス更新を機に「脱マクロ」　オートバックスセブンがGeminiで目指す売上高5000億円",
+        "link": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/",
+        "date": "2026-11-15T22:00:00+00:00",
+        "body": "a19.txt"
+      },
+      {
+        "title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
+        "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
+        "date": "2026-11-15T22:00:00+00:00",
+        "body": "a20.txt"
+      },
+      {
+        "title": "メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？",
+        "link": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
+        "date": "2026-11-15T22:00:00+00:00",
+        "body": "a21.txt"
+      },
+      {
+        "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+        "date": "2026-11-14T11:35:45+00:00",
+        "body": "a22.txt"
+      },
+      {
+        "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
+        "link": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
+        "date": "2026-11-13T22:30:00+00:00",
+        "body": "a23.txt"
+      }
+    ],
+    "it": [
+      {
+        "title": "ドコモ、また「5G SA」で通信障害　今月3回目【更新】",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
+        "date": "2026-11-16T02:56:22+00:00",
+        "body": "a24.txt"
+      },
+      {
+        "title": "マネックス証券、免許証画像やマイナカード表面など1592件漏えいか　口座開設システムに不正アクセス",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
+        "date": "2026-11-16T02:46:01+00:00",
+        "body": "a25.txt"
+      },
+      {
+        "title": "「艦これアーケード」「オンゲキ」など一部再開　不正アクセスで停止のセガ系システムが試験復旧",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
+        "date": "2026-11-16T02:26:04+00:00",
+        "body": "a26.txt"
+      },
+      {
+        "title": "エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
+        "date": "2026-11-16T01:14:23+00:00",
+        "body": "a27.txt"
+      },
+      {
+        "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+        "date": "2026-11-16T00:49:03+00:00",
+        "body": "a28.txt"
+      },
+      {
+        "title": "京成、公式サイト「システム不具合」で閲覧できない状態に　復旧未定",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003210/",
+        "date": "2026-11-15T23:24:20+00:00",
+        "body": "a29.txt"
+      },
+      {
+        "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/",
+        "date": "2026-11-15T23:05:13+00:00",
+        "body": "a30.txt"
+      },
+      {
+        "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超　マスク氏らも賛同、米議会は追及継続",
+        "link": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
+        "date": "2026-11-14T22:15:24+00:00",
+        "body": "a31.txt"
+      },
+      {
+        "title": "相次ぐ情報漏えいでアナログ回帰？　ダイソー「パスワード管理ノート」が品薄に　一方でリスクも──IPAに聞いた",
+        "link": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
+        "date": "2026-11-13T22:30:00+00:00",
+        "body": "a32.txt"
+      },
+      {
+        "title": "AI×裸眼3Dディスプレイ？　2D映像をその場で3D化し、見る人の目も追う　現地で確かめた",
+        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003195/",
+        "date": "2026-11-13T14:34:56+00:00",
+        "body": "a33.txt"
+      },
+      {
+        "title": "データセンターの排熱でエビ養殖、NTT系が実験　育ったら食べられる？　担当者に聞いてみた",
+        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003200/",
+        "date": "2026-11-13T10:45:49+00:00"
+      },
+      {
+        "title": "「お名前.com」不正アクセス、補償申請約30億円に　GMOインターネットが決算説明会で謝罪",
+        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003197/",
+        "date": "2026-11-13T09:17:23+00:00",
+        "body": "a35.txt"
+      }
+    ],
+    "gadget": [
+      {
+        "title": "元FBI捜査官、約3.9億円の暗号資産を盗む",
+        "link": "https://www.gizmodo.jp/article/2611-ex-fbi-agent-crypto-theft/",
+        "date": "2026-11-16T02:45:00+00:00",
+        "body": "a36.txt"
+      },
+      {
+        "title": "電気と水をドカ食いする「データセンター問題」。結局どうすればいいのか専門家3人に聞いてみた",
+        "link": "https://www.gizmodo.jp/article/2611-ai-data-center-water-power-issue/",
+        "date": "2026-11-16T02:35:00+00:00",
+        "body": "a37.txt"
+      },
+      {
+        "title": "めんどうな作業はぜんぶスマホにおまかせ。AIがアプリを操作する「Blue Phone」",
+        "link": "https://www.gizmodo.jp/article/2611-blue-phone-ai-agent-smartphone/",
+        "date": "2026-11-16T02:15:00+00:00",
+        "body": "a38.txt"
+      },
+      {
+        "title": "南極点の情シス、募集中。年収1,270万円",
+        "link": "https://www.gizmodo.jp/article/south-pole-linux-winterover-job/",
+        "date": "2026-11-16T02:00:00+00:00",
+        "body": "a39.txt"
+      },
+      {
+        "title": "「Starlink Mini 2」発表。着脱式バッテリー搭載でもっと便利になった",
+        "link": "https://www.gizmodo.jp/article/starlink-mini-2/",
+        "date": "2026-11-16T01:00:00+00:00",
+        "body": "a40.txt"
+      },
+      {
+        "title": "Amazonの「買い物AI」がAlexaに統合。ペットや家族の好みまで覚えてくれます",
+        "link": "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/",
+        "date": "2026-11-16T00:00:00+00:00",
+        "body": "a41.txt"
+      },
+      {
+        "title": "トヨタ、「かわいい」軽トラをアメリカで発売へ",
+        "link": "https://www.gizmodo.jp/article/2611-toyota-kei-truck-us-release/",
+        "date": "2026-11-15T23:45:00+00:00",
+        "body": "a42.txt"
+      },
+      {
+        "title": "大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え",
+        "link": "https://www.gizmodo.jp/article/touch-macbook-pro-1week-review/",
+        "date": "2026-11-15T23:00:00+00:00"
+      },
+      {
+        "title": "RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される",
+        "link": "https://www.gizmodo.jp/article/2611-ram-altman-spam-device/",
+        "date": "2026-11-15T22:00:00+00:00",
+        "body": "a44.txt"
+      },
+      {
+        "title": "「山がいらない揚水発電」が実現？カギは水の2.5倍の密度を持つ謎の流体",
+        "link": "https://www.gizmodo.jp/article/2611-pumped-storage-hydro-without-mountains/",
+        "date": "2026-11-15T14:00:00+00:00",
+        "body": "a45.txt"
+      },
+      {
+        "title": "NASAが1977年に打ち上げたボイジャー1号、まもなく地球から「1光日」の彼方へ",
+        "link": "https://www.gizmodo.jp/article/voyager-1-light-day-distance/",
+        "date": "2026-11-15T13:30:00+00:00",
+        "body": "a46.txt"
+      },
+      {
+        "title": "睡眠テックの到達点か？ Ankerの「SleepLab Pro」は、ただ側に“置くだけ”で睡眠データを計測",
+        "link": "https://www.gizmodo.jp/article/2611-anker-sleeplab-pro-sleep-tracker/",
+        "date": "2026-11-15T12:00:00+00:00",
+        "body": "a47.txt"
+      }
+    ],
+    "yahoo": [
+      {
+        "title": "ドコモ「5G SA」でまた通信障害",
+        "link": "https://news.yahoo.co.jp/pickup/6602767?source=rss",
+        "date": "2026-11-16T02:26:41+00:00",
+        "body": "a48.txt"
+      },
+      {
+        "title": "日韓首脳 17日にフィリピンで会談",
+        "link": "https://news.yahoo.co.jp/pickup/6602766?source=rss",
+        "date": "2026-11-16T02:38:36+00:00",
+        "body": "a49.txt"
+      },
+      {
+        "title": "常磐道で車7台絡む事故 12人けが",
+        "link": "https://news.yahoo.co.jp/pickup/6602763?source=rss",
+        "date": "2026-11-16T01:44:09+00:00",
+        "body": "a50.txt"
+      },
+      {
+        "title": "元ジャンポケ斉藤被告 実刑判決",
+        "link": "https://news.yahoo.co.jp/pickup/6602765?source=rss",
+        "date": "2026-11-16T02:09:34+00:00",
+        "body": "a51.txt"
+      },
+      {
+        "title": "コンテナホテル8年で145店舗 背景",
+        "link": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
+        "date": "2026-11-16T00:42:07+00:00",
+        "body": "a52.txt"
+      },
+      {
+        "title": "中国に隕石落下 ハンターが殺到",
+        "link": "https://news.yahoo.co.jp/pickup/6602760?source=rss",
+        "date": "2026-11-16T00:40:35+00:00",
+        "body": "a53.txt"
+      },
+      {
+        "title": "今季世界最高V 中井亜美がガッツ",
+        "link": "https://news.yahoo.co.jp/pickup/6602775?source=rss",
+        "date": "2026-11-16T02:52:10+00:00",
+        "body": "a54.txt"
+      },
+      {
+        "title": "ちばてつやさん死去 賞は継続方針",
+        "link": "https://news.yahoo.co.jp/pickup/6602771?source=rss",
+        "date": "2026-11-16T02:43:49+00:00",
+        "body": "a55.txt"
+      }
+    ]
+  },
+  "weather": {
+    "temp": 18.5,
+    "code": 1,
+    "max": 18.9,
+    "min": 14.5,
+    "hours": [
+      {
+        "time": "2026-11-16T12:00",
+        "temp": 18.5,
+        "code": 1
+      },
+      {
+        "time": "2026-11-16T13:00",
+        "temp": 18.7,
+        "code": 1
+      },
+      {
+        "time": "2026-11-16T14:00",
+        "temp": 18.9,
+        "code": 2
+      },
+      {
+        "time": "2026-11-16T15:00",
+        "temp": 18.7,
+        "code": 2
+      },
+      {
+        "time": "2026-11-16T16:00",
+        "temp": 18.3,
+        "code": 2
+      }
+    ],
+    "hours3": [
+      {
+        "time": "2026-11-16T12:00",
+        "temp": 18.5,
+        "code": 1,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-16T15:00",
+        "temp": 18.7,
+        "code": 2,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-16T18:00",
+        "temp": 17.1,
+        "code": 2,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-16T21:00",
+        "temp": 15.8,
+        "code": 2,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-17T00:00",
+        "temp": 15.0,
+        "code": 1,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-17T03:00",
+        "temp": 14.5,
+        "code": 1,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-17T06:00",
+        "temp": 14.2,
+        "code": 2,
+        "mm": 0.0
+      }
+    ],
+    "pop3": [
+      {
+        "time": "2026-11-16T12:00",
+        "pop": 0
+      },
+      {
+        "time": "2026-11-16T15:00",
+        "pop": 0
+      },
+      {
+        "time": "2026-11-16T18:00",
+        "pop": 0
+      },
+      {
+        "time": "2026-11-16T21:00",
+        "pop": 2
+      },
+      {
+        "time": "2026-11-17T00:00",
+        "pop": 6
+      },
+      {
+        "time": "2026-11-17T03:00",
+        "pop": 2
+      },
+      {
+        "time": "2026-11-17T06:00",
+        "pop": 4
+      },
+      {
+        "time": "2026-11-17T09:00",
+        "pop": 2
+      }
+    ],
+    "tomorrow": {
+      "code": 63,
+      "max": 15.0,
+      "min": 11.1
+    },
+    "rain": null
+  },
+  "index": {
+    "price": 60270.0,
+    "prev": 61065.0,
+    "points": [
+      [
+        "11/16 08:10",
+        61325.0,
+        61400.0,
+        61410.0,
+        61325.0
+      ],
+      [
+        "11/16 08:15",
+        61295.0,
+        61330.0,
+        61375.0,
+        61265.0
+      ],
+      [
+        "11/16 08:20",
+        61360.0,
+        61300.0,
+        61360.0,
+        61250.0
+      ],
+      [
+        "11/16 08:25",
+        61365.0,
+        61350.0,
+        61445.0,
+        61300.0
+      ],
+      [
+        "11/16 08:30",
+        61365.0,
+        61335.0,
+        61385.0,
+        61285.0
+      ],
+      [
+        "11/16 08:35",
+        61545.0,
+        61405.0,
+        61545.0,
+        61405.0
+      ],
+      [
+        "11/16 08:40",
+        61470.0,
+        61560.0,
+        61560.0,
+        61470.0
+      ],
+      [
+        "11/16 08:45",
+        61575.0,
+        61490.0,
+        61610.0,
+        61440.0
+      ],
+      [
+        "11/16 08:50",
+        61500.0,
+        61555.0,
+        61555.0,
+        61435.0
+      ],
+      [
+        "11/16 08:55",
+        61365.0,
+        61475.0,
+        61500.0,
+        61340.0
+      ],
+      [
+        "11/16 09:00",
+        61300.0,
+        61410.0,
+        61565.0,
+        61245.0
+      ],
+      [
+        "11/16 09:05",
+        61175.0,
+        61290.0,
+        61320.0,
+        61130.0
+      ],
+      [
+        "11/16 09:10",
+        60850.0,
+        61145.0,
+        61145.0,
+        60850.0
+      ],
+      [
+        "11/16 09:15",
+        60855.0,
+        60850.0,
+        60915.0,
+        60780.0
+      ],
+      [
+        "11/16 09:20",
+        60880.0,
+        60830.0,
+        60940.0,
+        60765.0
+      ],
+      [
+        "11/16 09:25",
+        60900.0,
+        60875.0,
+        60900.0,
+        60790.0
+      ],
+      [
+        "11/16 09:30",
+        60825.0,
+        60900.0,
+        60915.0,
+        60815.0
+      ],
+      [
+        "11/16 09:35",
+        60695.0,
+        60790.0,
+        60825.0,
+        60685.0
+      ],
+      [
+        "11/16 09:40",
+        60600.0,
+        60705.0,
+        60725.0,
+        60585.0
+      ],
+      [
+        "11/16 09:45",
+        60695.0,
+        60575.0,
+        60760.0,
+        60560.0
+      ],
+      [
+        "11/16 09:50",
+        60805.0,
+        60695.0,
+        60805.0,
+        60680.0
+      ],
+      [
+        "11/16 09:55",
+        60900.0,
+        60775.0,
+        60915.0,
+        60740.0
+      ],
+      [
+        "11/16 10:00",
+        60535.0,
+        60900.0,
+        60900.0,
+        60530.0
+      ],
+      [
+        "11/16 10:05",
+        60520.0,
+        60530.0,
+        60635.0,
+        60470.0
+      ],
+      [
+        "11/16 10:10",
+        60530.0,
+        60510.0,
+        60595.0,
+        60510.0
+      ],
+      [
+        "11/16 10:15",
+        60490.0,
+        60525.0,
+        60540.0,
+        60365.0
+      ],
+      [
+        "11/16 10:20",
+        60400.0,
+        60475.0,
+        60505.0,
+        60355.0
+      ],
+      [
+        "11/16 10:25",
+        60385.0,
+        60355.0,
+        60410.0,
+        60290.0
+      ],
+      [
+        "11/16 10:30",
+        60335.0,
+        60390.0,
+        60440.0,
+        60330.0
+      ],
+      [
+        "11/16 10:35",
+        60355.0,
+        60330.0,
+        60370.0,
+        60315.0
+      ],
+      [
+        "11/16 10:40",
+        60320.0,
+        60375.0,
+        60375.0,
+        60265.0
+      ],
+      [
+        "11/16 10:45",
+        60330.0,
+        60310.0,
+        60410.0,
+        60300.0
+      ],
+      [
+        "11/16 10:50",
+        60295.0,
+        60325.0,
+        60345.0,
+        60260.0
+      ],
+      [
+        "11/16 10:55",
+        60175.0,
+        60260.0,
+        60285.0,
+        60145.0
+      ],
+      [
+        "11/16 11:00",
+        60345.0,
+        60170.0,
+        60380.0,
+        60150.0
+      ],
+      [
+        "11/16 11:05",
+        60330.0,
+        60355.0,
+        60400.0,
+        60290.0
+      ],
+      [
+        "11/16 11:10",
+        60305.0,
+        60320.0,
+        60375.0,
+        60305.0
+      ],
+      [
+        "11/16 11:15",
+        60350.0,
+        60275.0,
+        60350.0,
+        60260.0
+      ],
+      [
+        "11/16 11:20",
+        60360.0,
+        60325.0,
+        60380.0,
+        60260.0
+      ],
+      [
+        "11/16 11:25",
+        60270.0,
+        60355.0,
+        60360.0,
+        60255.0
+      ],
+      [
+        "11/16 11:30",
+        60250.0,
+        60245.0,
+        60250.0,
+        60195.0
+      ],
+      [
+        "11/16 11:35",
+        60340.0,
+        60250.0,
+        60350.0,
+        60250.0
+      ],
+      [
+        "11/16 11:40",
+        60235.0,
+        60305.0,
+        60345.0,
+        60235.0
+      ],
+      [
+        "11/16 11:45",
+        60135.0,
+        60190.0,
+        60230.0,
+        60125.0
+      ],
+      [
+        "11/16 11:50",
+        60150.0,
+        60130.0,
+        60150.0,
+        60075.0
+      ],
+      [
+        "11/16 11:55",
+        60295.0,
+        60175.0,
+        60295.0,
+        60160.0
+      ],
+      [
+        "11/16 12:00",
+        60275.0,
+        60290.0,
+        60295.0,
+        60250.0
+      ],
+      [
+        "11/16 12:03",
+        60270.0,
+        60270.0,
+        60270.0,
+        60270.0
+      ]
+    ]
+  },
+  "fx": {
+    "price": 159.7,
+    "prev": 159.68
+  },
+  "topix": {
+    "price": 139.11,
+    "prev": 139.94
+  },
+  "ver": "v59"
+}
