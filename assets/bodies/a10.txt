@@ -32,8 +32,6 @@ Walletはdotとの会話の中で使う機能であり、通常のチャット�
 
 利用できるのは、米国在住で18歳以上のChatGPT Pro加入者で、対象はAmerican Express、Chase、Mastercard、Visaの米国発行クレジットカードだ。カードの請求先住所も米国である必要がある。OpenAIは、初期の利用状況を見ながら、事業者、銀行、決済ネットワークと協力して提供範囲を広げるとしている。
 
-> 
-
 Copyright © ITmedia, Inc. All Rights Reserved.
 
 SNSでシェア
@@ -92,8 +90,6 @@ Special PR
 10.   10 ドコモ、また「5G SA」で通信障害 今月3回目【復旧】
 
 ITmedia NEWS SNS
-
-> ITmedia News
 
 インフォメーション
 
