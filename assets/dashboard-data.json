@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:18:23.400008+09:00",
+  "updated": "2026-11-16T19:23:25.725782+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,14 +13,15 @@
         "date": "2026-11-16T03:31:00+00:00"
       },
       {
-        "title": "日経平均6万円回復の先は？3つのセンチメント指標が示す相場の現在地 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Qm1tTTFMVllhTXpQdTllZ2NZMTE3dFVwQnZyY1pVaDNxaVNiLWpIYkhUMnRmRVlQaDZoQkp0Uk5yMDB5U2ZfZUh4eXJ6enlqWm9WONIBV0FVX3lxTFBXc005eWN1RHZSZFZrNGppcUpWNUdKcXp4R0pwSzhSeklhdjFVZzdpRnd6cjd2MnItX0drTTRudUxVd1ZlRFNsYXhYRmJ0alFSNnJLZTExWQ?oc=5",
-        "date": "2026-11-16T01:03:00+00:00"
-      },
-      {
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
         "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "日経平均6万円回復の先は？3つのセンチメント指標が示す相場の現在地 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Qm1tTTFMVllhTXpQdTllZ2NZMTE3dFVwQnZyY1pVaDNxaVNiLWpIYkhUMnRmRVlQaDZoQkp0Uk5yMDB5U2ZfZUh4eXJ6enlqWm9WONIBV0FVX3lxTFBXc005eWN1RHZSZFZrNGppcUpWNUdKcXp4R0pwSzhSeklhdjFVZzdpRnd6cjd2MnItX0drTTRudUxVd1ZlRFNsYXhYRmJ0alFSNnJLZTExWQ?oc=5",
+        "date": "2026-11-16T01:03:00+00:00",
+        "body": "a03.txt"
       },
       {
         "title": "日経平均、1500円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
@@ -456,7 +457,7 @@
     }
   },
   "index": {
-    "price": 59975.0,
+    "price": 59955.0,
     "prev": 61065.0,
     "points": [
       [
@@ -1378,22 +1379,29 @@
       ],
       [
         "11/16 19:05",
-        60015.0,
+        60025.0,
         59905.0,
-        60020.0,
+        60025.0,
         59895.0
       ],
       [
-        "11/16 19:08",
-        59975.0,
-        59975.0,
-        59975.0,
-        59975.0
+        "11/16 19:10",
+        59955.0,
+        60000.0,
+        60005.0,
+        59955.0
+      ],
+      [
+        "11/16 19:12",
+        59955.0,
+        59955.0,
+        59955.0,
+        59955.0
       ]
     ]
   },
   "fx": {
-    "price": 159.624,
+    "price": 159.648,
     "prev": 159.686
   },
   "topix": {
