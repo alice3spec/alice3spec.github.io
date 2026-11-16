@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T09:53:19.362549+09:00",
+  "updated": "2026-11-16T09:58:28.737435+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,6 +13,11 @@
         "date": "2026-11-15T22:37:44+00:00"
       },
       {
+        "title": "日経平均株価、下落に転じる 半導体関連に売り膨らむ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Rb1NjSEJaS0xEMzBjR3VObmFpNkhTbk1ueDdzeFZYeTdaalJfbDJjNDhDZldTOVc3V1NWWWFUZDIyZWJjamticVVHSkwzUF8zbnV5bFRHaXA3dzdEcXdNdDVITmNrbzNwcGhJbA?oc=5",
+        "date": "2026-11-16T00:08:41+00:00"
+      },
+      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月16日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rV1RibHlWY0RKeEZldlJNbVlpVmVZSnJ5M3NRYlg4MUpyd3FEUXhueG84SElfVk5HLW14MTZIVDNFczRrRkI2dGY2WU5fVTZOSUtORHFTbEtXd3BmLVRvUA?oc=5",
         "date": "2026-11-15T22:42:52+00:00"
@@ -21,11 +26,6 @@
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
         "date": "2026-11-13T08:00:00+00:00"
-      },
-      {
-        "title": "日経平均株価、続伸で始まる 底堅さ意識した買い先行 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Rb1NjSEJaS0xEMzBjR3VObmFpNkhTbk1ueDdzeFZYeTdaalJfbDJjNDhDZldTOVc3V1NWWWFUZDIyZWJjamticVVHSkwzUF8zbnV5bFRHaXA3dzdEcXdNdDVITmNrbzNwcGhJbA?oc=5",
-        "date": "2026-11-16T00:08:41+00:00"
       },
       {
         "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
@@ -38,9 +38,9 @@
         "date": "2026-11-15T22:44:28+00:00"
       },
       {
-        "title": "日経平均株価は4日ぶり反落 終値は429円安の6万0819円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00LUhDZDJpTlVreEJjOGVucGViOXRMWjQwVlBiU2F4R2UyN0lBcDVPZ25HXzk3dnF5MWIzdXVWM2FocVRZQldTaEVvUGZEUVRvdWctOVVoMTR6UFFQSGZMcXYtZER6dE5sdWZWQg?oc=5",
-        "date": "2026-11-12T00:05:37+00:00"
+        "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
+        "date": "2026-11-11T22:30:00+00:00"
       },
       {
         "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
@@ -53,9 +53,9 @@
         "date": "2026-11-16T00:39:43+00:00"
       },
       {
-        "title": "日経平均株価、米半導体株高が支え（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04amtka0tCM0hrVkxtTmlEMV9XM09ZcXU5SG04ZjRRdmpKM0VJMDduTnlDVnpEUGlwWDkxMGpjZHNqaWpKTVM4c05OX0hjb0J3c1RyM2tZNWJpQUg5WWhWMEV5R0NSOUgtQnhnVg?oc=5",
-        "date": "2026-11-11T22:30:00+00:00"
+        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
+        "date": "2026-11-10T22:30:24+00:00"
       },
       {
         "title": "日経平均株価の最高値更新をけん引した「特定企業」と「先物買い戻し期待」 野村證券ストラテジストが解説 - 野村證券",
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 60670.0,
+    "price": 60715.0,
     "prev": 61065.0,
     "points": [
       [
@@ -585,22 +585,29 @@
       ],
       [
         "11/16 09:40",
-        60605.0,
+        60600.0,
         60705.0,
         60725.0,
-        60605.0
+        60585.0
       ],
       [
-        "11/16 09:43",
-        60670.0,
-        60670.0,
-        60670.0,
-        60670.0
+        "11/16 09:45",
+        60705.0,
+        60575.0,
+        60760.0,
+        60560.0
+      ],
+      [
+        "11/16 09:48",
+        60715.0,
+        60715.0,
+        60715.0,
+        60715.0
       ]
     ]
   },
   "fx": {
-    "price": 159.8145,
+    "price": 159.7765,
     "prev": 159.68
   },
   "topix": {
