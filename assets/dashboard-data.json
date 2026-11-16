@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T04:48:16.961306+09:00",
+  "updated": "2026-11-17T04:53:51.351805+09:00",
   "feeds": {
     "kabu": [
       {
@@ -27,19 +27,15 @@
         "body": "a03.txt"
       },
       {
-        "title": "来週（11/16～20）の日経平均株価の予想レンジは、5万9500～6万3500円！ 6万2000円(200日移動平均線)近辺での攻防や、好決算の内需株･金融株に注目 - ダイヤモンド・オンライン",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoSk9wSU5EU1JHRnRGUVdDd01Vb3FvOFNETmZOdlIxTm1EUDh0X1pvRzNXUHVPaGVOakh0eEdJZ3N2SVUtVmlyMXRVS0FmYmlwbkRJ?oc=5",
-        "date": "2026-11-13T13:01:38+00:00"
+        "title": "信用取引の個人投資家を襲った日経平均「歴代3番目の下落」 強制決済を経験した投資家が説く「急落相場を生き抜くリスク管理術」「追証を避ける3つの鉄則」（マネーポストWEB） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcHBka1RMNFNEYTA0a09oSEFuT0ZCMkREY0kwRE44bTM4YlNOdDhHc0dZZ2JGX0JPdHBtblNMdVZIRVZCdGxGNl91U0pNYzBEWk84cGM5OUxHNEhQTXJRT3BsMmpCQTJ3X014Tkdmcm1BUkdJNk9CQ21ybV9uaHc?oc=5",
+        "date": "2026-11-16T10:15:00+00:00"
       },
       {
-        "title": "日経平均、1500円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXJueFN2RTF3Z3F3akc3NzlubWQ2YnJpUDB0aW5FVW5fMFFfemZlOUJBWlRHcHplNzkzZ1FUR0JSQ3BLa3JfeTNPWDFONGFURE83SjRWRElEMFZuaktqbUpVWExWM3JwZktqTk4tdTVoTzdXOVlrdWY3WC1WR3lsLXpWSmZpNjg?oc=5",
-        "date": "2026-11-16T05:54:58+00:00"
-      },
-      {
-        "title": "東証14時 日経平均が軟調 5万9800円前後 「非AI」株に逃避資金 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rVTAtRUNhN2hsWGpfQ2NrcGRGTGhOS0NoS3VBQi1JenhnYTM0cFZGSG9YZkVmRUR1NGl6RmxUYllUd0UySm42OUFwRzJHaE9UYUlSMDBvR3o1eVNLTGFadUFHNTJqV1JHYW53aQ?oc=5",
-        "date": "2026-11-16T05:12:22+00:00"
+        "title": "アドテスト反落、米半導体株安が波及（16日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUamM1UFJZc3ZzQ2FQazFRVlZaVUJFeDNXNVVudEVkSVRQQUlrWUR3Q1ZvaFItN2hBb3BHekRScFdQdlFPQTh2dFRuaVhSaVVmcHBiLXp3ZmVpb3JjQVcxVE0zNmNrRTd1bzg3ZQ?oc=5",
+        "date": "2026-11-16T07:30:00+00:00",
+        "body": "a05.txt"
       },
       {
         "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
@@ -49,22 +45,31 @@
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ幅広げる - 株探",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HUURMM3ljRW5Zcmw5S3lDTFVSWTZuSlNhWVhTVkVITHVhQWFjU1B0dmZpTm9wUWxOc29Xck5Mbk81ZmNXeVBlUzdvV1YzRktwVXc?oc=5",
-        "date": "2026-11-16T03:31:00+00:00"
+        "date": "2026-11-16T03:31:00+00:00",
+        "body": "a07.txt"
       },
       {
-        "title": "日経平均、1300円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTFNcDNRLXc3UUYycHB6cnhobHhKbnFkck04SDVhMl9KQkF2endCdWRFSk1aSWthOUNSaWVZVkhOSUk2ZWRDTjZPeTJ1TGUwSVlabzJXMHc4a3Z0WGNZdWQ4NkZJcWZEdmJjcjZ0bU9ZdUtQZ1BMLXdHYjJ0ZzNRT25OM0RTdGs?oc=5",
-        "date": "2026-11-16T03:50:31+00:00"
+        "title": "日経平均、1500円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXJueFN2RTF3Z3F3akc3NzlubWQ2YnJpUDB0aW5FVW5fMFFfemZlOUJBWlRHcHplNzkzZ1FUR0JSQ3BLa3JfeTNPWDFONGFURE83SjRWRElEMFZuaktqbUpVWExWM3JwZktqTk4tdTVoTzdXOVlrdWY3WC1WR3lsLXpWSmZpNjg?oc=5",
+        "date": "2026-11-16T05:54:58+00:00",
+        "body": "a08.txt"
       },
       {
-        "title": "アドテスト反落、米半導体株安が波及（16日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUamM1UFJZc3ZzQ2FQazFRVlZaVUJFeDNXNVVudEVkSVRQQUlrWUR3Q1ZvaFItN2hBb3BHekRScFdQdlFPQTh2dFRuaVhSaVVmcHBiLXp3ZmVpb3JjQVcxVE0zNmNrRTd1bzg3ZQ?oc=5",
-        "date": "2026-11-16T07:30:00+00:00"
+        "title": "東証14時 日経平均が軟調 5万9800円前後 「非AI」株に逃避資金 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rVTAtRUNhN2hsWGpfQ2NrcGRGTGhOS0NoS3VBQi1JenhnYTM0cFZGSG9YZkVmRUR1NGl6RmxUYllUd0UySm42OUFwRzJHaE9UYUlSMDBvR3o1eVNLTGFadUFHNTJqV1JHYW53aQ?oc=5",
+        "date": "2026-11-16T05:12:22+00:00",
+        "body": "a09.txt"
       },
       {
         "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
-        "date": "2026-11-13T08:00:00+00:00"
+        "date": "2026-11-13T08:00:00+00:00",
+        "body": "a10.txt"
+      },
+      {
+        "title": "後場に注目すべき3つのポイント～半導体関連株安とGDPのマイナス成長が重荷 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wZUtUQTk4Y0xWV2hMTkVPUDFkYkNuVDYzT0JPYktCR1VXdlJ4Rmc2Ty1pcDltSC1lbkZvS0tJVnlmX2xkUFJXVmU5ejl6blJKUndEMWNNRW0tNThZSmZwZA?oc=5",
+        "date": "2026-11-16T03:37:42+00:00"
       }
     ],
     "ai": [
@@ -461,7 +466,7 @@
     }
   },
   "index": {
-    "price": 59475.0,
+    "price": 59365.0,
     "prev": 61065.0,
     "points": [
       [
@@ -2181,26 +2186,33 @@
       ],
       [
         "11/17 04:35",
-        59435.0,
+        59425.0,
         59470.0,
         59510.0,
-        59430.0
+        59420.0
       ],
       [
-        "11/17 04:38",
-        59475.0,
-        59475.0,
-        59475.0,
-        59475.0
+        "11/17 04:40",
+        59365.0,
+        59420.0,
+        59425.0,
+        59365.0
+      ],
+      [
+        "11/17 04:43",
+        59365.0,
+        59365.0,
+        59365.0,
+        59365.0
       ]
     ]
   },
   "fx": {
-    "price": 159.386,
+    "price": 159.462,
     "prev": 159.686
   },
   "topix": {
-    "price": 138.174,
+    "price": 139.16,
     "prev": 139.11
   },
   "ver": "v59"
