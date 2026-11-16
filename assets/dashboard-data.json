@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T10:03:23.112289+09:00",
+  "updated": "2026-11-16T10:08:22.361966+09:00",
   "feeds": {
     "kabu": [
       {
@@ -26,6 +26,11 @@
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
         "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "来週（11/16～20）の日経平均株価の予想レンジは、5万9500～6万3500円！ 6万2000円(200日移動平均線)近辺での攻防や、好決算の内需株･金融株に注目 - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoSk9wSU5EU1JHRnRGUVdDd01Vb3FvOFNETmZOdlIxTm1EUDh0X1pvRzNXUHVPaGVOakh0eEdJZ3N2SVUtVmlyMXRVS0FmYmlwbkRJ?oc=5",
+        "date": "2026-11-13T13:01:38+00:00"
       },
       {
         "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
@@ -56,104 +61,99 @@
         "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
         "date": "2026-11-10T22:30:24+00:00"
-      },
-      {
-        "title": "日経平均株価の最高値更新をけん引した「特定企業」と「先物買い戻し期待」 野村證券ストラテジストが解説 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKdHF2Z092SEZxMGUtekxLWkhFN0JubFRWTHZXLVMwUWtDa0NHUFc0N2xHT3U3S2x0LTBYS3BZaWx5emprX1Q5SExEV0NvQ21fT1FMaFdxRnBQd2dQSEpn?oc=5",
-        "date": "2026-11-13T08:00:00+00:00"
       }
     ],
     "ai": [
       {
+        "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+        "date": "2026-11-16T00:49:03+00:00",
+        "body": "a12.txt"
+      },
+      {
+        "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
+        "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
+        "date": "2026-11-16T00:44:05+00:00",
+        "body": "a13.txt"
+      },
+      {
         "title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html",
         "date": "2026-11-16T00:00:00+00:00",
-        "body": "a12.txt"
+        "body": "a14.txt"
       },
       {
         "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
         "date": "2026-11-15T23:30:00+00:00",
-        "body": "a13.txt"
-      },
-      {
-        "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
-        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
-        "date": "2026-11-15T23:00:07+00:00",
-        "body": "a14.txt"
+        "body": "a15.txt"
       },
       {
         "title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/",
         "date": "2026-11-15T23:00:00+00:00",
-        "body": "a15.txt"
+        "body": "a16.txt"
       },
       {
         "title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html",
         "date": "2026-11-15T23:00:00+00:00",
-        "body": "a16.txt"
+        "body": "a17.txt"
       },
       {
         "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news012.html",
         "date": "2026-11-15T22:45:00+00:00",
-        "body": "a17.txt"
+        "body": "a18.txt"
       },
       {
         "title": "ライセンス更新を機に「脱マクロ」　オートバックスセブンがGeminiで目指す売上高5000億円",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/",
         "date": "2026-11-15T22:00:00+00:00",
-        "body": "a18.txt"
+        "body": "a19.txt"
       },
       {
         "title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
         "date": "2026-11-15T22:00:00+00:00",
-        "body": "a19.txt"
+        "body": "a20.txt"
       },
       {
         "title": "メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？",
         "link": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
         "date": "2026-11-15T22:00:00+00:00",
-        "body": "a20.txt"
+        "body": "a21.txt"
       },
       {
         "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
         "date": "2026-11-14T11:35:45+00:00",
-        "body": "a21.txt"
+        "body": "a22.txt"
       },
       {
         "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
         "link": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
         "date": "2026-11-13T22:30:00+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
-        "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
-        "date": "2026-11-13T03:00:00+00:00",
         "body": "a23.txt"
       }
     ],
     "it": [
       {
+        "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+        "date": "2026-11-16T00:49:03+00:00",
+        "body": "a24.txt"
+      },
+      {
         "title": "京成、公式サイト「システム不具合」で閲覧できない状態に　復旧未定",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003210/",
         "date": "2026-11-15T23:24:20+00:00",
-        "body": "a24.txt"
+        "body": "a25.txt"
       },
       {
         "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/",
         "date": "2026-11-15T23:05:13+00:00",
-        "body": "a25.txt"
-      },
-      {
-        "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
-        "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
-        "date": "2026-11-15T23:00:07+00:00",
         "body": "a26.txt"
       },
       {
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 60710.0,
+    "price": 60855.0,
     "prev": 61065.0,
     "points": [
       [
@@ -599,22 +599,29 @@
       ],
       [
         "11/16 09:50",
-        60710.0,
+        60805.0,
         60695.0,
-        60740.0,
+        60805.0,
         60680.0
       ],
       [
-        "11/16 09:52",
-        60710.0,
-        60710.0,
-        60710.0,
-        60710.0
+        "11/16 09:55",
+        60895.0,
+        60775.0,
+        60915.0,
+        60740.0
+      ],
+      [
+        "11/16 09:58",
+        60855.0,
+        60855.0,
+        60855.0,
+        60855.0
       ]
     ]
   },
   "fx": {
-    "price": 159.7765,
+    "price": 159.774,
     "prev": 159.68
   },
   "topix": {
