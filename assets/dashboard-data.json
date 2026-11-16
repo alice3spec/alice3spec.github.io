@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T11:23:16.926267+09:00",
+  "updated": "2026-11-16T11:28:22.631939+09:00",
   "feeds": {
     "kabu": [
       {
@@ -38,9 +38,9 @@
         "date": "2026-11-13T08:00:00+00:00"
       },
       {
-        "title": "日経平均、800円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSE1VSEl5dXBNempVTlF0VFVkazBuMmVWcVo3ZXlHMUREZmdmaGg3TDdtbUVSSzB4MklURGE4MFRQdWdGM1FxOWhQNVJveWtrZmFPLUdzZkJUQ1RUYjJtaW1QZmQ1ZldyUkZod2wzbWJJc2FZVmtHOWxwUWFsTTZob0ltcnVPZVk?oc=5",
-        "date": "2026-11-16T01:17:30+00:00"
+        "title": "日経平均、900円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUxGanZHZ3BjVWtuekV1VW56OTJpbkVlWXBYWEkyNWNjZ1ZlZm51ekpaR2ViNlZmYTdiYXpUc1BidFJvc0pkNzFVUEZWNVl6d2JfYlhDRWlmRkNROUhEaUZmV1kzcDJBUE1WSndEempyZkVpZVBib29KUU5HY3E4WjhoVWkwV0U?oc=5",
+        "date": "2026-11-16T01:26:56+00:00"
       },
       {
         "title": "アドバンテスト株価が大幅反落 米半導体株安が波及、200日平均割る - 日本経済新聞",
@@ -48,9 +48,9 @@
         "date": "2026-11-16T01:26:15+00:00"
       },
       {
-        "title": "日経平均、900円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVUxGanZHZ3BjVWtuekV1VW56OTJpbkVlWXBYWEkyNWNjZ1ZlZm51ekpaR2ViNlZmYTdiYXpUc1BidFJvc0pkNzFVUEZWNVl6d2JfYlhDRWlmRkNROUhEaUZmV1kzcDJBUE1WSndEempyZkVpZVBib29KUU5HY3E4WjhoVWkwV0U?oc=5",
-        "date": "2026-11-16T01:26:56+00:00"
+        "title": "日経平均、800円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSE1VSEl5dXBNempVTlF0VFVkazBuMmVWcVo3ZXlHMUREZmdmaGg3TDdtbUVSSzB4MklURGE4MFRQdWdGM1FxOWhQNVJveWtrZmFPLUdzZkJUQ1RUYjJtaW1QZmQ1ZldyUkZod2wzbWJJc2FZVmtHOWxwUWFsTTZob0ltcnVPZVk?oc=5",
+        "date": "2026-11-16T01:17:30+00:00"
       },
       {
         "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
@@ -239,12 +239,14 @@
       {
         "title": "トヨタ、「かわいい」軽トラをアメリカで発売へ",
         "link": "https://www.gizmodo.jp/article/2611-toyota-kei-truck-us-release/",
-        "date": "2026-11-15T23:45:00+00:00"
+        "date": "2026-11-15T23:45:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え",
         "link": "https://www.gizmodo.jp/article/touch-macbook-pro-1week-review/",
-        "date": "2026-11-15T23:00:00+00:00"
+        "date": "2026-11-15T23:00:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される",
@@ -285,9 +287,9 @@
     ],
     "yahoo": [
       {
-        "title": "NTTドコモ 全国で通信障害発生",
-        "link": "https://news.yahoo.co.jp/pickup/6602764?source=rss",
-        "date": "2026-11-16T02:06:35+00:00",
+        "title": "ドコモ「5G SA」でまた通信障害",
+        "link": "https://news.yahoo.co.jp/pickup/6602767?source=rss",
+        "date": "2026-11-16T02:26:41+00:00",
         "body": "a48.txt"
       },
       {
@@ -452,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 60350.0,
+    "price": 60310.0,
     "prev": 61065.0,
     "points": [
       [
@@ -591,7 +593,7 @@
       [
         "11/16 09:45",
         60695.0,
-        60570.0,
+        60575.0,
         60760.0,
         60560.0
       ],
@@ -619,7 +621,7 @@
       [
         "11/16 10:05",
         60520.0,
-        60525.0,
+        60530.0,
         60635.0,
         60470.0
       ],
@@ -709,22 +711,29 @@
       ],
       [
         "11/16 11:10",
-        60350.0,
+        60305.0,
         60320.0,
-        60350.0,
-        60320.0
+        60375.0,
+        60305.0
       ],
       [
-        "11/16 11:12",
-        60350.0,
-        60350.0,
-        60350.0,
-        60350.0
+        "11/16 11:15",
+        60305.0,
+        60275.0,
+        60340.0,
+        60260.0
+      ],
+      [
+        "11/16 11:18",
+        60310.0,
+        60310.0,
+        60310.0,
+        60310.0
       ]
     ]
   },
   "fx": {
-    "price": 159.787,
+    "price": 159.7605,
     "prev": 159.68
   },
   "topix": {
