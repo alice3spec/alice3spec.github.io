@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:58:18.442088+09:00",
+  "updated": "2026-11-16T23:03:23.871314+09:00",
   "feeds": {
     "kabu": [
       {
@@ -48,20 +48,19 @@
         "date": "2026-11-15T23:13:00+00:00"
       },
       {
-        "title": "信用取引の個人投資家を襲った日経平均「歴代3番目の下落」 強制決済を経験した投資家が説く「急落相場を生き抜くリスク管理術」「追証を避ける3つの鉄則」（マネーポストWEB） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcHBka1RMNFNEYTA0a09oSEFuT0ZCMkREY0kwRE44bTM4YlNOdDhHc0dZZ2JGX0JPdHBtblNMdVZIRVZCdGxGNl91U0pNYzBEWk84cGM5OUxHNEhQTXJRT3BsMmpCQTJ3X014Tkdmcm1BUkdJNk9CQ21ybV9uaHc?oc=5",
-        "date": "2026-11-16T10:15:00+00:00"
-      },
-      {
         "title": "東証14時 日経平均が軟調 5万9800円前後 「非AI」株に逃避資金 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rVTAtRUNhN2hsWGpfQ2NrcGRGTGhOS0NoS3VBQi1JenhnYTM0cFZGSG9YZkVmRUR1NGl6RmxUYllUd0UySm42OUFwRzJHaE9UYUlSMDBvR3o1eVNLTGFadUFHNTJqV1JHYW53aQ?oc=5",
-        "date": "2026-11-16T05:12:22+00:00",
-        "body": "a10.txt"
+        "date": "2026-11-16T05:12:22+00:00"
       },
       {
         "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
         "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月16日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rV1RibHlWY0RKeEZldlJNbVlpVmVZSnJ5M3NRYlg4MUpyd3FEUXhueG84SElfVk5HLW14MTZIVDNFczRrRkI2dGY2WU5fVTZOSUtORHFTbEtXd3BmLVRvUA?oc=5",
+        "date": "2026-11-15T22:42:52+00:00"
       }
     ],
     "ai": [
@@ -344,11 +343,6 @@
     "min": 14.5,
     "hours": [
       {
-        "time": "2026-11-16T22:00",
-        "temp": 15.1,
-        "code": 1
-      },
-      {
         "time": "2026-11-16T23:00",
         "temp": 15.2,
         "code": 1
@@ -367,84 +361,89 @@
         "time": "2026-11-17T02:00",
         "temp": 14.7,
         "code": 1
+      },
+      {
+        "time": "2026-11-17T03:00",
+        "temp": 14.7,
+        "code": 1
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-16T22:00",
-        "temp": 15.1,
+        "time": "2026-11-16T23:00",
+        "temp": 15.2,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-17T01:00",
-        "temp": 14.9,
+        "time": "2026-11-17T02:00",
+        "temp": 14.7,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-17T04:00",
-        "temp": 14.6,
+        "time": "2026-11-17T05:00",
+        "temp": 14.4,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-17T07:00",
-        "temp": 13.7,
-        "code": 1,
+        "time": "2026-11-17T08:00",
+        "temp": 13.5,
+        "code": 2,
         "mm": 0.0
       },
       {
-        "time": "2026-11-17T10:00",
+        "time": "2026-11-17T11:00",
         "temp": 14.0,
         "code": 2,
         "mm": 0.0
       },
       {
-        "time": "2026-11-17T13:00",
-        "temp": 14.5,
-        "code": 3,
-        "mm": 0.0
+        "time": "2026-11-17T14:00",
+        "temp": 13.9,
+        "code": 51,
+        "mm": 0.4
       },
       {
-        "time": "2026-11-17T16:00",
-        "temp": 12.9,
-        "code": 55,
-        "mm": 1.0
+        "time": "2026-11-17T17:00",
+        "temp": 12.4,
+        "code": 61,
+        "mm": 1.4
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-16T22:00",
+        "time": "2026-11-16T23:00",
         "pop": 0
       },
       {
-        "time": "2026-11-17T01:00",
+        "time": "2026-11-17T02:00",
         "pop": 0
       },
       {
-        "time": "2026-11-17T04:00",
+        "time": "2026-11-17T05:00",
         "pop": 0
       },
       {
-        "time": "2026-11-17T07:00",
-        "pop": 2
+        "time": "2026-11-17T08:00",
+        "pop": 4
       },
       {
-        "time": "2026-11-17T10:00",
-        "pop": 21
+        "time": "2026-11-17T11:00",
+        "pop": 35
       },
       {
-        "time": "2026-11-17T13:00",
-        "pop": 56
+        "time": "2026-11-17T14:00",
+        "pop": 64
       },
       {
-        "time": "2026-11-17T16:00",
-        "pop": 79
+        "time": "2026-11-17T17:00",
+        "pop": 86
       },
       {
-        "time": "2026-11-17T19:00",
-        "pop": 96
+        "time": "2026-11-17T20:00",
+        "pop": 98
       }
     ],
     "tomorrow": {
@@ -458,7 +457,7 @@
     }
   },
   "index": {
-    "price": 59735.0,
+    "price": 59690.0,
     "prev": 61065.0,
     "points": [
       [
@@ -1694,16 +1693,23 @@
         59700.0
       ],
       [
-        "11/16 22:47",
+        "11/16 22:50",
+        59690.0,
         59735.0,
         59735.0,
-        59735.0,
-        59735.0
+        59685.0
+      ],
+      [
+        "11/16 22:53",
+        59690.0,
+        59690.0,
+        59690.0,
+        59690.0
       ]
     ]
   },
   "fx": {
-    "price": 159.62,
+    "price": 159.601,
     "prev": 159.686
   },
   "topix": {
