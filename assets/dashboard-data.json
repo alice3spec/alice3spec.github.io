@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T10:08:22.361966+09:00",
+  "updated": "2026-11-16T10:13:22.943954+09:00",
   "feeds": {
     "kabu": [
       {
@@ -58,9 +58,9 @@
         "date": "2026-11-15T22:44:28+00:00"
       },
       {
-        "title": "日経平均株価、米株安が重荷（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00czdHaFNMakZKX2huTmFRV01IV1VJWWtQYVhQU1pfSXZxdTB1SkJrem5HOThWekpTNkNGZWcwTDVvZXJYY2NRemw0bkxlRlBUQWdmYmNKVGVJWlJ3MHJpdUN0VEdJTEo1Q0wzSg?oc=5",
-        "date": "2026-11-10T22:30:24+00:00"
+        "title": "日経平均株価、AI銘柄の不透明感で内需株に注目（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaRXk1Y1JJRGpZbDRnVmU4czVQVWoycHViSU53Wm8zaHBLLVlqSDFoZHFtS0NkQjlkNjJraC1QLXhEMnh1Y0M0eDN1WmxvWEhzOHFva1FkTWM0VVA3RXI2WUNEUVNvU25ZQzl4Yw?oc=5",
+        "date": "2026-11-12T22:48:57+00:00"
       }
     ],
     "ai": [
@@ -213,75 +213,75 @@
     ],
     "gadget": [
       {
+        "title": "「Starlink Mini 2」発表。着脱式バッテリー搭載でもっと便利になった",
+        "link": "https://www.gizmodo.jp/article/starlink-mini-2/",
+        "date": "2026-11-16T01:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "Amazonの「買い物AI」がAlexaに統合。ペットや家族の好みまで覚えてくれます",
         "link": "https://www.gizmodo.jp/article/amazon-alexa-for-shopping/",
         "date": "2026-11-16T00:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "トヨタ、「かわいい」軽トラをアメリカで発売へ",
         "link": "https://www.gizmodo.jp/article/2611-toyota-kei-truck-us-release/",
         "date": "2026-11-15T23:45:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え",
         "link": "https://www.gizmodo.jp/article/touch-macbook-pro-1week-review/",
         "date": "2026-11-15T23:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される",
         "link": "https://www.gizmodo.jp/article/2611-ram-altman-spam-device/",
         "date": "2026-11-15T22:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "「山がいらない揚水発電」が実現？カギは水の2.5倍の密度を持つ謎の流体",
         "link": "https://www.gizmodo.jp/article/2611-pumped-storage-hydro-without-mountains/",
         "date": "2026-11-15T14:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "NASAが1977年に打ち上げたボイジャー1号、まもなく地球から「1光日」の彼方へ",
         "link": "https://www.gizmodo.jp/article/voyager-1-light-day-distance/",
         "date": "2026-11-15T13:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "睡眠テックの到達点か？ Ankerの「SleepLab Pro」は、ただ側に“置くだけ”で睡眠データを計測",
         "link": "https://www.gizmodo.jp/article/2611-anker-sleeplab-pro-sleep-tracker/",
         "date": "2026-11-15T12:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "大富豪は罪を問われない。のか。エヌビディア元CEOとマスクを分けたもの",
         "link": "https://www.gizmodo.jp/article/2611-elon-musk-nvidia-jensen-huang/",
         "date": "2026-11-15T11:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "最新バージョンのApple Watchで、アプリをスムーズに切り替える方法",
         "link": "https://www.gizmodo.jp/article/2611-apple-watch-app-switcher/",
         "date": "2026-11-15T10:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "スマホにライターまで載せる？ その発想はなかった、ぶっ飛びスマホたち",
         "link": "https://www.gizmodo.jp/article/2611-unique-smartphones-lighter-projector-gimbal/",
         "date": "2026-11-15T09:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "初恋のように甘い？ アイスランド発のキュートなFMシンセ「FIRST LOVE」",
         "link": "https://www.gizmodo.jp/article/first-love-fm-synth/",
         "date": "2026-11-15T08:35:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "全長70cmのレゴ版『ゴジラ』が発売決定。青の背ビレも超クールだ…",
-        "link": "https://www.gizmodo.jp/article/lego_godzilla_release/",
-        "date": "2026-11-15T08:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 60855.0,
+    "price": 60585.0,
     "prev": 61065.0,
     "points": [
       [
@@ -606,22 +606,29 @@
       ],
       [
         "11/16 09:55",
-        60895.0,
+        60900.0,
         60775.0,
         60915.0,
         60740.0
       ],
       [
-        "11/16 09:58",
-        60855.0,
-        60855.0,
-        60855.0,
-        60855.0
+        "11/16 10:00",
+        60605.0,
+        60900.0,
+        60900.0,
+        60530.0
+      ],
+      [
+        "11/16 10:03",
+        60585.0,
+        60585.0,
+        60585.0,
+        60585.0
       ]
     ]
   },
   "fx": {
-    "price": 159.774,
+    "price": 159.7635,
     "prev": 159.68
   },
   "topix": {
