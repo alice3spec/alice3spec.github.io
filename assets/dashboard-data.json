@@ -1,7 +1,12 @@
 {
-  "updated": "2026-11-16T21:13:23.459402+09:00",
+  "updated": "2026-11-16T21:18:29.161856+09:00",
   "feeds": {
     "kabu": [
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-16T09:09:53+00:00"
+      },
       {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
@@ -20,13 +25,7 @@
       {
         "title": "日経平均6万円回復の先は？3つのセンチメント指標が示す相場の現在地 - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Qm1tTTFMVllhTXpQdTllZ2NZMTE3dFVwQnZyY1pVaDNxaVNiLWpIYkhUMnRmRVlQaDZoQkp0Uk5yMDB5U2ZfZUh4eXJ6enlqWm9WONIBV0FVX3lxTFBXc005eWN1RHZSZFZrNGppcUpWNUdKcXp4R0pwSzhSeklhdjFVZzdpRnd6cjd2MnItX0drTTRudUxVd1ZlRFNsYXhYRmJ0alFSNnJLZTExWQ?oc=5",
-        "date": "2026-11-16T01:03:00+00:00",
-        "body": "a03.txt"
-      },
-      {
-        "title": "日経平均、1500円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXJueFN2RTF3Z3F3akc3NzlubWQ2YnJpUDB0aW5FVW5fMFFfemZlOUJBWlRHcHplNzkzZ1FUR0JSQ3BLa3JfeTNPWDFONGFURE83SjRWRElEMFZuaktqbUpVWExWM3JwZktqTk4tdTVoTzdXOVlrdWY3WC1WR3lsLXpWSmZpNjg?oc=5",
-        "date": "2026-11-16T05:54:58+00:00"
+        "date": "2026-11-16T01:03:00+00:00"
       },
       {
         "title": "アドテスト反落、米半導体株安が波及（16日の株式市場） - 日本経済新聞",
@@ -39,9 +38,14 @@
         "date": "2026-11-16T03:31:00+00:00"
       },
       {
-        "title": "日経平均株価見通しを2026年末70,000円に上方修正 堅調な需給環境を反映 野村證券ストラテジストが解説 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uZlNWMzJhQWQtbTBSdVJJLUpZZFUxNldnaW9FSW1PaWM3NjVJcjZjaXJTaVFHVy1TU0NjNllOdERBWkZQT3Y2dV93OFR2SkRtb2xmb3pNVlJwbzFVX0Qw?oc=5",
+        "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5",
         "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "日経平均、1500円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXJueFN2RTF3Z3F3akc3NzlubWQ2YnJpUDB0aW5FVW5fMFFfemZlOUJBWlRHcHplNzkzZ1FUR0JSQ3BLa3JfeTNPWDFONGFURE83SjRWRElEMFZuaktqbUpVWExWM3JwZktqTk4tdTVoTzdXOVlrdWY3WC1WR3lsLXpWSmZpNjg?oc=5",
+        "date": "2026-11-16T05:54:58+00:00"
       },
       {
         "title": "東証14時 日経平均が軟調 5万9800円前後 「非AI」株に逃避資金 - 日本経済新聞",
@@ -49,19 +53,14 @@
         "date": "2026-11-16T05:12:22+00:00"
       },
       {
-        "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5",
+        "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
         "date": "2026-11-13T08:00:00+00:00"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月16日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rV1RibHlWY0RKeEZldlJNbVlpVmVZSnJ5M3NRYlg4MUpyd3FEUXhueG84SElfVk5HLW14MTZIVDNFczRrRkI2dGY2WU5fVTZOSUtORHFTbEtXd3BmLVRvUA?oc=5",
         "date": "2026-11-15T22:42:52+00:00"
-      },
-      {
-        "title": "日経平均終値1480円安、尾を引くAI不安 ニトリHDなど消費関連に強さ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wRElibmtXQ2hmUVExbExSMU4wa1dkbV81MWgtS1QtTF9RbVNlWFFmX1VIVXBSZDV5QnNRcnpVNXE1Z0k4dzBsbkxKdEtmZmQzWm92eW1TNnJSakg5ZW1aUEF6UGNXaGtOd0dtNw?oc=5",
-        "date": "2026-11-16T02:42:48+00:00"
       }
     ],
     "ai": [
@@ -458,7 +457,7 @@
     }
   },
   "index": {
-    "price": 59845.0,
+    "price": 59710.0,
     "prev": 61065.0,
     "points": [
       [
@@ -597,7 +596,7 @@
       [
         "11/16 09:45",
         60695.0,
-        60575.0,
+        60570.0,
         60760.0,
         60560.0
       ],
@@ -625,7 +624,7 @@
       [
         "11/16 10:05",
         60520.0,
-        60530.0,
+        60525.0,
         60635.0,
         60470.0
       ],
@@ -744,7 +743,7 @@
       [
         "11/16 11:30",
         60250.0,
-        60245.0,
+        60240.0,
         60250.0,
         60195.0
       ],
@@ -779,7 +778,7 @@
       [
         "11/16 11:55",
         60295.0,
-        60175.0,
+        60180.0,
         60295.0,
         60160.0
       ],
@@ -828,7 +827,7 @@
       [
         "11/16 12:30",
         60135.0,
-        60220.0,
+        60225.0,
         60250.0,
         60085.0
       ],
@@ -856,7 +855,7 @@
       [
         "11/16 12:50",
         60040.0,
-        59950.0,
+        59940.0,
         60050.0,
         59935.0
       ],
@@ -1080,7 +1079,7 @@
       [
         "11/16 15:30",
         59765.0,
-        59780.0,
+        59790.0,
         59830.0,
         59745.0
       ],
@@ -1094,7 +1093,7 @@
       [
         "11/16 15:40",
         59750.0,
-        59785.0,
+        59775.0,
         59800.0,
         59740.0
       ],
@@ -1206,14 +1205,14 @@
       [
         "11/16 17:00",
         60130.0,
-        60025.0,
+        60005.0,
         60165.0,
         60000.0
       ],
       [
         "11/16 17:05",
         60130.0,
-        60175.0,
+        60165.0,
         60230.0,
         60125.0
       ],
@@ -1248,7 +1247,7 @@
       [
         "11/16 17:30",
         60150.0,
-        60140.0,
+        60130.0,
         60165.0,
         60105.0
       ],
@@ -1373,7 +1372,7 @@
       ],
       [
         "11/16 19:00",
-        59915.0,
+        59920.0,
         60045.0,
         60045.0,
         59915.0
@@ -1541,22 +1540,29 @@
       ],
       [
         "11/16 21:00",
-        59805.0,
+        59755.0,
         59900.0,
         59915.0,
-        59805.0
+        59750.0
       ],
       [
-        "11/16 21:03",
-        59845.0,
-        59845.0,
-        59845.0,
-        59845.0
+        "11/16 21:05",
+        59700.0,
+        59755.0,
+        59780.0,
+        59685.0
+      ],
+      [
+        "11/16 21:08",
+        59710.0,
+        59710.0,
+        59710.0,
+        59710.0
       ]
     ]
   },
   "fx": {
-    "price": 159.466,
+    "price": 159.477,
     "prev": 159.686
   },
   "topix": {
