@@ -1,79 +1,137 @@
 {
-  "updated": "2026-11-17T07:13:30.944020+09:00",
+  "updated": "2026-11-17T07:18:24.036372+09:00",
   "feeds": {
-    "kabu": [],
+    "kabu": [
+      {
+        "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
+        "date": "2026-11-15T22:37:05+00:00"
+      },
+      {
+        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
+        "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "明日の株式相場に向けて＝大荒れＡＩ相場、勝負のビッグイベント週 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HU3hwWjN0UHRxVGFfVVgxdHBWWGxBbXV6d3JNVlR5NmhTX01rZG81d1JyRzB5czVGdEk2akxHZWVrd1lXMWduUFhHNS1uMzZDcWZKa0ZzeHN6Q3lsUm5zcw?oc=5",
+        "date": "2026-11-16T08:30:00+00:00"
+      },
+      {
+        "title": "日経平均6万円回復の先は？3つのセンチメント指標が示す相場の現在地 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Qm1tTTFMVllhTXpQdTllZ2NZMTE3dFVwQnZyY1pVaDNxaVNiLWpIYkhUMnRmRVlQaDZoQkp0Uk5yMDB5U2ZfZUh4eXJ6enlqWm9WONIBV0FVX3lxTFBXc005eWN1RHZSZFZrNGppcUpWNUdKcXp4R0pwSzhSeklhdjFVZzdpRnd6cjd2MnItX0drTTRudUxVd1ZlRFNsYXhYRmJ0alFSNnJLZTExWQ?oc=5",
+        "date": "2026-11-16T01:03:00+00:00"
+      },
+      {
+        "title": "信用取引の個人投資家を襲った日経平均「歴代3番目の下落」 強制決済を経験した投資家が説く「急落相場を生き抜くリスク管理術」「追証を避ける3つの鉄則」（マネーポストWEB） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcHBka1RMNFNEYTA0a09oSEFuT0ZCMkREY0kwRE44bTM4YlNOdDhHc0dZZ2JGX0JPdHBtblNMdVZIRVZCdGxGNl91U0pNYzBEWk84cGM5OUxHNEhQTXJRT3BsMmpCQTJ3X014Tkdmcm1BUkdJNk9CQ21ybV9uaHc?oc=5",
+        "date": "2026-11-16T10:15:00+00:00"
+      },
+      {
+        "title": "来週（11/16～20）の日経平均株価の予想レンジは、5万9500～6万3500円！ 6万2000円(200日移動平均線)近辺での攻防や、好決算の内需株･金融株に注目 - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoSk9wSU5EU1JHRnRGUVdDd01Vb3FvOFNETmZOdlIxTm1EUDh0X1pvRzNXUHVPaGVOakh0eEdJZ3N2SVUtVmlyMXRVS0FmYmlwbkRJ?oc=5",
+        "date": "2026-11-13T13:01:38+00:00"
+      },
+      {
+        "title": "アドテスト反落、米半導体株安が波及（16日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUamM1UFJZc3ZzQ2FQazFRVlZaVUJFeDNXNVVudEVkSVRQQUlrWUR3Q1ZvaFItN2hBb3BHekRScFdQdlFPQTh2dFRuaVhSaVVmcHBiLXp3ZmVpb3JjQVcxVE0zNmNrRTd1bzg3ZQ?oc=5",
+        "date": "2026-11-16T07:30:00+00:00"
+      },
+      {
+        "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
+        "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ幅広げる - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HUURMM3ljRW5Zcmw5S3lDTFVSWTZuSlNhWVhTVkVITHVhQWFjU1B0dmZpTm9wUWxOc29Xck5Mbk81ZmNXeVBlUzdvV1YzRktwVXc?oc=5",
+        "date": "2026-11-16T03:31:00+00:00"
+      },
+      {
+        "title": "日経平均、1500円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXJueFN2RTF3Z3F3akc3NzlubWQ2YnJpUDB0aW5FVW5fMFFfemZlOUJBWlRHcHplNzkzZ1FUR0JSQ3BLa3JfeTNPWDFONGFURE83SjRWRElEMFZuaktqbUpVWExWM3JwZktqTk4tdTVoTzdXOVlrdWY3WC1WR3lsLXpWSmZpNjg?oc=5",
+        "date": "2026-11-16T05:54:58+00:00"
+      },
+      {
+        "title": "東証14時 日経平均が軟調 5万9800円前後 「非AI」株に逃避資金 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rVTAtRUNhN2hsWGpfQ2NrcGRGTGhOS0NoS3VBQi1JenhnYTM0cFZGSG9YZkVmRUR1NGl6RmxUYllUd0UySm42OUFwRzJHaE9UYUlSMDBvR3o1eVNLTGFadUFHNTJqV1JHYW53aQ?oc=5",
+        "date": "2026-11-16T05:12:22+00:00"
+      },
+      {
+        "title": "日経平均株価一時6万円超えも、前日比445円安 なぜ、日本株は大きく変動する？ 野村證券ストラテジストが解説 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M19mRnhZWm9yWHlhQ0Q0WDc0SHk1MVA0UTM2VTFjaHdWeTc1VTB0T0dna3hYbUI0U1FHUDN6YXdwZk9oQzVqZzR2UTdiZXNyMTZ2dTNxSkZFS3JBRi04?oc=5",
+        "date": "2026-11-13T08:00:00+00:00"
+      }
+    ],
     "ai": [
       {
         "title": "「回答するAI」から「現実の課題を解決するAI」へ、ダッソーが掲げる産業AI戦略",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news025.html",
         "date": "2026-11-16T21:30:00+00:00",
-        "body": "a00.txt"
+        "body": "a12.txt"
       },
       {
         "title": "NTTが宇宙光通信網の構築へ　「IOWN搭載」衛星と宇宙データセンターで米中に挑む",
         "link": "https://www.itmedia.co.jp/business/articles/2611/17/news039.html",
-        "date": "2026-11-16T21:00:00+00:00",
-        "body": "a01.txt"
+        "date": "2026-11-16T21:00:00+00:00"
       },
       {
         "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
         "date": "2026-11-16T09:05:36+00:00",
-        "body": "a02.txt"
+        "body": "a14.txt"
       },
       {
         "title": "「Gemini 4 Hydrogen」とは　性能とユースケースまとめ　Googleの「誰でも使える」最新モデル",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
         "date": "2026-11-16T07:17:48+00:00",
-        "body": "a03.txt"
+        "body": "a15.txt"
       },
       {
         "title": "Googleの“人気AI講座”、先着1万人に無料提供　リスキリング推進団体",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003225/",
         "date": "2026-11-16T06:17:41+00:00",
-        "body": "a04.txt"
+        "body": "a16.txt"
       },
       {
         "title": "アクセンチュアが説く「業務そのものの創り直し」とは？　AI活用が事業成果に結びつかない企業に向けた2つのポイント",
         "link": "https://www.itmedia.co.jp/enterprise/articles/2611/16/news056.html",
         "date": "2026-11-16T04:00:00+00:00",
-        "body": "a05.txt"
+        "body": "a17.txt"
       },
       {
         "title": "AIによる誤った判断、責任を負うのは誰？　「9割」をAIに委ねる時代に向け、IDCが提言",
         "link": "https://www.itmedia.co.jp/enterprise/articles/2611/13/news042.html",
         "date": "2026-11-16T04:00:00+00:00",
-        "body": "a06.txt"
+        "body": "a18.txt"
       },
       {
         "title": "フリーランス市場、受注者の約8割がAIを利用　自発的に開示は1割弱、両者に意識差　IBMリサーチなど調査",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
         "date": "2026-11-16T03:00:00+00:00",
-        "body": "a07.txt"
+        "body": "a19.txt"
       },
       {
         "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
         "date": "2026-11-16T00:49:03+00:00",
-        "body": "a08.txt"
+        "body": "a20.txt"
       },
       {
         "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
-        "date": "2026-11-16T00:44:05+00:00",
-        "body": "a09.txt"
+        "date": "2026-11-16T00:44:05+00:00"
       },
       {
         "title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html",
-        "date": "2026-11-16T00:00:00+00:00",
-        "body": "a10.txt"
+        "date": "2026-11-16T00:00:00+00:00"
       },
       {
         "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
         "date": "2026-11-15T23:30:00+00:00",
-        "body": "a11.txt"
+        "body": "a23.txt"
       }
     ],
     "it": [
@@ -81,73 +139,70 @@
         "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
         "date": "2026-11-16T14:00:56+00:00",
-        "body": "a12.txt"
+        "body": "a24.txt"
       },
       {
         "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
         "date": "2026-11-16T09:05:36+00:00",
-        "body": "a13.txt"
+        "body": "a25.txt"
       },
       {
         "title": "ドコモ、また「5G SA」で通信障害　今月3回目【復旧】",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003218/",
         "date": "2026-11-16T07:52:17+00:00",
-        "body": "a14.txt"
+        "body": "a26.txt"
       },
       {
         "title": "ドコモ「5G SA」今月3度目の障害、約6時間で復旧　原因は同じ「交換機への通信集中」",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003233/",
-        "date": "2026-11-16T07:46:10+00:00",
-        "body": "a15.txt"
+        "date": "2026-11-16T07:46:10+00:00"
       },
       {
         "title": "次世代半導体向けで注目の酸化ガリウム、埼玉発で世界へ　電力ロス大幅低減でAI需要狙う",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003231/",
         "date": "2026-11-16T07:20:17+00:00",
-        "body": "a16.txt"
+        "body": "a28.txt"
       },
       {
         "title": "秋葉原スマートごみ箱、不法投棄を見越し“防犯カメラのある場所”に設置していた　千代田区に聞いた運用の実際",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003228/",
-        "date": "2026-11-16T06:57:02+00:00",
-        "body": "a17.txt"
+        "date": "2026-11-16T06:57:02+00:00"
       },
       {
         "title": "マッチングアプリ「タップル」緊急メンテで停止　「待ち合わせしてるのに連絡取れない」ユーザー困惑",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003230/",
         "date": "2026-11-16T06:55:27+00:00",
-        "body": "a18.txt"
+        "body": "a30.txt"
       },
       {
         "title": "スパコン「富岳」に不正アクセス　理研が明らかに",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
         "date": "2026-11-16T03:42:48+00:00",
-        "body": "a19.txt"
+        "body": "a31.txt"
       },
       {
         "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性　独大学の調査結果",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
         "date": "2026-11-16T03:00:00+00:00",
-        "body": "a20.txt"
+        "body": "a32.txt"
       },
       {
         "title": "フリーランス市場、受注者の約8割がAIを利用　自発的に開示は1割弱、両者に意識差　IBMリサーチなど調査",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
         "date": "2026-11-16T03:00:00+00:00",
-        "body": "a21.txt"
+        "body": "a33.txt"
       },
       {
         "title": "マネックス証券、免許証画像やマイナカード表面など1592件漏えいか　口座開設システムに不正アクセス",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
-        "date": "2026-11-16T02:46:01+00:00",
-        "body": "a22.txt"
+        "date": "2026-11-16T02:46:01+00:00"
       },
       {
         "title": "「艦これアーケード」「オンゲキ」など一部再開　不正アクセスで停止のセガ系システムが試験復旧",
         "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
         "date": "2026-11-16T02:26:04+00:00",
-        "body": "a23.txt"
+        "body": "a35.txt"
       }
     ],
     "gadget": [
@@ -155,71 +210,68 @@
         "title": "ゲーマーが持て余したNPUを活用。アップスケーリング「Auto SR」が本格始動",
         "link": "https://www.gizmodo.jp/article/2611-microsoft-asr-rog-xbox-ally-x/",
         "date": "2026-11-16T22:00:00+00:00",
-        "body": "a24.txt"
+        "body": "a36.txt"
       },
       {
         "title": "Teenage Engineering、今度はCDプレーヤーを作ってるっぽい",
         "link": "https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/",
-        "date": "2026-11-16T14:15:00+00:00",
-        "body": "a25.txt"
+        "date": "2026-11-16T14:15:00+00:00"
       },
       {
         "title": "土星の環、お前だったのか。犯人は1億年前に消えた“幻の衛星”",
         "link": "https://www.gizmodo.jp/article/2611-saturn-rings-lost-moon-origin/",
-        "date": "2026-11-16T14:00:00+00:00",
-        "body": "a26.txt"
+        "date": "2026-11-16T14:00:00+00:00"
       },
       {
         "title": "1年間、窓のない施設で4人が暮らす。NASAの「模擬火星プロジェクト」が完走",
         "link": "https://www.gizmodo.jp/article/2611-nasa-chapea-mars-simulation-project/",
         "date": "2026-11-16T13:30:00+00:00",
-        "body": "a27.txt"
+        "body": "a39.txt"
       },
       {
         "title": "モバ充の未来を変えるかも。電池の充放電をスムーズにする「ビタミンB12」",
         "link": "https://www.gizmodo.jp/article/f174c419-272c-4f3c-b9d3-e89cff36ac6a/",
-        "date": "2026-11-16T13:15:00+00:00"
+        "date": "2026-11-16T13:15:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "Googleに約2645億円の制裁金。いったん取り消されたけど、支払いの可能性が再浮上",
         "link": "https://www.gizmodo.jp/article/2611-google-eu-fine-appeal/",
         "date": "2026-11-16T13:00:00+00:00",
-        "body": "a29.txt"
+        "body": "a41.txt"
       },
       {
         "title": "眠っているPSPや3DSを、電子楽器として蘇らせる激ヤバソフト",
         "link": "https://www.gizmodo.jp/article/psp_3ds_granular_sampler_dzagrain/",
-        "date": "2026-11-16T12:45:00+00:00",
-        "body": "a30.txt"
+        "date": "2026-11-16T12:45:00+00:00"
       },
       {
         "title": "ChatGPT、ユーザーのクレカでお買い物をしてくれるようになったけど…、大丈夫？",
         "link": "https://www.gizmodo.jp/article/2611-chatgpt-wallet-credit-card-ai/",
-        "date": "2026-11-16T12:30:00+00:00",
-        "body": "a31.txt"
+        "date": "2026-11-16T12:30:00+00:00"
       },
       {
         "title": "模様が美しい。防弾チョッキにも使われるアラミド繊維で織り上げたiPhoneケース",
         "link": "https://www.gizmodo.jp/article/pitaka-wind-over-wheat-phone-cases/",
-        "date": "2026-11-16T12:00:00+00:00"
+        "date": "2026-11-16T12:00:00+00:00",
+        "body": "a44.txt"
       },
       {
         "title": "ノルウェー「新しいデータセンターに回す電気はねえ！」国の全力を越えてます",
         "link": "https://www.gizmodo.jp/article/2611-norway-datacenters-power-shortage/",
         "date": "2026-11-16T11:30:00+00:00",
-        "body": "a33.txt"
+        "body": "a45.txt"
       },
       {
         "title": "コンセントに生やそう。バッファローから爆誕、「ワイヤレス充電器×USB充電器」のキメラ",
         "link": "https://www.gizmodo.jp/article/2611-buffalo-qi2-wireless-usb-charger/",
         "date": "2026-11-16T11:15:00+00:00",
-        "body": "a34.txt"
+        "body": "a46.txt"
       },
       {
         "title": "人型ロボットのAtlas君、車輪を装備したら...。横滑り、360度回転ジャンプまで習得",
         "link": "https://www.gizmodo.jp/article/2611-boston-dynamics-atlas-wheels/",
-        "date": "2026-11-16T11:00:00+00:00",
-        "body": "a35.txt"
+        "date": "2026-11-16T11:00:00+00:00"
       }
     ],
     "yahoo": [
@@ -227,49 +279,49 @@
         "title": "トランプ大統領 アジア歴訪へ出発",
         "link": "https://news.yahoo.co.jp/pickup/6602850?source=rss",
         "date": "2026-11-16T21:21:32+00:00",
-        "body": "a36.txt"
+        "body": "a48.txt"
       },
       {
         "title": "NY株大幅反落 ハイテク株に売り",
         "link": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
         "date": "2026-11-16T21:54:31+00:00",
-        "body": "a37.txt"
+        "body": "a49.txt"
       },
       {
         "title": "中野死亡 男は女性が勤める店の客",
         "link": "https://news.yahoo.co.jp/pickup/6602848?source=rss",
         "date": "2026-11-16T14:51:54+00:00",
-        "body": "a38.txt"
+        "body": "a50.txt"
       },
       {
         "title": "元eggモデル殺害 過去に警察沙汰",
         "link": "https://news.yahoo.co.jp/pickup/6602849?source=rss",
         "date": "2026-11-16T21:11:11+00:00",
-        "body": "a39.txt"
+        "body": "a51.txt"
       },
       {
         "title": "卵サンドつかむ客動画炎上 店説明",
         "link": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
         "date": "2026-11-16T13:31:14+00:00",
-        "body": "a40.txt"
+        "body": "a52.txt"
       },
       {
         "title": "矢野ら カープに謝罪求める要請書",
         "link": "https://news.yahoo.co.jp/pickup/6602841?source=rss",
         "date": "2026-11-16T13:20:14+00:00",
-        "body": "a41.txt"
+        "body": "a53.txt"
       },
       {
         "title": "グラミー新設賞 候補にベビメタら",
         "link": "https://news.yahoo.co.jp/pickup/6602851?source=rss",
         "date": "2026-11-16T21:35:33+00:00",
-        "body": "a42.txt"
+        "body": "a54.txt"
       },
       {
         "title": "中田乃愛さん死去 テレ東など追悼",
         "link": "https://news.yahoo.co.jp/pickup/6602827?source=rss",
         "date": "2026-11-16T11:15:16+00:00",
-        "body": "a43.txt"
+        "body": "a55.txt"
       }
     ]
   },
@@ -533,7 +585,7 @@
       [
         "11/16 09:45",
         60695.0,
-        60570.0,
+        60575.0,
         60760.0,
         60560.0
       ],
@@ -561,7 +613,7 @@
       [
         "11/16 10:05",
         60520.0,
-        60525.0,
+        60530.0,
         60635.0,
         60470.0
       ],
@@ -680,7 +732,7 @@
       [
         "11/16 11:30",
         60250.0,
-        60240.0,
+        60245.0,
         60250.0,
         60195.0
       ],
@@ -715,7 +767,7 @@
       [
         "11/16 11:55",
         60295.0,
-        60180.0,
+        60175.0,
         60295.0,
         60160.0
       ],
@@ -764,7 +816,7 @@
       [
         "11/16 12:30",
         60135.0,
-        60225.0,
+        60220.0,
         60250.0,
         60085.0
       ],
@@ -792,7 +844,7 @@
       [
         "11/16 12:50",
         60040.0,
-        59940.0,
+        59950.0,
         60050.0,
         59935.0
       ],
@@ -1016,7 +1068,7 @@
       [
         "11/16 15:30",
         59765.0,
-        59790.0,
+        59780.0,
         59830.0,
         59745.0
       ],
@@ -1030,7 +1082,7 @@
       [
         "11/16 15:40",
         59750.0,
-        59775.0,
+        59785.0,
         59800.0,
         59740.0
       ],
@@ -1142,14 +1194,14 @@
       [
         "11/16 17:00",
         60130.0,
-        60005.0,
+        60025.0,
         60165.0,
         60000.0
       ],
       [
         "11/16 17:05",
         60130.0,
-        60165.0,
+        60175.0,
         60230.0,
         60125.0
       ],
@@ -1184,7 +1236,7 @@
       [
         "11/16 17:30",
         60150.0,
-        60130.0,
+        60140.0,
         60165.0,
         60105.0
       ],
@@ -1309,7 +1361,7 @@
       ],
       [
         "11/16 19:00",
-        59920.0,
+        59915.0,
         60045.0,
         60045.0,
         59915.0
@@ -1688,7 +1740,7 @@
       [
         "11/16 23:30",
         59570.0,
-        59825.0,
+        59830.0,
         59830.0,
         59545.0
       ],
@@ -1708,8 +1760,8 @@
       ],
       [
         "11/16 23:45",
-        59850.0,
-        59930.0,
+        59825.0,
+        59925.0,
         59965.0,
         59735.0
       ],
@@ -1722,7 +1774,7 @@
       ],
       [
         "11/16 23:55",
-        59620.0,
+        59615.0,
         59700.0,
         59845.0,
         59610.0
@@ -1771,7 +1823,7 @@
       ],
       [
         "11/17 00:30",
-        59660.0,
+        59655.0,
         59555.0,
         59710.0,
         59555.0
@@ -1856,7 +1908,7 @@
       [
         "11/17 01:30",
         60040.0,
-        60035.0,
+        60040.0,
         60065.0,
         60010.0
       ],
@@ -2038,14 +2090,14 @@
       [
         "11/17 03:40",
         59435.0,
-        59340.0,
+        59345.0,
         59440.0,
         59335.0
       ],
       [
         "11/17 03:45",
         59615.0,
-        59440.0,
+        59445.0,
         59615.0,
         59390.0
       ],
@@ -2164,7 +2216,7 @@
       [
         "11/17 05:10",
         59400.0,
-        59475.0,
+        59465.0,
         59475.0,
         59385.0
       ],
@@ -2212,29 +2264,29 @@
       ],
       [
         "11/17 05:45",
-        59245.0,
+        59240.0,
         59205.0,
         59250.0,
         59160.0
       ],
       [
         "11/17 05:50",
-        59245.0,
-        59275.0,
+        59250.0,
+        59280.0,
         59310.0,
         59195.0
       ],
       [
         "11/17 05:55",
-        59225.0,
-        59240.0,
+        59220.0,
+        59230.0,
         59240.0,
         59160.0
       ],
       [
         "11/17 06:00",
         59175.0,
-        59225.0,
+        59215.0,
         59225.0,
         59165.0
       ],
@@ -2248,7 +2300,7 @@
       [
         "11/17 06:10",
         59190.0,
-        59165.0,
+        59170.0,
         59200.0,
         59160.0
       ],
@@ -2310,9 +2362,9 @@
       ],
       [
         "11/17 06:55",
-        58950.0,
+        59045.0,
         58930.0,
-        58950.0,
+        59045.0,
         58930.0
       ],
       [
@@ -2325,7 +2377,7 @@
     ]
   },
   "fx": {
-    "price": 159.404,
+    "price": 159.41,
     "prev": 159.686
   },
   "topix": {
