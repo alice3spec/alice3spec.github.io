@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T21:53:24.850618+09:00",
+  "updated": "2026-11-16T21:58:30.209979+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,9 +13,9 @@
         "date": "2026-11-15T22:37:05+00:00"
       },
       {
-        "title": "明日の株式相場に向けて＝大荒れＡＩ相場、勝負のビッグイベント週 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HU3hwWjN0UHRxVGFfVVgxdHBWWGxBbXV6d3JNVlR5NmhTX01rZG81d1JyRzB5czVGdEk2akxHZWVrd1lXMWduUFhHNS1uMzZDcWZKa0ZzeHN6Q3lsUm5zcw?oc=5",
-        "date": "2026-11-16T08:30:00+00:00"
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ幅広げる - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HUURMM3ljRW5Zcmw5S3lDTFVSWTZuSlNhWVhTVkVITHVhQWFjU1B0dmZpTm9wUWxOc29Xck5Mbk81ZmNXeVBlUzdvV1YzRktwVXc?oc=5",
+        "date": "2026-11-16T03:31:00+00:00"
       },
       {
         "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
@@ -33,9 +33,9 @@
         "date": "2026-11-16T07:30:00+00:00"
       },
       {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ幅広げる - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HUURMM3ljRW5Zcmw5S3lDTFVSWTZuSlNhWVhTVkVITHVhQWFjU1B0dmZpTm9wUWxOc29Xck5Mbk81ZmNXeVBlUzdvV1YzRktwVXc?oc=5",
-        "date": "2026-11-16T03:31:00+00:00"
+        "title": "明日の株式相場に向けて＝大荒れＡＩ相場、勝負のビッグイベント週 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HU3hwWjN0UHRxVGFfVVgxdHBWWGxBbXV6d3JNVlR5NmhTX01rZG81d1JyRzB5czVGdEk2akxHZWVrd1lXMWduUFhHNS1uMzZDcWZKa0ZzeHN6Q3lsUm5zcw?oc=5",
+        "date": "2026-11-16T08:30:00+00:00"
       },
       {
         "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
@@ -43,9 +43,9 @@
         "date": "2026-11-13T08:00:00+00:00"
       },
       {
-        "title": "日経平均、1500円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYXJueFN2RTF3Z3F3akc3NzlubWQ2YnJpUDB0aW5FVW5fMFFfemZlOUJBWlRHcHplNzkzZ1FUR0JSQ3BLa3JfeTNPWDFONGFURE83SjRWRElEMFZuaktqbUpVWExWM3JwZktqTk4tdTVoTzdXOVlrdWY3WC1WR3lsLXpWSmZpNjg?oc=5",
-        "date": "2026-11-16T05:54:58+00:00"
+        "title": "（朝）米国市場は高安まちまち　物価指標が市場予想を下回った安心感とハイテク株の売りにより方向感を欠く展開 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWUGRxS1k3YnVfcC1ybDJHX1NpRzNfejgyLWJqYmJqZm9sV2lkTnN6OENxdnlnYnJqakxhR1FESnFSRWlXRHpVTmh0U2pjWVdudWs1Q9IBV0FVX3lxTE94bGlzWWtjaG9YU3hnUFpsamVFOWFCQUFtU0p6eUpaSTU4cFJYQmd6MnpMaTFqcXBFN3lHb2VPb3dGSHpaelR4WmREc2UyNE0weGtFa3hHaw?oc=5",
+        "date": "2026-11-15T23:13:00+00:00"
       },
       {
         "title": "東証14時 日経平均が軟調 5万9800円前後 「非AI」株に逃避資金 - 日本経済新聞",
@@ -213,75 +213,74 @@
     ],
     "gadget": [
       {
+        "title": "眠っているPSPや3DSを、電子楽器として蘇らせる激ヤバソフト",
+        "link": "https://www.gizmodo.jp/article/psp_3ds_granular_sampler_dzagrain/",
+        "date": "2026-11-16T12:45:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "ChatGPT、ユーザーのクレカでお買い物をしてくれるようになったけど…、大丈夫？",
         "link": "https://www.gizmodo.jp/article/2611-chatgpt-wallet-credit-card-ai/",
         "date": "2026-11-16T12:30:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "模様が美しい。防弾チョッキにも使われるアラミド繊維で織り上げたiPhoneケース",
         "link": "https://www.gizmodo.jp/article/pitaka-wind-over-wheat-phone-cases/",
         "date": "2026-11-16T12:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "ノルウェー「新しいデータセンターに回す電気はねえ！」国の全力を越えてます",
         "link": "https://www.gizmodo.jp/article/2611-norway-datacenters-power-shortage/",
         "date": "2026-11-16T11:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "コンセントに生やそう。バッファローから爆誕、「ワイヤレス充電器×USB充電器」のキメラ",
         "link": "https://www.gizmodo.jp/article/2611-buffalo-qi2-wireless-usb-charger/",
         "date": "2026-11-16T11:15:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "人型ロボットのAtlas君、車輪を装備したら...。横滑り、360度回転ジャンプまで習得",
         "link": "https://www.gizmodo.jp/article/2611-boston-dynamics-atlas-wheels/",
         "date": "2026-11-16T11:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "フォトショが2次元の壁を突破してきた。光を操り、動画も作れる",
         "link": "https://www.gizmodo.jp/article/2611-photoshop-ai-features-adobe-max/",
         "date": "2026-11-16T10:45:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "すごいのはわかった。で、毎日使う？ グーグル✕サムスンのスマートグラス使ってみた",
         "link": "https://www.gizmodo.jp/article/2611-google-samsung-intelligent-eyewear-hands-on/",
         "date": "2026-11-16T10:30:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "AIのかしこさとは。『ポケモン』で同じ崖から3回落ちる→メモを整理してミスに気づく",
         "link": "https://www.gizmodo.jp/article/2611-claude-pokemon-gameplay-ai-memory/",
         "date": "2026-11-16T10:15:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "でっかくなって、帰ってきたオルカエコー。\n「分厚い Keychron Orca echo」本日より販売開始",
         "link": "https://www.gizmodo.jp/article/orca-echo-normal-profile-start/",
         "date": "2026-11-16T10:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "サムスン×Googleのスマートグラス、Pixel Watch・Galaxy Watchから操作可能",
         "link": "https://www.gizmodo.jp/article/2611-samsung-google-smart-glasses-watch-control/",
-        "date": "2026-11-16T09:30:00+00:00",
-        "body": "a45.txt"
+        "date": "2026-11-16T09:30:00+00:00"
       },
       {
         "title": "Appleだけにカジッチュ。ポケモンとコラボしたギフトカードが生まれました",
         "link": "https://www.gizmodo.jp/article/2611-apple-pokemon-applestore-giftcard-kajicchu/",
         "date": "2026-11-16T09:15:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "見捨てられた家電、DIYで生き返る…はずだった。AIハック遊び、流行った途端にブレーキ",
-        "link": "https://www.gizmodo.jp/article/ai-reverse-engineer-anything-crackdown/",
-        "date": "2026-11-16T09:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -317,9 +316,9 @@
         "body": "a52.txt"
       },
       {
-        "title": "戦力外の矢野雅哉ら 球団に要請書",
-        "link": "https://news.yahoo.co.jp/pickup/6602822?source=rss",
-        "date": "2026-11-16T10:22:36+00:00",
+        "title": "ゴルフの年間女王 次々と米進出",
+        "link": "https://news.yahoo.co.jp/pickup/6602830?source=rss",
+        "date": "2026-11-16T12:30:30+00:00",
         "body": "a53.txt"
       },
       {
@@ -331,7 +330,8 @@
       {
         "title": "中田乃愛さん死去 テレ東など追悼",
         "link": "https://news.yahoo.co.jp/pickup/6602827?source=rss",
-        "date": "2026-11-16T11:15:16+00:00"
+        "date": "2026-11-16T11:15:16+00:00",
+        "body": "a55.txt"
       }
     ]
   },
@@ -456,7 +456,7 @@
     }
   },
   "index": {
-    "price": 59610.0,
+    "price": 59615.0,
     "prev": 61065.0,
     "points": [
       [
@@ -1595,22 +1595,29 @@
       ],
       [
         "11/16 21:40",
-        59605.0,
+        59665.0,
         59480.0,
-        59625.0,
+        59665.0,
         59470.0
       ],
       [
-        "11/16 21:43",
-        59610.0,
-        59610.0,
-        59610.0,
-        59610.0
+        "11/16 21:45",
+        59635.0,
+        59660.0,
+        59660.0,
+        59585.0
+      ],
+      [
+        "11/16 21:48",
+        59615.0,
+        59615.0,
+        59615.0,
+        59615.0
       ]
     ]
   },
   "fx": {
-    "price": 159.417,
+    "price": 159.475,
     "prev": 159.686
   },
   "topix": {
