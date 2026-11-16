@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:48:17.770705+09:00",
+  "updated": "2026-11-16T12:53:16.364915+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,14 +53,14 @@
         "date": "2026-11-16T02:42:48+00:00"
       },
       {
-        "title": "日経平均、205円86銭高の6万1348円21銭で始まる＝東京株式前場(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWl1dllpNU9TRDZTQnhkcVlYY0plN05kVXNpb0VPVEY3VnhVd2RiVmtaUjIxSUZ3WllhWU9pTnlGdEFickp0U25JaFJWNENUeDUzT1h0eWRFVzZfUDUycXhzM2FLcllaa0FGMWhoNVk1VkpaREJhM0t6dTZXRUFmeTFwT1ZnNUU?oc=5",
-        "date": "2026-11-16T00:01:15+00:00"
-      },
-      {
         "title": "日経平均株価は高すぎるのか？ 半導体株が牽引も、バブルではないと考える理由 野村證券・岡崎康平 - 野村證券",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RTlNWOU5GdWVuOXlTbkkzeXdISXAyeTZZMTJCZGtFNS00Z3pIWFI1NkdqMFhzTTYtNXItdW5uWHJuaWVaME53ckZSSVdiN293ZWtIRldIX3NWQXhqSmk4?oc=5",
         "date": "2026-11-13T08:00:00+00:00"
+      },
+      {
+        "title": "日経平均、205円86銭高の6万1348円21銭で始まる＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaWl1dllpNU9TRDZTQnhkcVlYY0plN05kVXNpb0VPVEY3VnhVd2RiVmtaUjIxSUZ3WllhWU9pTnlGdEFickp0U25JaFJWNENUeDUzT1h0eWRFVzZfUDUycXhzM2FLcllaa0FGMWhoNVk1VkpaREJhM0t6dTZXRUFmeTFwT1ZnNUU?oc=5",
+        "date": "2026-11-16T00:01:15+00:00"
       }
     ],
     "ai": [
@@ -829,13 +829,20 @@
       ],
       [
         "11/16 12:35",
-        60030.0,
+        60025.0,
         60115.0,
         60125.0,
-        60030.0
+        60025.0
       ],
       [
-        "11/16 12:38",
+        "11/16 12:40",
+        60040.0,
+        60030.0,
+        60065.0,
+        59995.0
+      ],
+      [
+        "11/16 12:43",
         60040.0,
         60040.0,
         60040.0,
@@ -844,7 +851,7 @@
     ]
   },
   "fx": {
-    "price": 159.617,
+    "price": 159.629,
     "prev": 159.68
   },
   "topix": {
