@@ -1,11 +1,17 @@
 {
- "updated": "2026-11-17T00:53:24.833369+09:00",
+ "updated": "2026-11-17T00:58:25.292404+09:00",
  "feeds": {
   "kabu": [
    {
+    "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+    "date": "2026-11-16T09:09:53+00:00"
+   },
+   {
     "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
-    "date": "2026-11-15T22:37:05+00:00"
+    "date": "2026-11-15T22:37:05+00:00",
+    "body": "a01.txt"
    },
    {
     "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
@@ -20,13 +26,7 @@
    {
     "title": "日経平均6万円回復の先は？3つのセンチメント指標が示す相場の現在地 - マネクリ",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Qm1tTTFMVllhTXpQdTllZ2NZMTE3dFVwQnZyY1pVaDNxaVNiLWpIYkhUMnRmRVlQaDZoQkp0Uk5yMDB5U2ZfZUh4eXJ6enlqWm9WONIBV0FVX3lxTFBXc005eWN1RHZSZFZrNGppcUpWNUdKcXp4R0pwSzhSeklhdjFVZzdpRnd6cjd2MnItX0drTTRudUxVd1ZlRFNsYXhYRmJ0alFSNnJLZTExWQ?oc=5",
-    "date": "2026-11-16T01:03:00+00:00",
-    "body": "a03.txt"
-   },
-   {
-    "title": "信用取引の個人投資家を襲った日経平均「歴代3番目の下落」 強制決済を経験した投資家が説く「急落相場を生き抜くリスク管理術」「追証を避ける3つの鉄則」（マネーポストWEB） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcHBka1RMNFNEYTA0a09oSEFuT0ZCMkREY0kwRE44bTM4YlNOdDhHc0dZZ2JGX0JPdHBtblNMdVZIRVZCdGxGNl91U0pNYzBEWk84cGM5OUxHNEhQTXJRT3BsMmpCQTJ3X014Tkdmcm1BUkdJNk9CQ21ybV9uaHc?oc=5",
-    "date": "2026-11-16T10:15:00+00:00"
+    "date": "2026-11-16T01:03:00+00:00"
    },
    {
     "title": "東証14時 日経平均が軟調 5万9800円前後 「非AI」株に逃避資金 - 日本経済新聞",
@@ -39,14 +39,14 @@
     "date": "2026-11-13T08:00:00+00:00"
    },
    {
+    "title": "信用取引の個人投資家を襲った日経平均「歴代3番目の下落」 強制決済を経験した投資家が説く「急落相場を生き抜くリスク管理術」「追証を避ける3つの鉄則」（マネーポストWEB） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcHBka1RMNFNEYTA0a09oSEFuT0ZCMkREY0kwRE44bTM4YlNOdDhHc0dZZ2JGX0JPdHBtblNMdVZIRVZCdGxGNl91U0pNYzBEWk84cGM5OUxHNEhQTXJRT3BsMmpCQTJ3X014Tkdmcm1BUkdJNk9CQ21ybV9uaHc?oc=5",
+    "date": "2026-11-16T10:15:00+00:00"
+   },
+   {
     "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ幅広げる - 株探",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HUURMM3ljRW5Zcmw5S3lDTFVSWTZuSlNhWVhTVkVITHVhQWFjU1B0dmZpTm9wUWxOc29Xck5Mbk81ZmNXeVBlUzdvV1YzRktwVXc?oc=5",
     "date": "2026-11-16T03:31:00+00:00"
-   },
-   {
-    "title": "（朝）米国市場は高安まちまち　物価指標が市場予想を下回った安心感とハイテク株の売りにより方向感を欠く展開 - マネクリ",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWUGRxS1k3YnVfcC1ybDJHX1NpRzNfejgyLWJqYmJqZm9sV2lkTnN6OENxdnlnYnJqakxhR1FESnFSRWlXRHpVTmh0U2pjWVdudWs1Q9IBV0FVX3lxTE94bGlzWWtjaG9YU3hnUFpsamVFOWFCQUFtU0p6eUpaSTU4cFJYQmd6MnpMaTFqcXBFN3lHb2VPb3dGSHpaelR4WmREc2UyNE0weGtFa3hHaw?oc=5",
-    "date": "2026-11-15T23:13:00+00:00"
    },
    {
     "title": "アドテスト反落、米半導体株安が波及（16日の株式市場） - 日本経済新聞",
@@ -458,7 +458,7 @@
   }
  },
  "index": {
-  "price": 59680.0,
+  "price": 59805.0,
   "prev": 61065.0,
   "points": [
    [
@@ -597,7 +597,7 @@
    [
     "11/16 09:45",
     60695.0,
-    60575.0,
+    60570.0,
     60760.0,
     60560.0
    ],
@@ -625,7 +625,7 @@
    [
     "11/16 10:05",
     60520.0,
-    60530.0,
+    60525.0,
     60635.0,
     60470.0
    ],
@@ -744,7 +744,7 @@
    [
     "11/16 11:30",
     60250.0,
-    60245.0,
+    60240.0,
     60250.0,
     60195.0
    ],
@@ -779,7 +779,7 @@
    [
     "11/16 11:55",
     60295.0,
-    60175.0,
+    60180.0,
     60295.0,
     60160.0
    ],
@@ -828,7 +828,7 @@
    [
     "11/16 12:30",
     60135.0,
-    60220.0,
+    60225.0,
     60250.0,
     60085.0
    ],
@@ -856,7 +856,7 @@
    [
     "11/16 12:50",
     60040.0,
-    59950.0,
+    59940.0,
     60050.0,
     59935.0
    ],
@@ -1080,7 +1080,7 @@
    [
     "11/16 15:30",
     59765.0,
-    59780.0,
+    59790.0,
     59830.0,
     59745.0
    ],
@@ -1094,7 +1094,7 @@
    [
     "11/16 15:40",
     59750.0,
-    59785.0,
+    59775.0,
     59800.0,
     59740.0
    ],
@@ -1206,14 +1206,14 @@
    [
     "11/16 17:00",
     60130.0,
-    60025.0,
+    60005.0,
     60165.0,
     60000.0
    ],
    [
     "11/16 17:05",
     60130.0,
-    60175.0,
+    60165.0,
     60230.0,
     60125.0
    ],
@@ -1248,7 +1248,7 @@
    [
     "11/16 17:30",
     60150.0,
-    60140.0,
+    60130.0,
     60165.0,
     60105.0
    ],
@@ -1373,7 +1373,7 @@
    ],
    [
     "11/16 19:00",
-    59915.0,
+    59920.0,
     60045.0,
     60045.0,
     59915.0
@@ -1752,7 +1752,7 @@
    [
     "11/16 23:30",
     59570.0,
-    59830.0,
+    59825.0,
     59830.0,
     59545.0
    ],
@@ -1772,8 +1772,8 @@
    ],
    [
     "11/16 23:45",
-    59825.0,
-    59925.0,
+    59850.0,
+    59930.0,
     59965.0,
     59735.0
    ],
@@ -1786,7 +1786,7 @@
    ],
    [
     "11/16 23:55",
-    59615.0,
+    59620.0,
     59700.0,
     59845.0,
     59610.0
@@ -1835,7 +1835,7 @@
    ],
    [
     "11/17 00:30",
-    59655.0,
+    59660.0,
     59555.0,
     59710.0,
     59555.0
@@ -1849,26 +1849,33 @@
    ],
    [
     "11/17 00:40",
-    59685.0,
+    59695.0,
     59600.0,
     59695.0,
     59520.0
    ],
    [
-    "11/17 00:43",
-    59680.0,
-    59680.0,
-    59680.0,
-    59680.0
+    "11/17 00:45",
+    59830.0,
+    59675.0,
+    59835.0,
+    59675.0
+   ],
+   [
+    "11/17 00:48",
+    59805.0,
+    59805.0,
+    59805.0,
+    59805.0
    ]
   ]
  },
  "fx": {
-  "price": 159.61,
+  "price": 159.561,
   "prev": 159.686
  },
  "topix": {
-  "price": 137.03,
+  "price": 137.355,
   "prev": 139.11
  },
  "ver": "v59"
