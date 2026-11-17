@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T17:13:29.790547+09:00",
+  "updated": "2026-11-17T17:18:21.250117+09:00",
   "feeds": {
     "kabu": [
       {
@@ -48,11 +48,6 @@
         "date": "2026-11-17T02:59:36+00:00"
       },
       {
-        "title": "ＮＹ各市場 ５時台 ダウ平均は７２７ドル安 シカゴ日経平均先物は５万９４９５円 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oemVKRkdKOGZqaDF0YU16YlM4Q0txUHhtV2ZVUnF5Yk5ueUtDbnBScm9kaThsNEdhb1RDSGhnbVpIaHJ2eWVZUFdDX3g4VTFFeWc?oc=5",
-        "date": "2026-11-16T20:11:00+00:00"
-      },
-      {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
         "date": "2026-11-15T22:37:44+00:00"
@@ -61,6 +56,11 @@
         "title": "明治HD株価が8年4カ月ぶり高値 内需株物色、自社株買いも好感 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BUi16R2pmX1k1bWhCME5rSm41ZGl4ZWRMSzNBdEkwTk5FZS1hUG5jNXdwRXc1Q3RmUHgtYTM3LUp5TXJRajhzZDRYSUtPMTk0b1NkM1VuQTllcHR4VzNwRHBnSFdqRm1HSUlnNA?oc=5",
         "date": "2026-11-17T06:21:34+00:00"
+      },
+      {
+        "title": "アドバンテスト株価、一時5.8%安 米半導体の輸出規制強化が重荷 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EMkxIRGQ0M0Ewb245S1dXcjNvNnkyY1J6eEFYX2d0ZHBWeGdsWVhmRkV4bk1CeUxBSWJQa3lhUHhycERwUTI0aWxvdm5vcU9xODIxN185UXdYTGxsRmRoSlJ1ZC0yOGI3QWtmWg?oc=5",
+        "date": "2026-11-17T01:15:45+00:00"
       }
     ],
     "ai": [
@@ -221,7 +221,8 @@
       {
         "title": "単なる「フィルム風」じゃない。アナログ操作を追求したレトロなトイデジカメ",
         "link": "https://www.gizmodo.jp/article/2611-fotorgear-campix-retro-toy-camera/",
-        "date": "2026-11-17T07:35:00+00:00"
+        "date": "2026-11-17T07:35:00+00:00",
+        "body": "a37.txt"
       },
       {
         "title": "シンセアプリのリジェクトが続出。Appleが審査にAIを使ってるせい？",
@@ -315,7 +316,8 @@
       {
         "title": "矢野雅哉トライアウト 二盗&三盗",
         "link": "https://news.yahoo.co.jp/pickup/6602921?source=rss",
-        "date": "2026-11-17T08:09:48+00:00"
+        "date": "2026-11-17T08:09:48+00:00",
+        "body": "a53.txt"
       },
       {
         "title": "江夏豊さん死去 江夏の21球とは",
@@ -332,7 +334,7 @@
     ]
   },
   "weather": {
-    "temp": 11.8,
+    "temp": 11.7,
     "code": 51,
     "max": 15.5,
     "min": 11.1,
@@ -452,7 +454,7 @@
     }
   },
   "index": {
-    "price": 59165.0,
+    "price": 59075.0,
     "prev": 59045.0,
     "points": [
       [
@@ -1073,22 +1075,29 @@
       ],
       [
         "11/17 17:00",
-        59130.0,
+        59150.0,
         59125.0,
         59185.0,
         59050.0
       ],
       [
-        "11/17 17:03",
-        59165.0,
-        59165.0,
-        59165.0,
-        59165.0
+        "11/17 17:05",
+        59100.0,
+        59125.0,
+        59140.0,
+        59060.0
+      ],
+      [
+        "11/17 17:08",
+        59075.0,
+        59075.0,
+        59075.0,
+        59075.0
       ]
     ]
   },
   "gold": {
-    "price": 3871.8,
+    "price": 3870.2,
     "prev": 3859.0,
     "points": [
       [
@@ -1716,22 +1725,29 @@
       ],
       [
         "11/17 17:00",
-        3871.6,
+        3869.8,
         3873.6,
         3874.2,
-        3871.5
+        3869.4
       ],
       [
-        "11/17 17:03",
-        3871.8,
-        3871.8,
-        3871.8,
-        3871.8
+        "11/17 17:05",
+        3870.1,
+        3869.4,
+        3871.0,
+        3868.1
+      ],
+      [
+        "11/17 17:08",
+        3870.2,
+        3870.2,
+        3870.2,
+        3870.2
       ]
     ]
   },
   "fx": {
-    "price": 159.243,
+    "price": 159.244,
     "prev": 159.392
   },
   "topix": {
