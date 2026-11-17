@@ -1,126 +1,88 @@
-OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」
+エヌビディア、早くもジェンスン・フアン前CEOの復帰を検討中？
 
-Share
+Nov 17,2026 11:15
 
-*   印刷する
+Webb Wright - GIZMODO US［原文］（高橋真紀 / GIZMODOライター ）
 
-# OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」
+Image: jamesonwu1972 / Shutterstock.com
 
-公開 2026年11月17日 08時04分
+革ジャンがトレードマークのジェンスン・フアン氏は、1993年にNVIDIA（エヌビディア）を共同設立。巨大テクノロジー企業へと成長させました。
 
-[ITmedia]
+33年間にわたって最高経営責任者（CEO）を務めてきましたが、不名誉な形で同社を去ることに。しかし、すでに多くの従業員から同氏の復帰を求める声が挙がっています。
 
-印刷するGoogleで優先するソースとして追加
+## ボスの復帰を求める声
 
-米カリフォルニア州のロブ・ボンタ司法長官は11月16日（現地時間）、米OpenAIをサンフランシスコ郡上級裁判所に提訴したと発表した。高度なAIモデルを十分な安全対策や監視なしに開発・テストし、公衆を危険にさらしたと主張している。州の不正競争防止法違反と公衆への迷惑行為を訴因としている。求めているのは、行為の差し止め、不当に得た利益の返還、違反1件当たり2500ドルの民事制裁金などだ。
+フアン氏の退任と、長年同社の最高財務責任者（CFO）を務めてきたコレット・クレス氏の後任就任が発表されたのは米現地時間2026年11月12日のことでしたが、その直前の同日朝、NVIDIAのベテランエンジニアが従業員に向けて社内にある投稿を行なっていたと、同日夕方にWiredが報じました。
 
-訴状ではHugging Face攻撃事件について触れ、ほかにも同様の事例が起きていると指摘している。州に対し、OpenAIはテスト中に自律エージェントの制御を80回以上失ったことを認めたが、公表されたのは27件にすぎなかったという。
+その投稿は、最終決定を下す前に従業員の意見も考慮するよう取締役会に求めるというものでした。投稿には1600件以上のコメントが集まり、その多くはフアン氏のCEO復帰を支持するものだったそう。その後、投稿はCEOを退任したフアン氏の復帰を求める署名運動のようなものになったと報じられています。
 
-OpenAIは安全対策フレームワーク「Preparedness Framework」で、能力が「High」と評価されたモデルに対し、多層防御や常時監視、ネットワーク分離を義務付けている。州は、OpenAIが実際にはこれらを守らず、テスト環境の安全性について公衆を誤解させたと主張している。
+12日以降、NVIDIAの現従業員や元従業員のなかには、公にフアン氏の退任を惜しむものもちらほら。声を上げる人たちは、フアン氏をほかに類を見ない先見性あるリーダーと評し、同氏がいなくなればNVIDIAは進むべき方向を見失い、ひいては米国全体のAI開発にも悪影響を及ぼすだろうと主張しています。
 
-ボンタ氏は、Hugging Faceへの攻撃について「成長を優先するOpenAIの社内文化がもたらした予測可能な結果だ」と述べた。同氏はこの件で正式な調査を始め、9月30日にはOpenAIに調査のための召喚状を送っていた。ボンタ氏はXに「カリフォルニア州はイノベーションを重視するが、法律に従ったイノベーションを求める」と投稿した。
+2024年に同社を離れ、自身の会社を設立したエンジニアのデニス・ティモニン氏は、12日木曜、以下の内容をLinkedInに投稿しました。
 
-OpenAIの広報担当者、ドリュー・プサテリ氏はNPRなどに送った声明で、同社はHugging Faceの件以降、ミスアライメントの原因を究明し対処するため、広範で透明性のある取り組みを進めてきたと説明した。その成果として、技術レポートと事案の詳しい経緯も公開したという。その上で、今回の訴訟は「主要なAI企業すべてが認識している課題について、OpenAIだけを狙い撃ちにしているようだ」と反論した。また、同社は司法長官室と建設的に協力して情報を共有し、業界全体に通用する実効性のある強固な安全基準づくりを進めてきたとし、今後もその取り組みを継続すると述べた。
+> 彼（ジェンスン・フアン氏）の退任は非常に大きな損失だ。不倫があったからといって、数十年にもわたるリーダーシップの実績が否定されるべきではない。深刻な疑問についてはきちんと答えを出す必要がある。
+>
+>
+> しかし、昼ドラのような騒動で彼の将来を決めるべきではない……私はジェンスンに、これからも開発を続け、リーダーとして会社を率いてほしいと思っている。これから取り組むべき重要な仕事は山ほどあるのだから。
 
-この訴訟について、AI安全法の提案者である州上院議員のスコット・ウィーナー氏は、Xに「AIの“無法地帯”時代は終わらせなければならない」と投稿した。バーニー・サンダース上院議員もXで訴訟を支持し、「高度なAI開発を今すぐ一時停止せよ」と呼び掛けた。
+現在、フアン氏には少なくとも3人との不倫疑惑が浮上しています。
 
-Copyright © ITmedia, Inc. All Rights Reserved.
+1人目は、米情報機関が中国のスパイとみている女性、2人目はフアン氏の直属の部下だったNVIDIAの幹部、そして3人目は、12日にロイター通信が報じた別の同社従業員です。
 
-SNSでシェア
+物議を醸す人物として知られるスペースXのイーロン・マスクは、フアン氏を雇用できれば「光栄だ」とXに投稿しています。ただし、マスクはSNSで大げさな発言をすること多々なので、鵜呑みにしないでいただきたい。
 
-関連リンク
+また、今年初めにフアン氏へのインタビューを行なったポッドキャスターのレックス・フリードマン氏は12日、NVIDIAがフアン氏と袂を分かつという決定を下したことについて、「アメリカと人類にとって、非常に大きな間違いだ」とXに投稿しました。
 
-*   プレスリリース
+> NVIDIA letting Jensen go is a huge mistake, for America and for humanity. It's Apple firing Steve Jobs all over again, but much bigger, given the role of AI in defining the future of our world. I've been keeping quiet on this out of respect for Jensen's family and team, who I've met and who are amazing humans, and because I personally hate infidelity. So my heart goes out to them in this difficult personal family moment. But I can also say that Jensen is human, and makes mistakes like all of us do. Not that I matter at all, but I've known Jensen for a long time and have gotten the chance to spend a lot of time with him, behind the scenes, away from mics and cameras. I have seen him show kindness, humility, care to everyone around him, including strangers, including from the poorest most struggling parts of society, treating all the same with the same thoughtfulness and attention, because they are fellow humans and not because he has something to gain from them. That shows rare character, to maintain humility and humanity through all of it. Another data point is what people who know him well have said privately to me about Jensen over the years. I've never had anyone tell me anything but how awesome he is or how much they love him. Probably over a thousand people at this point. This includes hundreds of engineers, CEOs, colleagues, friends, etc. Also, since there was some spy talk. Jensen is as proud an American as it gets. I'm in shock frankly at all of this, including the mass hysteria around it. I love America, and I think NVIDIA letting Jensen go is terrible for America. I stand with Jensen. Love you all ❤️
+>
+> — Lex Fridman (@lexfridman) November 12, 2026
 
-コメントをすべて読むには、コメントの利用規約に同意し「アイティメディアID」および「ITmedia NEWS アンカーデスクマガジン」の登録、もしくは ログインが必要です
+フリードマン氏は、フアン氏の退社を、当時のCEOジョン・スカリー氏との対立の末、1985年にスティーブ・ジョブズ氏がアップルを追放されたケースになぞらえました。
 
-Special PR
+しかし、フリードマン氏は、「AIが世界の未来を定義する役割を考えると、フアン氏の退任は（ジョブズ氏の場合よりも）はるかに重大だ」と指摘しています。
 
-advertisement
+ジョブズ氏は1997年にアップルへ復帰し、当初は暫定CEOを務めました。その後、倒産の危機に瀕していた同社を立て直し、再び成長へと導いたことはご存知のとおり。
 
-## 関連記事
+123
 
-今、あなたにオススメ
+Advertisement
 
-PR(WINE TO STYLE)
+Advertisement
 
-PR(ITmedia AI＋)
+Advertisement
 
-PR(ITmedia ビジネスオンライン)
+#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
-Special PR
+### Ranking
 
-こんなメディアも見られています
+Daily
 
-ITmedia NEWSに関連する情報をお探しであれば、こちらのメディアもお役に立てるかもしれません。
+Weekly
 
-メールマガジンを配信中
+Monthly
 
-メールマガジンを配信中
+Amazon
 
-国内外の業界動向、AIやクラウドなどの最新技術、キャリア情報など今知りたい情報をまとめてお届けします。
+1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026 07:00 27,5752. 大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え Nov 16,2026 08:00 12,8883. トヨタ、「かわいい」軽トラをアメリカで発売へ Nov 16,2026 08:45 6,7004. 南極点の情シス、募集中。年収1,270万円 Nov 16,2026 11:00 7,8255. サムスン×Googleのスマートグラス、Pixel Watch・Galaxy Watchから操作可能 Nov 16,2026 18:30 9,800
 
-メールマガジン最新号
+1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,3282. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2833. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 86,9744. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 47,0135. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 42,138
 
-無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有＆漏えい“巡り謝罪 削除漏れなぜ発生ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も
+1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,3282. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,7803. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2834. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 133,8595. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 131,876
 
-Special PR
+PR
 
-本日の新着記事
+## Latest
 
-アクセスランキング
+#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
-1.   1 パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果
-2.   2「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及
-3.   3 スパコン「富岳」に不正アクセス 理研が明らかに
-4.   4 Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート
-5.   5 ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界
-6.   6 秋葉原スマートごみ箱、不法投棄を見越し“防犯カメラのある場所”に設置していた 千代田区に聞いた運用の実際
-7.   7 OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も
-8.   8 スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認
-9.   9 OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」
-10.   10 ドコモ「5G SA」今月3度目の障害、約6時間で復旧 原因は同じ「交換機への通信集中」
+### Ranking
 
-ITmedia NEWS SNS
+Daily
 
-インフォメーション
+Weekly
 
-注目情報をチェック
+Monthly
 
-*   メールマガジン
-*   Specialインデックス
+Amazon
 
-お問い合わせ
-
-*   ご意見・ご感想
-*   リリース送付先
-
-ITmediaNEWSをフォロー
-
-*   Facebook
-*   X（旧Twitter）
-*   RSS
-
-あなたにおすすめの記事 PR
-
-*   メディア一覧
-*   公式SNS
-*   広告案内
-*   お問い合わせ
-*   プライバシーポリシー
-*   RSS
-*   運営会社
-*   採用情報
-*   推奨環境
-
-## ITmedia NEWS の最新記事をお届けします
-
-通知を受け取る
-
-×
-
-✔
-
-## 通知登録完了
-
-閉じる
+1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026
