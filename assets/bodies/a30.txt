@@ -1,70 +1,127 @@
-エヌビディア、早くもジェンスン・フアン前CEOの復帰を検討中？
+「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか
 
-Nov 17,2026 11:15
+Share
 
-Webb Wright - GIZMODO US［原文］（高橋真紀 / GIZMODOライター ）
+*   印刷する
 
-Image: jamesonwu1972 / Shutterstock.com
+# 「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか
 
-革ジャンがトレードマークのジェンスン・フアン氏は、1993年にNVIDIA（エヌビディア）を共同設立。巨大テクノロジー企業へと成長させました。
+公開 2026年11月17日 10時09分
 
-33年間にわたって最高経営責任者（CEO）を務めてきましたが、不名誉な形で同社を去ることに。しかし、すでに多くの従業員から同氏の復帰を求める声が挙がっています。
+[ITmedia]
 
-## ボスの復帰を求める声
+印刷するGoogleで優先するソースとして追加
 
-フアン氏の退任と、長年同社の最高財務責任者（CFO）を務めてきたコレット・クレス氏の後任就任が発表されたのは米現地時間2026年11月12日のことでしたが、その直前の同日朝、NVIDIAのベテランエンジニアが従業員に向けて社内にある投稿を行なっていたと、同日夕方にWiredが報じました。
+京成電鉄は11月16日、都心と成田空港を結ぶ特急「京成スカイライナー」の座席予約システムが11日深夜に受けた不正アクセスにより、最大約337万件の顧客情報が取得された可能性があると発表した。
 
-その投稿は、最終決定を下す前に従業員の意見も考慮するよう取締役会に求めるというものでした。投稿には1600件以上のコメントが集まり、その多くはフアン氏のCEO復帰を支持するものだったそう。その後、投稿はCEOを退任したフアン氏の復帰を求める署名運動のようなものになったと報じられています。
+対象は、オンラインでチケットを購入できる「スカイライナーチケットレスサービス」と「e-ticketサービス」の利用者。
 
-12日以降、NVIDIAの現従業員や元従業員のなかには、公にフアン氏の退任を惜しむものもちらほら。声を上げる人たちは、フアン氏をほかに類を見ない先見性あるリーダーと評し、同氏がいなくなればNVIDIAは進むべき方向を見失い、ひいては米国全体のAI開発にも悪影響を及ぼすだろうと主張しています。
+カナ氏名、電話番号、メールアドレス、ユーザーID、ハッシュ化済みパスワード、生年月日、性別、国籍が、第三者に取得された可能性があるという。
 
-2024年に同社を離れ、自身の会社を設立したエンジニアのデニス・ティモニン氏は、12日木曜、以下の内容をLinkedInに投稿しました。
+現在、スカイライナー座席予約システム全般の利用を停止している。駅窓口と券売機では、スカイライナー券の発売を続けている。
 
-> 彼（ジェンスン・フアン氏）の退任は非常に大きな損失だ。不倫があったからといって、数十年にもわたるリーダーシップの実績が否定されるべきではない。深刻な疑問についてはきちんと答えを出す必要がある。
->
->
-> しかし、昼ドラのような騒動で彼の将来を決めるべきではない……私はジェンスンに、これからも開発を続け、リーダーとして会社を率いてほしいと思っている。これから取り組むべき重要な仕事は山ほどあるのだから。
+対象者には後日、登録しているメールアドレスあてに個別に連絡する。
 
-現在、フアン氏には少なくとも3人との不倫疑惑が浮上しています。
+Copyright © ITmedia, Inc. All Rights Reserved.
+本記事は制作段階でChatGPT等の生成系AIサービスを利用していますが、文責は編集部に帰属します。
 
-1人目は、米情報機関が中国のスパイとみている女性、2人目はフアン氏の直属の部下だったNVIDIAの幹部、そして3人目は、12日にロイター通信が報じた別の同社従業員です。
+SNSでシェア
 
-物議を醸す人物として知られるスペースXのイーロン・マスクは、フアン氏を雇用できれば「光栄だ」とXに投稿しています。ただし、マスクはSNSで大げさな発言をすること多々なので、鵜呑みにしないでいただきたい。
+関連リンク
 
-また、今年初めにフアン氏へのインタビューを行なったポッドキャスターのレックス・フリードマン氏は12日、NVIDIAがフアン氏と袂を分かつという決定を下したことについて、「アメリカと人類にとって、非常に大きな間違いだ」とXに投稿しました。
+*   ニュースリリース（PDF）
 
-> NVIDIA letting Jensen go is a huge mistake, for America and for humanity. It's Apple firing Steve Jobs all over again, but much bigger, given the role of AI in defining the future of our world. I've been keeping quiet on this out of respect for Jensen's family and team, who I've met and who are amazing humans, and because I personally hate infidelity. So my heart goes out to them in this difficult personal family moment. But I can also say that Jensen is human, and makes mistakes like all of us do. Not that I matter at all, but I've known Jensen for a long time and have gotten the chance to spend a lot of time with him, behind the scenes, away from mics and cameras. I have seen him show kindness, humility, care to everyone around him, including strangers, including from the poorest most struggling parts of society, treating all the same with the same thoughtfulness and attention, because they are fellow humans and not because he has something to gain from them. That shows rare character, to maintain humility and humanity through all of it. Another data point is what people who know him well have said privately to me about Jensen over the years. I've never had anyone tell me anything but how awesome he is or how much they love him. Probably over a thousand people at this point. This includes hundreds of engineers, CEOs, colleagues, friends, etc. Also, since there was some spy talk. Jensen is as proud an American as it gets. I'm in shock frankly at all of this, including the mass hysteria around it. I love America, and I think NVIDIA letting Jensen go is terrible for America. I stand with Jensen. Love you all ❤️
->
-> — Lex Fridman (@lexfridman) November 12, 2026
+コメントをすべて読むには、コメントの利用規約に同意し「アイティメディアID」および「ITmedia NEWS アンカーデスクマガジン」の登録、もしくは ログインが必要です
 
-フリードマン氏は、フアン氏の退社を、当時のCEOジョン・スカリー氏との対立の末、1985年にスティーブ・ジョブズ氏がアップルを追放されたケースになぞらえました。
+Special PR
 
-しかし、フリードマン氏は、「AIが世界の未来を定義する役割を考えると、フアン氏の退任は（ジョブズ氏の場合よりも）はるかに重大だ」と指摘しています。
+advertisement
 
-ジョブズ氏は1997年にアップルへ復帰し、当初は暫定CEOを務めました。その後、倒産の危機に瀕していた同社を立て直し、再び成長へと導いたことはご存知のとおり。
+## この記事の著者
 
-## 思い出される3年前の「アルトマン解任騒動」
+## 関連記事
 
-フアン氏の退任をめぐっては、ちょうど3年前にシリコンバレーで起きた別の経営者解任劇も思い起こされます。OpenAIのCEOだったサム・アルトマン氏が解任された件です。
+今、あなたにオススメ
 
-当時、OpenAIの取締役会はブログへの投稿で、アルトマン氏が「コミュニケーションにおいて一貫して率直な対応をしておらず、そのことが取締役会の責務遂行を妨げていた」と説明していました。
+PR(FINCHI on GOETHE)
 
-後任には最高技術責任者（CTO）のミラ・ムラティ氏が暫定CEOに就任したものの、すぐにTwitchの元CEOであるエメット・シア氏に交代しました。
+PR(ITmedia ビジネスオンライン)
 
-しかし、その後も抗議の意思を示してグレッグ・ブロックマン社長が辞任するなど、従業員からの激しい反発が起こります。社内の混乱が広がるなか、OpenAIはそのわずか5日後にアルトマン氏のCEO復帰に合意。アルトマン氏を解任した取締役会の大半も、辞任することで合意するという結果になりました。
+PR(ITmedia ビジネスオンライン)
 
-辞任したメンバーのなかには、共同創業者のイリヤ・サツケバー氏も含まれていました。同氏は当初アルトマン氏の解任に賛成したもののの、その後方針転換して復帰を支持していました。ブロックマン氏も社長に復帰した一方、サツケバー氏とムラティ氏は翌2024年、そろってOpenAIを去っています。
+Special PR
 
-重要なのは、アルトマン氏の解任が、少なくとも表向きは本人の経営者としての振る舞いに対する懸念だけを理由としていたのに対し、フアン氏の場合は私生活が問題になっているという点です。
+こんなメディアも見られています
 
-元NVIDIAのエンジニアであるティモニン氏やフリードマン氏らは、米国が中国とAI産業の覇権をめぐって競争している今、フアン氏の不適切な異性関係を理由に、経営者としての能力まで否定すべきではないと公の場で主張しています。
+ITmedia NEWSに関連する情報をお探しであれば、こちらのメディアもお役に立てるかもしれません。
 
-こうした意見は、従業員の反発が2023年のアルトマン氏解任時ほどの規模にまで広がれば、取締役会の決定を覆し、フアン氏がCEOに復帰する可能性もあります。ただし、現時点ではそのような事態は起こる可能性はそれほど高くなさそうです。
+メールマガジンを配信中
 
-もっとも、フアン氏の不倫疑惑のうち1件は相手がNVIDIAの部下でした。その事実は、単なる私生活の問題では済まされず、会社にも関わる問題となります。
+メールマガジンを配信中
 
-## トランプ大統領もフアン氏を擁護
+国内外の業界動向、AIやクラウドなどの最新技術、キャリア情報など今知りたい情報をまとめてお届けします。
 
-NVIDIAは今後の経営や業績も考えなければなりません。特に懸念されるのは、海外事業への影響です。米政府は、中国企業が海外のデータセンターを通じて高性能AIチップに遠隔アクセスすることを防ぐため、海外のデータセンターに送られる高性能AIチップに新たな連邦規制を設ける方針です。こうした規制が導入されれば、同社の海外事業は打撃を受けることになるでしょう。
+メールマガジン最新号
 
-さらにまったく別の問題として、外国の諜報機関とのつながりが疑われている人物との不
+無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有＆漏えい“巡り謝罪 削除漏れなぜ発生ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も
+
+Special PR
+
+本日の新着記事
+
+アクセスランキング
+
+1.   1 パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果
+2.   2「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及
+3.   3 スパコン「富岳」に不正アクセス 理研が明らかに
+4.   4 Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート
+5.   5 ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界
+6.   6 秋葉原スマートごみ箱、不法投棄を見越し“防犯カメラのある場所”に設置していた 千代田区に聞いた運用の実際
+7.   7 OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」
+8.   8 ドコモ「5G SA」今月3度目の障害、約6時間で復旧 原因は同じ「交換機への通信集中」
+9.   9 マッチングアプリ「タップル」緊急メンテで停止 「待ち合わせしてるのに連絡取れない」ユーザー困惑
+10.   10 エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ 退職者などアクセス可能な状態、約13年続く
+
+ITmedia NEWS SNS
+
+インフォメーション
+
+注目情報をチェック
+
+*   メールマガジン
+*   Specialインデックス
+
+お問い合わせ
+
+*   ご意見・ご感想
+*   リリース送付先
+
+ITmediaNEWSをフォロー
+
+*   Facebook
+*   X（旧Twitter）
+*   RSS
+
+あなたにおすすめの記事 PR
+
+*   メディア一覧
+*   公式SNS
+*   広告案内
+*   お問い合わせ
+*   プライバシーポリシー
+*   RSS
+*   運営会社
+*   採用情報
+*   推奨環境
+
+## ITmedia NEWS の最新記事をお届けします
+
+通知を受け取る
+
+×
+
+✔
+
+## 通知登録完了
+
+閉じる
