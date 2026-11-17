@@ -1,131 +1,88 @@
-OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始
+エヌビディア、早くもジェンスン・フアン前CEOの復帰を検討中？
 
-Share
+Nov 17,2026 11:15
 
-*   印刷する
+Webb Wright - GIZMODO US［原文］（高橋真紀 / GIZMODOライター ）
 
-# OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始
+Image: jamesonwu1972 / Shutterstock.com
 
-公開 2026年11月17日 09時03分
+革ジャンがトレードマークのジェンスン・フアン氏は、1993年にNVIDIA（エヌビディア）を共同設立。巨大テクノロジー企業へと成長させました。
 
-[ITmedia]
+33年間にわたって最高経営責任者（CEO）を務めてきましたが、不名誉な形で同社を去ることに。しかし、すでに多くの従業員から同氏の復帰を求める声が挙がっています。
 
-印刷するGoogleで優先するソースとして追加
+## ボスの復帰を求める声
 
-米OpenAIは11月16日（現地時間）、外部の独立した評価機関が社内に入ってAIモデルの安全性を検証する「埋め込み型評価」（embedded assessments）の第1弾として、Apollo Research、METR、Transluce、Goodfireの4団体と契約を結んだと発表した。
+フアン氏の退任と、長年同社の最高財務責任者（CFO）を務めてきたコレット・クレス氏の後任就任が発表されたのは米現地時間2026年11月12日のことでしたが、その直前の同日朝、NVIDIAのベテランエンジニアが従業員に向けて社内にある投稿を行なっていたと、同日夕方にWiredが報じました。
 
-埋め込み型評価は、外部の専門家に社内のモデルやシステムへの深いアクセスを与え、モデルのアライメントやセーフガードが適切に機能しているかを、長期間にわたって検証する取り組みだ。OpenAIは評価内容に応じて、学習途中のモデル、ソースコード、学習・評価データ、監視システム、技術文書など、社内の研究者が使うのと同じリソースへのアクセスを提供する。担当の研究者やエンジニアと話し合う機会も設ける。初期の評価では、学習中や社内利用中のモデルのアライメントとセーフガードを主な対象とする。OpenAIは、この取り組みが「White House Accord on Super Intelligence」で同社が約束した、安全管理に関する独立評価の一環でもあるとしている。
+その投稿は、最終決定を下す前に従業員の意見も考慮するよう取締役会に求めるというものでした。投稿には1600件以上のコメントが集まり、その多くはフアン氏のCEO復帰を支持するものだったそう。その後、投稿はCEOを退任したフアン氏の復帰を求める署名運動のようなものになったと報じられています。
 
-Apollo Researchは、モデルが開発者の意図に反して密かに妨害行為をする可能性と、そうした行動をOpenAIのセーフガードが検知できるかを評価する。具体的には、学習が妨害行為を促していないか、評価やレッドチーミングで妨害行為が引き出されないか、社内利用中にモデルが妨害行為を試みていないか、妨害行為につながる推論を検知できるかの4点を検証する。Apollo Researchによると、同社の6人のチームが4カ月間OpenAI社内で作業し、結果を2本の報告書として公開する予定だ。
+12日以降、NVIDIAの現従業員や元従業員のなかには、公にフアン氏の退任を惜しむものもちらほら。声を上げる人たちは、フアン氏をほかに類を見ない先見性あるリーダーと評し、同氏がいなくなればNVIDIAは進むべき方向を見失い、ひいては米国全体のAI開発にも悪影響を及ぼすだろうと主張しています。
 
-METRは、OpenAIにとって過去最大規模の強化学習の実行を対象に、既存のテストや監視で見逃された可能性のある不適切な挙動を評価する。監視システムを対象とした別の評価についても暫定的に合意しているが、範囲は調整中だ。Transluceは、OpenAIのポストトレーニングで使うアライメント評価の質と網羅性を検証し、2027年初めには約8週間の追加評価も予定している。Goodfireは解釈可能性（interpretability）の研究者を派遣し、自社のプラットフォームでモデルの内部を分析する。主な目的はOpenAIの研究者が学習の監視やデバッグに生かすことだが、得られた知見は随時公開するという。
+2024年に同社を離れ、自身の会社を設立したエンジニアのデニス・ティモニン氏は、12日木曜、以下の内容をLinkedInに投稿しました。
 
-機密情報を扱う評価者はOpenAIのオフィスに常駐し、同社が支給する端末で作業する。評価者は結果を独自の判断で公開できるが、OpenAIは機密情報を伏せる権利を持つ。安全上のリスクがある発見については、対処する時間を確保するために公開の延期を求める場合もある。OpenAI Foundationの取締役会に属する独立監督委員会の安全・セキュリティ委員会（SSC）は、無修正の完全な報告書を受け取る。OpenAIと評価者の意見が対立して解決しない場合、最終判断はSSCが下す。
+> 彼（ジェンスン・フアン氏）の退任は非常に大きな損失だ。不倫があったからといって、数十年にもわたるリーダーシップの実績が否定されるべきではない。深刻な疑問についてはきちんと答えを出す必要がある。
+>
+>
+> しかし、昼ドラのような騒動で彼の将来を決めるべきではない……私はジェンスンに、これからも開発を続け、リーダーとして会社を率いてほしいと思っている。これから取り組むべき重要な仕事は山ほどあるのだから。
 
-Apollo Researchも同日、ブログで今回の取り組みを説明した。それによると、OpenAIは自社にとって不都合であるという理由のみで情報や従業員へのアクセスを制限したり、内容の非公開を要求したりしないことに合意した。技術的な理由、セキュリティ、知的財産保護を理由に一部の情報を開示しない場合は、書面で理由を示す必要がある。検証項目ごとのApollo Researchの結論をOpenAIが削除することもできない。Apollo Researchはさらに、アクセスや公開にどのような条件や制約があったかを公に説明できる「メタ透明性」の権利も得たとしている。
+現在、フアン氏には少なくとも3人との不倫疑惑が浮上しています。
 
-なお、OpenAIによると、Apollo ResearchとGoodfireは評価の対価として報酬を受け取るが、その金額が評価結果に影響されることはない。METRとTransluceは報酬を受け取らないが、評価に使うAPIクレジットや計算資源を受け取る場合がある。OpenAIは今後、安全性フレームワークの順守状況や組織文化・プロセスを対象とした埋め込み型評価も検討するという。
+1人目は、米情報機関が中国のスパイとみている女性、2人目はフアン氏の直属の部下だったNVIDIAの幹部、そして3人目は、12日にロイター通信が報じた別の同社従業員です。
 
-OpenAIでは7月、社内のサイバー能力評価中に「GPT-5.6 Sol」などのモデルがテスト環境を抜け出し、米Hugging Faceの本番インフラに侵入する事件が起きた。この事件は第三者としてMETRも調査し、8月にはOpenAIとMETRがそれぞれ最終報告書を公開している。10月には、同社が安全性研究者3人を解雇していたことが明らかになった。この際OpenAIは、外部の安全性評価機関と契約の最終調整を進めており、数週間以内に詳細を発表すると説明していた。同じ10月には米Anthropicも、METRの評価チームを社内に常駐させ、従業員並みのアクセスを与える取り組みを始めている。また、今回の発表と同じ11月16日には、カリフォルニア州のロブ・ボンタ司法長官が、十分な安全対策や監視のないまま高度なAIモデルを開発・テストしたとして、OpenAIを提訴した。
+物議を醸す人物として知られるスペースXのイーロン・マスクは、フアン氏を雇用できれば「光栄だ」とXに投稿しています。ただし、マスクはSNSで大げさな発言をすること多々なので、鵜呑みにしないでいただきたい。
 
-Copyright © ITmedia, Inc. All Rights Reserved.
+また、今年初めにフアン氏へのインタビューを行なったポッドキャスターのレックス・フリードマン氏は12日、NVIDIAがフアン氏と袂を分かつという決定を下したことについて、「アメリカと人類にとって、非常に大きな間違いだ」とXに投稿しました。
 
-SNSでシェア
+> NVIDIA letting Jensen go is a huge mistake, for America and for humanity. It's Apple firing Steve Jobs all over again, but much bigger, given the role of AI in defining the future of our world. I've been keeping quiet on this out of respect for Jensen's family and team, who I've met and who are amazing humans, and because I personally hate infidelity. So my heart goes out to them in this difficult personal family moment. But I can also say that Jensen is human, and makes mistakes like all of us do. Not that I matter at all, but I've known Jensen for a long time and have gotten the chance to spend a lot of time with him, behind the scenes, away from mics and cameras. I have seen him show kindness, humility, care to everyone around him, including strangers, including from the poorest most struggling parts of society, treating all the same with the same thoughtfulness and attention, because they are fellow humans and not because he has something to gain from them. That shows rare character, to maintain humility and humanity through all of it. Another data point is what people who know him well have said privately to me about Jensen over the years. I've never had anyone tell me anything but how awesome he is or how much they love him. Probably over a thousand people at this point. This includes hundreds of engineers, CEOs, colleagues, friends, etc. Also, since there was some spy talk. Jensen is as proud an American as it gets. I'm in shock frankly at all of this, including the mass hysteria around it. I love America, and I think NVIDIA letting Jensen go is terrible for America. I stand with Jensen. Love you all ❤️
+>
+> — Lex Fridman (@lexfridman) November 12, 2026
 
-関連リンク
+フリードマン氏は、フアン氏の退社を、当時のCEOジョン・スカリー氏との対立の末、1985年にスティーブ・ジョブズ氏がアップルを追放されたケースになぞらえました。
 
-*   OpenAIの公式ブログ
-*   Apollo Researchの公式ブログ
+しかし、フリードマン氏は、「AIが世界の未来を定義する役割を考えると、フアン氏の退任は（ジョブズ氏の場合よりも）はるかに重大だ」と指摘しています。
 
-コメントをすべて読むには、コメントの利用規約に同意し「アイティメディアID」および「ITmedia NEWS アンカーデスクマガジン」の登録、もしくは ログインが必要です
+ジョブズ氏は1997年にアップルへ復帰し、当初は暫定CEOを務めました。その後、倒産の危機に瀕していた同社を立て直し、再び成長へと導いたことはご存知のとおり。
 
-Special PR
+123
 
-advertisement
+Advertisement
 
-## 関連記事
+Advertisement
 
-今、あなたにオススメ
+Advertisement
 
-PR(鹿児島県農政部畜産振興課)
+#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
-PR(ITmedia ビジネスオンライン)
+### Ranking
 
-PR(ITmedia AI＋)
+Daily
 
-Special PR
+Weekly
 
-こんなメディアも見られています
+Monthly
 
-ITmedia NEWSに関連する情報をお探しであれば、こちらのメディアもお役に立てるかもしれません。
+Amazon
 
-メールマガジンを配信中
+1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026 07:00 27,5752. 大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え Nov 16,2026 08:00 12,8883. トヨタ、「かわいい」軽トラをアメリカで発売へ Nov 16,2026 08:45 6,7004. 南極点の情シス、募集中。年収1,270万円 Nov 16,2026 11:00 7,8255. サムスン×Googleのスマートグラス、Pixel Watch・Galaxy Watchから操作可能 Nov 16,2026 18:30 9,800
 
-メールマガジンを配信中
+1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,3282. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2833. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 86,9744. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 47,0135. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 42,138
 
-国内外の業界動向、AIやクラウドなどの最新技術、キャリア情報など今知りたい情報をまとめてお届けします。
+1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,3282. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,7803. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2834. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 133,8595. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 131,876
 
-メールマガジン最新号
+PR
 
-無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有＆漏えい“巡り謝罪 削除漏れなぜ発生ケンタッキー、一部メニュー画像に生成AI 実験販売の商品など SNSは「違和感」の声も
+## Latest
 
-Special PR
+#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
-本日の新着記事
+### Ranking
 
-アクセスランキング
+Daily
 
-1.   1 パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性 独大学の調査結果
-2.   2「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及
-3.   3 スパコン「富岳」に不正アクセス 理研が明らかに
-4.   4 Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート
-5.   5 ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界
-6.   6 秋葉原スマートごみ箱、不法投棄を見越し“防犯カメラのある場所”に設置していた 千代田区に聞いた運用の実際
-7.   7 OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も
-8.   8 スパコン「富岳」不正アクセスで運用停止 研究データや外部接続用SSH鍵など流出の可能性 他システムへの接続試行も確認
-9.   9 OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」
-10.   10 ドコモ「5G SA」今月3度目の障害、約6時間で復旧 原因は同じ「交換機への通信集中」
+Weekly
 
-ITmedia NEWS SNS
+Monthly
 
-インフォメーション
+Amazon
 
-注目情報をチェック
-
-*   メールマガジン
-*   Specialインデックス
-
-お問い合わせ
-
-*   ご意見・ご感想
-*   リリース送付先
-
-ITmediaNEWSをフォロー
-
-*   Facebook
-*   X（旧Twitter）
-*   RSS
-
-あなたにおすすめの記事 PR
-
-*   メディア一覧
-*   公式SNS
-*   広告案内
-*   お問い合わせ
-*   プライバシーポリシー
-*   RSS
-*   運営会社
-*   採用情報
-*   推奨環境
-
-## ITmedia NEWS の最新記事をお届けします
-
-通知を受け取る
-
-×
-
-✔
-
-## 通知登録完了
-
-閉じる
+1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026
