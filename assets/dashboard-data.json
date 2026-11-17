@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T13:33:22.376041+09:00",
+  "updated": "2026-11-17T13:38:13.017178+09:00",
   "feeds": {
     "kabu": [
       {
@@ -8,34 +8,9 @@
         "date": "2026-11-17T00:07:06+00:00"
       },
       {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-16T21:23:41+00:00"
-      },
-      {
         "title": "東証10時 日経平均は下げ渋る 海外勢の先物買いが膨らむ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyOUs4QzZOc1VvY0Y2LUg3Q0pUWDFVY181azNTUnd5eXZKS2xaZzA0RFA5R2RLUnpWak45Uk8tRmNkMGZJbmN3UWhEdnZwbmxUZy1HRUY4QnlxaFQyWWl2enE4UDhRSEowc0pOaQ?oc=5",
         "date": "2026-11-17T01:22:43+00:00"
-      },
-      {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月17日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RWVfSUJNUTNiVUM3czJIWkR6MFNDYXRjeGNvX1FFX1ZieVFLdVdkMWljVmtSakJmUGh6NjRGUkVwMEhVU3FCeFpmdXNIQlZscnppVzRucURkVUtaM1o2Sw?oc=5",
-        "date": "2026-11-16T23:09:50+00:00"
-      },
-      {
-        "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYWxKakk2Qk5PZDdqN3pLZmVvTExCTWdId0Y5LTQtWUFrUmxpeVVfT2hjOUlVbHh6WmlHQlotVnJ5clBjT3NsVTFYQXhtNHBUd01jUNIBV0FVX3lxTE1LdGRxSzV1QjRmM2xWenV5dy1uTUc0eE5GcGZDR3dzNEdaemNxSEljYU4wUXhreUNUdlhza2U3Ny1TU0RDNGZXalNIN2JHZjNCX3J0WWMycw?oc=5",
-        "date": "2026-11-16T23:07:00+00:00"
-      },
-      {
-        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
-        "date": "2026-11-13T08:00:00+00:00"
-      },
-      {
-        "title": "日経平均、705円35銭安の5万8956円67銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0E5NU1jbEo0RVNINHFqc2haZ0RUdWVPZ0Rjek9oWFRJWTVSVVVmZDdZWU5zZGlLdGdZbmJSVVRNNWIzQWlPMXhOR015OEI5Vk1hM3lUQ2U5NVgxT3pESEpBQ1pDSWEyZTJHOW1kMnAtQ2dsMHNRcmZ3SEJlaHRBZ04wWUN6WkE?oc=5",
-        "date": "2026-11-17T02:31:39+00:00"
       },
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
@@ -43,14 +18,24 @@
         "date": "2026-11-17T03:31:00+00:00"
       },
       {
+        "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYWxKakk2Qk5PZDdqN3pLZmVvTExCTWdId0Y5LTQtWUFrUmxpeVVfT2hjOUlVbHh6WmlHQlotVnJ5clBjT3NsVTFYQXhtNHBUd01jUNIBV0FVX3lxTE1LdGRxSzV1QjRmM2xWenV5dy1uTUc0eE5GcGZDR3dzNEdaemNxSEljYU4wUXhreUNUdlhza2U3Ny1TU0RDNGZXalNIN2JHZjNCX3J0WWMycw?oc=5",
+        "date": "2026-11-16T23:07:00+00:00"
+      },
+      {
+        "title": "日経平均、705円35銭安の5万8956円67銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0E5NU1jbEo0RVNINHFqc2haZ0RUdWVPZ0Rjek9oWFRJWTVSVVVmZDdZWU5zZGlLdGdZbmJSVVRNNWIzQWlPMXhOR015OEI5Vk1hM3lUQ2U5NVgxT3pESEpBQ1pDSWEyZTJHOW1kMnAtQ2dsMHNRcmZ3SEJlaHRBZ04wWUN6WkE?oc=5",
+        "date": "2026-11-17T02:31:39+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月17日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RWVfSUJNUTNiVUM3czJIWkR6MFNDYXRjeGNvX1FFX1ZieVFLdVdkMWljVmtSakJmUGh6NjRGUkVwMEhVU3FCeFpmdXNIQlZscnppVzRucURkVUtaM1o2Sw?oc=5",
+        "date": "2026-11-16T23:09:50+00:00"
+      },
+      {
         "title": "日経平均、米AI株安が重荷 NVIDIA決算控え様子見（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14SXVmVnlhcWFrUTdjd2hYMTNhX2VlQjNYZGpDdVhWbDFsSWdKMnZFeG5mZ3hxWlBKUnBYQlZNNjBFR0kzS3F1R3RRTFh1SmpGTm1sanozRWlFamQ1Y0NXQThnbFBIUFptVF9kQQ?oc=5",
         "date": "2026-11-16T22:30:00+00:00"
-      },
-      {
-        "title": "１７日の株式相場見通し＝大幅続落か、ＡＩ・半導体関連株への逆風続く - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SRXhoNTFGYlNNa2tCTEw5N2NtbnA4Z0RjTHpJS3NkcmJ2YTc2Z3Rfc012b1ZoQW9Rd0YxaklhSlFoM1FzemFtWmd0TkQzeXQ1Z1dienQySHRxeDR1VlRiag?oc=5",
-        "date": "2026-11-16T23:00:00+00:00"
       },
       {
         "title": "日経平均、515円09銭安の5万9146円93銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
@@ -58,9 +43,24 @@
         "date": "2026-11-17T03:31:19+00:00"
       },
       {
+        "title": "１７日の株式相場見通し＝大幅続落か、ＡＩ・半導体関連株への逆風続く - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SRXhoNTFGYlNNa2tCTEw5N2NtbnA4Z0RjTHpJS3NkcmJ2YTc2Z3Rfc012b1ZoQW9Rd0YxaklhSlFoM1FzemFtWmd0TkQzeXQ1Z1dienQySHRxeDR1VlRiag?oc=5",
+        "date": "2026-11-16T23:00:00+00:00"
+      },
+      {
+        "title": "日経平均、400円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3R4d0d5Qng5dy1qWTQxc3FzNy0zcTZkSC1ZWmMwWFdjSWVfMkJSbVQ0VXRsWXlXTmhMUDAta2E1YWdQUmZaeEhad1NzSEo2QUFjOS1SOVk1T2hUX0Fma040Tk9TdFI5a1dZSmV1T3JCY1k1ZkpGMnBYcnJEaVl1OVVmQl9HLTA?oc=5",
+        "date": "2026-11-17T00:01:55+00:00"
+      },
+      {
         "title": "日経平均、午前705円安 NVIDIA騒動に米半導体規制の二重苦 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ydG9BRG83dVZsalVodEM4WjFqRUh0RkI2WkhCeE1ZbGRiS0FCMTlpRUZ3QVp0S29aSmhZNERyVy1qSE50NUw0Q3VubUhKdVQ5YWNTVndoT2dudTdmdDgtcWxJWDJ1TkktaWRQZA?oc=5",
         "date": "2026-11-17T02:59:36+00:00"
+      },
+      {
+        "title": "ＮＹ各市場 ５時台 ダウ平均は７２７ドル安 シカゴ日経平均先物は５万９４９５円 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oemVKRkdKOGZqaDF0YU16YlM4Q0txUHhtV2ZVUnF5Yk5ueUtDbnBScm9kaThsNEdhb1RDSGhnbVpIaHJ2eWVZUFdDX3g4VTFFeWc?oc=5",
+        "date": "2026-11-16T20:11:00+00:00"
       }
     ],
     "ai": [
@@ -456,7 +456,7 @@
     }
   },
   "index": {
-    "price": 58950.0,
+    "price": 59040.0,
     "prev": 59045.0,
     "points": [
       [
@@ -503,9 +503,9 @@
       ],
       [
         "11/17 08:30",
-        59090.0,
-        59030.0,
-        59090.0,
+        59055.0,
+        59065.0,
+        59155.0,
         59015.0
       ],
       [
@@ -525,7 +525,7 @@
       [
         "11/17 08:45",
         59160.0,
-        59075.0,
+        59085.0,
         59175.0,
         58985.0
       ],
@@ -553,7 +553,7 @@
       [
         "11/17 09:05",
         59075.0,
-        58890.0,
+        58885.0,
         59140.0,
         58775.0
       ],
@@ -566,17 +566,17 @@
       ],
       [
         "11/17 09:15",
-        59220.0,
+        59155.0,
         59255.0,
         59405.0,
-        59215.0
+        59130.0
       ],
       [
         "11/17 09:20",
         59150.0,
-        59165.0,
+        59100.0,
         59180.0,
-        59075.0
+        59050.0
       ],
       [
         "11/17 09:25",
@@ -692,16 +692,23 @@
       ],
       [
         "11/17 10:45",
-        59135.0,
+        59065.0,
         59295.0,
         59295.0,
-        59075.0
+        59065.0
+      ],
+      [
+        "11/17 10:50",
+        59125.0,
+        59090.0,
+        59200.0,
+        59045.0
       ],
       [
         "11/17 10:55",
         59030.0,
-        59050.0,
-        59070.0,
+        59080.0,
+        59080.0,
         59000.0
       ],
       [
@@ -734,7 +741,7 @@
       ],
       [
         "11/17 11:20",
-        58920.0,
+        58955.0,
         59070.0,
         59070.0,
         58920.0
@@ -742,29 +749,29 @@
       [
         "11/17 11:25",
         58995.0,
-        58945.0,
+        58950.0,
         58995.0,
-        58945.0
+        58930.0
       ],
       [
         "11/17 11:30",
         59040.0,
-        59020.0,
+        59025.0,
         59080.0,
         59000.0
       ],
       [
         "11/17 11:35",
-        59180.0,
+        59065.0,
         58970.0,
-        59265.0,
+        59065.0,
         58970.0
       ],
       [
         "11/17 11:40",
         59160.0,
-        59175.0,
-        59200.0,
+        59160.0,
+        59160.0,
         59105.0
       ],
       [
@@ -902,22 +909,29 @@
       ],
       [
         "11/17 13:20",
-        58950.0,
+        58970.0,
         58900.0,
-        58950.0,
+        58980.0,
         58870.0
       ],
       [
-        "11/17 13:22",
-        58950.0,
-        58950.0,
-        58950.0,
-        58950.0
+        "11/17 13:25",
+        59040.0,
+        58985.0,
+        59055.0,
+        58985.0
+      ],
+      [
+        "11/17 13:27",
+        59040.0,
+        59040.0,
+        59040.0,
+        59040.0
       ]
     ]
   },
   "fx": {
-    "price": 159.178,
+    "price": 159.206,
     "prev": 159.392
   },
   "topix": {
