@@ -457,7 +457,7 @@
             <div class="ix-head">
               <span class="ix-name" id="ix-name">日経平均先物</span>
               <span class="ix-price" id="ix-price">--</span>
-              <span class="ix-chg" id="ix-chg"></span><button type="button" class="ix-toggle" id="ix-sym">XAU/USD</button>
+              <span class="ix-chg" id="ix-chg"></span><button type="button" class="ix-toggle" id="ix-sym">XAU</button>
             </div>
             <div class="ix-chart-wrap"><svg class="ix-chart" id="ix-chart" viewBox="0 0 300 78" preserveAspectRatio="none" aria-hidden="true"></svg><div class="ix-axis" id="ix-axis"></div></div>
             <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span>
@@ -515,7 +515,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v61";
+      var PAGE_VER = "v62";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -847,7 +847,7 @@
       try { ixSym = localStorage.getItem("ixSym") || "nikkei"; } catch (e) { }
       function syncIxSym() {
         var b = $("ix-sym");
-        if (b) { b.textContent = (ixSym === "gold") ? "日経先物" : "XAU/USD"; }
+        if (b) { b.textContent = (ixSym === "gold") ? "日経" : "XAU"; }
       }
       document.addEventListener("DOMContentLoaded", function () { syncIxSym(); });
       document.addEventListener("click", function (ev) {
