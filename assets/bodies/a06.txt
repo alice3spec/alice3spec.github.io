@@ -1,4 +1,3 @@
-## アクセス確認
+Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your account and prevent spam.
 
-通常と異なるアクセスが確認されました。
-正規の利用者であることを確認し安全なアクセスを提供するため、下記のチェックボックスにチェックを付けて下さい。
+Select language
