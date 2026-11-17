@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T08:48:23.986862+09:00",
+  "updated": "2026-11-18T08:53:22.573119+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,14 +53,14 @@
         "date": "2026-11-17T01:22:43+00:00"
       },
       {
-        "title": "日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ydG9BRG83dVZsalVodEM4WjFqRUh0RkI2WkhCeE1ZbGRiS0FCMTlpRUZ3QVp0S29aSmhZNERyVy1qSE50NUw0Q3VubUhKdVQ5YWNTVndoT2dudTdmdDgtcWxJWDJ1TkktaWRQZA?oc=5",
-        "date": "2026-11-17T02:59:36+00:00"
-      },
-      {
         "title": "日経平均、米AI株安が重荷 NVIDIA決算控え様子見（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14SXVmVnlhcWFrUTdjd2hYMTNhX2VlQjNYZGpDdVhWbDFsSWdKMnZFeG5mZ3hxWlBKUnBYQlZNNjBFR0kzS3F1R3RRTFh1SmpGTm1sanozRWlFamQ1Y0NXQThnbFBIUFptVF9kQQ?oc=5",
         "date": "2026-11-16T22:30:00+00:00"
+      },
+      {
+        "title": "日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ydG9BRG83dVZsalVodEM4WjFqRUh0RkI2WkhCeE1ZbGRiS0FCMTlpRUZ3QVp0S29aSmhZNERyVy1qSE50NUw0Q3VubUhKdVQ5YWNTVndoT2dudTdmdDgtcWxJWDJ1TkktaWRQZA?oc=5",
+        "date": "2026-11-17T02:59:36+00:00"
       }
     ],
     "ai": [
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 59990.0,
+    "price": 60090.0,
     "prev": 59045.0,
     "points": [
       [
@@ -2426,22 +2426,29 @@
       ],
       [
         "11/18 08:35",
-        59995.0,
+        60035.0,
         59845.0,
-        60005.0,
+        60040.0,
         59845.0
       ],
       [
-        "11/18 08:38",
-        59990.0,
-        59990.0,
-        59990.0,
-        59990.0
+        "11/18 08:40",
+        60145.0,
+        60075.0,
+        60145.0,
+        60045.0
+      ],
+      [
+        "11/18 08:43",
+        60090.0,
+        60090.0,
+        60090.0,
+        60090.0
       ]
     ]
   },
   "gold": {
-    "price": 3853.0,
+    "price": 3851.2,
     "prev": 3859.0,
     "points": [
       [
@@ -4420,22 +4427,29 @@
       ],
       [
         "11/18 08:35",
-        3852.5,
+        3852.6,
         3853.7,
         3854.6,
         3852.0
       ],
       [
-        "11/18 08:38",
-        3853.0,
-        3853.0,
-        3853.0,
-        3853.0
+        "11/18 08:40",
+        3851.2,
+        3852.2,
+        3852.9,
+        3850.0
+      ],
+      [
+        "11/18 08:43",
+        3851.2,
+        3851.2,
+        3851.2,
+        3851.2
       ]
     ]
   },
   "fx": {
-    "price": 159.47,
+    "price": 159.49,
     "prev": 159.392
   },
   "topix": {
