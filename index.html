@@ -398,6 +398,10 @@
         .news-title { font-size: 16px; line-height: 1.25; }
         .ix-axis { flex-basis: 46px; }
         .ix-tick { font-size: 10px; }
+        .ix-head { flex-wrap: nowrap; align-items: center; }
+        .ix-name { white-space: nowrap; }
+        .ix-chg { white-space: nowrap; }
+        .ix-toggle { flex: 0 0 auto; }
       }
     </style>
   </head>
@@ -511,7 +515,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v60";
+      var PAGE_VER = "v61";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
