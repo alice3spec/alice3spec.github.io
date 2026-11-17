@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T07:23:28.877829+09:00",
+  "updated": "2026-11-18T07:28:40.523941+09:00",
   "feeds": {
     "kabu": [
       {
@@ -15,9 +15,10 @@
         "body": "a01.txt"
       },
       {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwam5pcGZRemVuaEIzcHR0MmZDQWJUWmRkUWY4QU1LLXA1RkJSNTk0dnJTZmtjTVljZG15MVZjNUdYY3UwcXcxX0VtUVg2cWNHdXc?oc=5",
-        "date": "2026-11-17T03:31:00+00:00"
+        "title": "日経平均は大幅続落、米半導体規制強化でAI関連株に売り／相場概況 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ScVE0OUVGMjBLY1E2bEpIN2JaZDhXVDhING1BRlpfYTI1ZzB3QU8zdk56cUNSeGJ5V3c1Qm53NURWYUdCY1RKdFJlZ290T2g2SUE?oc=5",
+        "date": "2026-11-17T07:00:53+00:00",
+        "body": "a02.txt"
       },
       {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
@@ -30,9 +31,9 @@
         "date": "2026-11-16T01:03:00+00:00"
       },
       {
-        "title": "日経平均は大幅続落、米半導体規制強化でAI関連株に売り／相場概況 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ScVE0OUVGMjBLY1E2bEpIN2JaZDhXVDhING1BRlpfYTI1ZzB3QU8zdk56cUNSeGJ5V3c1Qm53NURWYUdCY1RKdFJlZ290T2g2SUE?oc=5",
-        "date": "2026-11-17T07:00:53+00:00"
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwam5pcGZRemVuaEIzcHR0MmZDQWJUWmRkUWY4QU1LLXA1RkJSNTk0dnJTZmtjTVljZG15MVZjNUdYY3UwcXcxX0VtUVg2cWNHdXc?oc=5",
+        "date": "2026-11-17T03:31:00+00:00"
       },
       {
         "title": "東証10時 日経平均は下げ渋る 海外勢の先物買いが膨らむ - 日本経済新聞",
@@ -61,9 +62,9 @@
         "body": "a10.txt"
       },
       {
-        "title": "ピジョン株価、連日で年初来高値 米ベビー用品会社610億円で買収 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPUDh1a1RNLUNBczRraFEwQjIxTGFwV3dLcHpRY3Ywdzk3OTBpTUlueTBzQXB1S3I2U2V6bGxBWVJRYVo0ZjRhSGtHU3l5X3ZxSGl1UENtamxLTUQ5WXFFYkM1RWZjTldGY1pOdA?oc=5",
-        "date": "2026-11-17T02:02:31+00:00"
+        "title": "東証14時 日経平均が軟調 5万9800円前後 「非AI」株に逃避資金 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rVTAtRUNhN2hsWGpfQ2NrcGRGTGhOS0NoS3VBQi1JenhnYTM0cFZGSG9YZkVmRUR1NGl6RmxUYllUd0UySm42OUFwRzJHaE9UYUlSMDBvR3o1eVNLTGFadUFHNTJqV1JHYW53aQ?oc=5",
+        "date": "2026-11-16T05:12:22+00:00"
       }
     ],
     "ai": [
@@ -216,82 +217,83 @@
     ],
     "gadget": [
       {
-        "title": "スパイの境界線はどこ？ NVIDIAジェンスン・フアンCEO電撃辞任が暴いた政権のホンネ",
-        "link": "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-resignation-spy-scandal/",
-        "date": "2026-11-17T22:15:00+00:00",
-        "body": "a36.txt"
-      },
-      {
-        "title": "輪ゴムは卒業。ダイソーのキャップで粉物の袋をワンタッチ開閉できるからね",
-        "link": "https://www.gizmodo.jp/article/2611-daiso-bag-cap-review/",
-        "date": "2026-11-17T22:00:00+00:00",
-        "body": "a37.txt"
-      },
-      {
         "title": "NVIDIAの新ロボットAI、まるで新人研修。先輩の仕事を見て覚えます",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-gr00t-2-robot-ai/",
         "date": "2026-11-17T21:45:00+00:00",
-        "body": "a38.txt"
+        "body": "a36.txt"
       },
       {
         "title": "楽天証券も不正アクセス。資産を守るために確認しておきたい設定",
         "link": "https://www.gizmodo.jp/article/2611-rakuten-securities-unauthorized-access-security-settings/",
         "date": "2026-11-17T21:35:00+00:00",
-        "body": "a39.txt"
+        "body": "a37.txt"
       },
       {
         "title": "頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される",
         "link": "https://www.gizmodo.jp/article/2611-barreleye-fish-4k-footage/",
         "date": "2026-11-17T14:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a38.txt"
       },
       {
         "title": "モバイルなAIペット誕生。話しかけるとSwitchBot家電もうごかせる",
         "link": "https://www.gizmodo.jp/article/2611-switchbot-katafriends-mini-ai-pet/",
         "date": "2026-11-17T13:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a39.txt"
       },
       {
         "title": "え、1本じゃなくて2本？ マグネット式USB-Cケーブル（100W）がペアで682円",
         "link": "https://www.gizmodo.jp/article/2611-adam-elements-magnetic-usb-c-cable-sale/",
         "date": "2026-11-17T13:15:00+00:00",
-        "body": "a42.txt"
+        "body": "a40.txt"
       },
       {
         "title": "革命が起こる予感。ナイキの新しいテックがシューズのベネフィットを変えるかも",
         "link": "https://www.gizmodo.jp/article/nike_tuned-air_innovation/",
         "date": "2026-11-17T12:30:00+00:00",
-        "body": "a43.txt"
+        "body": "a41.txt"
       },
       {
         "title": "SpaceXに続いて。AnthropicのIPOも中国本土と香港の機関投資家を締め出し",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-china-hong-kong-investor-restriction/",
         "date": "2026-11-17T12:15:00+00:00",
-        "body": "a44.txt"
+        "body": "a42.txt"
       },
       {
         "title": "天気を問わず、陸の土地も使わない。海底火山の熱は「新たな電源」になるか？",
         "link": "https://www.gizmodo.jp/article/2611-submarine-geothermal-power-endurance-energy/",
         "date": "2026-11-17T12:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a43.txt"
       },
       {
         "title": "AIを口実にしたリストラが横行。オーストラリアの航空会社が850人削減",
         "link": "https://www.gizmodo.jp/article/ai-washing-layoffs-qantas/",
         "date": "2026-11-17T11:45:00+00:00",
-        "body": "a46.txt"
+        "body": "a44.txt"
       },
       {
         "title": "電気が足りないイーロン・マスク、7年待ち→2年でAIを動かす「裏ワザ発電機」採用",
         "link": "https://www.gizmodo.jp/article/xai-jet-engine-power-plant/",
-        "date": "2026-11-17T11:15:00+00:00"
+        "date": "2026-11-17T11:15:00+00:00",
+        "body": "a45.txt"
+      },
+      {
+        "title": "ホンダがe-MTBに本格参入。初代モデルに見る本気度",
+        "link": "https://www.gizmodo.jp/article/honda_rn0_emtb/",
+        "date": "2026-11-17T11:00:00+00:00",
+        "body": "a46.txt"
+      },
+      {
+        "title": "トラックボールが生えたキーボード「C3 Pro Trackball」。キーキャップの“レア仕様”に気付いた人いる？",
+        "link": "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-keycaps/",
+        "date": "2026-11-17T10:50:00+00:00",
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
       {
-        "title": "日米豪印が共同文書 中国念頭",
-        "link": "https://news.yahoo.co.jp/pickup/6602965?source=rss",
-        "date": "2026-11-17T14:00:52+00:00",
+        "title": "日本版DBSに脆弱性 稼働延期へ",
+        "link": "https://news.yahoo.co.jp/pickup/6602982?source=rss",
+        "date": "2026-11-17T22:14:00+00:00",
         "body": "a48.txt"
       },
       {
@@ -307,9 +309,9 @@
         "body": "a50.txt"
       },
       {
-        "title": "韓国野党前代表 日本で入国拒否",
-        "link": "https://news.yahoo.co.jp/pickup/6602969?source=rss",
-        "date": "2026-11-17T15:15:40+00:00",
+        "title": "NVIDIA前CEO 復帰なら「光栄」",
+        "link": "https://news.yahoo.co.jp/pickup/6602983?source=rss",
+        "date": "2026-11-17T22:22:28+00:00",
         "body": "a51.txt"
       },
       {
@@ -319,9 +321,9 @@
         "body": "a52.txt"
       },
       {
-        "title": "交際1人でも子宮頸がん 子供諦め",
-        "link": "https://news.yahoo.co.jp/pickup/6602962?source=rss",
-        "date": "2026-11-17T13:48:07+00:00",
+        "title": "ポーカー大会無許可開催疑い 逮捕",
+        "link": "https://news.yahoo.co.jp/pickup/6602981?source=rss",
+        "date": "2026-11-17T22:22:50+00:00",
         "body": "a53.txt"
       },
       {
@@ -4325,7 +4327,7 @@
     ]
   },
   "fx": {
-    "price": 159.348,
+    "price": 159.35,
     "prev": 159.392
   },
   "topix": {
