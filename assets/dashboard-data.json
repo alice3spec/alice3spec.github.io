@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:03:27.996389+09:00",
+  "updated": "2026-11-18T04:08:49.652565+09:00",
   "feeds": {
     "kabu": [
       {
@@ -15,9 +15,10 @@
         "body": "a01.txt"
       },
       {
-        "title": "日経平均は大幅続落、米半導体規制強化でAI関連株に売り／相場概況 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ScVE0OUVGMjBLY1E2bEpIN2JaZDhXVDhING1BRlpfYTI1ZzB3QU8zdk56cUNSeGJ5V3c1Qm53NURWYUdCY1RKdFJlZ290T2g2SUE?oc=5",
-        "date": "2026-11-17T07:00:53+00:00"
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwam5pcGZRemVuaEIzcHR0MmZDQWJUWmRkUWY4QU1LLXA1RkJSNTk0dnJTZmtjTVljZG15MVZjNUdYY3UwcXcxX0VtUVg2cWNHdXc?oc=5",
+        "date": "2026-11-17T03:31:00+00:00",
+        "body": "a02.txt"
       },
       {
         "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
@@ -37,9 +38,9 @@
         "date": "2026-11-17T07:22:08+00:00"
       },
       {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwam5pcGZRemVuaEIzcHR0MmZDQWJUWmRkUWY4QU1LLXA1RkJSNTk0dnJTZmtjTVljZG15MVZjNUdYY3UwcXcxX0VtUVg2cWNHdXc?oc=5",
-        "date": "2026-11-17T03:31:00+00:00"
+        "title": "日経平均は大幅続落、米半導体規制強化でAI関連株に売り／相場概況 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ScVE0OUVGMjBLY1E2bEpIN2JaZDhXVDhING1BRlpfYTI1ZzB3QU8zdk56cUNSeGJ5V3c1Qm53NURWYUdCY1RKdFJlZ290T2g2SUE?oc=5",
+        "date": "2026-11-17T07:00:53+00:00"
       },
       {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
@@ -462,7 +463,7 @@
     }
   },
   "index": {
-    "price": 58670.0,
+    "price": 58665.0,
     "prev": 59045.0,
     "points": [
       [
@@ -2126,22 +2127,29 @@
       ],
       [
         "11/18 03:50",
-        58670.0,
+        58645.0,
         58670.0,
         58670.0,
         58620.0
       ],
       [
-        "11/18 03:52",
-        58670.0,
-        58670.0,
-        58670.0,
-        58670.0
+        "11/18 03:55",
+        58665.0,
+        58615.0,
+        58665.0,
+        58600.0
+      ],
+      [
+        "11/18 03:58",
+        58665.0,
+        58665.0,
+        58665.0,
+        58665.0
       ]
     ]
   },
   "gold": {
-    "price": 3858.4,
+    "price": 3859.4,
     "prev": 3859.0,
     "points": [
       [
@@ -3812,26 +3820,33 @@
       ],
       [
         "11/18 03:50",
-        3858.2,
+        3858.0,
         3859.9,
         3860.0,
-        3857.9
+        3857.5
       ],
       [
-        "11/18 03:53",
-        3858.4,
-        3858.4,
-        3858.4,
-        3858.4
+        "11/18 03:55",
+        3859.1,
+        3857.5,
+        3859.7,
+        3857.5
+      ],
+      [
+        "11/18 03:58",
+        3859.4,
+        3859.4,
+        3859.4,
+        3859.4
       ]
     ]
   },
   "fx": {
-    "price": 159.329,
+    "price": 159.313,
     "prev": 159.392
   },
   "topix": {
-    "price": 140.525,
+    "price": 140.846,
     "prev": 137.36
   },
   "ver": "v62"
