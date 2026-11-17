@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T19:38:14.396518+09:00",
+  "updated": "2026-11-17T19:43:15.455821+09:00",
   "feeds": {
     "kabu": [
       {
@@ -18,14 +18,14 @@
         "date": "2026-11-17T09:31:32+00:00"
       },
       {
-        "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYWxKakk2Qk5PZDdqN3pLZmVvTExCTWdId0Y5LTQtWUFrUmxpeVVfT2hjOUlVbHh6WmlHQlotVnJ5clBjT3NsVTFYQXhtNHBUd01jUNIBV0FVX3lxTE1LdGRxSzV1QjRmM2xWenV5dy1uTUc0eE5GcGZDR3dzNEdaemNxSEljYU4wUXhreUNUdlhza2U3Ny1TU0RDNGZXalNIN2JHZjNCX3J0WWMycw?oc=5",
-        "date": "2026-11-16T23:07:00+00:00"
-      },
-      {
         "title": "東証10時 日経平均は下げ渋る 海外勢の先物買いが膨らむ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyOUs4QzZOc1VvY0Y2LUg3Q0pUWDFVY181azNTUnd5eXZKS2xaZzA0RFA5R2RLUnpWak45Uk8tRmNkMGZJbmN3UWhEdnZwbmxUZy1HRUY4QnlxaFQyWWl2enE4UDhRSEowc0pOaQ?oc=5",
         "date": "2026-11-17T01:22:43+00:00"
+      },
+      {
+        "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYWxKakk2Qk5PZDdqN3pLZmVvTExCTWdId0Y5LTQtWUFrUmxpeVVfT2hjOUlVbHh6WmlHQlotVnJ5clBjT3NsVTFYQXhtNHBUd01jUNIBV0FVX3lxTE1LdGRxSzV1QjRmM2xWenV5dy1uTUc0eE5GcGZDR3dzNEdaemNxSEljYU4wUXhreUNUdlhza2U3Ny1TU0RDNGZXalNIN2JHZjNCX3J0WWMycw?oc=5",
+        "date": "2026-11-16T23:07:00+00:00"
       },
       {
         "title": "日経平均は大幅続落、米半導体規制強化でAI関連株に売り／相場概況 - 株探",
@@ -147,7 +147,8 @@
       {
         "title": "メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に",
         "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003274/",
-        "date": "2026-11-17T09:56:19+00:00"
+        "date": "2026-11-17T09:56:19+00:00",
+        "body": "a25.txt"
       },
       {
         "title": "東京都、水道利用者個人情報871件含むHDD紛失　一部に口座番号も　10月に同様事案",
@@ -175,7 +176,8 @@
       {
         "title": "モリサワや「mineo」など会員情報漏えい　マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
         "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
-        "date": "2026-11-17T03:35:13+00:00"
+        "date": "2026-11-17T03:35:13+00:00",
+        "body": "a30.txt"
       },
       {
         "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
@@ -210,9 +212,27 @@
     ],
     "gadget": [
       {
+        "title": "Xで大バズ中のAI生成のSF映画『NUREMBERG』予告編。なんでこんなにバズってる？",
+        "link": "https://www.gizmodo.jp/article/2611-ai-generated-nuremberg-movie-trailer/",
+        "date": "2026-11-17T10:30:00+00:00",
+        "body": "a36.txt"
+      },
+      {
+        "title": "厚さ4.75mm。薄すぎるメカニカルキーボード「Altar II」見参",
+        "link": "https://www.gizmodo.jp/article/2611-altar-ii-mechanical-keyboard/",
+        "date": "2026-11-17T10:20:00+00:00"
+      },
+      {
+        "title": "iPhone Duoに（セキュリティ甘めの）顔認証がやってくる！",
+        "link": "https://www.gizmodo.jp/article/2611-iphone-duo-face-unlock/",
+        "date": "2026-11-17T10:15:00+00:00",
+        "body": "a38.txt"
+      },
+      {
         "title": "OpenAI、「ChatGPT Wallet」発表。AIエージェントに支払いまで任せられます",
         "link": "https://www.gizmodo.jp/article/2611-chatgpt-wallet-openai/",
-        "date": "2026-11-17T10:00:00+00:00"
+        "date": "2026-11-17T10:00:00+00:00",
+        "body": "a39.txt"
       },
       {
         "title": "UGREENの100Wモデルが奇跡の45％OFF。4,880円で最速系充電器が手に入る！",
@@ -222,59 +242,41 @@
       {
         "title": "町のいたるところに救世主。チャージスポットにPC充電＆Wi-Fiが来る",
         "link": "https://www.gizmodo.jp/article/chargespot-wifi-rental/",
-        "date": "2026-11-17T08:30:00+00:00"
+        "date": "2026-11-17T08:30:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "軽トラに羽を生やせば、燃料高も乗り切れる？水やり代10分の1の太陽光ポンプ車",
         "link": "https://www.gizmodo.jp/article/ponkhiraj-solar-irrigation-bangladesh/",
         "date": "2026-11-17T08:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a42.txt"
       },
       {
         "title": "単なる「フィルム風」じゃない。アナログ操作を追求したレトロなトイデジカメ",
         "link": "https://www.gizmodo.jp/article/2611-fotorgear-campix-retro-toy-camera/",
         "date": "2026-11-17T07:35:00+00:00",
-        "body": "a40.txt"
+        "body": "a43.txt"
       },
       {
         "title": "シンセアプリのリジェクトが続出。Appleが審査にAIを使ってるせい？",
         "link": "https://www.gizmodo.jp/article/2611-apple-app-store-synth-app-rejection-ai/",
-        "date": "2026-11-17T06:00:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-17T06:00:00+00:00"
       },
       {
         "title": "アンソロピック株「上場初日購入」について、個人投資家たちの“本音”を聞いた",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-stock-ant-ipo-finances-retail-investors-aoj/",
-        "date": "2026-11-17T05:35:00+00:00"
+        "date": "2026-11-17T05:35:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "Uber、ドライバーの個人情報約8,000件が盗まれる",
         "link": "https://www.gizmodo.jp/article/2611-uber-driver-data-breach-fireworks-ai/",
-        "date": "2026-11-17T04:00:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-17T04:00:00+00:00"
       },
       {
         "title": "iPhone Duo 2に向けてAppleが最優先に挙げるのは…、当然あの機能！",
         "link": "https://www.gizmodo.jp/article/2611-iphone-duo-2-face-id-2/",
         "date": "2026-11-17T03:30:00+00:00"
-      },
-      {
-        "title": "新型MacBook Proのリンゴ、どんな仕組みで光っているのか謎→分解した猛者現る",
-        "link": "https://www.gizmodo.jp/article/2611-macbook-pro-apple-logo-led-ifixit/",
-        "date": "2026-11-17T03:15:00+00:00",
-        "body": "a45.txt"
-      },
-      {
-        "title": "データセンターの近くでは、石炭火力の廃止が遅れがち",
-        "link": "https://www.gizmodo.jp/article/2611-data-centers-delay-coal-phaseout/",
-        "date": "2026-11-17T03:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "GTA6を実況プレイする研究員、募集中。報酬1,600万円から",
-        "link": "https://www.gizmodo.jp/article/gta6-researcher-job-kalshi/",
-        "date": "2026-11-17T02:45:00+00:00",
-        "body": "a47.txt"
       }
     ],
     "yahoo": [
@@ -449,7 +451,7 @@
     }
   },
   "index": {
-    "price": 58785.0,
+    "price": 58855.0,
     "prev": 59045.0,
     "points": [
       [
@@ -1399,22 +1401,29 @@
       ],
       [
         "11/17 19:25",
-        58785.0,
+        58850.0,
         58775.0,
-        58825.0,
-        58775.0
+        58850.0,
+        58770.0
       ],
       [
-        "11/17 19:27",
-        58785.0,
-        58785.0,
-        58785.0,
-        58785.0
+        "11/17 19:30",
+        58850.0,
+        58855.0,
+        58855.0,
+        58820.0
+      ],
+      [
+        "11/17 19:33",
+        58855.0,
+        58855.0,
+        58855.0,
+        58855.0
       ]
     ]
   },
   "gold": {
-    "price": 3859.1,
+    "price": 3858.4,
     "prev": 3859.0,
     "points": [
       [
@@ -2371,17 +2380,24 @@
       ],
       [
         "11/17 19:25",
-        3859.2,
+        3860.1,
         3858.8,
-        3859.7,
+        3860.4,
         3857.0
       ],
       [
-        "11/17 19:28",
-        3859.1,
-        3859.1,
-        3859.1,
-        3859.1
+        "11/17 19:30",
+        3857.9,
+        3860.1,
+        3860.8,
+        3857.2
+      ],
+      [
+        "11/17 19:33",
+        3858.4,
+        3858.4,
+        3858.4,
+        3858.4
       ]
     ]
   },
