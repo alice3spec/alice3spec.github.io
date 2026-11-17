@@ -451,9 +451,9 @@
       <div class="quad quad-br">
 <div class="card index" id="index" style="display:none">
             <div class="ix-head">
-              <span class="ix-name">日経平均先物</span>
+              <span class="ix-name" id="ix-name">日経平均先物</span>
               <span class="ix-price" id="ix-price">--</span>
-              <span class="ix-chg" id="ix-chg"></span><button type="button" class="ix-toggle" id="ix-toggle">ローソク足</button>
+              <span class="ix-chg" id="ix-chg"></span><button type="button" class="ix-toggle" id="ix-sym">XAU/USD</button>
             </div>
             <div class="ix-chart-wrap"><svg class="ix-chart" id="ix-chart" viewBox="0 0 300 78" preserveAspectRatio="none" aria-hidden="true"></svg><div class="ix-axis" id="ix-axis"></div></div>
             <div class="ix-range"><span id="ix-open"></span><span id="ix-note"></span><span id="ix-close"></span>
@@ -511,7 +511,7 @@
       var lastUpdated = null;
       /* page build marker: bump together with visible behaviour changes;
          shown in the footer so the running build is identifiable at a glance */
-      var PAGE_VER = "v59";
+      var PAGE_VER = "v60";
       var dataVer = null;
       var dataTime = null;
       function markUpdated() {
@@ -640,20 +640,38 @@
         while (s.length > 3) { out = "," + s.slice(-3) + out; s = s.slice(0, -3); }
         return s + out;
       }
-      function renderIndex(ix) {
-        lastIx = ix;
+      function fmtDec(n, dec) {
+        var neg = n < 0;
+        var s = Math.abs(n).toFixed(dec);
+        var parts = s.split(".");
+        var ip = parts[0], out = "";
+        while (ip.length > 3) { out = "," + ip.slice(-3) + out; ip = ip.slice(0, -3); }
+        return (neg ? "-" : "") + ip + out + (parts[1] ? "." + parts[1] : "");
+      }
+      function renderIndex(ix, gold) {
+        if (ix !== undefined) { lastIx = ix; }
+        if (gold !== undefined) { lastGold = gold; }
+        var useGold = (ixSym === "gold");
+        var cur = useGold ? lastGold : lastIx;
+        if (!cur || typeof cur.price !== "number" || !cur.points || !cur.points.length) {
+          cur = useGold ? lastIx : lastGold;
+          useGold = !useGold;
+        }
         var box = $("index");
-        if (!ix || typeof ix.price !== "number" || !ix.points || !ix.points.length) {
+        if (!cur || typeof cur.price !== "number" || !cur.points || !cur.points.length) {
           box.style.display = "none";
           return;
         }
+        ix = cur;
+        var fmtP = useGold ? function (v) { return fmtDec(v, 2); } : fmtNum;
         box.style.display = "flex";
-        $("ix-price").textContent = fmtNum(ix.price);
+        $("ix-name").textContent = useGold ? "XAU/USD" : "日経平均先物";
+        $("ix-price").textContent = fmtP(ix.price);
         var chg = $("ix-chg");
         if (typeof ix.prev === "number" && ix.prev > 0) {
           var d = ix.price - ix.prev;
           var pct = d / ix.prev * 100;
-          chg.textContent = (d >= 0 ? "▲ +" : "▼ ") + fmtNum(d) + " (" + (d >= 0 ? "+" : "") + pct.toFixed(2) + "%)";
+          chg.textContent = (d >= 0 ? "▲ +" : "▼ ") + fmtP(d) + " (" + (d >= 0 ? "+" : "") + pct.toFixed(2) + "%)";
           chg.className = "ix-chg " + (d >= 0 ? "up" : "down");
         } else {
           chg.textContent = "";
@@ -686,7 +704,7 @@
             tv = hi - (hi - lo) * k2 / 3;
             ty = Y(tv);
             svg += "<line x1=\"0\" y1=\"" + ty + "\" x2=\"" + W + "\" y2=\"" + ty + "\" stroke=\"rgba(255,255,255,0.13)\" stroke-width=\"1\" vector-effect=\"non-scaling-stroke\"/>";
-            axis += "<span class=\"ix-tick\" style=\"top:" + (ty / H * 100).toFixed(1) + "%\">" + fmtNum(tv) + "</span>";
+            axis += "<span class=\"ix-tick\" style=\"top:" + (ty / H * 100).toFixed(1) + "%\">" + fmtP(tv) + "</span>";
           }
         }
         if (typeof ix.prev === "number") {
@@ -711,7 +729,7 @@
         }
         $("ix-chart").innerHTML = svg;
         $("ix-axis").innerHTML = axis;
-        $("ix-note").textContent = "高 " + fmtNum(max - pad) + " ／ 安 " + fmtNum(min + pad);
+        $("ix-note").textContent = "高 " + fmtP(max - pad) + " ／ 安 " + fmtP(min + pad);
         $("ix-open").textContent = pts[0][0];
         $("ix-close").textContent = pts[pts.length - 1][0];
       }
@@ -813,21 +831,27 @@
         }
       }
 
-      /* futures chart mode: "line" | "candle", kept on-device */
+      /* chart symbol: "nikkei" | "gold", kept on-device. The header
+         button sits where the line/candle toggle used to be (that
+         toggle was removed at Tanaka's request, 2026-11-17); ixMode
+         stays at its stored value, there is just no UI to change it. */
       var ixMode = "line";
       var lastIx = null;
+      var lastGold = null;
+      var ixSym = "nikkei";
       try { ixMode = localStorage.getItem("ixMode") || "line"; } catch (e) { }
-      function syncIxToggle() {
-        var b = $("ix-toggle");
-        if (b) { b.textContent = (ixMode === "candle") ? "ライン" : "ローソク足"; }
+      try { ixSym = localStorage.getItem("ixSym") || "nikkei"; } catch (e) { }
+      function syncIxSym() {
+        var b = $("ix-sym");
+        if (b) { b.textContent = (ixSym === "gold") ? "日経先物" : "XAU/USD"; }
       }
-      document.addEventListener("DOMContentLoaded", function () { syncIxToggle(); });
+      document.addEventListener("DOMContentLoaded", function () { syncIxSym(); });
       document.addEventListener("click", function (ev) {
-        if (ev.target && ev.target.id === "ix-toggle") {
-          ixMode = (ixMode === "candle") ? "line" : "candle";
-          try { localStorage.setItem("ixMode", ixMode); } catch (e) { }
-          syncIxToggle();
-          if (lastIx) { renderIndex(lastIx); }
+        if (ev.target && ev.target.id === "ix-sym") {
+          ixSym = (ixSym === "gold") ? "nikkei" : "gold";
+          try { localStorage.setItem("ixSym", ixSym); } catch (e) { }
+          syncIxSym();
+          renderIndex();
         }
       });
 
@@ -860,7 +884,7 @@
           newsLoading = false;
           renderNews();
           try { renderWeather(d.weather); } catch (e) { }
-          try { renderIndex(d.index); } catch (e) { }
+          try { renderIndex(d.index, d.gold); } catch (e) { }
           try { renderMini("fx", d.fx, 2); renderMini("topix", d.topix, 2); } catch (e) { }
           markUpdated();
           $("y-upd").textContent = "更新 " + pad2(lastUpdated.getHours()) + ":" + pad2(lastUpdated.getMinutes());
