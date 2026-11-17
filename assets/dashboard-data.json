@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:33:47.060490+09:00",
+  "updated": "2026-11-18T04:38:27.631196+09:00",
   "feeds": {
     "kabu": [
       {
@@ -15,9 +15,10 @@
         "body": "a01.txt"
       },
       {
-        "title": "日経平均は大幅続落、米半導体規制強化でAI関連株に売り／相場概況 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ScVE0OUVGMjBLY1E2bEpIN2JaZDhXVDhING1BRlpfYTI1ZzB3QU8zdk56cUNSeGJ5V3c1Qm53NURWYUdCY1RKdFJlZ290T2g2SUE?oc=5",
-        "date": "2026-11-17T07:00:53+00:00"
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwam5pcGZRemVuaEIzcHR0MmZDQWJUWmRkUWY4QU1LLXA1RkJSNTk0dnJTZmtjTVljZG15MVZjNUdYY3UwcXcxX0VtUVg2cWNHdXc?oc=5",
+        "date": "2026-11-17T03:31:00+00:00",
+        "body": "a02.txt"
       },
       {
         "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
@@ -32,9 +33,10 @@
         "body": "a04.txt"
       },
       {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwam5pcGZRemVuaEIzcHR0MmZDQWJUWmRkUWY4QU1LLXA1RkJSNTk0dnJTZmtjTVljZG15MVZjNUdYY3UwcXcxX0VtUVg2cWNHdXc?oc=5",
-        "date": "2026-11-17T03:31:00+00:00"
+        "title": "日経平均は大幅続落、米半導体規制強化でAI関連株に売り／相場概況 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ScVE0OUVGMjBLY1E2bEpIN2JaZDhXVDhING1BRlpfYTI1ZzB3QU8zdk56cUNSeGJ5V3c1Qm53NURWYUdCY1RKdFJlZ290T2g2SUE?oc=5",
+        "date": "2026-11-17T07:00:53+00:00",
+        "body": "a05.txt"
       },
       {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
@@ -65,9 +67,9 @@
         "date": "2026-11-17T02:02:57+00:00"
       },
       {
-        "title": "ピジョン株価、連日で年初来高値 米ベビー用品会社610億円で買収 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPUDh1a1RNLUNBczRraFEwQjIxTGFwV3dLcHpRY3Ywdzk3OTBpTUlueTBzQXB1S3I2U2V6bGxBWVJRYVo0ZjRhSGtHU3l5X3ZxSGl1UENtamxLTUQ5WXFFYkM1RWZjTldGY1pOdA?oc=5",
-        "date": "2026-11-17T02:02:31+00:00"
+        "title": "日経平均終値1480円安、尾を引くAI不安 ニトリHDなど消費関連に強さ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wRElibmtXQ2hmUVExbExSMU4wa1dkbV81MWgtS1QtTF9RbVNlWFFmX1VIVXBSZDV5QnNRcnpVNXE1Z0k4dzBsbkxKdEtmZmQzWm92eW1TNnJSakg5ZW1aUEF6UGNXaGtOd0dtNw?oc=5",
+        "date": "2026-11-16T02:42:48+00:00"
       }
     ],
     "ai": [
@@ -464,7 +466,7 @@
     }
   },
   "index": {
-    "price": 58655.0,
+    "price": 58615.0,
     "prev": 59045.0,
     "points": [
       [
@@ -2163,22 +2165,29 @@
       ],
       [
         "11/18 04:20",
-        58655.0,
+        58630.0,
         58695.0,
         58715.0,
-        58655.0
+        58630.0
       ],
       [
-        "11/18 04:23",
-        58655.0,
-        58655.0,
-        58655.0,
-        58655.0
+        "11/18 04:25",
+        58615.0,
+        58630.0,
+        58650.0,
+        58595.0
+      ],
+      [
+        "11/18 04:28",
+        58615.0,
+        58615.0,
+        58615.0,
+        58615.0
       ]
     ]
   },
   "gold": {
-    "price": 3858.0,
+    "price": 3855.9,
     "prev": 3859.0,
     "points": [
       [
@@ -3884,26 +3893,33 @@
       ],
       [
         "11/18 04:20",
-        3857.3,
+        3856.6,
         3860.2,
         3860.6,
-        3857.3
+        3856.3
       ],
       [
-        "11/18 04:23",
-        3858.0,
-        3858.0,
-        3858.0,
-        3858.0
+        "11/18 04:25",
+        3855.5,
+        3856.6,
+        3857.6,
+        3851.0
+      ],
+      [
+        "11/18 04:28",
+        3855.9,
+        3855.9,
+        3855.9,
+        3855.9
       ]
     ]
   },
   "fx": {
-    "price": 159.335,
+    "price": 159.314,
     "prev": 159.392
   },
   "topix": {
-    "price": 141.1,
+    "price": 141.18,
     "prev": 137.36
   },
   "ver": "v62"
