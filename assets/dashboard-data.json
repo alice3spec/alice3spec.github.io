@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:08:44.125747+09:00",
+  "updated": "2026-11-18T00:13:34.523909+09:00",
   "feeds": {
     "kabu": [
       {
@@ -43,9 +43,9 @@
         "date": "2026-11-15T22:37:05+00:00"
       },
       {
-        "title": "明日の株式相場に向けて＝エヌビディアは「硝子の階段」を踏み抜くか - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SE1ocjRBQlQwQUFEaVZTd0xMOE9Pd19wVFR6cUlGQzRmOFlrOXFlT1JUZTNyZmU5ZnFSYVJRd1M5U0REN0NCdlU2NTljT2xpUjJVNnFtaGt4TkN1RndSOA?oc=5",
-        "date": "2026-11-17T08:30:00+00:00",
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月17日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RWVfSUJNUTNiVUM3czJIWkR6MFNDYXRjeGNvX1FFX1ZieVFLdVdkMWljVmtSakJmUGh6NjRGUkVwMEhVU3FCeFpmdXNIQlZscnppVzRucURkVUtaM1o2Sw?oc=5",
+        "date": "2026-11-16T23:09:50+00:00",
         "body": "a07.txt"
       },
       {
@@ -55,9 +55,9 @@
         "body": "a08.txt"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月17日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RWVfSUJNUTNiVUM3czJIWkR6MFNDYXRjeGNvX1FFX1ZieVFLdVdkMWljVmtSakJmUGh6NjRGUkVwMEhVU3FCeFpmdXNIQlZscnppVzRucURkVUtaM1o2Sw?oc=5",
-        "date": "2026-11-16T23:09:50+00:00",
+        "title": "明日の株式相場に向けて＝エヌビディアは「硝子の階段」を踏み抜くか - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01SE1ocjRBQlQwQUFEaVZTd0xMOE9Pd19wVFR6cUlGQzRmOFlrOXFlT1JUZTNyZmU5ZnFSYVJRd1M5U0REN0NCdlU2NTljT2xpUjJVNnFtaGt4TkN1RndSOA?oc=5",
+        "date": "2026-11-17T08:30:00+00:00",
         "body": "a09.txt"
       },
       {
@@ -325,10 +325,9 @@
         "body": "a52.txt"
       },
       {
-        "title": "速報パラグアイ戦 森保Jが1点返す",
-        "link": "https://news.yahoo.co.jp/pickup/6602971?source=rss",
-        "date": "2026-11-17T14:59:44+00:00",
-        "body": "a53.txt"
+        "title": "森保ジャパン敗戦 有終の美飾れず",
+        "link": "https://news.yahoo.co.jp/pickup/6602973?source=rss",
+        "date": "2026-11-17T15:11:52+00:00"
       },
       {
         "title": "広島戦力外3選手が要請書 狙いは",
@@ -465,7 +464,7 @@
     }
   },
   "index": {
-    "price": 59180.0,
+    "price": 59050.0,
     "prev": 59045.0,
     "points": [
       [
@@ -1793,22 +1792,29 @@
       ],
       [
         "11/17 23:55",
-        59210.0,
+        59235.0,
         59060.0,
-        59210.0,
+        59240.0,
         59005.0
       ],
       [
-        "11/17 23:58",
-        59180.0,
-        59180.0,
-        59180.0,
-        59180.0
+        "11/18 00:00",
+        59060.0,
+        59240.0,
+        59255.0,
+        59015.0
+      ],
+      [
+        "11/18 00:03",
+        59050.0,
+        59050.0,
+        59050.0,
+        59050.0
       ]
     ]
   },
   "gold": {
-    "price": 3863.8,
+    "price": 3865.4,
     "prev": 3859.0,
     "points": [
       [
@@ -3143,26 +3149,33 @@
       ],
       [
         "11/17 23:55",
-        3863.5,
+        3861.8,
         3865.0,
         3867.0,
-        3863.3
+        3861.8
       ],
       [
-        "11/17 23:58",
-        3863.8,
-        3863.8,
-        3863.8,
-        3863.8
+        "11/18 00:00",
+        3864.6,
+        3861.9,
+        3865.8,
+        3859.8
+      ],
+      [
+        "11/18 00:03",
+        3865.4,
+        3865.4,
+        3865.4,
+        3865.4
       ]
     ]
   },
   "fx": {
-    "price": 159.429,
+    "price": 159.405,
     "prev": 159.392
   },
   "topix": {
-    "price": 141.24,
+    "price": 140.95,
     "prev": 137.36
   },
   "ver": "v62"
