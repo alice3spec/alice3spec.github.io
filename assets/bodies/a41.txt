@@ -1,103 +1,72 @@
-「自宅で金属を3Dプリントできる時代」が来た。金属粉を使う家庭用3Dプリンター登場
+エヌビディア、早くもジェンスン・フアン前CEOの復帰を検討中？
 
-Nov 17,2026 11:00
+Nov 17,2026 11:15
 
-そうこ ( GIZMODOライター )
+Webb Wright - GIZMODO US［原文］（高橋真紀 / GIZMODOライター ）
 
-Image: Snowx
+Image: jamesonwu1972 / Shutterstock.com
 
-3Dプリンターが、仰々しいマシンではなく、一般的なDIYツールとして使われるようになってしばらくたちます。物作りが趣味な人の中には、家にあるという人も少なくないはず。
+革ジャンがトレードマークのジェンスン・フアン氏は、1993年にNVIDIA（エヌビディア）を共同設立。巨大テクノロジー企業へと成長させました。
 
-3Dプリンターは樹脂が一般的な素材ですが、ついに金属加工もお家でできる時代がやってきました。
+33年間にわたって最高経営責任者（CEO）を務めてきましたが、不名誉な形で同社を去ることに。しかし、すでに多くの従業員から同氏の復帰を求める声が挙がっています。
 
-## 金属粉を使ってプリント
+## ボスの復帰を求める声
 
-「Snowpod」は、小型の家庭用金属3Dプリンターです。
+フアン氏の退任と、長年同社の最高財務責任者（CFO）を務めてきたコレット・クレス氏の後任就任が発表されたのは米現地時間2026年11月12日のことでしたが、その直前の同日朝、NVIDIAのベテランエンジニアが従業員に向けて社内にある投稿を行なっていたと、同日夕方にWiredが報じました。
 
-金属加工というと、型に流し込んだり溶接したりと技術を要します。が、Snowpodは、金属の粉を使ったご家庭向け加工マシン。
+その投稿は、最終決定を下す前に従業員の意見も考慮するよう取締役会に求めるというものでした。投稿には1600件以上のコメントが集まり、その多くはフアン氏のCEO復帰を支持するものだったそう。その後、投稿はCEOを退任したフアン氏の復帰を求める署名運動のようなものになったと報じられています。
 
-金属粉をレーザーで溶かし、設計図通りに層として積み上げていく仕組みです。レーザーによって、40マイクロメートルという超微細な加工が可能。0.05ミリ単位でデザインを正確に再現します。
+12日以降、NVIDIAの現従業員や元従業員のなかには、公にフアン氏の退任を惜しむものもちらほら。声を上げる人たちは、フアン氏をほかに類を見ない先見性あるリーダーと評し、同氏がいなくなればNVIDIAは進むべき方向を見失い、ひいては米国全体のAI開発にも悪影響を及ぼすだろうと主張しています。
 
-Image: Snowx
+2024年に同社を離れ、自身の会社を設立したエンジニアのデニス・ティモニン氏は、12日木曜、以下の内容をLinkedInに投稿しました。
 
-金属粉を使うとなると、空気中の粒子がどうしても気になります。が、フィルター規格HEPA 13/ 14のフィルターを搭載し、99.995％しっかり粉をキャッチ。
+> 彼（ジェンスン・フアン氏）の退任は非常に大きな損失だ。不倫があったからといって、数十年にもわたるリーダーシップの実績が否定されるべきではない。深刻な疑問についてはきちんと答えを出す必要がある。
+>
+>
+> しかし、昼ドラのような騒動で彼の将来を決めるべきではない……私はジェンスンに、これからも開発を続け、リーダーとして会社を率いてほしいと思っている。これから取り組むべき重要な仕事は山ほどあるのだから。
 
-また、この粉はカートリッジに入っており、ユーザーが粉を直接触ることはありません。
+現在、フアン氏には少なくとも3人との不倫疑惑が浮上しています。
 
-金属パーツ製作で余った粉は集めて再利用、再びカートリッジ内に収集してくれる仕組みです。製作サイズは、最大80 x 80x 100ミリ。
+1人目は、米情報機関が中国のスパイとみている女性、2人目はフアン氏の直属の部下だったNVIDIAの幹部、そして3人目は、12日にロイター通信が報じた別の同社従業員です。
 
-この金属3DプリンターSnowPod、定価は9299ドル（約150万円）を予定。ただし、公式サイトの事前予約限定で5299ドル（約84万円）。いや、もちろんご家庭用アイテムとしてはとっても高いのです。が、産業用の数百万、数千万の機材が80万円そこそこで手に入る時代になったとも言えます。公式の言うとおり、まさに「3つあれば生産ライン」になるマシンです。
+物議を醸す人物として知られるスペースXのイーロン・マスクは、フアン氏を雇用できれば「光栄だ」とXに投稿しています。ただし、マスクはSNSで大げさな発言をすること多々なので、鵜呑みにしないでいただきたい。
 
-3Dプリンター＆金属…、自作銃とか本当やめてくださいね。マシンは悪くないんです。人の心に巣食うダークネスが悪いのです。
+また、今年初めにフアン氏へのインタビューを行なったポッドキャスターのレックス・フリードマン氏は12日、NVIDIAがフアン氏と袂を分かつという決定を下したことについて、「アメリカと人類にとって、非常に大きな間違いだ」とXに投稿しました。
 
-公式サイトには、ダークネスではない作品が、コストや製作時間とともに紹介されています。
+> NVIDIA letting Jensen go is a huge mistake, for America and for humanity. It's Apple firing Steve Jobs all over again, but much bigger, given the role of AI in defining the future of our world. I've been keeping quiet on this out of respect for Jensen's family and team, who I've met and who are amazing humans, and because I personally hate infidelity. So my heart goes out to them in this difficult personal family moment. But I can also say that Jensen is human, and makes mistakes like all of us do. Not that I matter at all, but I've known Jensen for a long time and have gotten the chance to spend a lot of time with him, behind the scenes, away from mics and cameras. I have seen him show kindness, humility, care to everyone around him, including strangers, including from the poorest most struggling parts of society, treating all the same with the same thoughtfulness and attention, because they are fellow humans and not because he has something to gain from them. That shows rare character, to maintain humility and humanity through all of it. Another data point is what people who know him well have said privately to me about Jensen over the years. I've never had anyone tell me anything but how awesome he is or how much they love him. Probably over a thousand people at this point. This includes hundreds of engineers, CEOs, colleagues, friends, etc. Also, since there was some spy talk. Jensen is as proud an American as it gets. I'm in shock frankly at all of this, including the mass hysteria around it. I love America, and I think NVIDIA letting Jensen go is terrible for America. I stand with Jensen. Love you all ❤️
+>
+> — Lex Fridman (@lexfridman) November 12, 2026
 
-Source:Snowx
+フリードマン氏は、フアン氏の退社を、当時のCEOジョン・スカリー氏との対立の末、1985年にスティーブ・ジョブズ氏がアップルを追放されたケースになぞらえました。
 
-1,690
+しかし、フリードマン氏は、「AIが世界の未来を定義する役割を考えると、フアン氏の退任は（ジョブズ氏の場合よりも）はるかに重大だ」と指摘しています。
 
-1,340 円 21%OFF
-
-PR
-
-※商品を購入すると、売上の一部が販売プラットフォームよりメディアジーンに還元されることがあります。掲載されている情報は執筆時点の情報、または自動で更新されています。
-
-Advertisement
-
-Advertisement
+ジョブズ氏は1997年にアップルへ復帰し、当初は暫定CEOを務めました。その後、倒産の危機に瀕していた同社を立て直し、再び成長へと導いたことはご存知のとおり。
 
 Advertisement
 
-#NEO DIY#NEOヘルスケア#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
+## 思い出される3年前の「アルトマン解任騒動」
 
-### Ranking
+フアン氏の退任をめぐっては、ちょうど3年前にシリコンバレーで起きた別の経営者解任劇も思い起こされます。OpenAIのCEOだったサム・アルトマン氏が解任された件です。
 
-Daily
+当時、OpenAIの取締役会はブログへの投稿で、アルトマン氏が「コミュニケーションにおいて一貫して率直な対応をしておらず、そのことが取締役会の責務遂行を妨げていた」と説明していました。
 
-Weekly
+後任には最高技術責任者（CTO）のミラ・ムラティ氏が暫定CEOに就任したものの、すぐにTwitchの元CEOであるエメット・シア氏に交代しました。
 
-Monthly
+しかし、その後も抗議の意思を示してグレッグ・ブロックマン社長が辞任するなど、従業員からの激しい反発が起こります。社内の混乱が広がるなか、OpenAIはそのわずか5日後にアルトマン氏のCEO復帰に合意。アルトマン氏を解任した取締役会の大半も、辞任することで合意するという結果になりました。
 
-Amazon
+辞任したメンバーのなかには、共同創業者のイリヤ・サツケバー氏も含まれていました。同氏は当初アルトマン氏の解任に賛成したもののの、その後方針転換して復帰を支持していました。ブロックマン氏も社長に復帰した一方、サツケバー氏とムラティ氏は翌2024年、そろってOpenAIを去っています。
 
-1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026 07:00 26,5192. 大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え Nov 16,2026 08:00 12,0253. トヨタ、「かわいい」軽トラをアメリカで発売へ Nov 16,2026 08:45 6,5624. 南極点の情シス、募集中。年収1,270万円 Nov 16,2026 11:00 7,2625. サムスン×Googleのスマートグラス、Pixel Watch・Galaxy Watchから操作可能 Nov 16,2026 18:30 9,082
+重要なのは、アルトマン氏の解任が、少なくとも表向きは本人の経営者としての振る舞いに対する懸念だけを理由としていたのに対し、フアン氏の場合は私生活が問題になっているという点です。
 
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,1932. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2433. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 86,9344. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 46,8865. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 42,014
+元NVIDIAのエンジニアであるティモニン氏やフリードマン氏らは、米国が中国とAI産業の覇権をめぐって競争している今、フアン氏の不適切な異性関係を理由に、経営者としての能力まで否定すべきではないと公の場で主張しています。
 
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,1932. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,7643. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2434. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 133,8455. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 131,844
+こうした意見は、従業員の反発が2023年のアルトマン氏解任時ほどの規模にまで広がれば、取締役会の決定を覆し、フアン氏がCEOに復帰する可能性もあります。ただし、現時点ではそのような事態は起こる可能性はそれほど高くなさそうです。
 
-PR
+もっとも、フアン氏の不倫疑惑のうち1件は相手がNVIDIAの部下でした。その事実は、単なる私生活の問題では済まされず、会社にも関わる問題となります。
 
-## Latest
+## トランプ大統領もフアン氏を擁護
 
-#NEO DIY#NEOヘルスケア#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
+NVIDIAは今後の経営や業績も考えなければなりません。特に懸念されるのは、海外事業への影響です。米政府は、中国企業が海外のデータセンターを通じて高性能AIチップに遠隔アクセスすることを防ぐため、海外のデータセンターに送られる高性能AIチップに新たな連邦規制を設ける方針です。こうした規制が導入されれば、同社の海外事業は打撃を受けることになるでしょう。
 
-### Ranking
-
-Daily
-
-Weekly
-
-Monthly
-
-Amazon
-
-1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026 07:00 26,5192. 大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え Nov 16,2026 08:00 12,0253. トヨタ、「かわいい」軽トラをアメリカで発売へ Nov 16,2026 08:45 6,5624. 南極点の情シス、募集中。年収1,270万円 Nov 16,2026 11:00 7,2625. サムスン×Googleのスマートグラス、Pixel Watch・Galaxy Watchから操作可能 Nov 16,2026 18:30 9,082
-
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,1932. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2433. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 86,9344. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 46,8865. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 42,014
-
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,1932. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,7643. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2434. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 133,8455. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 131,844
-
-PR
-
-## Review
-
-## Sale
-
-© 2026 Mediagene Inc.
-
-運営会社媒体資料のお問い合わせ
-
-プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
-
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
+さらにまったく別の問題として、外国の諜報機関とのつ
