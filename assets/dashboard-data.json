@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T04:23:20.622144+09:00",
+  "updated": "2026-11-18T04:28:28.993223+09:00",
   "feeds": {
     "kabu": [
       {
@@ -15,54 +15,61 @@
         "body": "a01.txt"
       },
       {
-        "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
-        "date": "2026-11-15T22:37:05+00:00"
-      },
-      {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月17日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RWVfSUJNUTNiVUM3czJIWkR6MFNDYXRjeGNvX1FFX1ZieVFLdVdkMWljVmtSakJmUGh6NjRGUkVwMEhVU3FCeFpmdXNIQlZscnppVzRucURkVUtaM1o2Sw?oc=5",
-        "date": "2026-11-16T23:09:50+00:00"
-      },
-      {
-        "title": "日経平均6万円回復の先は？3つのセンチメント指標が示す相場の現在地 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6Qm1tTTFMVllhTXpQdTllZ2NZMTE3dFVwQnZyY1pVaDNxaVNiLWpIYkhUMnRmRVlQaDZoQkp0Uk5yMDB5U2ZfZUh4eXJ6enlqWm9WONIBV0FVX3lxTFBXc005eWN1RHZSZFZrNGppcUpWNUdKcXp4R0pwSzhSeklhdjFVZzdpRnd6cjd2MnItX0drTTRudUxVd1ZlRFNsYXhYRmJ0alFSNnJLZTExWQ?oc=5",
-        "date": "2026-11-16T01:03:00+00:00"
-      },
-      {
-        "title": "日経平均、300円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2thYm16ci02VE1LMWhORTlyMDJkQmhXVHdaOHBFeTFhWlVqMHJiaWxoVHpoMnJYZlVmNk5TQ2E1WjBoUmxlZVFsM3BTMXJfOTRad3pYSEJsRXl3Z1NzSC16OUFVcnB5MmpTRVZ0cXpJaXlkaXF6MEdnMWJzSjVLRDloZERmcUE?oc=5",
-        "date": "2026-11-17T00:01:12+00:00"
-      },
-      {
-        "title": "東証10時 日経平均は下げ渋る 海外勢の先物買いが膨らむ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyOUs4QzZOc1VvY0Y2LUg3Q0pUWDFVY181azNTUnd5eXZKS2xaZzA0RFA5R2RLUnpWak45Uk8tRmNkMGZJbmN3UWhEdnZwbmxUZy1HRUY4QnlxaFQyWWl2enE4UDhRSEowc0pOaQ?oc=5",
-        "date": "2026-11-17T01:22:43+00:00"
-      },
-      {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwam5pcGZRemVuaEIzcHR0MmZDQWJUWmRkUWY4QU1LLXA1RkJSNTk0dnJTZmtjTVljZG15MVZjNUdYY3UwcXcxX0VtUVg2cWNHdXc?oc=5",
-        "date": "2026-11-17T03:31:00+00:00"
-      },
-      {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続落、アドバンテストやソフトバンクGが2銘柄で約367円分押し下げ - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaWZveEJicG90a2pmT2J2REZnbFBUdms1Y29SSHMyOEtHMzBJZGQ5MmZrTURWM3ZvVlY5cjlKdVROdl8yQXNqWGdmcUhFQTV2RDI5Wnd0Yjgxd3pxRWhROUdrY0paT1BhNm5aMTAycG5MNjFKSTE0cnNGVTZlQVR4Q1RXZl91bzQ?oc=5",
-        "date": "2026-11-17T07:22:08+00:00"
+        "date": "2026-11-17T03:31:00+00:00",
+        "body": "a02.txt"
       },
       {
         "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYWxKakk2Qk5PZDdqN3pLZmVvTExCTWdId0Y5LTQtWUFrUmxpeVVfT2hjOUlVbHh6WmlHQlotVnJ5clBjT3NsVTFYQXhtNHBUd01jUNIBV0FVX3lxTE1LdGRxSzV1QjRmM2xWenV5dy1uTUc0eE5GcGZDR3dzNEdaemNxSEljYU4wUXhreUNUdlhza2U3Ny1TU0RDNGZXalNIN2JHZjNCX3J0WWMycw?oc=5",
-        "date": "2026-11-16T23:07:00+00:00"
+        "date": "2026-11-16T23:07:00+00:00",
+        "body": "a03.txt"
+      },
+      {
+        "title": "東証10時 日経平均は下げ渋る 海外勢の先物買いが膨らむ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyOUs4QzZOc1VvY0Y2LUg3Q0pUWDFVY181azNTUnd5eXZKS2xaZzA0RFA5R2RLUnpWak45Uk8tRmNkMGZJbmN3UWhEdnZwbmxUZy1HRUY4QnlxaFQyWWl2enE4UDhRSEowc0pOaQ?oc=5",
+        "date": "2026-11-17T01:22:43+00:00",
+        "body": "a04.txt"
       },
       {
         "title": "日経平均は大幅続落、米半導体規制強化でAI関連株に売り／相場概況 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ScVE0OUVGMjBLY1E2bEpIN2JaZDhXVDhING1BRlpfYTI1ZzB3QU8zdk56cUNSeGJ5V3c1Qm53NURWYUdCY1RKdFJlZ290T2g2SUE?oc=5",
-        "date": "2026-11-17T07:00:53+00:00"
+        "date": "2026-11-17T07:00:53+00:00",
+        "body": "a05.txt"
+      },
+      {
+        "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
+        "date": "2026-11-15T22:37:05+00:00",
+        "body": "a06.txt"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月17日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84RWVfSUJNUTNiVUM3czJIWkR6MFNDYXRjeGNvX1FFX1ZieVFLdVdkMWljVmtSakJmUGh6NjRGUkVwMEhVU3FCeFpmdXNIQlZscnppVzRucURkVUtaM1o2Sw?oc=5",
+        "date": "2026-11-16T23:09:50+00:00",
+        "body": "a07.txt"
       },
       {
         "title": "日経平均、米AI株安が重荷 NVIDIA決算控え様子見（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14SXVmVnlhcWFrUTdjd2hYMTNhX2VlQjNYZGpDdVhWbDFsSWdKMnZFeG5mZ3hxWlBKUnBYQlZNNjBFR0kzS3F1R3RRTFh1SmpGTm1sanozRWlFamQ1Y0NXQThnbFBIUFptVF9kQQ?oc=5",
-        "date": "2026-11-16T22:30:00+00:00"
+        "date": "2026-11-16T22:30:00+00:00",
+        "body": "a08.txt"
+      },
+      {
+        "title": "日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ydG9BRG83dVZsalVodEM4WjFqRUh0RkI2WkhCeE1ZbGRiS0FCMTlpRUZ3QVp0S29aSmhZNERyVy1qSE50NUw0Q3VubUhKdVQ5YWNTVndoT2dudTdmdDgtcWxJWDJ1TkktaWRQZA?oc=5",
+        "date": "2026-11-17T02:59:36+00:00"
+      },
+      {
+        "title": "ロイヤルHD株価、9年ぶり高値 1〜9月経常益が過去最高 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbWN1M28wak9rNDlNaFZBTmZKOTduRWhONFk3Y0liZW13d0Q3T2N6SjVac3ZWWjc4RUdSYmxSZjdNT0MxSjB6UDFhYWF2cDVraXRvZjI5WWhIWWpPMGR0V0JCYmJDYVJXaGFPRQ?oc=5",
+        "date": "2026-11-17T02:02:57+00:00"
+      },
+      {
+        "title": "日経平均終値1480円安、尾を引くAI不安 ニトリHDなど消費関連に強さ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wRElibmtXQ2hmUVExbExSMU4wa1dkbV81MWgtS1QtTF9RbVNlWFFmX1VIVXBSZDV5QnNRcnpVNXE1Z0k4dzBsbkxKdEtmZmQzWm92eW1TNnJSakg5ZW1aUEF6UGNXaGtOd0dtNw?oc=5",
+        "date": "2026-11-16T02:42:48+00:00"
       }
     ],
     "ai": [
@@ -459,7 +466,7 @@
     }
   },
   "index": {
-    "price": 58695.0,
+    "price": 58730.0,
     "prev": 59045.0,
     "points": [
       [
@@ -2144,22 +2151,29 @@
       ],
       [
         "11/18 04:10",
-        58690.0,
+        58725.0,
         58680.0,
-        58710.0,
+        58755.0,
         58635.0
       ],
       [
-        "11/18 04:13",
-        58695.0,
-        58695.0,
-        58695.0,
-        58695.0
+        "11/18 04:15",
+        58685.0,
+        58740.0,
+        58775.0,
+        58685.0
+      ],
+      [
+        "11/18 04:18",
+        58730.0,
+        58730.0,
+        58730.0,
+        58730.0
       ]
     ]
   },
   "gold": {
-    "price": 3858.4,
+    "price": 3859.5,
     "prev": 3859.0,
     "points": [
       [
@@ -3851,26 +3865,33 @@
       ],
       [
         "11/18 04:10",
-        3857.4,
+        3858.9,
         3857.9,
         3859.5,
-        3857.3
+        3856.7
       ],
       [
-        "11/18 04:13",
-        3858.4,
-        3858.4,
-        3858.4,
-        3858.4
+        "11/18 04:15",
+        3859.0,
+        3858.9,
+        3861.5,
+        3857.9
+      ],
+      [
+        "11/18 04:18",
+        3859.5,
+        3859.5,
+        3859.5,
+        3859.5
       ]
     ]
   },
   "fx": {
-    "price": 159.301,
+    "price": 159.325,
     "prev": 159.392
   },
   "topix": {
-    "price": 140.915,
+    "price": 140.72,
     "prev": 137.36
   },
   "ver": "v62"
