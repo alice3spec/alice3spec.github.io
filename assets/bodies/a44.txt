@@ -33,51 +33,17 @@ Image: jamesonwu1972 / Shutterstock.com
 
 また、今年初めにフアン氏へのインタビューを行なったポッドキャスターのレックス・フリードマン氏は12日、NVIDIAがフアン氏と袂を分かつという決定を下したことについて、「アメリカと人類にとって、非常に大きな間違いだ」とXに投稿しました。
 
+> NVIDIA letting Jensen go is a huge mistake, for America and for humanity. It's Apple firing Steve Jobs all over again, but much bigger, given the role of AI in defining the future of our world. I've been keeping quiet on this out of respect for Jensen's family and team, who I've met and who are amazing humans, and because I personally hate infidelity. So my heart goes out to them in this difficult personal family moment. But I can also say that Jensen is human, and makes mistakes like all of us do. Not that I matter at all, but I've known Jensen for a long time and have gotten the chance to spend a lot of time with him, behind the scenes, away from mics and cameras. I have seen him show kindness, humility, care to everyone around him, including strangers, including from the poorest most struggling parts of society, treating all the same with the same thoughtfulness and attention, because they are fellow humans and not because he has something to gain from them. That shows rare character, to maintain humility and humanity through all of it. Another data point is what people who know him well have said privately to me about Jensen over the years. I've never had anyone tell me anything but how awesome he is or how much they love him. Probably over a thousand people at this point. This includes hundreds of engineers, CEOs, colleagues, friends, etc. Also, since there was some spy talk. Jensen is as proud an American as it gets. I'm in shock frankly at all of this, including the mass hysteria around it. I love America, and I think NVIDIA letting Jensen go is terrible for America. I stand with Jensen. Love you all ❤️
+>
+> — Lex Fridman (@lexfridman) November 12, 2026
+
 フリードマン氏は、フアン氏の退社を、当時のCEOジョン・スカリー氏との対立の末、1985年にスティーブ・ジョブズ氏がアップルを追放されたケースになぞらえました。
 
 しかし、フリードマン氏は、「AIが世界の未来を定義する役割を考えると、フアン氏の退任は（ジョブズ氏の場合よりも）はるかに重大だ」と指摘しています。
 
 ジョブズ氏は1997年にアップルへ復帰し、当初は暫定CEOを務めました。その後、倒産の危機に瀕していた同社を立て直し、再び成長へと導いたことはご存知のとおり。
 
-## 思い出される3年前の「アルトマン解任騒動」
-
-フアン氏の退任をめぐっては、ちょうど3年前にシリコンバレーで起きた別の経営者解任劇も思い起こされます。OpenAIのCEOだったサム・アルトマン氏が解任された件です。
-
-当時、OpenAIの取締役会はブログへの投稿で、アルトマン氏が「コミュニケーションにおいて一貫して率直な対応をしておらず、そのことが取締役会の責務遂行を妨げていた」と説明していました。
-
-後任には最高技術責任者（CTO）のミラ・ムラティ氏が暫定CEOに就任したものの、すぐにTwitchの元CEOであるエメット・シア氏に交代しました。
-
-しかし、その後も抗議の意思を示してグレッグ・ブロックマン社長が辞任するなど、従業員からの激しい反発が起こります。社内の混乱が広がるなか、OpenAIはそのわずか5日後にアルトマン氏のCEO復帰に合意。アルトマン氏を解任した取締役会の大半も、辞任することで合意するという結果になりました。
-
-辞任したメンバーのなかには、共同創業者のイリヤ・サツケバー氏も含まれていました。同氏は当初アルトマン氏の解任に賛成したもののの、その後方針転換して復帰を支持していました。ブロックマン氏も社長に復帰した一方、サツケバー氏とムラティ氏は翌2024年、そろってOpenAIを去っています。
-
-重要なのは、アルトマン氏の解任が、少なくとも表向きは本人の経営者としての振る舞いに対する懸念だけを理由としていたのに対し、フアン氏の場合は私生活が問題になっているという点です。
-
-元NVIDIAのエンジニアであるティモニン氏やフリードマン氏らは、米国が中国とAI産業の覇権をめぐって競争している今、フアン氏の不適切な異性関係を理由に、経営者としての能力まで否定すべきではないと公の場で主張しています。
-
-こうした意見は、従業員の反発が2023年のアルトマン氏解任時ほどの規模にまで広がれば、取締役会の決定を覆し、フアン氏がCEOに復帰する可能性もあります。ただし、現時点ではそのような事態は起こる可能性はそれほど高くなさそうです。
-
-もっとも、フアン氏の不倫疑惑のうち1件は相手がNVIDIAの部下でした。その事実は、単なる私生活の問題では済まされず、会社にも関わる問題となります。
-
-## トランプ大統領もフアン氏を擁護
-
-NVIDIAは今後の経営や業績も考えなければなりません。特に懸念されるのは、海外事業への影響です。米政府は、中国企業が海外のデータセンターを通じて高性能AIチップに遠隔アクセスすることを防ぐため、海外のデータセンターに送られる高性能AIチップに新たな連邦規制を設ける方針です。こうした規制が導入されれば、同社の海外事業は打撃を受けることになるでしょう。
-
-さらにまったく別の問題として、外国の諜報機関とのつながりが疑われている人物との不倫関係もあります。相手とされるアリス・フアン氏については、中国諜報機関との関係を含め、依然として多くの謎が残こります。
-
-一方、トランプ政権の元AI担当責任者で、現在は大統領科学技術諮問委員会の共同議長を務めるデビッド・サックス氏が、「スパイ説はすでに崩れ始めている」と12日木曜日の夜遅く、Xに投稿しました。
-
-サックス氏は投稿にCNNの記事へのリンクを貼り、その内容によると、アリス・フアン氏が中国国家安全省のために意図的にスパイ行為を行なっていたことを示す証拠があるのかどうかについては、米国の国家安全保障当局者のあいだで意見が分かれているといいます。
-
-ただしCNNは、一部の当局者が今も同氏を重大な防諜上のリスクとみなしており、FBIによる捜査も続いていると報じています。ちなみにニューヨーク・タイムズ紙によると、サックス氏は昨年11月時点で、数百件に及ぶテクノロジー関連企業への投資を行なっています。
-
-トランプ大統領も同様に、テレビ番組の司会者スティーブン・A・スミス氏との会話で、アリス・フアン氏が実際にスパイだと判明したのかどうか、自分にはわからないと語りました。
-
-なおトランプはこの夏、NVIDIA株を最大160万ドル相当購入したと報じられています。
-
-ジェンスン・フアン氏が辞任したことについて、トランプ氏はスミス氏に次のように語りました。
-
-> もし相手の女性がスパイではなかったのなら、状況は違っていたかもしれない。だが、これだけは言っておこう。彼は何とかして必ず立ち直るだろう。
+123
 
 Advertisement
 
@@ -97,13 +63,26 @@ Monthly
 
 Amazon
 
-1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026 07:00 27,3162. 大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え Nov 16,2026 08:00 12,6433. トヨタ、「かわいい」軽トラをアメリカで発売へ Nov 16,2026 08:45 6,6724. 南極点の情シス、募集中。年収1,270万円 Nov 16,2026 11:00 7,6225. サムスン×Googleのスマートグラス、Pixel Watch・Galaxy Watchから操作可能 Nov 16,2026 18:30 9,633
+1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026 07:00 27,5752. 大人には使いこなせない。タッチ式MacBook Proを1週間触ってたどり着いた答え Nov 16,2026 08:00 12,8883. トヨタ、「かわいい」軽トラをアメリカで発売へ Nov 16,2026 08:45 6,7004. 南極点の情シス、募集中。年収1,270万円 Nov 16,2026 11:00 7,8255. サムスン×Googleのスマートグラス、Pixel Watch・Galaxy Watchから操作可能 Nov 16,2026 18:30 9,800
 
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,2992. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2743. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 86,9704. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 46,9905. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 42,123
+1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,3282. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2833. PS5を買わなくてもPS5が遊べる。ソニーから「PlayStation Portal プレーヤー」登場 Nov 9,2026 20:30 86,9744. NASA、月の住人を募集中。年収2,600万円 Nov 10,2026 07:00 47,0135. 折りたたみスマホの次は…開けば17インチのドデカタブレットがSamsungから？ Nov 10,2026 12:45 42,138
 
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,2992. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,7743. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2744. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 133,8575. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 131,873
+1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 378,3282. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 149,7803. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,2834. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 133,8595. サム・アルトマン「バグ全部修正するのはもうムリ」 Nov 3,2026 18:00 131,876
 
 PR
 
 ## Latest
 
+#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
+
+### Ranking
+
+Daily
+
+Weekly
+
+Monthly
+
+Amazon
+
+1. RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される Nov 16,2026
