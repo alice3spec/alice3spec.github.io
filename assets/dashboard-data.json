@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T03:53:23.662462+09:00",
+  "updated": "2026-11-18T03:58:36.384461+09:00",
   "feeds": {
     "kabu": [
       {
@@ -20,16 +20,14 @@
         "date": "2026-11-17T07:00:53+00:00"
       },
       {
-        "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYWxKakk2Qk5PZDdqN3pLZmVvTExCTWdId0Y5LTQtWUFrUmxpeVVfT2hjOUlVbHh6WmlHQlotVnJ5clBjT3NsVTFYQXhtNHBUd01jUNIBV0FVX3lxTE1LdGRxSzV1QjRmM2xWenV5dy1uTUc0eE5GcGZDR3dzNEdaemNxSEljYU4wUXhreUNUdlhza2U3Ny1TU0RDNGZXalNIN2JHZjNCX3J0WWMycw?oc=5",
-        "date": "2026-11-16T23:07:00+00:00",
-        "body": "a03.txt"
-      },
-      {
         "title": "東証10時 日経平均は下げ渋る 海外勢の先物買いが膨らむ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyOUs4QzZOc1VvY0Y2LUg3Q0pUWDFVY181azNTUnd5eXZKS2xaZzA0RFA5R2RLUnpWak45Uk8tRmNkMGZJbmN3UWhEdnZwbmxUZy1HRUY4QnlxaFQyWWl2enE4UDhRSEowc0pOaQ?oc=5",
-        "date": "2026-11-17T01:22:43+00:00",
-        "body": "a04.txt"
+        "date": "2026-11-17T01:22:43+00:00"
+      },
+      {
+        "title": "（朝）米国市場は3指数揃って下落　人工知能（AI）関連銘柄が売られたことが相場全体に波及し下げる展開 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zYWxKakk2Qk5PZDdqN3pLZmVvTExCTWdId0Y5LTQtWUFrUmxpeVVfT2hjOUlVbHh6WmlHQlotVnJ5clBjT3NsVTFYQXhtNHBUd01jUNIBV0FVX3lxTE1LdGRxSzV1QjRmM2xWenV5dy1uTUc0eE5GcGZDR3dzNEdaemNxSEljYU4wUXhreUNUdlhza2U3Ny1TU0RDNGZXalNIN2JHZjNCX3J0WWMycw?oc=5",
+        "date": "2026-11-16T23:07:00+00:00"
       },
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
@@ -55,20 +53,19 @@
         "body": "a08.txt"
       },
       {
-        "title": "１７日の株式相場見通し＝大幅続落か、ＡＩ・半導体関連株への逆風続く - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SRXhoNTFGYlNNa2tCTEw5N2NtbnA4Z0RjTHpJS3NkcmJ2YTc2Z3Rfc012b1ZoQW9Rd0YxaklhSlFoM1FzemFtWmd0TkQzeXQ1Z1dienQySHRxeDR1VlRiag?oc=5",
-        "date": "2026-11-16T23:00:00+00:00"
-      },
-      {
         "title": "日経平均、終値801円安 NVIDIA騒動に米半導体規制の二重苦 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ydG9BRG83dVZsalVodEM4WjFqRUh0RkI2WkhCeE1ZbGRiS0FCMTlpRUZ3QVp0S29aSmhZNERyVy1qSE50NUw0Q3VubUhKdVQ5YWNTVndoT2dudTdmdDgtcWxJWDJ1TkktaWRQZA?oc=5",
-        "date": "2026-11-17T02:59:36+00:00",
-        "body": "a10.txt"
+        "date": "2026-11-17T02:59:36+00:00"
       },
       {
         "title": "ロイヤルHD株価、9年ぶり高値 1〜9月経常益が過去最高 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbWN1M28wak9rNDlNaFZBTmZKOTduRWhONFk3Y0liZW13d0Q3T2N6SjVac3ZWWjc4RUdSYmxSZjdNT0MxSjB6UDFhYWF2cDVraXRvZjI5WWhIWWpPMGR0V0JCYmJDYVJXaGFPRQ?oc=5",
         "date": "2026-11-17T02:02:57+00:00"
+      },
+      {
+        "title": "ピジョン株価、連日で年初来高値 米ベビー用品会社610億円で買収 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPUDh1a1RNLUNBczRraFEwQjIxTGFwV3dLcHpRY3Ywdzk3OTBpTUlueTBzQXB1S3I2U2V6bGxBWVJRYVo0ZjRhSGtHU3l5X3ZxSGl1UENtamxLTUQ5WXFFYkM1RWZjTldGY1pOdA?oc=5",
+        "date": "2026-11-17T02:02:31+00:00"
       }
     ],
     "ai": [
@@ -465,7 +462,7 @@
     }
   },
   "index": {
-    "price": 58675.0,
+    "price": 58640.0,
     "prev": 59045.0,
     "points": [
       [
@@ -2108,22 +2105,29 @@
       ],
       [
         "11/18 03:40",
-        58675.0,
+        58680.0,
         58685.0,
         58685.0,
         58660.0
       ],
       [
-        "11/18 03:43",
-        58675.0,
-        58675.0,
-        58675.0,
-        58675.0
+        "11/18 03:45",
+        58640.0,
+        58680.0,
+        58700.0,
+        58630.0
+      ],
+      [
+        "11/18 03:47",
+        58640.0,
+        58640.0,
+        58640.0,
+        58640.0
       ]
     ]
   },
   "gold": {
-    "price": 3860.2,
+    "price": 3858.7,
     "prev": 3859.0,
     "points": [
       [
@@ -3773,26 +3777,33 @@
       ],
       [
         "11/18 03:40",
-        3860.3,
+        3861.1,
         3862.5,
         3862.5,
         3859.4
       ],
       [
-        "11/18 03:43",
-        3860.2,
-        3860.2,
-        3860.2,
-        3860.2
+        "11/18 03:45",
+        3859.0,
+        3861.3,
+        3861.7,
+        3857.8
+      ],
+      [
+        "11/18 03:48",
+        3858.7,
+        3858.7,
+        3858.7,
+        3858.7
       ]
     ]
   },
   "fx": {
-    "price": 159.275,
+    "price": 159.311,
     "prev": 159.392
   },
   "topix": {
-    "price": 140.673,
+    "price": 140.76,
     "prev": 137.36
   },
   "ver": "v62"
