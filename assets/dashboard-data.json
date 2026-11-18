@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:48:25.737547+09:00",
+  "updated": "2026-11-18T23:53:33.931334+09:00",
   "feeds": {
     "kabu": [
       {
@@ -34,9 +34,9 @@
         "body": "a05.txt"
       },
       {
-        "title": "日経平均は反発、エヌビディア好決算で半導体株に買い戻し／相場概況 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43am42SEx6bk1CcTdtaHlITkFvalEzVzZ2dEJNRzVjT0ljQVAybkdjRllpOW56Q1J3akxhMnpabjRqZEh1ZVlDbHRnSjJnaEQ5Tmk5eVlzVlRBVWFqNWx6UQ?oc=5",
-        "date": "2026-11-18T06:48:21+00:00"
+        "title": "明日の株式相場に向けて＝「サイバー防衛関連」に熱視線再び - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WbmZDVWp4ZFV4UFZHM0Zxd0Z3Ny11azlINVFuc2ltNlg2ZVRfM0U2RVhYb1NfV2VNYm9OeXZoc0d6VUxWT0xWX05GNG5pak9nX25hNTBsQklhZi0ycGlZRQ?oc=5",
+        "date": "2026-11-18T08:30:00+00:00"
       },
       {
         "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
@@ -44,9 +44,10 @@
         "date": "2026-11-18T00:04:33+00:00"
       },
       {
-        "title": "明日の株式相場に向けて＝「サイバー防衛関連」に熱視線再び - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WbmZDVWp4ZFV4UFZHM0Zxd0Z3Ny11azlINVFuc2ltNlg2ZVRfM0U2RVhYb1NfV2VNYm9OeXZoc0d6VUxWT0xWX05GNG5pak9nX25hNTBsQklhZi0ycGlZRQ?oc=5",
-        "date": "2026-11-18T08:30:00+00:00"
+        "title": "日経平均は反発、エヌビディア好決算で半導体株に買い戻し／相場概況 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43am42SEx6bk1CcTdtaHlITkFvalEzVzZ2dEJNRzVjT0ljQVAybkdjRllpOW56Q1J3akxhMnpabjRqZEh1ZVlDbHRnSjJnaEQ5Tmk5eVlzVlRBVWFqNWx6UQ?oc=5",
+        "date": "2026-11-18T06:48:21+00:00",
+        "body": "a08.txt"
       },
       {
         "title": "東証後場寄り 日経平均は上昇に転じる 海外勢が先物買い - 日本経済新聞",
@@ -263,7 +264,8 @@
       {
         "title": "Boseの有線イヤホンってどうなの？ Noise Cancelling Wired Earbudsレビュー。ANCが魅力も少々高い",
         "link": "https://www.gizmodo.jp/article/bose-noise-cancelling-wired-earbuds-review/",
-        "date": "2026-11-18T10:30:00+00:00"
+        "date": "2026-11-18T10:30:00+00:00",
+        "body": "a44.txt"
       },
       {
         "title": "SHUREの新しい空間オーディオマイク「MV360」を映画館で体感しませんか？ プロが録った音も、制作の裏側も",
@@ -308,27 +310,26 @@
         "date": "2026-11-18T13:52:58+00:00"
       },
       {
-        "title": "大道芸 ギリヤーク尼ヶ崎さん死去",
-        "link": "https://news.yahoo.co.jp/pickup/6603087?source=rss",
-        "date": "2026-11-18T13:34:01+00:00"
+        "title": "飲み会巡る通達 NHK記者は戸惑い",
+        "link": "https://news.yahoo.co.jp/pickup/6603085?source=rss",
+        "date": "2026-11-18T13:40:48+00:00",
+        "body": "a52.txt"
+      },
+      {
+        "title": "川に展示の美術作品 さらに破壊か",
+        "link": "https://news.yahoo.co.jp/pickup/6603090?source=rss",
+        "date": "2026-11-18T14:05:12+00:00",
+        "body": "a53.txt"
       },
       {
         "title": "森保監督 海外から「打診」明かす",
         "link": "https://news.yahoo.co.jp/pickup/6603091?source=rss",
-        "date": "2026-11-18T14:08:35+00:00",
-        "body": "a53.txt"
+        "date": "2026-11-18T14:08:35+00:00"
       },
       {
         "title": "太田裕美さん 夫明かす最期の様子",
         "link": "https://news.yahoo.co.jp/pickup/6603082?source=rss",
-        "date": "2026-11-18T13:05:41+00:00",
-        "body": "a54.txt"
-      },
-      {
-        "title": "エンタメ界 問われる「ワル売り」",
-        "link": "https://news.yahoo.co.jp/pickup/6603064?source=rss",
-        "date": "2026-11-18T09:38:37+00:00",
-        "body": "a55.txt"
+        "date": "2026-11-18T13:05:41+00:00"
       }
     ]
   },
@@ -450,7 +451,7 @@
     "rain": null
   },
   "index": {
-    "price": 58645.0,
+    "price": 58505.0,
     "prev": 59375.0,
     "points": [
       [
@@ -1750,22 +1751,29 @@
       ],
       [
         "11/18 23:35",
-        58515.0,
+        58660.0,
         58855.0,
         58900.0,
         58515.0
       ],
       [
-        "11/18 23:38",
-        58645.0,
-        58645.0,
-        58645.0,
-        58645.0
+        "11/18 23:40",
+        58540.0,
+        58660.0,
+        58705.0,
+        58455.0
+      ],
+      [
+        "11/18 23:43",
+        58505.0,
+        58505.0,
+        58505.0,
+        58505.0
       ]
     ]
   },
   "gold": {
-    "price": 3768.3,
+    "price": 3774.3,
     "prev": 3851.9,
     "points": [
       [
@@ -3079,26 +3087,33 @@
       ],
       [
         "11/18 23:35",
-        3769.6,
+        3771.7,
         3773.0,
-        3774.1,
+        3775.0,
         3766.4
       ],
       [
-        "11/18 23:38",
-        3768.3,
-        3768.3,
-        3768.3,
-        3768.3
+        "11/18 23:40",
+        3774.0,
+        3771.4,
+        3775.3,
+        3767.9
+      ],
+      [
+        "11/18 23:43",
+        3774.3,
+        3774.3,
+        3774.3,
+        3774.3
       ]
     ]
   },
   "fx": {
-    "price": 159.177,
+    "price": 159.249,
     "prev": 159.404
   },
   "topix": {
-    "price": 142.3,
+    "price": 142.36,
     "prev": 141.7
   },
   "ver": "v62"
