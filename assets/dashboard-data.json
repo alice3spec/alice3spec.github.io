@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T16:33:18.488861+09:00",
+  "updated": "2026-11-18T16:38:12.137542+09:00",
   "feeds": {
     "kabu": [
       {
@@ -18,9 +18,9 @@
         "date": "2026-11-17T22:30:00+00:00"
       },
       {
-        "title": "日経平均、300円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWVhsV3FKN0VkcUptYlpXM0VjZklSa01hNFE1RF9mTVA2Sm9JZU43azZoQkVWVlFTLVIxb0hESnp1M1psTkMyNXRwQ0JjZG1lM01jbHdCdmxkMlI5N0p4MzZwSUx5dERPOUNidXRjU080c25yMFdOM19lNk56Sjc5LS1qZy1mSGM?oc=5",
-        "date": "2026-11-18T01:44:04+00:00"
+        "title": "日経平均VIは低下、株価底堅いがイベント控え警戒感も継続(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGlNMy12Y1FzekVqY2NhaG5RZUtNb3BfS0xVUHhtUHozcGJyWWlJZTRPRDAwS0hpYUFMQXJzNmtsZ2tfakhjTFlpM2dEam9wcEJmb2VjazBKMEw1U1BJNjdheklURmpVYUZ4RXNlV2w4QWszckxHeC10aXdnZlZDTHRxVjlaMkE?oc=5",
+        "date": "2026-11-18T05:17:48+00:00"
       },
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
@@ -33,9 +33,9 @@
         "date": "2026-11-18T06:33:16+00:00"
       },
       {
-        "title": "日経平均VIは低下、株価底堅いがイベント控え警戒感も継続(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGlNMy12Y1FzekVqY2NhaG5RZUtNb3BfS0xVUHhtUHozcGJyWWlJZTRPRDAwS0hpYUFMQXJzNmtsZ2tfakhjTFlpM2dEam9wcEJmb2VjazBKMEw1U1BJNjdheklURmpVYUZ4RXNlV2w4QWszckxHeC10aXdnZlZDTHRxVjlaMkE?oc=5",
-        "date": "2026-11-18T05:17:48+00:00"
+        "title": "日経平均、163円89銭安の5万8696円54銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWWdiMDNDM1o0OWtiMWh5SUxlTlFvZno0bXpEOGpleWZlcW9iajRvZHdxSldmbTNLZm5DZDVkNF9VTXM3OEZQSU9iLUUzRGl3Y2RIVVotV2ZGNGxkQXNmR3k2bTViTmF2VzRfNUZGSGtkZkdmSTZjNTlkdXZmMHAyRFROalNfNW8?oc=5",
+        "date": "2026-11-18T02:31:26+00:00"
       },
       {
         "title": "日経平均は反発、エヌビディア好決算で半導体株に買い戻し／相場概況 - 株探",
@@ -213,76 +213,71 @@
     ],
     "gadget": [
       {
+        "title": "地図で囲んだ街がマイクラに。道路には車、線路には電車まで走り出す",
+        "link": "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/",
+        "date": "2026-11-18T07:35:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "電源不要。アラジンのトースター、カセットボンベで動くようになりました",
         "link": "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
         "date": "2026-11-18T07:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "Suicaペンギンの後継キャラクターが決定！",
         "link": "https://www.gizmodo.jp/article/2611-suica-penguin-successor/",
-        "date": "2026-11-18T06:35:00+00:00",
-        "body": "a37.txt"
+        "date": "2026-11-18T06:35:00+00:00"
       },
       {
         "title": "表情豊かにしゃべるAIロボット。雑用も任せられます",
         "link": "https://www.gizmodo.jp/article/ai-robot_fr-nia/",
-        "date": "2026-11-18T06:00:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-18T06:00:00+00:00"
       },
       {
         "title": "Spotifyでスクラッチ、オモロなDIYヘッドフォンおじさんの新作DJギアが画期的",
         "link": "https://www.gizmodo.jp/article/spotify-scratch-diy-dj-gear/",
-        "date": "2026-11-18T05:15:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-18T05:15:00+00:00"
       },
       {
         "title": "いつもの行動を読んで次を提案。画面付きスマートリングはAI秘書になってくれるのか",
         "link": "https://www.gizmodo.jp/article/2611-aina-ring-ai-smart-ring/",
         "date": "2026-11-18T05:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "ゲームパッドそっくりでカワイイ。音響操作ができるDAC／ヘッドホンアンプ",
         "link": "https://www.gizmodo.jp/article/2611-gamepad-dac-headphone-amp/",
-        "date": "2026-11-18T04:45:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-18T04:45:00+00:00"
       },
       {
         "title": "キャタピラはロマン。トヨタが雪上仕様のコンセプトカーを5車種も出してきた",
         "link": "https://www.gizmodo.jp/article/2611-toyota-snow-hunter-concept-caterpillar/",
         "date": "2026-11-18T04:30:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "2万回グニグニしても断線しない。有線イヤホンはこうでなくっちゃ！",
         "link": "https://www.gizmodo.jp/article/owltech_tough_wired_earphones/",
         "date": "2026-11-18T04:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "「GTA6の発売。休みを認めてくれなければ辞めます」イギリスで休暇申請が約8.3万日分",
         "link": "https://www.gizmodo.jp/article/2611-gta6-release-uk-leave/",
         "date": "2026-11-18T03:45:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "GoogleのフィジカルAIが「繊細な手作業」を習得。作業速度も20〜30%改善",
         "link": "https://www.gizmodo.jp/article/2611-gemini-robotics-2-5/",
         "date": "2026-11-18T03:30:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "その手でハンドルも武器も握れる。GTA Vの最新VR MODが没入感マシマシ",
         "link": "https://www.gizmodo.jp/article/gta-v-vr-mod/",
-        "date": "2026-11-18T03:15:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "10年以上ぶりのSamsungのヘッドホン「Galaxy Studio」。年明け発表が濃厚",
-        "link": "https://www.gizmodo.jp/article/samsung_galaxy-studio_newheadphone/",
-        "date": "2026-11-18T03:00:00+00:00",
-        "body": "a47.txt"
+        "date": "2026-11-18T03:15:00+00:00"
       }
     ],
     "yahoo": [
@@ -299,33 +294,31 @@
         "body": "a49.txt"
       },
       {
-        "title": "半導体 調達ルート狭まる中国企業",
-        "link": "https://news.yahoo.co.jp/pickup/6603014?source=rss",
-        "date": "2026-11-18T04:12:43+00:00",
-        "body": "a50.txt"
-      },
-      {
         "title": "NHK会長「飲み会」通達巡り言及",
         "link": "https://news.yahoo.co.jp/pickup/6603039?source=rss",
-        "date": "2026-11-18T06:37:52+00:00",
-        "body": "a51.txt"
+        "date": "2026-11-18T06:37:52+00:00"
       },
       {
         "title": "楽天証券 情報漏えいの確認方法",
         "link": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
-        "date": "2026-11-18T05:06:26+00:00",
-        "body": "a52.txt"
+        "date": "2026-11-18T05:06:26+00:00"
       },
       {
         "title": "Suica新キャラ紫のうさぎ X反応",
         "link": "https://news.yahoo.co.jp/pickup/6603032?source=rss",
         "date": "2026-11-18T06:11:31+00:00",
-        "body": "a53.txt"
+        "body": "a52.txt"
       },
       {
         "title": "ピッチクロック来季から試行 NPB",
         "link": "https://news.yahoo.co.jp/pickup/6603040?source=rss",
         "date": "2026-11-18T07:00:09+00:00",
+        "body": "a53.txt"
+      },
+      {
+        "title": "目黒蓮 ベストジーニスト殿堂入り",
+        "link": "https://news.yahoo.co.jp/pickup/6603042?source=rss",
+        "date": "2026-11-18T07:24:06+00:00",
         "body": "a54.txt"
       },
       {
@@ -454,7 +447,7 @@
     "rain": null
   },
   "index": {
-    "price": 59255.0,
+    "price": 59300.0,
     "prev": 59375.0,
     "points": [
       [
@@ -1145,22 +1138,29 @@
       ],
       [
         "11/18 16:20",
-        59275.0,
+        59295.0,
         59235.0,
-        59285.0,
+        59295.0,
         59235.0
       ],
       [
-        "11/18 16:23",
-        59255.0,
-        59255.0,
-        59255.0,
-        59255.0
+        "11/18 16:25",
+        59300.0,
+        59295.0,
+        59315.0,
+        59245.0
+      ],
+      [
+        "11/18 16:28",
+        59300.0,
+        59300.0,
+        59300.0,
+        59300.0
       ]
     ]
   },
   "gold": {
-    "price": 3773.9,
+    "price": 3773.0,
     "prev": 3851.9,
     "points": [
       [
@@ -1865,22 +1865,29 @@
       ],
       [
         "11/18 16:20",
-        3775.0,
+        3776.0,
         3775.9,
         3776.5,
         3772.0
       ],
       [
-        "11/18 16:23",
-        3773.9,
-        3773.9,
-        3773.9,
-        3773.9
+        "11/18 16:25",
+        3773.5,
+        3775.7,
+        3775.9,
+        3772.1
+      ],
+      [
+        "11/18 16:28",
+        3773.0,
+        3773.0,
+        3773.0,
+        3773.0
       ]
     ]
   },
   "fx": {
-    "price": 159.164,
+    "price": 159.178,
     "prev": 159.404
   },
   "topix": {
