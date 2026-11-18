@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T03:08:17.617497+09:00",
+  "updated": "2026-11-19T03:13:49.017249+09:00",
   "feeds": {
     "kabu": [
       {
@@ -50,6 +50,11 @@
         "date": "2026-11-18T04:03:09+00:00"
       },
       {
+        "title": "１８日の株式相場見通し＝反発、エヌビディアは決算後に時間外で上昇 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pelNfdE1BT0d0WFg3NzJuaUpmeVNISHJMZHgyVFFfWHZuMVRnckcwcWFzRFhIaHdNRHdQZDhuSTl6V0NYS0lOMTVmX1VmMVc0bkpOSzdyaE1JeVJmQ0JTbg?oc=5",
+        "date": "2026-11-17T23:00:00+00:00"
+      },
+      {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
         "date": "2026-11-15T22:37:05+00:00"
@@ -58,11 +63,6 @@
         "title": "東証前引け 日経平均は続落、705円安 米半導体規制強化が重荷 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RbHByUFMtZnhXdk5WOXlSaVdDZHhFRXpueWV3ODdQR002MHdGTXdSZWY5b3hLakNDVzgwMnhsaXVfSFJaMXRmYXJkWXFIampsd2ZBNDBaYkZBWWk5NW50TUdtTm5aOVF0TjY5Rg?oc=5",
         "date": "2026-11-17T02:55:03+00:00"
-      },
-      {
-        "title": "東証10時 日経平均は下げ渋る 海外勢の先物買いが膨らむ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyOUs4QzZOc1VvY0Y2LUg3Q0pUWDFVY181azNTUnd5eXZKS2xaZzA0RFA5R2RLUnpWak45Uk8tRmNkMGZJbmN3UWhEdnZwbmxUZy1HRUY4QnlxaFQyWWl2enE4UDhRSEowc0pOaQ?oc=5",
-        "date": "2026-11-17T01:22:43+00:00"
       }
     ],
     "ai": [
@@ -339,16 +339,11 @@
     ]
   },
   "weather": {
-    "temp": 18.5,
+    "temp": 18.3,
     "code": 0,
     "max": 19.2,
     "min": 12.3,
     "hours": [
-      {
-        "time": "2026-11-19T02:00",
-        "temp": 19.1,
-        "code": 0
-      },
       {
         "time": "2026-11-19T03:00",
         "temp": 18.3,
@@ -368,83 +363,88 @@
         "time": "2026-11-19T06:00",
         "temp": 17.3,
         "code": 0
+      },
+      {
+        "time": "2026-11-19T07:00",
+        "temp": 17.0,
+        "code": 0
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-19T02:00",
-        "temp": 19.1,
+        "time": "2026-11-19T03:00",
+        "temp": 18.3,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T05:00",
-        "temp": 17.6,
+        "time": "2026-11-19T06:00",
+        "temp": 17.3,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T08:00",
-        "temp": 16.6,
+        "time": "2026-11-19T09:00",
+        "temp": 16.3,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T11:00",
-        "temp": 16.1,
+        "time": "2026-11-19T12:00",
+        "temp": 16.3,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T14:00",
-        "temp": 16.2,
+        "time": "2026-11-19T15:00",
+        "temp": 16.0,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T17:00",
-        "temp": 15.3,
+        "time": "2026-11-19T18:00",
+        "temp": 14.6,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T20:00",
-        "temp": 13.5,
+        "time": "2026-11-19T21:00",
+        "temp": 13.1,
         "code": 0,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-19T02:00",
-        "pop": 1
-      },
-      {
-        "time": "2026-11-19T05:00",
+        "time": "2026-11-19T03:00",
         "pop": 0
       },
       {
-        "time": "2026-11-19T08:00",
+        "time": "2026-11-19T06:00",
         "pop": 0
       },
       {
-        "time": "2026-11-19T11:00",
+        "time": "2026-11-19T09:00",
         "pop": 0
       },
       {
-        "time": "2026-11-19T14:00",
+        "time": "2026-11-19T12:00",
         "pop": 0
       },
       {
-        "time": "2026-11-19T17:00",
+        "time": "2026-11-19T15:00",
         "pop": 0
       },
       {
-        "time": "2026-11-19T20:00",
+        "time": "2026-11-19T18:00",
         "pop": 0
       },
       {
-        "time": "2026-11-19T23:00",
+        "time": "2026-11-19T21:00",
+        "pop": 0
+      },
+      {
+        "time": "2026-11-20T00:00",
         "pop": 0
       }
     ],
@@ -456,7 +456,7 @@
     "rain": null
   },
   "index": {
-    "price": 58900.0,
+    "price": 58835.0,
     "prev": 59375.0,
     "points": [
       [
@@ -2042,16 +2042,23 @@
         58895.0
       ],
       [
-        "11/19 02:57",
-        58900.0,
-        58900.0,
-        58900.0,
-        58900.0
+        "11/19 03:00",
+        58845.0,
+        58875.0,
+        58885.0,
+        58830.0
+      ],
+      [
+        "11/19 03:03",
+        58835.0,
+        58835.0,
+        58835.0,
+        58835.0
       ]
     ]
   },
   "gold": {
-    "price": 3736.7,
+    "price": 3741.2,
     "prev": 3851.9,
     "points": [
       [
@@ -3645,26 +3652,33 @@
       ],
       [
         "11/19 02:55",
-        3737.8,
+        3738.6,
         3736.3,
-        3738.0,
+        3738.8,
         3735.0
       ],
       [
-        "11/19 02:58",
-        3736.7,
-        3736.7,
-        3736.7,
-        3736.7
+        "11/19 03:00",
+        3741.2,
+        3738.4,
+        3741.8,
+        3737.5
+      ],
+      [
+        "11/19 03:03",
+        3741.2,
+        3741.2,
+        3741.2,
+        3741.2
       ]
     ]
   },
   "fx": {
-    "price": 159.25,
+    "price": 159.253,
     "prev": 159.404
   },
   "topix": {
-    "price": 144.94,
+    "price": 144.385,
     "prev": 141.7
   },
   "ver": "v62"
