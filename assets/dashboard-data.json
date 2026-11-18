@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-19T07:38:25.635692+09:00",
+  "updated": "2026-11-19T07:43:31.032590+09:00",
   "feeds": {
     "kabu": [
       {
-        "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
-        "date": "2026-11-18T02:51:05+00:00",
-        "body": "a00.txt"
+        "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
+        "date": "2026-11-18T22:39:10+00:00"
       },
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
@@ -15,9 +14,9 @@
         "body": "a01.txt"
       },
       {
-        "title": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Eb2FiXzJxZkc3SUVjaXdfLU41NkR3bzg1b0hBRkdsOTNUdFIzTjZHc0pJalZ0ZTF5cnRBYjlqOTdKQThLVUhyTkF5Nlo3RHZvY0NUVGR4R2c3VlpKMGFKcTI2RWh6OFI1a2c2ZQ?oc=5",
-        "date": "2026-11-18T07:47:02+00:00"
+        "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
+        "date": "2026-11-18T02:51:05+00:00"
       },
       {
         "title": "明日の株式相場に向けて＝「サイバー防衛関連」に熱視線再び - 株探",
@@ -25,14 +24,19 @@
         "date": "2026-11-18T08:30:00+00:00"
       },
       {
-        "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
-        "date": "2026-11-18T00:04:33+00:00"
+        "title": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Eb2FiXzJxZkc3SUVjaXdfLU41NkR3bzg1b0hBRkdsOTNUdFIzTjZHc0pJalZ0ZTF5cnRBYjlqOTdKQThLVUhyTkF5Nlo3RHZvY0NUVGR4R2c3VlpKMGFKcTI2RWh6OFI1a2c2ZQ?oc=5",
+        "date": "2026-11-18T07:47:02+00:00"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月18日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pRmlOMEV6V0NkcVlENWJ1V0Q1RmhfUTJkYUxycmtzVGozZFpzRkNndzJ4NXd4RG1ick4xYm1BZDNvQ2tDcy13VlIzRmVwT2xkSklpRzhRcW9HWkRlUWNJNQ?oc=5",
         "date": "2026-11-17T23:22:35+00:00"
+      },
+      {
+        "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
+        "date": "2026-11-18T00:04:33+00:00"
       },
       {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
@@ -58,11 +62,6 @@
         "title": "東証10時 日経平均は下げ渋る 海外勢の先物買いが膨らむ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyOUs4QzZOc1VvY0Y2LUg3Q0pUWDFVY181azNTUnd5eXZKS2xaZzA0RFA5R2RLUnpWak45Uk8tRmNkMGZJbmN3UWhEdnZwbmxUZy1HRUY4QnlxaFQyWWl2enE4UDhRSEowc0pOaQ?oc=5",
         "date": "2026-11-17T01:22:43+00:00"
-      },
-      {
-        "title": "東証大引け 日経平均は続落、5万9000円割れ 半導体関連に売り - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51V09DQThkTHJZblFVYVFBVkR0NV80VVVZMjFocVRtTUR4dnpwMk1DejQ4alJNMWEtZFFDNVhGUEpLZmNZd2pOZV90Qk4xLUNBWGlkN0FWTW13RWEtOW1nUndSa3Ezc001amlrbw?oc=5",
-        "date": "2026-11-17T06:57:32+00:00"
       }
     ],
     "ai": [
@@ -81,7 +80,8 @@
       {
         "title": "ついに“AIっぽさ”を脱却か？　OpenAIが新モデルGPT-6.2 AstraとSolを発表",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003295/",
-        "date": "2026-11-18T22:00:00+00:00"
+        "date": "2026-11-18T22:00:00+00:00",
+        "body": "a14.txt"
       },
       {
         "title": "AIの精度が低くて使えない――JA共済連がたどり着いた「AIエージェントの育て方」",
@@ -102,7 +102,8 @@
       {
         "title": "米ロックウェルが構想する人間中心の「自律化」、次世代製造業を導くAI戦略",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news026.html",
-        "date": "2026-11-18T21:30:00+00:00"
+        "date": "2026-11-18T21:30:00+00:00",
+        "body": "a18.txt"
       },
       {
         "title": "「オントロジー」とは結局何なのか　Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
@@ -211,7 +212,8 @@
       {
         "title": "【15％OFFは正午まで】トラックボール付きキーボード「C3 Pro Trackball」が1万1594円で買えるのは今だけ",
         "link": "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-chohayawari-last/",
-        "date": "2026-11-18T22:00:00+00:00"
+        "date": "2026-11-18T22:00:00+00:00",
+        "body": "a36.txt"
       },
       {
         "title": "どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場",
@@ -307,24 +309,24 @@
       {
         "title": "NHK飲み会通達 記者が不満漏らす",
         "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
-        "date": "2026-11-18T15:00:45+00:00"
+        "date": "2026-11-18T15:00:45+00:00",
+        "body": "a52.txt"
+      },
+      {
+        "title": "マリナーズ 3対3の電撃トレード",
+        "link": "https://news.yahoo.co.jp/pickup/6603103?source=rss",
+        "date": "2026-11-18T22:35:13+00:00"
       },
       {
         "title": "巨人 前ソフトB牧原巧汰ら獲得へ",
         "link": "https://news.yahoo.co.jp/pickup/6603097?source=rss",
         "date": "2026-11-18T21:30:05+00:00",
-        "body": "a53.txt"
+        "body": "a54.txt"
       },
       {
         "title": "橋本愛が初教師役「楽しい現場」",
         "link": "https://news.yahoo.co.jp/pickup/6603102?source=rss",
         "date": "2026-11-18T22:33:00+00:00"
-      },
-      {
-        "title": "太田裕美さん 夫明かす最期の様子",
-        "link": "https://news.yahoo.co.jp/pickup/6603082?source=rss",
-        "date": "2026-11-18T13:05:41+00:00",
-        "body": "a55.txt"
       }
     ]
   },
@@ -4315,7 +4317,7 @@
     ]
   },
   "fx": {
-    "price": 159.288,
+    "price": 159.295,
     "prev": 159.404
   },
   "topix": {
