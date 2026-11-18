@@ -1,12 +1,11 @@
 {
-  "updated": "2026-11-18T22:18:39.653673+09:00",
+  "updated": "2026-11-18T22:23:15.807713+09:00",
   "feeds": {
     "kabu": [
       {
-        "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
-        "date": "2026-11-18T02:51:05+00:00",
-        "body": "a00.txt"
+        "title": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Eb2FiXzJxZkc3SUVjaXdfLU41NkR3bzg1b0hBRkdsOTNUdFIzTjZHc0pJalZ0ZTF5cnRBYjlqOTdKQThLVUhyTkF5Nlo3RHZvY0NUVGR4R2c3VlpKMGFKcTI2RWh6OFI1a2c2ZQ?oc=5",
+        "date": "2026-11-18T07:47:02+00:00"
       },
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で下げ渋る - 株探",
@@ -15,19 +14,9 @@
         "body": "a01.txt"
       },
       {
-        "title": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Eb2FiXzJxZkc3SUVjaXdfLU41NkR3bzg1b0hBRkdsOTNUdFIzTjZHc0pJalZ0ZTF5cnRBYjlqOTdKQThLVUhyTkF5Nlo3RHZvY0NUVGR4R2c3VlpKMGFKcTI2RWh6OFI1a2c2ZQ?oc=5",
-        "date": "2026-11-18T07:47:02+00:00"
-      },
-      {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月18日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pRmlOMEV6V0NkcVlENWJ1V0Q1RmhfUTJkYUxycmtzVGozZFpzRkNndzJ4NXd4RG1ick4xYm1BZDNvQ2tDcy13VlIzRmVwT2xkSklpRzhRcW9HWkRlUWNJNQ?oc=5",
-        "date": "2026-11-17T23:22:35+00:00"
-      },
-      {
-        "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95T1RqRGYyZmxKSVRnWDZjZ1dOUTFUX1JCWjZPc09xczYtTXJGcGl6Wm04d0xkamdlYnZUeEZvSzFOWkNDVGxVb0tOOUlXR2pERV9ObHBGSHhuSlB1cHVUQ3N6RFZUM211VG5OUg?oc=5",
-        "date": "2026-11-17T22:30:00+00:00"
+        "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
+        "date": "2026-11-18T02:51:05+00:00"
       },
       {
         "title": "日経平均は反発、エヌビディア好決算で半導体株に買い戻し／相場概況 - 株探",
@@ -35,14 +24,24 @@
         "date": "2026-11-18T06:48:21+00:00"
       },
       {
-        "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
-        "date": "2026-11-18T00:04:33+00:00"
+        "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95T1RqRGYyZmxKSVRnWDZjZ1dOUTFUX1JCWjZPc09xczYtTXJGcGl6Wm04d0xkamdlYnZUeEZvSzFOWkNDVGxVb0tOOUlXR2pERV9ObHBGSHhuSlB1cHVUQ3N6RFZUM211VG5OUg?oc=5",
+        "date": "2026-11-17T22:30:00+00:00"
       },
       {
         "title": "明日の株式相場に向けて＝「サイバー防衛関連」に熱視線再び - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WbmZDVWp4ZFV4UFZHM0Zxd0Z3Ny11azlINVFuc2ltNlg2ZVRfM0U2RVhYb1NfV2VNYm9OeXZoc0d6VUxWT0xWX05GNG5pak9nX25hNTBsQklhZi0ycGlZRQ?oc=5",
         "date": "2026-11-18T08:30:00+00:00"
+      },
+      {
+        "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
+        "date": "2026-11-18T00:04:33+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月18日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pRmlOMEV6V0NkcVlENWJ1V0Q1RmhfUTJkYUxycmtzVGozZFpzRkNndzJ4NXd4RG1ick4xYm1BZDNvQ2tDcy13VlIzRmVwT2xkSklpRzhRcW9HWkRlUWNJNQ?oc=5",
+        "date": "2026-11-17T23:22:35+00:00"
       },
       {
         "title": "東証後場寄り 日経平均は上昇に転じる 海外勢が先物買い - 日本経済新聞",
@@ -55,14 +54,14 @@
         "date": "2026-11-17T23:00:00+00:00"
       },
       {
+        "title": "任天堂株価2カ月半ぶり高値 SBI証券が目標上げ「安近短」で評価回復 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lWURDNHpBdk80ck45ZmxtRjFDdFdZenY5Z2dUU0duUUpXc0VlNlIxTV9JaHd2c2o1cmVPV3ZrNmtkWmZWa2JubVd6SkUzekJRYVFUQkN3ZUs1QWhQd216ODJ5RHA1b2tHcUhKbw?oc=5",
+        "date": "2026-11-18T05:15:43+00:00"
+      },
+      {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
         "date": "2026-11-15T22:37:05+00:00"
-      },
-      {
-        "title": "株価指数先物【寄り前】 目先のボトムを探りながらのロング対応 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2T2hPeXpEWl9NYzFTaThjSkM1S0FQaGt6UFhZX3NOY3BqYk43RVR3VUFvMmNwb2NLQnRrZGNBbW5WQ0RYTTZ1T1RhTDdOZDc5Z3BUT3BSNnJqN3BvWTlaRg?oc=5",
-        "date": "2026-11-17T23:01:03+00:00"
       }
     ],
     "ai": [
@@ -215,6 +214,11 @@
     ],
     "gadget": [
       {
+        "title": "絶滅危惧種のマニュアル車が復活の兆し。「クルマを操る楽しさ」が再燃か",
+        "link": "https://www.gizmodo.jp/article/manual-transmission_car_revival/",
+        "date": "2026-11-18T13:00:00+00:00"
+      },
+      {
         "title": "創業者が去っても絶好調…とはまだ言えない、NVIDIAの決算が公開",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-earnings-q3-2027-ai/",
         "date": "2026-11-18T12:30:00+00:00"
@@ -227,19 +231,18 @@
       {
         "title": "G-SHOCKのアパレル、やっぱり「すんごいタフ」。色褪せない究極の黒を目指したスウェット",
         "link": "https://www.gizmodo.jp/article/gxfab/",
-        "date": "2026-11-18T11:30:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-18T11:30:00+00:00"
       },
       {
         "title": "「GTA6 無料版」の正体はマルウェア。PC版はまだ出てないから要注意",
         "link": "https://www.gizmodo.jp/article/gta6-free-pc-malware-warning/",
-        "date": "2026-11-18T11:15:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-18T11:15:00+00:00"
       },
       {
         "title": "中国のAIチップ調達、東南アジア経由もアウトに。トランプ政権が規制強化",
         "link": "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/",
-        "date": "2026-11-18T11:00:00+00:00"
+        "date": "2026-11-18T11:00:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "Boseの有線イヤホンってどうなの？ Noise Cancelling Wired Earbudsレビュー。ANCが魅力も少々高い",
@@ -249,14 +252,13 @@
       {
         "title": "SHUREの新しい空間オーディオマイク「MV360」を映画館で体感しませんか？ プロが録った音も、制作の裏側も",
         "link": "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
-        "date": "2026-11-18T10:00:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-18T10:00:00+00:00"
       },
       {
         "title": "iPhone DuoのMagSafeスマホリング、薄くて軽いこれに決めました",
         "link": "https://www.gizmodo.jp/article/2611-andobil-magsafe-smartphone-ring/",
         "date": "2026-11-18T09:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "【超早割あと2日】クラファン中「C3 Pro Trackball」に隠し機能？ トラックボール外してキーにできます",
@@ -272,11 +274,6 @@
         "title": "地図で囲んだ街がマイクラに。道路には車、線路には電車まで走り出す",
         "link": "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/",
         "date": "2026-11-18T07:35:00+00:00"
-      },
-      {
-        "title": "電源不要。アラジンのトースター、カセットボンベで動くようになりました",
-        "link": "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
-        "date": "2026-11-18T07:00:00+00:00"
       }
     ],
     "yahoo": [
@@ -440,7 +437,7 @@
     "rain": null
   },
   "index": {
-    "price": 58965.0,
+    "price": 59140.0,
     "prev": 59375.0,
     "points": [
       [
@@ -1614,22 +1611,29 @@
       ],
       [
         "11/18 22:05",
-        58985.0,
+        59050.0,
         59010.0,
-        59030.0,
+        59050.0,
         58915.0
       ],
       [
-        "11/18 22:08",
-        58965.0,
-        58965.0,
-        58965.0,
-        58965.0
+        "11/18 22:10",
+        59160.0,
+        59060.0,
+        59165.0,
+        59060.0
+      ],
+      [
+        "11/18 22:13",
+        59140.0,
+        59140.0,
+        59140.0,
+        59140.0
       ]
     ]
   },
   "gold": {
-    "price": 3762.4,
+    "price": 3772.0,
     "prev": 3851.9,
     "points": [
       [
@@ -2817,22 +2821,29 @@
       ],
       [
         "11/18 22:05",
-        3763.2,
+        3766.5,
         3756.2,
-        3763.7,
+        3767.1,
         3755.6
       ],
       [
-        "11/18 22:08",
-        3762.4,
-        3762.4,
-        3762.4,
-        3762.4
+        "11/18 22:10",
+        3773.3,
+        3766.4,
+        3774.1,
+        3763.8
+      ],
+      [
+        "11/18 22:13",
+        3772.0,
+        3772.0,
+        3772.0,
+        3772.0
       ]
     ]
   },
   "fx": {
-    "price": 159.402,
+    "price": 159.4,
     "prev": 159.404
   },
   "topix": {
