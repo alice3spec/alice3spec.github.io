@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T11:38:20.974509+09:00",
+  "updated": "2026-11-18T11:43:20.441128+09:00",
   "feeds": {
     "kabu": [
       {
@@ -21,11 +21,6 @@
         "title": "日経平均株価、一時700円高 AI・半導体関連に買い先行 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
         "date": "2026-11-18T00:04:33+00:00"
-      },
-      {
-        "title": "企業業績は上振れ期待、株価は再び上昇へ？ - SBI証券",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teWQ2UkhmSm0yVmh1bHNuTmJ3UHJiSXhrYlVab3k5UmE0LVJ4TWdfMkFPdkNTTi1oQW5nSG1mRzc4Uzdkc0tCcHpZV0xGVjNLdWRiY1V3dGU1eFFTVHNHYkZmODBUNTlKVUFwRw?oc=5",
-        "date": "2026-11-17T07:03:23+00:00"
       },
       {
         "title": "１８日の株式相場見通し＝反発、エヌビディアは決算後に時間外で上昇 - 株探",
@@ -58,9 +53,14 @@
         "date": "2026-11-15T22:37:44+00:00"
       },
       {
-        "title": "日経平均、700円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMC0xdEtjTk53UTBCVUh4b3FKWmhlYXhBa3RvYkszeThNMlpfOVZIX1RrRU15QUdUTC00R3Z5UmhNbE5UaEZNUG5LVmRNYkwzTXdEbGN1NEI0ZTZSRDMzbVY4MlVZZUFUc3JneDE0STdJSGR4VzJ2ek9jMm5DdFJnZjIzaF9qMXc?oc=5",
-        "date": "2026-11-18T00:10:01+00:00"
+        "title": "日経平均、400円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0UyRW1Td3RSUy0zTHZiTHRSZmhDWHdIUTRucU16akJNWDU3OGFxYjI5b0RaVEVPaXBOMDlpUVBjeTBnR3hWLS12bXhlOE9EWnZUTV9oMVFTc3NPU2pIMlllSnZyaC1DWjlJaUREMGRkMktpOEhHU21XYS1jbTZEOFlLLXlaQTg?oc=5",
+        "date": "2026-11-18T00:03:36+00:00"
+      },
+      {
+        "title": "東証大引け 日経平均は続落、5万9000円割れ 半導体関連に売り - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51V09DQThkTHJZblFVYVFBVkR0NV80VVVZMjFocVRtTUR4dnpwMk1DejQ4alJNMWEtZFFDNVhGUEpLZmNZd2pOZV90Qk4xLUNBWGlkN0FWTW13RWEtOW1nUndSa3Ezc001amlrbw?oc=5",
+        "date": "2026-11-17T06:57:32+00:00"
       }
     ],
     "ai": [
@@ -213,75 +213,70 @@
     ],
     "gadget": [
       {
+        "title": "古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」",
+        "link": "https://www.gizmodo.jp/article/2611-retone-android-music-player/",
+        "date": "2026-11-18T02:35:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "サイバートラック生産終了。その&quot;失敗&quot;の歴史をたどってみた",
         "link": "https://www.gizmodo.jp/article/2611-tesla-cybertruck-production-end/",
-        "date": "2026-11-18T02:00:00+00:00",
-        "body": "a36.txt"
+        "date": "2026-11-18T02:00:00+00:00"
       },
       {
         "title": "「ジェンスンを戻せ」署名が15万超。イーロン・マスクも、&quot;ティム&quot;・クルーズも支持",
         "link": "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-return-petition/",
-        "date": "2026-11-18T01:30:00+00:00",
-        "body": "a37.txt"
+        "date": "2026-11-18T01:30:00+00:00"
       },
       {
         "title": "日本製「水素ガスタービン」で電気を作り置き。発電所の燃料も天然ガスから水素へ",
         "link": "https://www.gizmodo.jp/article/kawasaki-hydrogen-gas-turbine-germany/",
         "date": "2026-11-18T01:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "イヤホンは修理のしやすさで選ぶ時代。エコフレンドリーなFairbuds 2使ってみた",
         "link": "https://www.gizmodo.jp/article/fairphone_fairbuds-2_review_sustainable_repairable-earbuds/",
         "date": "2026-11-17T23:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "スパイの境界線はどこ？ NVIDIAジェンスン・フアンCEO電撃辞任が暴いた政権のホンネ",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-resignation-spy-scandal/",
         "date": "2026-11-17T22:15:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "輪ゴムは卒業。ダイソーのキャップで粉物の袋をワンタッチ開閉できるからね",
         "link": "https://www.gizmodo.jp/article/2611-daiso-bag-cap-review/",
-        "date": "2026-11-17T22:00:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-17T22:00:00+00:00"
       },
       {
         "title": "NVIDIAの新ロボットAI、まるで新人研修。先輩の仕事を見て覚えます",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-gr00t-2-robot-ai/",
-        "date": "2026-11-17T21:45:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-17T21:45:00+00:00"
       },
       {
         "title": "楽天証券も不正アクセス。資産を守るために確認しておきたい設定",
         "link": "https://www.gizmodo.jp/article/2611-rakuten-securities-unauthorized-access-security-settings/",
-        "date": "2026-11-17T21:35:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-17T21:35:00+00:00"
       },
       {
         "title": "頭まるごと透明な魚「デメニギス」。初の4K動画が撮影される",
         "link": "https://www.gizmodo.jp/article/2611-barreleye-fish-4k-footage/",
         "date": "2026-11-17T14:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "モバイルなAIペット誕生。話しかけるとSwitchBot家電もうごかせる",
         "link": "https://www.gizmodo.jp/article/2611-switchbot-katafriends-mini-ai-pet/",
         "date": "2026-11-17T13:30:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "え、1本じゃなくて2本？ マグネット式USB-Cケーブル（100W）がペアで682円",
         "link": "https://www.gizmodo.jp/article/2611-adam-elements-magnetic-usb-c-cable-sale/",
         "date": "2026-11-17T13:15:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "革命が起こる予感。ナイキの新しいテックがシューズのベネフィットを変えるかも",
-        "link": "https://www.gizmodo.jp/article/nike_tuned-air_innovation/",
-        "date": "2026-11-17T12:30:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -331,7 +326,8 @@
       {
         "title": "「1リットルの涙」沢村一樹ら出演",
         "link": "https://news.yahoo.co.jp/pickup/6603007?source=rss",
-        "date": "2026-11-18T02:19:42+00:00"
+        "date": "2026-11-18T02:19:42+00:00",
+        "body": "a55.txt"
       }
     ]
   },
@@ -453,7 +449,7 @@
     "rain": null
   },
   "index": {
-    "price": 58730.0,
+    "price": 58680.0,
     "prev": 59375.0,
     "points": [
       [
@@ -745,22 +741,29 @@
       ],
       [
         "11/18 11:25",
-        58740.0,
+        58800.0,
         58640.0,
-        58755.0,
+        58810.0,
         58570.0
       ],
       [
-        "11/18 11:28",
-        58730.0,
-        58730.0,
-        58730.0,
-        58730.0
+        "11/18 11:30",
+        58720.0,
+        58785.0,
+        58795.0,
+        58665.0
+      ],
+      [
+        "11/18 11:33",
+        58680.0,
+        58680.0,
+        58680.0,
+        58680.0
       ]
     ]
   },
   "gold": {
-    "price": 3803.7,
+    "price": 3808.7,
     "prev": 3851.9,
     "points": [
       [
@@ -1052,22 +1055,29 @@
       ],
       [
         "11/18 11:25",
-        3804.8,
+        3805.5,
         3802.9,
         3805.5,
         3800.0
       ],
       [
-        "11/18 11:28",
-        3803.7,
-        3803.7,
-        3803.7,
-        3803.7
+        "11/18 11:30",
+        3808.5,
+        3805.5,
+        3809.9,
+        3803.2
+      ],
+      [
+        "11/18 11:33",
+        3808.7,
+        3808.7,
+        3808.7,
+        3808.7
       ]
     ]
   },
   "fx": {
-    "price": 159.415,
+    "price": 159.37,
     "prev": 159.404
   },
   "topix": {
