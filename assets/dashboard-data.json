@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T13:58:17.862439+09:00",
+  "updated": "2026-11-18T14:03:39.947073+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,6 +213,11 @@
     ],
     "gadget": [
       {
+        "title": "ゲームパッドそっくりでカワイイ。音響操作ができるDAC／ヘッドホンアンプ",
+        "link": "https://www.gizmodo.jp/article/2611-gamepad-dac-headphone-amp/",
+        "date": "2026-11-18T04:45:00+00:00"
+      },
+      {
         "title": "キャタピラはロマン。トヨタが雪上仕様のコンセプトカーを5車種も出してきた",
         "link": "https://www.gizmodo.jp/article/2611-toyota-snow-hunter-concept-caterpillar/",
         "date": "2026-11-18T04:30:00+00:00"
@@ -221,71 +226,64 @@
         "title": "2万回グニグニしても断線しない。有線イヤホンはこうでなくっちゃ！",
         "link": "https://www.gizmodo.jp/article/owltech_tough_wired_earphones/",
         "date": "2026-11-18T04:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "「GTA6の発売。休みを認めてくれなければ辞めます」イギリスで休暇申請が約8.3万日分",
         "link": "https://www.gizmodo.jp/article/2611-gta6-release-uk-leave/",
-        "date": "2026-11-18T03:45:00+00:00"
+        "date": "2026-11-18T03:45:00+00:00",
+        "body": "a39.txt"
       },
       {
         "title": "GoogleのフィジカルAIが「繊細な手作業」を習得。作業速度も20〜30%改善",
         "link": "https://www.gizmodo.jp/article/2611-gemini-robotics-2-5/",
-        "date": "2026-11-18T03:30:00+00:00"
+        "date": "2026-11-18T03:30:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "その手でハンドルも武器も握れる。GTA Vの最新VR MODが没入感マシマシ",
         "link": "https://www.gizmodo.jp/article/gta-v-vr-mod/",
-        "date": "2026-11-18T03:15:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-18T03:15:00+00:00"
       },
       {
         "title": "10年以上ぶりのSamsungのヘッドホン「Galaxy Studio」。年明け発表が濃厚",
         "link": "https://www.gizmodo.jp/article/samsung_galaxy-studio_newheadphone/",
         "date": "2026-11-18T03:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "OpenAIが新AI「GPT-6.2 Astra」をリリース。“最高に賢い”のもうひとつのカタチ",
         "link": "https://www.gizmodo.jp/article/2611-gpt-6-2-astra-release/",
-        "date": "2026-11-18T02:40:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-18T02:40:00+00:00"
       },
       {
         "title": "古いAndroidスマホを音楽プレーヤーとして再利用できる無料アプリ「reTONE」",
         "link": "https://www.gizmodo.jp/article/2611-retone-android-music-player/",
         "date": "2026-11-18T02:35:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "サイバートラック生産終了。その&quot;失敗&quot;の歴史をたどってみた",
         "link": "https://www.gizmodo.jp/article/2611-tesla-cybertruck-production-end/",
-        "date": "2026-11-18T02:00:00+00:00",
-        "body": "a44.txt"
+        "date": "2026-11-18T02:00:00+00:00"
       },
       {
         "title": "「ジェンスンを戻せ」署名が15万超。イーロン・マスクも、&quot;ティム&quot;・クルーズも支持",
         "link": "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-return-petition/",
-        "date": "2026-11-18T01:30:00+00:00",
-        "body": "a45.txt"
+        "date": "2026-11-18T01:30:00+00:00"
       },
       {
         "title": "日本製「水素ガスタービン」で電気を作り置き。発電所の燃料も天然ガスから水素へ",
         "link": "https://www.gizmodo.jp/article/kawasaki-hydrogen-gas-turbine-germany/",
         "date": "2026-11-18T01:00:00+00:00"
-      },
-      {
-        "title": "イヤホンは修理のしやすさで選ぶ時代。エコフレンドリーなFairbuds 2使ってみた",
-        "link": "https://www.gizmodo.jp/article/fairphone_fairbuds-2_review_sustainable_repairable-earbuds/",
-        "date": "2026-11-17T23:00:00+00:00",
-        "body": "a47.txt"
       }
     ],
     "yahoo": [
       {
         "title": "米中間選挙 上院で全議席が固まる",
         "link": "https://news.yahoo.co.jp/pickup/6603024?source=rss",
-        "date": "2026-11-18T04:35:35+00:00"
+        "date": "2026-11-18T04:35:35+00:00",
+        "body": "a48.txt"
       },
       {
         "title": "小型船に緑ナンバー導入へ 国交省",
@@ -293,27 +291,25 @@
         "date": "2026-11-18T00:45:45+00:00"
       },
       {
+        "title": "3歳娘死亡 傷害致死疑いで父逮捕",
+        "link": "https://news.yahoo.co.jp/pickup/6603028?source=rss",
+        "date": "2026-11-18T04:58:13+00:00",
+        "body": "a50.txt"
+      },
+      {
         "title": "中野刺殺 女性に800万円使った",
         "link": "https://news.yahoo.co.jp/pickup/6603017?source=rss",
-        "date": "2026-11-18T03:42:54+00:00",
-        "body": "a50.txt"
+        "date": "2026-11-18T03:42:54+00:00"
       },
       {
         "title": "市が誤送付した個人情報 SNS拡散",
         "link": "https://news.yahoo.co.jp/pickup/6603012?source=rss",
-        "date": "2026-11-18T02:58:00+00:00",
-        "body": "a51.txt"
+        "date": "2026-11-18T02:58:00+00:00"
       },
       {
         "title": "KDDI新「INFOBAR」発表 8年ぶり",
         "link": "https://news.yahoo.co.jp/pickup/6603018?source=rss",
-        "date": "2026-11-18T03:33:51+00:00",
-        "body": "a52.txt"
-      },
-      {
-        "title": "男性でステージ4乳がん 心境変化",
-        "link": "https://news.yahoo.co.jp/pickup/6603006?source=rss",
-        "date": "2026-11-18T02:20:57+00:00"
+        "date": "2026-11-18T03:33:51+00:00"
       },
       {
         "title": "ミセス 20日のMステ出演見合わせ",
@@ -330,16 +326,11 @@
     ]
   },
   "weather": {
-    "temp": 18.4,
+    "temp": 18.5,
     "code": 0,
     "max": 20.8,
     "min": 10.9,
     "hours": [
-      {
-        "time": "2026-11-18T13:00",
-        "temp": 18.0,
-        "code": 0
-      },
       {
         "time": "2026-11-18T14:00",
         "temp": 18.5,
@@ -359,83 +350,88 @@
         "time": "2026-11-18T17:00",
         "temp": 20.8,
         "code": 0
+      },
+      {
+        "time": "2026-11-18T18:00",
+        "temp": 20.5,
+        "code": 1
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-18T13:00",
-        "temp": 18.0,
+        "time": "2026-11-18T14:00",
+        "temp": 18.5,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-18T16:00",
-        "temp": 20.3,
+        "time": "2026-11-18T17:00",
+        "temp": 20.8,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-18T19:00",
-        "temp": 20.2,
+        "time": "2026-11-18T20:00",
+        "temp": 19.9,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-18T22:00",
-        "temp": 19.6,
+        "time": "2026-11-18T23:00",
+        "temp": 19.2,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T01:00",
+        "time": "2026-11-19T02:00",
         "temp": 18.8,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T04:00",
-        "temp": 18.1,
+        "time": "2026-11-19T05:00",
+        "temp": 17.4,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-19T07:00",
-        "temp": 16.4,
+        "time": "2026-11-19T08:00",
+        "temp": 16.1,
         "code": 0,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-18T13:00",
+        "time": "2026-11-18T14:00",
         "pop": 0
       },
       {
-        "time": "2026-11-18T16:00",
+        "time": "2026-11-18T17:00",
         "pop": 0
       },
       {
-        "time": "2026-11-18T19:00",
+        "time": "2026-11-18T20:00",
         "pop": 0
       },
       {
-        "time": "2026-11-18T22:00",
+        "time": "2026-11-18T23:00",
         "pop": 0
       },
       {
-        "time": "2026-11-19T01:00",
-        "pop": 1
-      },
-      {
-        "time": "2026-11-19T04:00",
-        "pop": 4
-      },
-      {
-        "time": "2026-11-19T07:00",
+        "time": "2026-11-19T02:00",
         "pop": 3
       },
       {
-        "time": "2026-11-19T10:00",
+        "time": "2026-11-19T05:00",
+        "pop": 4
+      },
+      {
+        "time": "2026-11-19T08:00",
+        "pop": 3
+      },
+      {
+        "time": "2026-11-19T11:00",
         "pop": 1
       }
     ],
@@ -447,7 +443,7 @@
     "rain": null
   },
   "index": {
-    "price": 59080.0,
+    "price": 59145.0,
     "prev": 59375.0,
     "points": [
       [
@@ -935,22 +931,22 @@
       ],
       [
         "11/18 13:45",
-        59120.0,
         59110.0,
-        59125.0,
+        59110.0,
+        59120.0,
         59060.0
       ],
       [
-        "11/18 13:48",
-        59080.0,
-        59080.0,
-        59080.0,
-        59080.0
+        "11/18 13:53",
+        59145.0,
+        59145.0,
+        59145.0,
+        59145.0
       ]
     ]
   },
   "gold": {
-    "price": 3786.0,
+    "price": 3786.9,
     "prev": 3851.9,
     "points": [
       [
@@ -1438,22 +1434,22 @@
       ],
       [
         "11/18 13:45",
-        3786.2,
+        3786.1,
         3785.7,
-        3786.9,
+        3786.6,
         3784.0
       ],
       [
-        "11/18 13:48",
-        3786.0,
-        3786.0,
-        3786.0,
-        3786.0
+        "11/18 13:53",
+        3786.9,
+        3786.9,
+        3786.9,
+        3786.9
       ]
     ]
   },
   "fx": {
-    "price": 159.19,
+    "price": 159.159,
     "prev": 159.404
   },
   "topix": {
