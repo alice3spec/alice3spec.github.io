@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T20:03:16.274615+09:00",
+  "updated": "2026-11-18T20:08:28.790437+09:00",
   "feeds": {
     "kabu": [
       {
@@ -23,9 +23,9 @@
         "date": "2026-11-18T07:35:00+00:00"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月18日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pRmlOMEV6V0NkcVlENWJ1V0Q1RmhfUTJkYUxycmtzVGozZFpzRkNndzJ4NXd4RG1ick4xYm1BZDNvQ2tDcy13VlIzRmVwT2xkSklpRzhRcW9HWkRlUWNJNQ?oc=5",
-        "date": "2026-11-17T23:22:35+00:00"
+        "title": "日経平均は反発、エヌビディア好決算で半導体株に買い戻し／相場概況 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43am42SEx6bk1CcTdtaHlITkFvalEzVzZ2dEJNRzVjT0ljQVAybkdjRllpOW56Q1J3akxhMnpabjRqZEh1ZVlDbHRnSjJnaEQ5Tmk5eVlzVlRBVWFqNWx6UQ?oc=5",
+        "date": "2026-11-18T06:48:21+00:00"
       },
       {
         "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
@@ -33,9 +33,9 @@
         "date": "2026-11-17T22:30:00+00:00"
       },
       {
-        "title": "日経平均は反発、エヌビディア好決算で半導体株に買い戻し／相場概況 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43am42SEx6bk1CcTdtaHlITkFvalEzVzZ2dEJNRzVjT0ljQVAybkdjRllpOW56Q1J3akxhMnpabjRqZEh1ZVlDbHRnSjJnaEQ5Tmk5eVlzVlRBVWFqNWx6UQ?oc=5",
-        "date": "2026-11-18T06:48:21+00:00"
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月18日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pRmlOMEV6V0NkcVlENWJ1V0Q1RmhfUTJkYUxycmtzVGozZFpzRkNndzJ4NXd4RG1ick4xYm1BZDNvQ2tDcy13VlIzRmVwT2xkSklpRzhRcW9HWkRlUWNJNQ?oc=5",
+        "date": "2026-11-17T23:22:35+00:00"
       },
       {
         "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
@@ -213,74 +213,72 @@
     ],
     "gadget": [
       {
+        "title": "中国のAIチップ調達、東南アジア経由もアウトに。トランプ政権が規制強化",
+        "link": "https://www.gizmodo.jp/article/2611-trump-admin-strengthens-ai-chip-export-controls-china/",
+        "date": "2026-11-18T11:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "Boseの有線イヤホンってどうなの？ Noise Cancelling Wired Earbudsレビュー。ANCが魅力も少々高い",
         "link": "https://www.gizmodo.jp/article/bose-noise-cancelling-wired-earbuds-review/",
-        "date": "2026-11-18T10:30:00+00:00",
-        "body": "a36.txt"
+        "date": "2026-11-18T10:30:00+00:00"
       },
       {
         "title": "SHUREの新しい空間オーディオマイク「MV360」を映画館で体感しませんか？ プロが録った音も、制作の裏側も",
         "link": "https://www.gizmodo.jp/article/2610-shure-gizmodo-movie-theater-sound-event/",
         "date": "2026-11-18T10:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "iPhone DuoのMagSafeスマホリング、薄くて軽いこれに決めました",
         "link": "https://www.gizmodo.jp/article/2611-andobil-magsafe-smartphone-ring/",
         "date": "2026-11-18T09:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "【超早割あと2日】クラファン中「C3 Pro Trackball」に隠し機能？ トラックボール外してキーにできます",
         "link": "https://www.gizmodo.jp/article/keychron-c3-pro-trackball-remove/",
         "date": "2026-11-18T08:45:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "Xiaomi 18 Proは「背中」がすごい。ギズモード編集部が1週間使ってみた",
         "link": "https://www.gizmodo.jp/article/xiaomi-18-pro/",
-        "date": "2026-11-18T08:00:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-18T08:00:00+00:00"
       },
       {
         "title": "地図で囲んだ街がマイクラに。道路には車、線路には電車まで走り出す",
         "link": "https://www.gizmodo.jp/article/2611-arnis-minecraft-real-world-generator/",
-        "date": "2026-11-18T07:35:00+00:00"
+        "date": "2026-11-18T07:35:00+00:00",
+        "body": "a42.txt"
       },
       {
         "title": "電源不要。アラジンのトースター、カセットボンベで動くようになりました",
         "link": "https://www.gizmodo.jp/article/2611-aladdin-gas-toaster/",
         "date": "2026-11-18T07:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "Suicaペンギンの後継キャラクターが決定！",
         "link": "https://www.gizmodo.jp/article/2611-suica-penguin-successor/",
-        "date": "2026-11-18T06:35:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-18T06:35:00+00:00"
       },
       {
         "title": "表情豊かにしゃべるAIロボット。雑用も任せられます",
         "link": "https://www.gizmodo.jp/article/ai-robot_fr-nia/",
         "date": "2026-11-18T06:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "Spotifyでスクラッチ、オモロなDIYヘッドフォンおじさんの新作DJギアが画期的",
         "link": "https://www.gizmodo.jp/article/spotify-scratch-diy-dj-gear/",
         "date": "2026-11-18T05:15:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "いつもの行動を読んで次を提案。画面付きスマートリングはAI秘書になってくれるのか",
         "link": "https://www.gizmodo.jp/article/2611-aina-ring-ai-smart-ring/",
         "date": "2026-11-18T05:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "ゲームパッドそっくりでカワイイ。音響操作ができるDAC／ヘッドホンアンプ",
-        "link": "https://www.gizmodo.jp/article/2611-gamepad-dac-headphone-amp/",
-        "date": "2026-11-18T04:45:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -336,53 +334,53 @@
     ]
   },
   "weather": {
-    "temp": 20.2,
+    "temp": 20.0,
     "code": 1,
-    "max": 20.7,
+    "max": 20.5,
     "min": 10.9,
     "hours": [
       {
         "time": "2026-11-18T20:00",
-        "temp": 20.2,
+        "temp": 20.0,
         "code": 1
       },
       {
         "time": "2026-11-18T21:00",
-        "temp": 19.9,
+        "temp": 19.7,
         "code": 0
       },
       {
         "time": "2026-11-18T22:00",
-        "temp": 19.8,
-        "code": 0
-      },
-      {
-        "time": "2026-11-18T23:00",
         "temp": 19.3,
         "code": 0
       },
       {
-        "time": "2026-11-19T00:00",
+        "time": "2026-11-18T23:00",
         "temp": 19.0,
-        "code": 1
+        "code": 0
+      },
+      {
+        "time": "2026-11-19T00:00",
+        "temp": 18.8,
+        "code": 0
       }
     ],
     "hours3": [
       {
         "time": "2026-11-18T20:00",
-        "temp": 20.2,
+        "temp": 20.0,
         "code": 1,
         "mm": 0.0
       },
       {
         "time": "2026-11-18T23:00",
-        "temp": 19.3,
+        "temp": 19.0,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-19T02:00",
-        "temp": 19.0,
+        "temp": 19.1,
         "code": 0,
         "mm": 0.0
       },
@@ -394,7 +392,7 @@
       },
       {
         "time": "2026-11-19T08:00",
-        "temp": 16.5,
+        "temp": 16.7,
         "code": 0,
         "mm": 0.0
       },
@@ -406,7 +404,7 @@
       },
       {
         "time": "2026-11-19T14:00",
-        "temp": 16.4,
+        "temp": 16.5,
         "code": 0,
         "mm": 0.0
       }
@@ -446,14 +444,14 @@
       }
     ],
     "tomorrow": {
-      "code": 1,
+      "code": 0,
       "max": 19.1,
-      "min": 12.4
+      "min": 12.3
     },
     "rain": null
   },
   "index": {
-    "price": 59715.0,
+    "price": 59700.0,
     "prev": 59375.0,
     "points": [
       [
@@ -1444,16 +1442,23 @@
         59695.0
       ],
       [
-        "11/18 19:53",
-        59715.0,
-        59715.0,
-        59715.0,
-        59715.0
+        "11/18 19:55",
+        59695.0,
+        59705.0,
+        59705.0,
+        59695.0
+      ],
+      [
+        "11/18 19:58",
+        59700.0,
+        59700.0,
+        59700.0,
+        59700.0
       ]
     ]
   },
   "gold": {
-    "price": 3772.0,
+    "price": 3773.8,
     "prev": 3851.9,
     "points": [
       [
@@ -2452,22 +2457,29 @@
       ],
       [
         "11/18 19:50",
-        3772.5,
+        3772.3,
         3772.0,
         3772.8,
         3771.1
       ],
       [
-        "11/18 19:53",
-        3772.0,
-        3772.0,
-        3772.0,
-        3772.0
+        "11/18 19:55",
+        3774.2,
+        3772.5,
+        3774.5,
+        3771.3
+      ],
+      [
+        "11/18 19:58",
+        3773.8,
+        3773.8,
+        3773.8,
+        3773.8
       ]
     ]
   },
   "fx": {
-    "price": 159.34,
+    "price": 159.338,
     "prev": 159.404
   },
   "topix": {
