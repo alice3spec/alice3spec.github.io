@@ -1,7 +1,12 @@
 {
-  "updated": "2026-11-18T20:08:28.790437+09:00",
+  "updated": "2026-11-18T20:13:15.863152+09:00",
   "feeds": {
     "kabu": [
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-18T09:38:33+00:00"
+      },
       {
         "title": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Eb2FiXzJxZkc3SUVjaXdfLU41NkR3bzg1b0hBRkdsOTNUdFIzTjZHc0pJalZ0ZTF5cnRBYjlqOTdKQThLVUhyTkF5Nlo3RHZvY0NUVGR4R2c3VlpKMGFKcTI2RWh6OFI1a2c2ZQ?oc=5",
@@ -16,11 +21,6 @@
         "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
         "date": "2026-11-18T02:51:05+00:00"
-      },
-      {
-        "title": "日経VI：大幅に低下、株価底堅いがイベント控え取引時間中は警戒感も継続(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2VfNjhpTGhXcEdyMm5pUi1USU5wVlpzT0tPTjdYeVZOM1NWby16TTlrcXFCQnFWdVJMb2JOa2ZKZ3NzbEczblh6elJJRzRLVjJfNmw1VEI4bUEtSnVoX0lvVWJMUi1OOXp2Njgxd3dkUU5CV2tXTHJKUTZ2bWdOdDJXNC1ZWFk?oc=5",
-        "date": "2026-11-18T07:35:00+00:00"
       },
       {
         "title": "日経平均は反発、エヌビディア好決算で半導体株に買い戻し／相場概況 - 株探",
@@ -221,7 +221,8 @@
       {
         "title": "Boseの有線イヤホンってどうなの？ Noise Cancelling Wired Earbudsレビュー。ANCが魅力も少々高い",
         "link": "https://www.gizmodo.jp/article/bose-noise-cancelling-wired-earbuds-review/",
-        "date": "2026-11-18T10:30:00+00:00"
+        "date": "2026-11-18T10:30:00+00:00",
+        "body": "a37.txt"
       },
       {
         "title": "SHUREの新しい空間オーディオマイク「MV360」を映画館で体感しませんか？ プロが録った音も、制作の裏側も",
@@ -244,7 +245,8 @@
       {
         "title": "Xiaomi 18 Proは「背中」がすごい。ギズモード編集部が1週間使ってみた",
         "link": "https://www.gizmodo.jp/article/xiaomi-18-pro/",
-        "date": "2026-11-18T08:00:00+00:00"
+        "date": "2026-11-18T08:00:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "地図で囲んだ街がマイクラに。道路には車、線路には電車まで走り出す",
@@ -284,33 +286,32 @@
     ],
     "yahoo": [
       {
+        "title": "ボイジャー1号「1光日」に到達",
+        "link": "https://news.yahoo.co.jp/pickup/6603070?source=rss",
+        "date": "2026-11-18T11:08:03+00:00"
+      },
+      {
         "title": "DHC 顧客氏名など1911万件漏えい",
         "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
         "date": "2026-11-18T08:51:06+00:00",
-        "body": "a48.txt"
+        "body": "a49.txt"
       },
       {
         "title": "佐賀関火災1年 揺らぐ再建の思い",
         "link": "https://news.yahoo.co.jp/pickup/6603021?source=rss",
         "date": "2026-11-18T04:22:31+00:00",
-        "body": "a49.txt"
+        "body": "a50.txt"
       },
       {
         "title": "高市氏が中国到着 歓迎に各国と差",
         "link": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
         "date": "2026-11-18T08:42:41+00:00",
-        "body": "a50.txt"
+        "body": "a51.txt"
       },
       {
         "title": "兵庫3歳死亡 双子妹も生後に死亡",
         "link": "https://news.yahoo.co.jp/pickup/6603061?source=rss",
         "date": "2026-11-18T09:19:32+00:00",
-        "body": "a51.txt"
-      },
-      {
-        "title": "顧客情報漏えいか 楽天証券が説明",
-        "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
-        "date": "2026-11-18T09:38:22+00:00",
         "body": "a52.txt"
       },
       {
@@ -451,7 +452,7 @@
     "rain": null
   },
   "index": {
-    "price": 59700.0,
+    "price": 59585.0,
     "prev": 59375.0,
     "points": [
       [
@@ -1443,22 +1444,29 @@
       ],
       [
         "11/18 19:55",
-        59695.0,
+        59690.0,
         59705.0,
         59705.0,
-        59695.0
+        59680.0
       ],
       [
-        "11/18 19:58",
-        59700.0,
-        59700.0,
-        59700.0,
-        59700.0
+        "11/18 20:00",
+        59560.0,
+        59680.0,
+        59685.0,
+        59560.0
+      ],
+      [
+        "11/18 20:03",
+        59585.0,
+        59585.0,
+        59585.0,
+        59585.0
       ]
     ]
   },
   "gold": {
-    "price": 3773.8,
+    "price": 3771.7,
     "prev": 3851.9,
     "points": [
       [
@@ -2464,22 +2472,29 @@
       ],
       [
         "11/18 19:55",
-        3774.2,
+        3775.4,
         3772.5,
-        3774.5,
+        3776.1,
         3771.3
       ],
       [
-        "11/18 19:58",
-        3773.8,
-        3773.8,
-        3773.8,
-        3773.8
+        "11/18 20:00",
+        3771.5,
+        3775.0,
+        3775.3,
+        3771.0
+      ],
+      [
+        "11/18 20:03",
+        3771.7,
+        3771.7,
+        3771.7,
+        3771.7
       ]
     ]
   },
   "fx": {
-    "price": 159.338,
+    "price": 159.346,
     "prev": 159.404
   },
   "topix": {
