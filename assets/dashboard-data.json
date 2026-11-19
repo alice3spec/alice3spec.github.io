@@ -1,7 +1,12 @@
 {
-  "updated": "2026-11-20T08:48:26.089574+09:00",
+  "updated": "2026-11-20T08:53:27.656027+09:00",
   "feeds": {
     "kabu": [
+      {
+        "title": "２０日の東京株式市場見通し＝米株安受けリスクオフ拡大へ(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWJpZ3ZXSkZHek11RVJ1cjczcHRkMVF5V2VXUkpDVGVkajVha19BSjlsYzVmUE5HY045S1RwUk9OUk1nS2E1QTdBcTdveHl2S2tMN0pZZlVqczc1S0RNWVFaUlBPRkpMUHRrUkZJMWxNcFY5aXc2Z1BaTTlOaUFoNHh2X0xPNmM?oc=5",
+        "date": "2026-11-19T22:48:46+00:00"
+      },
       {
         "title": "日経平均、アンソロピック上場が重荷 JT株に注目（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMXlHQlQ1aklNWVc5QlgxeTVaUkNqX3E3ajA3NHJPU01BekZmeHJNeThZLURwUzVTOTdCcUJobEJuNmRoTnZDc3M2S09ZSFFtTWpqWVRiNTVsaEllNjF0MFZiOEhpVHlENzVWWg?oc=5",
@@ -13,19 +18,24 @@
         "date": "2026-11-19T22:45:52+00:00"
       },
       {
-        "title": "２０日の東京株式市場見通し＝米株安受けリスクオフ拡大へ(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWJpZ3ZXSkZHek11RVJ1cjczcHRkMVF5V2VXUkpDVGVkajVha19BSjlsYzVmUE5HY045S1RwUk9OUk1nS2E1QTdBcTdveHl2S2tMN0pZZlVqczc1S0RNWVFaUlBPRkpMUHRrUkZJMWxNcFY5aXc2Z1BaTTlOaUFoNHh2X0xPNmM?oc=5",
-        "date": "2026-11-19T22:48:46+00:00"
+        "title": "（まとめ）日経平均は419円高の59,444円で続伸　米市場ではアンソロピックのIPOに注目 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90RC1fbW9vbzk2RWVBOHRVNG9UYm1CZFVKejN0YzdhMzgtVkcxaFZXa05Db0duTk5mWkVRbzlTV1pQV1IzVEdVS3V2ZU5pakd4bmhBYdIBV0FVX3lxTE5EZDRwRTlmZU5FOHRwR09HX1JxS1Z4VzlKR2hNNGNBSkhETXRfcTF4eFEzdUNlNHk1V2hTT1NIcE1fTW10LUlvMnMtdC1PcVFGTk5hUXdHZw?oc=5",
+        "date": "2026-11-19T07:21:00+00:00"
       },
       {
-        "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
-        "date": "2026-11-18T22:39:10+00:00"
+        "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waW5xVjM5MWc4LVdKVE1vYmFXVENzY1otOEdfdGNOUzdaSS1NRTVqbmxPN1VLQ1JlQjBvYjVpOFptVDhCMEFjLWZVX2o3NFMtbUJlQlNUanVWRWN5elVVQ2YwaHN3Nk9DN3Z0ZndLeW8yLVhkNFdv?oc=5",
+        "date": "2026-11-19T00:47:00+00:00"
       },
       {
-        "title": "２０日の株式相場見通し＝急反落、アンソロピック上場後の米株大幅安で心理悪化 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qaWI4YnFyQzVFRld5a2M5NzBHUkxKWVRZN2Iyc0QtYnFjQWNwMTRvSDBxM0xnaDE0Um9wNFluZFVlcXlaYkJzajlzXzE0bzNISWc?oc=5",
-        "date": "2026-11-19T23:00:00+00:00"
+        "title": "企業業績は上振れ期待、株価は再び上昇へ？ - SBI証券",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teWQ2UkhmSm0yVmh1bHNuTmJ3UHJiSXhrYlVab3k5UmE0LVJ4TWdfMkFPdkNTTi1oQW5nSG1mRzc4Uzdkc0tCcHpZV0xGVjNLdWRiY1V3dGU1eFFTVHNHYkZmODBUNTlKVUFwRw?oc=5",
+        "date": "2026-11-17T07:03:23+00:00"
+      },
+      {
+        "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
+        "date": "2026-11-18T02:51:05+00:00"
       },
       {
         "title": "日経平均、27年3月末に7万7000円 三菱UFJアセットマネジメントの上辻氏 - 日本経済新聞",
@@ -33,20 +43,9 @@
         "date": "2026-11-19T19:00:00+00:00"
       },
       {
-        "title": "日経225先物：20日夜間取引終値＝1860円安、5万7880円 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IeEpnMS1obWQ1SWVMelh2cGpjVXZUaF9kb0xjb2c2VVQ1X0RVNFpiakNMNGVoMjBKbXVtblJJT0UyUEJUbDBtV2pPUzVTc1dMRnc?oc=5",
-        "date": "2026-11-19T21:03:17+00:00"
-      },
-      {
-        "title": "シカゴ日本株先物概況・19日 日経平均先物は935円安の5万7900円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81YXJzZVBfVWFoX28zTFh3U1VwY3R3amNZM1R2ZV80MFhyWlhFUm5XNTBHRm5JRVo4b1dHOHF1c3dFNWtid0RaSWF5akxCYnAwSVcyMk9JOGRYU2dVeG9TMGdvcWU5MFhCWW5tQQ?oc=5",
-        "date": "2026-11-19T22:38:59+00:00"
-      },
-      {
-        "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
-        "date": "2026-11-18T02:51:05+00:00",
-        "body": "a08.txt"
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月19日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IdkxlSFVFR2xQRXRWLU0wcmZEWmE4dlRlazVrM3BPbnh6ejBaUGFoSDh1bm5vZ3h4azkzTTM4N1B0VjRpWFlocUNEMlZHZk1GNFU2d3pSdWFZVjJiY0Y5Vg?oc=5",
+        "date": "2026-11-18T23:18:03+00:00"
       },
       {
         "title": "日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか - 日本経済新聞",
@@ -54,14 +53,14 @@
         "date": "2026-11-19T02:54:41+00:00"
       },
       {
-        "title": "ソニーG株反発、ゲームのロイヤルティー期待で（19日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pbDZEVmh5S19oTmZ3X3ZPRDBHVVdScTM1Sy1yblFfZnZqUHNUcko3NzFaRzZ4dDlUb3pMcElWYTI5N0Y3bTJQZXJqZkdtZ2hiRkg4enpxTXFCaE5kdHU2dlBhVkVUZHV0Qkk0SQ?oc=5",
-        "date": "2026-11-19T07:30:00+00:00"
+        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
+        "date": "2026-11-19T21:56:57+00:00"
       },
       {
-        "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95T1RqRGYyZmxKSVRnWDZjZ1dOUTFUX1JCWjZPc09xczYtTXJGcGl6Wm04d0xkamdlYnZUeEZvSzFOWkNDVGxVb0tOOUlXR2pERV9ObHBGSHhuSlB1cHVUQ3N6RFZUM211VG5OUg?oc=5",
-        "date": "2026-11-17T22:30:00+00:00"
+        "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
+        "date": "2026-11-18T22:39:10+00:00"
       }
     ],
     "ai": [
@@ -216,7 +215,8 @@
       {
         "title": "ChatGPTの音声入力が「Live Dictation」に進化。めっちゃ文字起こしできる！",
         "link": "https://www.gizmodo.jp/article/2611-chatgpt-live-dictation/",
-        "date": "2026-11-19T23:20:00+00:00"
+        "date": "2026-11-19T23:20:00+00:00",
+        "body": "a36.txt"
       },
       {
         "title": "人型ロボの操縦士、募集中。時給5,100円",
@@ -251,12 +251,14 @@
       {
         "title": "ジム・ジャームッシュ新作『ファーザー マザー シスター ブラザー』 ルカ・サバト来日インタビュー",
         "link": "https://www.gizmodo.jp/article/luca-sabbath_father-mother-sister-brother_interview/",
-        "date": "2026-11-19T13:30:00+00:00"
+        "date": "2026-11-19T13:30:00+00:00",
+        "body": "a42.txt"
       },
       {
         "title": "数年使って使い勝手が忘れられず、次も同じ財布に買い替え。今度はラクダ革を育てます",
         "link": "https://www.gizmodo.jp/article/2611-minimalight-play-wallet-leather-review/",
-        "date": "2026-11-19T13:00:00+00:00"
+        "date": "2026-11-19T13:00:00+00:00",
+        "body": "a43.txt"
       },
       {
         "title": "辞任したNVIDIA CEOに台湾からエール。台北のランドマークにハートが浮かぶ",
@@ -452,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 57505.0,
+    "price": 57545.0,
     "prev": 58870.0,
     "points": [
       [
@@ -2431,22 +2433,29 @@
       ],
       [
         "11/20 08:35",
-        57535.0,
+        57495.0,
         57485.0,
         57535.0,
         57460.0
       ],
       [
-        "11/20 08:38",
-        57505.0,
-        57505.0,
-        57505.0,
-        57505.0
+        "11/20 08:40",
+        57590.0,
+        57510.0,
+        57600.0,
+        57510.0
+      ],
+      [
+        "11/20 08:43",
+        57545.0,
+        57545.0,
+        57545.0,
+        57545.0
       ]
     ]
   },
   "gold": {
-    "price": 3600.8,
+    "price": 3602.1,
     "prev": 3727.8,
     "points": [
       [
@@ -4439,22 +4448,29 @@
       ],
       [
         "11/20 08:35",
-        3595.5,
+        3593.9,
         3623.3,
         3623.6,
-        3594.5
+        3591.6
       ],
       [
-        "11/20 08:38",
-        3600.8,
-        3600.8,
-        3600.8,
-        3600.8
+        "11/20 08:40",
+        3604.1,
+        3594.5,
+        3605.8,
+        3593.6
+      ],
+      [
+        "11/20 08:43",
+        3602.1,
+        3602.1,
+        3602.1,
+        3602.1
       ]
     ]
   },
   "fx": {
-    "price": 159.693,
+    "price": 159.688,
     "prev": 159.278
   },
   "topix": {
