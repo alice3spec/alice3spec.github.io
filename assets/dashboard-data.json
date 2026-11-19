@@ -1,16 +1,11 @@
 {
-  "updated": "2026-11-19T21:28:18.946956+09:00",
+  "updated": "2026-11-19T21:33:15.481798+09:00",
   "feeds": {
     "kabu": [
       {
         "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
         "date": "2026-11-18T22:39:10+00:00"
-      },
-      {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-19T08:54:23+00:00"
       },
       {
         "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
@@ -43,19 +38,24 @@
         "date": "2026-11-18T02:51:05+00:00"
       },
       {
+        "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhcmtlNjRhRGZmMHh6U2Voa0JJY2J6UDc0V0FxSEg0NGlXUktnY3FBSlFaY1dzX3pjTUZHT2xuME50Q080X0U3VXVDU2g3WFRiamZVX0JuM21jTHhscWktYktPc1piM2VvS0VoRg?oc=5",
+        "date": "2026-11-15T22:37:05+00:00"
+      },
+      {
         "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
         "date": "2026-11-18T00:04:33+00:00"
       },
       {
-        "title": "スシローのF&LC、中計公表後に株価乱高下 海外市場の説明に反応か - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNWRTRHRoQ2VtVTE2YjluSm9pYTR0YXNNbHhQdDVrTzZqMVhtS0RBd21IUDFiSmNSRjlfRzJ0UGZyN3FISGo4WUlacjdEMkRSVTVJVmZvMDBkNWFCbS10TV9UWWh3alZ6QS1RSQ?oc=5",
-        "date": "2026-11-19T06:30:00+00:00"
-      },
-      {
         "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95T1RqRGYyZmxKSVRnWDZjZ1dOUTFUX1JCWjZPc09xczYtTXJGcGl6Wm04d0xkamdlYnZUeEZvSzFOWkNDVGxVb0tOOUlXR2pERV9ObHBGSHhuSlB1cHVUQ3N6RFZUM211VG5OUg?oc=5",
         "date": "2026-11-17T22:30:00+00:00"
+      },
+      {
+        "title": "スシローのF&LC、中計公表後に株価乱高下 海外市場の説明に反応か - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNWRTRHRoQ2VtVTE2YjluSm9pYTR0YXNNbHhQdDVrTzZqMVhtS0RBd21IUDFiSmNSRjlfRzJ0UGZyN3FISGo4WUlacjdEMkRSVTVJVmZvMDBkNWFCbS10TV9UWWh3alZ6QS1RSQ?oc=5",
+        "date": "2026-11-19T06:30:00+00:00"
       },
       {
         "title": "日経平均株価、続落 終値801円安の5万8860円 - 日本経済新聞",
@@ -213,74 +213,72 @@
     ],
     "gadget": [
       {
+        "title": "ビットコイン採掘企業、次々とAIデータセンターに転身中。そっちのほうが儲かるんだもん…",
+        "link": "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
+        "date": "2026-11-19T12:30:00+00:00"
+      },
+      {
         "title": "いらっしゃいませ、ちょっと未来のびっくりドンキーへ。ハンバーグは20秒ごとに焼き上がり",
         "link": "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/",
         "date": "2026-11-19T12:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "全米のデータセンターだけで東京都1年分の電力を消費。その半分以上は化石燃料",
         "link": "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
         "date": "2026-11-19T11:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "シェア先でも外れない「AI製」ラベル。EUがディープフェイク対策の新ルール案",
         "link": "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
-        "date": "2026-11-19T10:30:00+00:00"
+        "date": "2026-11-19T10:30:00+00:00",
+        "body": "a39.txt"
       },
       {
         "title": "Amazonの衛星ネット「Leo」、打ち上げ失敗で出鼻をくじかれる",
         "link": "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
         "date": "2026-11-19T10:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "食材入れてボタンを押すとスープが出てくる。魔法のようなスープメーカー「SOUPi」",
         "link": "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
         "date": "2026-11-19T09:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "光のオンパレード。シチズン アテッサ限定モデルは“光の現象”の濃縮パックだ",
         "link": "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
         "date": "2026-11-19T08:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "屋根はソーラー、床下に蓄電池。この「発電小屋」で庭を書斎・ジム・サウナにできる",
         "link": "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
-        "date": "2026-11-19T07:35:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-19T07:35:00+00:00"
       },
       {
         "title": "床に転がりっぱなしを解決。脱着自在な3COINSの電源タップ固定ホルダー",
         "link": "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/",
-        "date": "2026-11-19T06:00:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-19T06:00:00+00:00"
       },
       {
         "title": "スーパーのさつまいも4品種で検証。焼き芋の甘さと食感、どう違う？",
         "link": "https://www.gizmodo.jp/article/2611-sweet-potato-varieties-baked-recipe/",
         "date": "2026-11-19T05:35:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "Googleが投下した強力な新AI「Gemini 4 Neon」。“どのAIが最適か？”を変えちゃうところがある",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/",
         "date": "2026-11-19T05:15:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "Boseに「アイスブルー」が来た。人気ヘッドホンもイヤホンも冬仕様に",
         "link": "https://www.gizmodo.jp/article/2611-bose-new-ice-color-headphones-earbuds/",
         "date": "2026-11-19T05:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "Googleの新AI「Gemini 4 Neon」登場。賢さはCarbon級、仕事はもっと速く",
-        "link": "https://www.gizmodo.jp/article/2611-gemini-4-neon/",
-        "date": "2026-11-19T04:30:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -304,21 +302,21 @@
         "body": "a50.txt"
       },
       {
-        "title": "JT 露事業巡り1.3兆円の損失計上",
-        "link": "https://news.yahoo.co.jp/pickup/6603194?source=rss",
-        "date": "2026-11-19T10:35:41+00:00",
-        "body": "a51.txt"
-      },
-      {
         "title": "入浴施設で作業 熱中症で男性死亡",
         "link": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
         "date": "2026-11-19T09:49:16+00:00",
-        "body": "a52.txt"
+        "body": "a51.txt"
       },
       {
         "title": "育休とった男性の心身不調 症状は",
         "link": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
         "date": "2026-11-19T10:32:57+00:00",
+        "body": "a52.txt"
+      },
+      {
+        "title": "運転手の不適切動画 京急バス謝罪",
+        "link": "https://news.yahoo.co.jp/pickup/6603202?source=rss",
+        "date": "2026-11-19T12:21:11+00:00",
         "body": "a53.txt"
       },
       {
@@ -453,7 +451,7 @@
     "rain": null
   },
   "index": {
-    "price": 60035.0,
+    "price": 59965.0,
     "prev": 58870.0,
     "points": [
       [
@@ -1564,22 +1562,29 @@
       ],
       [
         "11/19 21:15",
-        60000.0,
+        60030.0,
         60000.0,
         60050.0,
         60000.0
       ],
       [
-        "11/19 21:18",
+        "11/19 21:20",
+        59965.0,
+        60015.0,
         60035.0,
-        60035.0,
-        60035.0,
-        60035.0
+        59965.0
+      ],
+      [
+        "11/19 21:22",
+        59965.0,
+        59965.0,
+        59965.0,
+        59965.0
       ]
     ]
   },
   "gold": {
-    "price": 3715.6,
+    "price": 3716.7,
     "prev": 3727.8,
     "points": [
       [
@@ -2697,22 +2702,29 @@
       ],
       [
         "11/19 21:15",
-        3716.9,
-        3716.5,
         3717.8,
+        3716.5,
+        3718.4,
         3714.4
       ],
       [
-        "11/19 21:18",
-        3715.6,
-        3715.6,
-        3715.6,
-        3715.6
+        "11/19 21:20",
+        3718.0,
+        3717.7,
+        3718.6,
+        3714.6
+      ],
+      [
+        "11/19 21:23",
+        3716.7,
+        3716.7,
+        3716.7,
+        3716.7
       ]
     ]
   },
   "fx": {
-    "price": 159.932,
+    "price": 159.938,
     "prev": 159.278
   },
   "topix": {
