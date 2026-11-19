@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:18:22.050686+09:00",
+  "updated": "2026-11-19T23:23:22.789356+09:00",
   "feeds": {
     "kabu": [
       {
@@ -35,9 +35,9 @@
         "body": "a05.txt"
       },
       {
-        "title": "１９日の東京株式市場見通し＝上値の重い展開、アンソロピックＩＰＯ控え手控えも(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGtrRVVwbHd3RVE1LWpPTnNnSU9aNHlvTWhMVU9IdHhwdHVjQVJsVHVJTVNZcnhtMXFNTlRVblM4MFVCMDJlaWo0T3REdWxveGtHclI0ZHdoeTNyMFVoRnp3UUxnSzlfOG9XRElWU1lYRG9yb3E3NmNMXzNMZnotc0hMVDdGNHM?oc=5",
-        "date": "2026-11-18T22:49:13+00:00"
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月18日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pRmlOMEV6V0NkcVlENWJ1V0Q1RmhfUTJkYUxycmtzVGozZFpzRkNndzJ4NXd4RG1ick4xYm1BZDNvQ2tDcy13VlIzRmVwT2xkSklpRzhRcW9HWkRlUWNJNQ?oc=5",
+        "date": "2026-11-17T23:22:35+00:00"
       },
       {
         "title": "日経平均株価は続伸 終値は419円高の5万9444円 - 日本経済新聞",
@@ -219,7 +219,8 @@
       {
         "title": "パイロット不要のAI自律戦闘機、ついに滑走路まで不要に",
         "link": "https://www.gizmodo.jp/article/2611-ai-fighter-jet-x-bat-vertical-takeoff/",
-        "date": "2026-11-19T14:00:00+00:00"
+        "date": "2026-11-19T14:00:00+00:00",
+        "body": "a36.txt"
       },
       {
         "title": "ジム・ジャームッシュ新作『ファーザー マザー シスター ブラザー』 ルカ・サバト来日インタビュー",
@@ -230,7 +231,8 @@
       {
         "title": "数年使って使い勝手が忘れられず、次も同じ財布に買い替え。今度はラクダ革を育てます",
         "link": "https://www.gizmodo.jp/article/2611-minimalight-play-wallet-leather-review/",
-        "date": "2026-11-19T13:00:00+00:00"
+        "date": "2026-11-19T13:00:00+00:00",
+        "body": "a38.txt"
       },
       {
         "title": "辞任したNVIDIA CEOに台湾からエール。台北のランドマークにハートが浮かぶ",
@@ -259,7 +261,8 @@
       {
         "title": "シェア先でも外れない「AI製」ラベル。EUがディープフェイク対策の新ルール案",
         "link": "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
-        "date": "2026-11-19T10:30:00+00:00"
+        "date": "2026-11-19T10:30:00+00:00",
+        "body": "a43.txt"
       },
       {
         "title": "Amazonの衛星ネット「Leo」、打ち上げ失敗で出鼻をくじかれる",
@@ -306,12 +309,14 @@
       {
         "title": "千葉3人切りつけ事件 男を再逮捕",
         "link": "https://news.yahoo.co.jp/pickup/6603214?source=rss",
-        "date": "2026-11-19T13:47:35+00:00"
+        "date": "2026-11-19T13:47:35+00:00",
+        "body": "a51.txt"
       },
       {
         "title": "11歳警察犬に安納芋3kg 救助貢献",
         "link": "https://news.yahoo.co.jp/pickup/6603212?source=rss",
-        "date": "2026-11-19T13:32:55+00:00"
+        "date": "2026-11-19T13:32:55+00:00",
+        "body": "a52.txt"
       },
       {
         "title": "太田裕美さん死去 乳がんを解説",
@@ -450,7 +455,7 @@
     "rain": null
   },
   "index": {
-    "price": 60015.0,
+    "price": 60060.0,
     "prev": 58870.0,
     "points": [
       [
@@ -1715,22 +1720,29 @@
       ],
       [
         "11/19 23:05",
-        60040.0,
+        60045.0,
         60065.0,
         60090.0,
         60010.0
       ],
       [
-        "11/19 23:08",
-        60015.0,
-        60015.0,
-        60015.0,
-        60015.0
+        "11/19 23:10",
+        60075.0,
+        60060.0,
+        60100.0,
+        60050.0
+      ],
+      [
+        "11/19 23:13",
+        60060.0,
+        60060.0,
+        60060.0,
+        60060.0
       ]
     ]
   },
   "gold": {
-    "price": 3714.2,
+    "price": 3709.5,
     "prev": 3727.8,
     "points": [
       [
@@ -3002,22 +3014,29 @@
       ],
       [
         "11/19 23:05",
-        3713.5,
+        3714.3,
         3714.1,
         3715.2,
         3712.6
       ],
       [
-        "11/19 23:08",
-        3714.2,
-        3714.2,
-        3714.2,
-        3714.2
+        "11/19 23:10",
+        3710.5,
+        3714.7,
+        3714.7,
+        3708.6
+      ],
+      [
+        "11/19 23:13",
+        3709.5,
+        3709.5,
+        3709.5,
+        3709.5
       ]
     ]
   },
   "fx": {
-    "price": 159.87,
+    "price": 159.86,
     "prev": 159.278
   },
   "topix": {
