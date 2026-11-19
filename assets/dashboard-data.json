@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:03:19.155597+09:00",
+  "updated": "2026-11-19T20:08:10.586250+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,75 +213,71 @@
     ],
     "gadget": [
       {
+        "title": "全米のデータセンターだけで東京都1年分の電力を消費。その半分以上は化石燃料",
+        "link": "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
+        "date": "2026-11-19T11:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "シェア先でも外れない「AI製」ラベル。EUがディープフェイク対策の新ルール案",
         "link": "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
-        "date": "2026-11-19T10:30:00+00:00",
-        "body": "a36.txt"
+        "date": "2026-11-19T10:30:00+00:00"
       },
       {
         "title": "Amazonの衛星ネット「Leo」、打ち上げ失敗で出鼻をくじかれる",
         "link": "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
         "date": "2026-11-19T10:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "食材入れてボタンを押すとスープが出てくる。魔法のようなスープメーカー「SOUPi」",
         "link": "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
-        "date": "2026-11-19T09:00:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-19T09:00:00+00:00"
       },
       {
         "title": "光のオンパレード。シチズン アテッサ限定モデルは“光の現象”の濃縮パックだ",
         "link": "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
-        "date": "2026-11-19T08:00:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-19T08:00:00+00:00"
       },
       {
         "title": "屋根はソーラー、床下に蓄電池。この「発電小屋」で庭を書斎・ジム・サウナにできる",
         "link": "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
         "date": "2026-11-19T07:35:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "床に転がりっぱなしを解決。脱着自在な3COINSの電源タップ固定ホルダー",
         "link": "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/",
-        "date": "2026-11-19T06:00:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-19T06:00:00+00:00"
       },
       {
         "title": "スーパーのさつまいも4品種で検証。焼き芋の甘さと食感、どう違う？",
         "link": "https://www.gizmodo.jp/article/2611-sweet-potato-varieties-baked-recipe/",
         "date": "2026-11-19T05:35:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "Googleが投下した強力な新AI「Gemini 4 Neon」。“どのAIが最適か？”を変えちゃうところがある",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/",
         "date": "2026-11-19T05:15:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "Boseに「アイスブルー」が来た。人気ヘッドホンもイヤホンも冬仕様に",
         "link": "https://www.gizmodo.jp/article/2611-bose-new-ice-color-headphones-earbuds/",
         "date": "2026-11-19T05:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "Googleの新AI「Gemini 4 Neon」登場。賢さはCarbon級、仕事はもっと速く",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-neon/",
         "date": "2026-11-19T04:30:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "PHPにまた「致命的」な脆弱性。修正版は今夜23時に公開予定",
         "link": "https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/",
         "date": "2026-11-19T04:15:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "Gemini Notebookが、触って学べる解説サイトを作れるようになった",
-        "link": "https://www.gizmodo.jp/article/gemini-notebook_interactive_site_generator/",
-        "date": "2026-11-19T04:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -337,53 +333,53 @@
     ]
   },
   "weather": {
-    "temp": 14.0,
+    "temp": 13.8,
     "code": 0,
     "max": 19.4,
-    "min": 12.4,
+    "min": 12.6,
     "hours": [
       {
         "time": "2026-11-19T20:00",
-        "temp": 14.0,
+        "temp": 13.8,
         "code": 0
       },
       {
         "time": "2026-11-19T21:00",
-        "temp": 13.6,
+        "temp": 13.5,
         "code": 0
       },
       {
         "time": "2026-11-19T22:00",
-        "temp": 13.1,
+        "temp": 13.2,
         "code": 0
       },
       {
         "time": "2026-11-19T23:00",
-        "temp": 12.6,
+        "temp": 12.7,
         "code": 0
       },
       {
         "time": "2026-11-20T00:00",
-        "temp": 12.4,
+        "temp": 12.6,
         "code": 0
       }
     ],
     "hours3": [
       {
         "time": "2026-11-19T20:00",
-        "temp": 14.0,
+        "temp": 13.8,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-19T23:00",
-        "temp": 12.6,
+        "temp": 12.7,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-20T02:00",
-        "temp": 12.1,
+        "temp": 12.4,
         "code": 0,
         "mm": 0.0
       },
@@ -395,13 +391,13 @@
       },
       {
         "time": "2026-11-20T08:00",
-        "temp": 12.5,
+        "temp": 12.8,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-20T11:00",
-        "temp": 13.7,
+        "temp": 13.3,
         "code": 0,
         "mm": 0.0
       },
@@ -454,7 +450,7 @@
     "rain": null
   },
   "index": {
-    "price": 60100.0,
+    "price": 60105.0,
     "prev": 58870.0,
     "points": [
       [
@@ -1446,22 +1442,29 @@
       ],
       [
         "11/19 19:50",
-        60100.0,
+        60115.0,
         60095.0,
         60125.0,
         60085.0
       ],
       [
-        "11/19 19:52",
-        60100.0,
-        60100.0,
-        60100.0,
-        60100.0
+        "11/19 19:55",
+        60105.0,
+        60115.0,
+        60130.0,
+        60095.0
+      ],
+      [
+        "11/19 19:57",
+        60105.0,
+        60105.0,
+        60105.0,
+        60105.0
       ]
     ]
   },
   "gold": {
-    "price": 3736.5,
+    "price": 3736.2,
     "prev": 3727.8,
     "points": [
       [
@@ -2460,22 +2463,29 @@
       ],
       [
         "11/19 19:50",
-        3736.4,
+        3737.8,
         3737.8,
         3738.3,
         3734.2
       ],
       [
-        "11/19 19:53",
-        3736.5,
-        3736.5,
-        3736.5,
-        3736.5
+        "11/19 19:55",
+        3736.4,
+        3737.9,
+        3738.5,
+        3736.1
+      ],
+      [
+        "11/19 19:58",
+        3736.2,
+        3736.2,
+        3736.2,
+        3736.2
       ]
     ]
   },
   "fx": {
-    "price": 159.894,
+    "price": 159.92,
     "prev": 159.278
   },
   "topix": {
