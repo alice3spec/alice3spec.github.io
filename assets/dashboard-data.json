@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T22:33:16.055892+09:00",
+  "updated": "2026-11-19T22:38:15.493291+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,14 +13,14 @@
         "date": "2026-11-19T00:47:00+00:00"
       },
       {
-        "title": "日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5",
-        "date": "2026-11-19T02:54:41+00:00"
-      },
-      {
         "title": "（朝）米国市場は高安まちまち　主要銘柄は下落したものの、アンソロピックの株式公開を控えて様子見ムードもあり方向感を欠く展開 - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rTzE1QjNyMldlZWZlMy1NS1VoT1hYMGtoeEtDN2NybmVVbU5fWTJ1YUtlUS1XT2ltU0lNaUhzSTladE81Q0xVVXdPWHdtRWU0NENxLdIBV0FVX3lxTE1mVXlJdzJyN1F5U2s3WVJJUWc5RExPdlpuUG9Xc1FBZDZPVkV0MXpTQlJxMWZFNDYxMzYxbnZhdFZJMlc2NkNSbjlvWFljVnJ3QTQ1Tm5rYw?oc=5",
         "date": "2026-11-18T23:13:00+00:00"
+      },
+      {
+        "title": "日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5",
+        "date": "2026-11-19T02:54:41+00:00"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月19日記） - 株探",
@@ -58,9 +58,9 @@
         "date": "2026-11-17T22:30:00+00:00"
       },
       {
-        "title": "日経平均株価、続落 終値801円安の5万8860円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iLUhVRmFYVmRkR1ZWS3JZcDdCR2dkTmdCbmZ1OGpNcFdwd2hLZkJkeHNSRmhlQVRUNTdHTzIxVnRJbVhBOW1IOUtCWnZaaGo1V3gxbWs1WDN1MFp2OTVMUnhpeXRnaEFlWmtYTg?oc=5",
-        "date": "2026-11-17T00:07:06+00:00"
+        "title": "ソニーG、株価が反発 「GTA6」発売でロイヤルティー期待 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1dEFlMUVKMzFleXk5RVZUNHhKVFZYVE56YkdZZVZIMng1dms2cEN1X2tPbDFObzkzVkRGbkhCZzNKN3h2Y2k2aVNzbjIzcnNXZFpEbjkwUU01Z0RtWkdEdlJOeTFtbFI3M1ZnUw?oc=5",
+        "date": "2026-11-19T01:50:36+00:00"
       }
     ],
     "ai": [
@@ -213,74 +213,72 @@
     ],
     "gadget": [
       {
+        "title": "ジム・ジャームッシュ新作『ファーザー マザー シスター ブラザー』 ルカ・サバト来日インタビュー",
+        "link": "https://www.gizmodo.jp/article/luca-sabbath_father-mother-sister-brother_interview/",
+        "date": "2026-11-19T13:30:00+00:00"
+      },
+      {
+        "title": "数年使って使い勝手が忘れられず、次も同じ財布に買い替え。今度はラクダ革を育てます",
+        "link": "https://www.gizmodo.jp/article/2611-minimalight-play-wallet-leather-review/",
+        "date": "2026-11-19T13:00:00+00:00",
+        "body": "a37.txt"
+      },
+      {
         "title": "辞任したNVIDIA CEOに台湾からエール。台北のランドマークにハートが浮かぶ",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/",
-        "date": "2026-11-19T12:45:00+00:00"
+        "date": "2026-11-19T12:45:00+00:00",
+        "body": "a38.txt"
       },
       {
         "title": "ビットコイン採掘企業、次々とAIデータセンターに転身中。そっちのほうが儲かるんだもん…",
         "link": "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
-        "date": "2026-11-19T12:30:00+00:00",
-        "body": "a37.txt"
+        "date": "2026-11-19T12:30:00+00:00"
       },
       {
         "title": "いらっしゃいませ、ちょっと未来のびっくりドンキーへ。ハンバーグは20秒ごとに焼き上がり",
         "link": "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/",
-        "date": "2026-11-19T12:00:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-19T12:00:00+00:00"
       },
       {
         "title": "全米のデータセンターだけで東京都1年分の電力を消費。その半分以上は化石燃料",
         "link": "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
         "date": "2026-11-19T11:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a41.txt"
       },
       {
         "title": "シェア先でも外れない「AI製」ラベル。EUがディープフェイク対策の新ルール案",
         "link": "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
         "date": "2026-11-19T10:30:00+00:00",
-        "body": "a40.txt"
+        "body": "a42.txt"
       },
       {
         "title": "Amazonの衛星ネット「Leo」、打ち上げ失敗で出鼻をくじかれる",
         "link": "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
         "date": "2026-11-19T10:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a43.txt"
       },
       {
         "title": "食材入れてボタンを押すとスープが出てくる。魔法のようなスープメーカー「SOUPi」",
         "link": "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
         "date": "2026-11-19T09:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a44.txt"
       },
       {
         "title": "光のオンパレード。シチズン アテッサ限定モデルは“光の現象”の濃縮パックだ",
         "link": "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
-        "date": "2026-11-19T08:00:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-19T08:00:00+00:00"
       },
       {
         "title": "屋根はソーラー、床下に蓄電池。この「発電小屋」で庭を書斎・ジム・サウナにできる",
         "link": "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
         "date": "2026-11-19T07:35:00+00:00",
-        "body": "a44.txt"
+        "body": "a46.txt"
       },
       {
         "title": "床に転がりっぱなしを解決。脱着自在な3COINSの電源タップ固定ホルダー",
         "link": "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/",
         "date": "2026-11-19T06:00:00+00:00",
-        "body": "a45.txt"
-      },
-      {
-        "title": "スーパーのさつまいも4品種で検証。焼き芋の甘さと食感、どう違う？",
-        "link": "https://www.gizmodo.jp/article/2611-sweet-potato-varieties-baked-recipe/",
-        "date": "2026-11-19T05:35:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "Googleが投下した強力な新AI「Gemini 4 Neon」。“どのAIが最適か？”を変えちゃうところがある",
-        "link": "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/",
-        "date": "2026-11-19T05:15:00+00:00"
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
@@ -321,9 +319,9 @@
         "body": "a53.txt"
       },
       {
-        "title": "NHK ラジオで関係ない音声を放送",
-        "link": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
-        "date": "2026-11-19T11:29:30+00:00",
+        "title": "丸山隆平 沢尻エリカと意気投合",
+        "link": "https://news.yahoo.co.jp/pickup/6603211?source=rss",
+        "date": "2026-11-19T13:28:21+00:00",
         "body": "a54.txt"
       },
       {
@@ -452,7 +450,7 @@
     "rain": null
   },
   "index": {
-    "price": 60055.0,
+    "price": 60045.0,
     "prev": 58870.0,
     "points": [
       [
@@ -1654,22 +1652,29 @@
       ],
       [
         "11/19 22:20",
-        60050.0,
+        60070.0,
         60025.0,
-        60060.0,
+        60075.0,
         60005.0
       ],
       [
-        "11/19 22:23",
-        60055.0,
-        60055.0,
-        60055.0,
-        60055.0
+        "11/19 22:25",
+        60045.0,
+        60075.0,
+        60085.0,
+        60015.0
+      ],
+      [
+        "11/19 22:28",
+        60045.0,
+        60045.0,
+        60045.0,
+        60045.0
       ]
     ]
   },
   "gold": {
-    "price": 3714.7,
+    "price": 3724.0,
     "prev": 3727.8,
     "points": [
       [
@@ -2878,22 +2883,29 @@
       ],
       [
         "11/19 22:20",
-        3713.6,
+        3716.1,
         3715.9,
         3717.3,
         3712.3
       ],
       [
-        "11/19 22:23",
-        3714.7,
-        3714.7,
-        3714.7,
-        3714.7
+        "11/19 22:25",
+        3723.5,
+        3715.5,
+        3725.3,
+        3715.4
+      ],
+      [
+        "11/19 22:28",
+        3724.0,
+        3724.0,
+        3724.0,
+        3724.0
       ]
     ]
   },
   "fx": {
-    "price": 159.945,
+    "price": 159.95,
     "prev": 159.278
   },
   "topix": {
