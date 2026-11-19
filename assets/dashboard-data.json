@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T00:38:22.574616+09:00",
+  "updated": "2026-11-20T00:43:27.821422+09:00",
   "feeds": {
     "kabu": [
       {
@@ -24,25 +24,19 @@
         "date": "2026-11-18T23:13:00+00:00"
       },
       {
+        "title": "日経平均は続伸、アンソロピックＩＰＯ人気観測が支えに＝１９日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW81em9DWmxiX3ltZklTei1XWng4LUtwMDItSmgxS0pKRXFBbEVRX0FQTFpGUEdrOGkydEZIWUc2aVBZb05kS2k5anM5YUdzanZ5YXdYd3E4SXRfeTJwbENEZTMydXJUZDNPc2RxLUV3YjczbFFxdVFTZVhQM1o1d01SeGlkdWM?oc=5",
+        "date": "2026-11-19T02:51:53+00:00"
+      },
+      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月19日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IdkxlSFVFR2xQRXRWLU0wcmZEWmE4dlRlazVrM3BPbnh6ejBaUGFoSDh1bm5vZ3h4azkzTTM4N1B0VjRpWFlocUNEMlZHZk1GNFU2d3pSdWFZVjJiY0Y5Vg?oc=5",
         "date": "2026-11-18T23:18:03+00:00"
       },
       {
-        "title": "日経平均は続伸、アンソロピックＩＰＯ人気観測が支えに＝１９日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW81em9DWmxiX3ltZklTei1XWng4LUtwMDItSmgxS0pKRXFBbEVRX0FQTFpGUEdrOGkydEZIWUc2aVBZb05kS2k5anM5YUdzanZ5YXdYd3E4SXRfeTJwbENEZTMydXJUZDNPc2RxLUV3YjczbFFxdVFTZVhQM1o1d01SeGlkdWM?oc=5",
-        "date": "2026-11-19T02:51:53+00:00",
-        "body": "a05.txt"
-      },
-      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月18日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pRmlOMEV6V0NkcVlENWJ1V0Q1RmhfUTJkYUxycmtzVGozZFpzRkNndzJ4NXd4RG1ick4xYm1BZDNvQ2tDcy13VlIzRmVwT2xkSklpRzhRcW9HWkRlUWNJNQ?oc=5",
         "date": "2026-11-17T23:22:35+00:00"
-      },
-      {
-        "title": "１９日の東京株式市場見通し＝上値の重い展開、アンソロピックＩＰＯ控え手控えも(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGtrRVVwbHd3RVE1LWpPTnNnSU9aNHlvTWhMVU9IdHhwdHVjQVJsVHVJTVNZcnhtMXFNTlRVblM4MFVCMDJlaWo0T3REdWxveGtHclI0ZHdoeTNyMFVoRnp3UUxnSzlfOG9XRElWU1lYRG9yb3E3NmNMXzNMZnotc0hMVDdGNHM?oc=5",
-        "date": "2026-11-18T22:49:13+00:00"
       },
       {
         "title": "日経平均株価は続伸 終値は419円高の5万9444円 - 日本経済新聞",
@@ -52,7 +46,8 @@
       {
         "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
-        "date": "2026-11-18T02:51:05+00:00"
+        "date": "2026-11-18T02:51:05+00:00",
+        "body": "a08.txt"
       },
       {
         "title": "日経平均株価、米ハイテク株安重荷 内需株が支え（先読み株式相場） - 日本経済新聞",
@@ -62,7 +57,13 @@
       {
         "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
-        "date": "2026-11-18T00:04:33+00:00"
+        "date": "2026-11-18T00:04:33+00:00",
+        "body": "a10.txt"
+      },
+      {
+        "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95T1RqRGYyZmxKSVRnWDZjZ1dOUTFUX1JCWjZPc09xczYtTXJGcGl6Wm04d0xkamdlYnZUeEZvSzFOWkNDVGxVb0tOOUlXR2pERV9ObHBGSHhuSlB1cHVUQ3N6RFZUM211VG5OUg?oc=5",
+        "date": "2026-11-17T22:30:00+00:00"
       }
     ],
     "ai": [
@@ -456,7 +457,7 @@
     "rain": null
   },
   "index": {
-    "price": 59250.0,
+    "price": 59035.0,
     "prev": 58870.0,
     "points": [
       [
@@ -1833,22 +1834,29 @@
       ],
       [
         "11/20 00:25",
-        59220.0,
+        59210.0,
         59365.0,
         59380.0,
-        59215.0
+        59205.0
       ],
       [
-        "11/20 00:28",
-        59250.0,
-        59250.0,
-        59250.0,
-        59250.0
+        "11/20 00:30",
+        59040.0,
+        59210.0,
+        59210.0,
+        59025.0
+      ],
+      [
+        "11/20 00:33",
+        59035.0,
+        59035.0,
+        59035.0,
+        59035.0
       ]
     ]
   },
   "gold": {
-    "price": 3697.4,
+    "price": 3689.6,
     "prev": 3727.8,
     "points": [
       [
@@ -3232,26 +3240,33 @@
       ],
       [
         "11/20 00:25",
-        3697.2,
+        3688.1,
         3697.4,
         3701.1,
-        3695.9
+        3686.6
       ],
       [
-        "11/20 00:28",
-        3697.4,
-        3697.4,
-        3697.4,
-        3697.4
+        "11/20 00:30",
+        3689.6,
+        3688.1,
+        3690.9,
+        3686.2
+      ],
+      [
+        "11/20 00:33",
+        3689.6,
+        3689.6,
+        3689.6,
+        3689.6
       ]
     ]
   },
   "fx": {
-    "price": 159.718,
+    "price": 159.698,
     "prev": 159.278
   },
   "topix": {
-    "price": 139.88,
+    "price": 139.62,
     "prev": 143.5
   },
   "ver": "v62"
