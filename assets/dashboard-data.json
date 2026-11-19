@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:13:30.088145+09:00",
+  "updated": "2026-11-20T02:18:25.205790+09:00",
   "feeds": {
     "kabu": [
       {
@@ -39,9 +39,15 @@
         "date": "2026-11-19T00:06:22+00:00"
       },
       {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月19日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IdkxlSFVFR2xQRXRWLU0wcmZEWmE4dlRlazVrM3BPbnh6ejBaUGFoSDh1bm5vZ3h4azkzTTM4N1B0VjRpWFlocUNEMlZHZk1GNFU2d3pSdWFZVjJiY0Y5Vg?oc=5",
+        "date": "2026-11-18T23:18:03+00:00"
+      },
+      {
         "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
-        "date": "2026-11-18T02:51:05+00:00"
+        "date": "2026-11-18T02:51:05+00:00",
+        "body": "a08.txt"
       },
       {
         "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
@@ -56,13 +62,7 @@
       {
         "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
-        "date": "2026-11-18T00:04:33+00:00",
-        "body": "a10.txt"
-      },
-      {
-        "title": "任天堂株価が続伸、SBI証券の目標上げで評価回復（18日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Eb2FiXzJxZkc3SUVjaXdfLU41NkR3bzg1b0hBRkdsOTNUdFIzTjZHc0pJalZ0ZTF5cnRBYjlqOTdKQThLVUhyTkF5Nlo3RHZvY0NUVGR4R2c3VlpKMGFKcTI2RWh6OFI1a2c2ZQ?oc=5",
-        "date": "2026-11-18T07:47:02+00:00"
+        "date": "2026-11-18T00:04:33+00:00"
       }
     ],
     "ai": [
@@ -215,15 +215,10 @@
     ],
     "gadget": [
       {
-        "title": "【速報】Anthropicが上場。初値は111.50ドル、公開価格を34%上回る",
-        "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo/",
-        "date": "2026-11-19T16:55:00+00:00"
-      },
-      {
         "title": "パイロット不要のAI自律戦闘機、ついに滑走路まで不要に",
         "link": "https://www.gizmodo.jp/article/2611-ai-fighter-jet-x-bat-vertical-takeoff/",
         "date": "2026-11-19T14:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a36.txt"
       },
       {
         "title": "ジム・ジャームッシュ新作『ファーザー マザー シスター ブラザー』 ルカ・サバト来日インタビュー",
@@ -233,50 +228,58 @@
       {
         "title": "数年使って使い勝手が忘れられず、次も同じ財布に買い替え。今度はラクダ革を育てます",
         "link": "https://www.gizmodo.jp/article/2611-minimalight-play-wallet-leather-review/",
-        "date": "2026-11-19T13:00:00+00:00"
+        "date": "2026-11-19T13:00:00+00:00",
+        "body": "a38.txt"
       },
       {
         "title": "辞任したNVIDIA CEOに台湾からエール。台北のランドマークにハートが浮かぶ",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/",
-        "date": "2026-11-19T12:45:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-19T12:45:00+00:00"
       },
       {
         "title": "ビットコイン採掘企業、次々とAIデータセンターに転身中。そっちのほうが儲かるんだもん…",
         "link": "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
-        "date": "2026-11-19T12:30:00+00:00"
+        "date": "2026-11-19T12:30:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "びっくりドンキーのハンバーグを焼くロボット。注文から約3分、1時間180食つくる",
         "link": "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/",
-        "date": "2026-11-19T12:00:00+00:00"
+        "date": "2026-11-19T12:00:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "全米のデータセンターだけで東京都1年分の電力を消費。その半分以上は化石燃料",
         "link": "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
-        "date": "2026-11-19T11:00:00+00:00"
+        "date": "2026-11-19T11:00:00+00:00",
+        "body": "a42.txt"
       },
       {
         "title": "シェア先でも外れない「AI製」ラベル。EUがディープフェイク対策の新ルール案",
         "link": "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
-        "date": "2026-11-19T10:30:00+00:00"
+        "date": "2026-11-19T10:30:00+00:00",
+        "body": "a43.txt"
       },
       {
         "title": "Amazonの衛星ネット「Leo」、打ち上げ失敗で出鼻をくじかれる",
         "link": "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
-        "date": "2026-11-19T10:00:00+00:00",
-        "body": "a45.txt"
+        "date": "2026-11-19T10:00:00+00:00"
       },
       {
         "title": "食材入れてボタンを押すとスープが出てくる。魔法のようなスープメーカー「SOUPi」",
         "link": "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
         "date": "2026-11-19T09:00:00+00:00",
-        "body": "a46.txt"
+        "body": "a45.txt"
       },
       {
         "title": "光のオンパレード。シチズン アテッサ限定モデルは“光の現象”の濃縮パックだ",
         "link": "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
         "date": "2026-11-19T08:00:00+00:00"
+      },
+      {
+        "title": "屋根はソーラー、床下に蓄電池。この「発電小屋」で庭を書斎・ジム・サウナにできる",
+        "link": "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
+        "date": "2026-11-19T07:35:00+00:00"
       }
     ],
     "yahoo": [
@@ -448,7 +451,7 @@
     "rain": null
   },
   "index": {
-    "price": 57965.0,
+    "price": 57940.0,
     "prev": 58870.0,
     "points": [
       [
@@ -1958,22 +1961,29 @@
       ],
       [
         "11/20 02:00",
-        57860.0,
+        57935.0,
         58390.0,
         58500.0,
-        57850.0
+        57825.0
       ],
       [
-        "11/20 02:03",
-        57965.0,
-        57965.0,
-        57965.0,
-        57965.0
+        "11/20 02:05",
+        58000.0,
+        57910.0,
+        58080.0,
+        57680.0
+      ],
+      [
+        "11/20 02:08",
+        57940.0,
+        57940.0,
+        57940.0,
+        57940.0
       ]
     ]
   },
   "gold": {
-    "price": 3677.9,
+    "price": 3673.4,
     "prev": 3727.8,
     "points": [
       [
@@ -3490,26 +3500,33 @@
       ],
       [
         "11/20 02:00",
-        3676.8,
+        3675.9,
         3685.0,
         3685.7,
         3675.4
       ],
       [
-        "11/20 02:03",
-        3677.9,
-        3677.9,
-        3677.9,
-        3677.9
+        "11/20 02:05",
+        3673.2,
+        3675.1,
+        3675.5,
+        3668.4
+      ],
+      [
+        "11/20 02:08",
+        3673.4,
+        3673.4,
+        3673.4,
+        3673.4
       ]
     ]
   },
   "fx": {
-    "price": 159.67,
+    "price": 159.654,
     "prev": 159.278
   },
   "topix": {
-    "price": 136.015,
+    "price": 135.645,
     "prev": 143.5
   },
   "ver": "v62"
