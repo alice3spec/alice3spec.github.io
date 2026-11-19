@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T01:48:26.510353+09:00",
+  "updated": "2026-11-20T01:53:19.998979+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,14 +13,10 @@
         "date": "2026-11-19T09:06:00+00:00"
       },
       {
-        "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUM1RUJqSjI2cXU5RlluM01JNzZlRk5saW4yS3kyNi1wUXlUX0NqckdjMnhnNzYtQnhsU1ZkSGlmekE1d3cxOHYzMHdGRThza1IxYWVyMngwN3FmdDlFU0xsYzZSeXM0QlJIMFlKbFg5YlZIbERfNFcyU0gwY0Q2RVNETnd4eXk0d0hWUktn?oc=5",
-        "date": "2026-11-19T00:47:00+00:00"
-      },
-      {
         "title": "日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5",
-        "date": "2026-11-19T02:54:41+00:00"
+        "date": "2026-11-19T02:54:41+00:00",
+        "body": "a02.txt"
       },
       {
         "title": "（朝）米国市場は高安まちまち　主要銘柄は下落したものの、アンソロピックの株式公開を控えて様子見ムードもあり方向感を欠く展開 - マネクリ",
@@ -31,6 +27,11 @@
         "title": "日経平均は続伸、アンソロピックＩＰＯ人気観測が支えに＝１９日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW81em9DWmxiX3ltZklTei1XWng4LUtwMDItSmgxS0pKRXFBbEVRX0FQTFpGUEdrOGkydEZIWUc2aVBZb05kS2k5anM5YUdzanZ5YXdYd3E4SXRfeTJwbENEZTMydXJUZDNPc2RxLUV3YjczbFFxdVFTZVhQM1o1d01SeGlkdWM?oc=5",
         "date": "2026-11-19T02:51:53+00:00"
+      },
+      {
+        "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waW5xVjM5MWc4LVdKVE1vYmFXVENzY1otOEdfdGNOUzdaSS1NRTVqbmxPN1VLQ1JlQjBvYjVpOFptVDhCMEFjLWZVX2o3NFMtbUJlQlNUanVWRWN5elVVQ2YwaHN3Nk9DN3Z0ZndLeW8yLVhkNFdv?oc=5",
+        "date": "2026-11-19T00:47:00+00:00"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月18日記） - 株探",
@@ -454,7 +455,7 @@
     "rain": null
   },
   "index": {
-    "price": 59305.0,
+    "price": 59235.0,
     "prev": 58870.0,
     "points": [
       [
@@ -1929,22 +1930,29 @@
       ],
       [
         "11/20 01:35",
-        59245.0,
+        59230.0,
         59055.0,
         59305.0,
         59020.0
       ],
       [
-        "11/20 01:38",
-        59305.0,
-        59305.0,
-        59305.0,
-        59305.0
+        "11/20 01:40",
+        59180.0,
+        59235.0,
+        59335.0,
+        59165.0
+      ],
+      [
+        "11/20 01:43",
+        59235.0,
+        59235.0,
+        59235.0,
+        59235.0
       ]
     ]
   },
   "gold": {
-    "price": 3690.3,
+    "price": 3689.8,
     "prev": 3727.8,
     "points": [
       [
@@ -3426,26 +3434,33 @@
       ],
       [
         "11/20 01:35",
-        3688.2,
+        3688.0,
         3685.5,
         3690.5,
         3685.5
       ],
       [
-        "11/20 01:38",
+        "11/20 01:40",
         3690.3,
-        3690.3,
-        3690.3,
-        3690.3
+        3688.4,
+        3691.4,
+        3686.2
+      ],
+      [
+        "11/20 01:43",
+        3689.8,
+        3689.8,
+        3689.8,
+        3689.8
       ]
     ]
   },
   "fx": {
-    "price": 159.903,
+    "price": 159.736,
     "prev": 159.278
   },
   "topix": {
-    "price": 140.43,
+    "price": 137.715,
     "prev": 143.5
   },
   "ver": "v62"
