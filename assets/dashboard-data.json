@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:43:43.591680+09:00",
+  "updated": "2026-11-19T13:48:26.392570+09:00",
   "feeds": {
     "kabu": [
       {
@@ -23,14 +23,14 @@
         "date": "2026-11-19T00:47:00+00:00"
       },
       {
-        "title": "（朝）米国市場は高安まちまち　主要銘柄は下落したものの、アンソロピックの株式公開を控えて様子見ムードもあり方向感を欠く展開 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rTzE1QjNyMldlZWZlMy1NS1VoT1hYMGtoeEtDN2NybmVVbU5fWTJ1YUtlUS1XT2ltU0lNaUhzSTladE81Q0xVVXdPWHdtRWU0NENxLdIBV0FVX3lxTE1mVXlJdzJyN1F5U2s3WVJJUWc5RExPdlpuUG9Xc1FBZDZPVkV0MXpTQlJxMWZFNDYxMzYxbnZhdFZJMlc2NkNSbjlvWFljVnJ3QTQ1Tm5rYw?oc=5",
-        "date": "2026-11-18T23:13:00+00:00"
-      },
-      {
         "title": "日経平均午前116円高 気迷い相場、アンソロピックIPOで打破なるか - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5",
         "date": "2026-11-19T02:54:41+00:00"
+      },
+      {
+        "title": "（朝）米国市場は高安まちまち　主要銘柄は下落したものの、アンソロピックの株式公開を控えて様子見ムードもあり方向感を欠く展開 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rTzE1QjNyMldlZWZlMy1NS1VoT1hYMGtoeEtDN2NybmVVbU5fWTJ1YUtlUS1XT2ltU0lNaUhzSTladE81Q0xVVXdPWHdtRWU0NENxLdIBV0FVX3lxTE1mVXlJdzJyN1F5U2s3WVJJUWc5RExPdlpuUG9Xc1FBZDZPVkV0MXpTQlJxMWZFNDYxMzYxbnZhdFZJMlc2NkNSbjlvWFljVnJ3QTQ1Tm5rYw?oc=5",
+        "date": "2026-11-18T23:13:00+00:00"
       },
       {
         "title": "日経平均、116円59銭高の5万9140円87銭で終了＝東京株式前場(時事通信) - Yahoo!ファイナンス",
@@ -48,14 +48,14 @@
         "date": "2026-11-19T00:02:15+00:00"
       },
       {
-        "title": "ソニーG、株価が反発 「GTA6」発売でロイヤルティー期待 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1dEFlMUVKMzFleXk5RVZUNHhKVFZYVE56YkdZZVZIMng1dms2cEN1X2tPbDFObzkzVkRGbkhCZzNKN3h2Y2k2aVNzbjIzcnNXZFpEbjkwUU01Z0RtWkdEdlJOeTFtbFI3M1ZnUw?oc=5",
-        "date": "2026-11-19T01:50:36+00:00"
-      },
-      {
         "title": "データセクション株価が連日ストップ安 米ネオクラウド株下落が波及 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Yk9jRDBaR0JQVDdubVl2eHhIY1h3dlI4WjNKUXlKZHlhU3hncFdfVUYxQ1pBZ2dXTmE1RXlsTDNOYkpYSmJOSzBrVHpRRTV1WjhGMGxOcVJaa1h5SlN2dDVUeXJDazBrRGZXTg?oc=5",
         "date": "2026-11-19T01:43:40+00:00"
+      },
+      {
+        "title": "ソニーG、株価が反発 「GTA6」発売でロイヤルティー期待 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1dEFlMUVKMzFleXk5RVZUNHhKVFZYVE56YkdZZVZIMng1dms2cEN1X2tPbDFObzkzVkRGbkhCZzNKN3h2Y2k2aVNzbjIzcnNXZFpEbjkwUU01Z0RtWkdEdlJOeTFtbFI3M1ZnUw?oc=5",
+        "date": "2026-11-19T01:50:36+00:00"
       },
       {
         "title": "アドバンテスト株価膠着 米アンソロピック「公開価格83ドル」報道好感 - 日本経済新聞",
@@ -317,10 +317,9 @@
         "body": "a52.txt"
       },
       {
-        "title": "楽天 MLB通算123発テジェス獲得",
-        "link": "https://news.yahoo.co.jp/pickup/6603149?source=rss",
-        "date": "2026-11-19T03:49:29+00:00",
-        "body": "a53.txt"
+        "title": "巨人・松井秀喜監督 アメリカ帰国",
+        "link": "https://news.yahoo.co.jp/pickup/6603152?source=rss",
+        "date": "2026-11-19T04:40:09+00:00"
       },
       {
         "title": "根尾昂が更改 初めて1000万円割る",
@@ -454,7 +453,7 @@
     "rain": null
   },
   "index": {
-    "price": 59485.0,
+    "price": 59400.0,
     "prev": 58870.0,
     "points": [
       [
@@ -927,16 +926,23 @@
         59450.0
       ],
       [
-        "11/19 13:33",
-        59485.0,
-        59485.0,
-        59485.0,
-        59485.0
+        "11/19 13:35",
+        59400.0,
+        59410.0,
+        59425.0,
+        59365.0
+      ],
+      [
+        "11/19 13:38",
+        59400.0,
+        59400.0,
+        59400.0,
+        59400.0
       ]
     ]
   },
   "gold": {
-    "price": 3726.8,
+    "price": 3723.5,
     "prev": 3727.8,
     "points": [
       [
@@ -1403,22 +1409,29 @@
       ],
       [
         "11/19 13:30",
-        3727.2,
+        3726.9,
         3726.7,
         3728.6,
-        3726.0
+        3725.9
       ],
       [
-        "11/19 13:33",
-        3726.8,
-        3726.8,
-        3726.8,
-        3726.8
+        "11/19 13:35",
+        3723.2,
+        3726.7,
+        3726.7,
+        3723.1
+      ],
+      [
+        "11/19 13:38",
+        3723.5,
+        3723.5,
+        3723.5,
+        3723.5
       ]
     ]
   },
   "fx": {
-    "price": 159.55,
+    "price": 159.557,
     "prev": 159.278
   },
   "topix": {
