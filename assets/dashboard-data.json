@@ -1,140 +1,72 @@
 {
-  "updated": "2026-11-19T21:03:18.592295+09:00",
+  "updated": "2026-11-19T21:08:17.329414+09:00",
   "feeds": {
-    "kabu": [
-      {
-        "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
-        "date": "2026-11-18T22:39:10+00:00"
-      },
-      {
-        "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdUM1RUJqSjI2cXU5RlluM01JNzZlRk5saW4yS3kyNi1wUXlUX0NqckdjMnhnNzYtQnhsU1ZkSGlmekE1d3cxOHYzMHdGRThza1IxYWVyMngwN3FmdDlFU0xsYzZSeXM0QlJIMFlKbFg5YlZIbERfNFcyU0gwY0Q2RVNETnd4eXk0d0hWUktn?oc=5",
-        "date": "2026-11-19T00:47:00+00:00"
-      },
-      {
-        "title": "日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5",
-        "date": "2026-11-19T02:54:41+00:00"
-      },
-      {
-        "title": "（朝）米国市場は高安まちまち　主要銘柄は下落したものの、アンソロピックの株式公開を控えて様子見ムードもあり方向感を欠く展開 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rTzE1QjNyMldlZWZlMy1NS1VoT1hYMGtoeEtDN2NybmVVbU5fWTJ1YUtlUS1XT2ltU0lNaUhzSTladE81Q0xVVXdPWHdtRWU0NENxLdIBV0FVX3lxTE1mVXlJdzJyN1F5U2s3WVJJUWc5RExPdlpuUG9Xc1FBZDZPVkV0MXpTQlJxMWZFNDYxMzYxbnZhdFZJMlc2NkNSbjlvWFljVnJ3QTQ1Tm5rYw?oc=5",
-        "date": "2026-11-18T23:13:00+00:00"
-      },
-      {
-        "title": "１９日の東京株式市場見通し＝上値の重い展開、アンソロピックＩＰＯ控え手控えも(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGtrRVVwbHd3RVE1LWpPTnNnSU9aNHlvTWhMVU9IdHhwdHVjQVJsVHVJTVNZcnhtMXFNTlRVblM4MFVCMDJlaWo0T3REdWxveGtHclI0ZHdoeTNyMFVoRnp3UUxnSzlfOG9XRElWU1lYRG9yb3E3NmNMXzNMZnotc0hMVDdGNHM?oc=5",
-        "date": "2026-11-18T22:49:13+00:00"
-      },
-      {
-        "title": "日経平均は続伸、アンソロピックＩＰＯ人気観測が支えに＝１９日前引け(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcW81em9DWmxiX3ltZklTei1XWng4LUtwMDItSmgxS0pKRXFBbEVRX0FQTFpGUEdrOGkydEZIWUc2aVBZb05kS2k5anM5YUdzanZ5YXdYd3E4SXRfeTJwbENEZTMydXJUZDNPc2RxLUV3YjczbFFxdVFTZVhQM1o1d01SeGlkdWM?oc=5",
-        "date": "2026-11-19T02:51:53+00:00"
-      },
-      {
-        "title": "日経平均株価は続伸 終値は419円高の5万9444円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXbkMwWlBsdXk5Z18xa1ZNUFd6MW5FVlFueFNEanJxdWRhdlpzRGVzUUNZLXMzZVhOdG9pTVNGeGVtNkVOV1VVT1RudEdzVjc3Q3N0ZGhZRWMwd1dVMjJjMlEtR3pPQkUxUlRaSg?oc=5",
-        "date": "2026-11-19T00:06:22+00:00"
-      },
-      {
-        "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
-        "date": "2026-11-18T02:51:05+00:00"
-      },
-      {
-        "title": "スシローのF&LC、中計公表後に株価乱高下 海外市場の説明に反応か - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNWRTRHRoQ2VtVTE2YjluSm9pYTR0YXNNbHhQdDVrTzZqMVhtS0RBd21IUDFiSmNSRjlfRzJ0UGZyN3FISGo4WUlacjdEMkRSVTVJVmZvMDBkNWFCbS10TV9UWWh3alZ6QS1RSQ?oc=5",
-        "date": "2026-11-19T06:30:00+00:00"
-      },
-      {
-        "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
-        "date": "2026-11-18T00:04:33+00:00"
-      },
-      {
-        "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95T1RqRGYyZmxKSVRnWDZjZ1dOUTFUX1JCWjZPc09xczYtTXJGcGl6Wm04d0xkamdlYnZUeEZvSzFOWkNDVGxVb0tOOUlXR2pERV9ObHBGSHhuSlB1cHVUQ3N6RFZUM211VG5OUg?oc=5",
-        "date": "2026-11-17T22:30:00+00:00"
-      },
-      {
-        "title": "ソニーG、株価が反発 「GTA6」発売でロイヤルティー期待 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1dEFlMUVKMzFleXk5RVZUNHhKVFZYVE56YkdZZVZIMng1dms2cEN1X2tPbDFObzkzVkRGbkhCZzNKN3h2Y2k2aVNzbjIzcnNXZFpEbjkwUU01Z0RtWkdEdlJOeTFtbFI3M1ZnUw?oc=5",
-        "date": "2026-11-19T01:50:36+00:00"
-      }
-    ],
+    "kabu": [],
     "ai": [
       {
         "title": "「GLM-5.3-Flash」「DeepSeek-V4.1-Flash-1017」が月3000リクエストまで無料　さくらのAI推論基盤で提供",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003339/",
         "date": "2026-11-19T07:45:14+00:00",
-        "body": "a12.txt"
+        "body": "a00.txt"
       },
       {
         "title": "ファミマが「AIロボット」本格導入へ　飲料補充に活用、作業時間の約7割を削減",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003329/",
         "date": "2026-11-19T04:27:35+00:00",
-        "body": "a13.txt"
+        "body": "a01.txt"
       },
       {
         "title": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
-        "date": "2026-11-19T03:00:00+00:00",
-        "body": "a14.txt"
+        "date": "2026-11-19T03:00:00+00:00"
       },
       {
         "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？　428件を調べてわかった乗っ取り手口　暗号資産を盗む例も",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
-        "date": "2026-11-19T03:00:00+00:00",
-        "body": "a15.txt"
+        "date": "2026-11-19T03:00:00+00:00"
       },
       {
         "title": "Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」　一部「Fable同等」性能をコスト半分で",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/",
-        "date": "2026-11-19T02:25:30+00:00",
-        "body": "a16.txt"
+        "date": "2026-11-19T02:25:30+00:00"
       },
       {
         "title": "AIによるAI研究「指数関数的に増加」でも「依然として人間中心」　OpenAIがレポート公開",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003318/",
         "date": "2026-11-19T00:48:01+00:00",
-        "body": "a17.txt"
+        "body": "a05.txt"
       },
       {
         "title": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news044.html",
-        "date": "2026-11-18T23:30:00+00:00",
-        "body": "a18.txt"
+        "date": "2026-11-18T23:30:00+00:00"
       },
       {
         "title": "ソブリンAI実現に向けて再び立ちはだかる「旧来の課題」　データ・インフラ・モデルの自由度をどう保つか",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000002979/",
-        "date": "2026-11-18T23:00:00+00:00",
-        "body": "a19.txt"
+        "date": "2026-11-18T23:00:00+00:00"
       },
       {
         "title": "日本の音声AIスタートアップに159億円　ElevenLabsはなぜ、社員15人のKotobaを買収するのか",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003306/",
-        "date": "2026-11-18T22:55:00+00:00",
-        "body": "a20.txt"
+        "date": "2026-11-18T22:55:00+00:00"
       },
       {
         "title": "「e-F@ctory」から次の進化へ、三菱電機が描くAI主体の自律型工場",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news045.html",
         "date": "2026-11-18T22:30:00+00:00",
-        "body": "a21.txt"
+        "body": "a09.txt"
       },
       {
         "title": "コマツ油機開発センタが挑む設計プロセス改革、ナレッジ検索／整備に生成AI活用",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/19/news001.html",
         "date": "2026-11-18T22:00:00+00:00",
-        "body": "a22.txt"
+        "body": "a10.txt"
       },
       {
         "title": "まいばすけっとは「月2万件対応の社内窓口」の新人教育にAIをどう使った？",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/19/2000003301/",
-        "date": "2026-11-18T22:00:00+00:00",
-        "body": "a23.txt"
+        "date": "2026-11-18T22:00:00+00:00"
       }
     ],
     "it": [
@@ -142,142 +74,144 @@
         "title": "美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
         "date": "2026-11-19T11:04:47+00:00",
-        "body": "a24.txt"
+        "body": "a12.txt"
       },
       {
         "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止　予定を前倒し",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
-        "date": "2026-11-19T09:53:00+00:00",
-        "body": "a25.txt"
+        "date": "2026-11-19T09:53:00+00:00"
       },
       {
         "title": "楽天証券、アンソロピックIPOで「抽選対象外」の表示不具合　後から「当選」の報告相次ぐ　「想定より申し込み多く」",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
         "date": "2026-11-19T09:40:42+00:00",
-        "body": "a26.txt"
+        "body": "a14.txt"
       },
       {
         "title": "脆弱性で話題「nginx」なんて読む？　「ンギンクス」ではなく……",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/",
         "date": "2026-11-19T09:18:57+00:00",
-        "body": "a27.txt"
+        "body": "a15.txt"
       },
       {
         "title": "nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003334/",
         "date": "2026-11-19T06:30:00+00:00",
-        "body": "a28.txt"
+        "body": "a16.txt"
       },
       {
         "title": "Microsoftの「Agent Framework」が侵害され、認証情報を盗む不正版がPyPIで公開",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003332/",
         "date": "2026-11-19T05:58:26+00:00",
-        "body": "a29.txt"
+        "body": "a17.txt"
       },
       {
         "title": "Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
         "date": "2026-11-19T05:11:07+00:00",
-        "body": "a30.txt"
+        "body": "a18.txt"
       },
       {
         "title": "職人の技、AIで見える化　工科高校でモーションキャプチャー　企業の8割超が継承に不安",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003324/",
-        "date": "2026-11-19T03:16:18+00:00",
-        "body": "a31.txt"
+        "date": "2026-11-19T03:16:18+00:00"
       },
       {
         "title": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
         "date": "2026-11-19T03:00:00+00:00",
-        "body": "a32.txt"
+        "body": "a20.txt"
       },
       {
         "title": "楽天証券漏えい、“テスト環境に顧客情報”のマズさ　識者「一般的でない」",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003312/",
         "date": "2026-11-19T03:00:00+00:00",
-        "body": "a33.txt"
+        "body": "a21.txt"
       },
       {
         "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？　428件を調べてわかった乗っ取り手口　暗号資産を盗む例も",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
         "date": "2026-11-19T03:00:00+00:00",
-        "body": "a34.txt"
+        "body": "a22.txt"
       },
       {
         "title": "体操、強化にAI導入　スポーツ振興センターと富士通が共同研究開始「無限の可能性ある」",
         "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003323/",
         "date": "2026-11-19T02:56:47+00:00",
-        "body": "a35.txt"
+        "body": "a23.txt"
       }
     ],
     "gadget": [
       {
-        "title": "いらっしゃいませ、ちょっと未来のびっくりドンキーへ。ハンバーグは20秒ごとに焼き上がり",
-        "link": "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/",
-        "date": "2026-11-19T12:00:00+00:00"
-      },
-      {
         "title": "全米のデータセンターだけで東京都1年分の電力を消費。その半分以上は化石燃料",
         "link": "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
         "date": "2026-11-19T11:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a24.txt"
       },
       {
         "title": "シェア先でも外れない「AI製」ラベル。EUがディープフェイク対策の新ルール案",
         "link": "https://www.gizmodo.jp/article/2611-eu-election-deepfake-ai-rules/",
         "date": "2026-11-19T10:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a25.txt"
       },
       {
         "title": "Amazonの衛星ネット「Leo」、打ち上げ失敗で出鼻をくじかれる",
         "link": "https://www.gizmodo.jp/article/2611-amazon-leo-satellite-launch-failure/",
-        "date": "2026-11-19T10:00:00+00:00"
+        "date": "2026-11-19T10:00:00+00:00",
+        "body": "a26.txt"
       },
       {
         "title": "食材入れてボタンを押すとスープが出てくる。魔法のようなスープメーカー「SOUPi」",
         "link": "https://www.gizmodo.jp/article/2611-ninja-soupi-auto-soup-maker/",
-        "date": "2026-11-19T09:00:00+00:00"
+        "date": "2026-11-19T09:00:00+00:00",
+        "body": "a27.txt"
       },
       {
         "title": "光のオンパレード。シチズン アテッサ限定モデルは“光の現象”の濃縮パックだ",
         "link": "https://www.gizmodo.jp/article/citizen-attesa-hazy/",
         "date": "2026-11-19T08:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a28.txt"
       },
       {
         "title": "屋根はソーラー、床下に蓄電池。この「発電小屋」で庭を書斎・ジム・サウナにできる",
         "link": "https://www.gizmodo.jp/article/2611-solar-powered-garden-shed-os1/",
         "date": "2026-11-19T07:35:00+00:00",
-        "body": "a42.txt"
+        "body": "a29.txt"
       },
       {
         "title": "床に転がりっぱなしを解決。脱着自在な3COINSの電源タップ固定ホルダー",
         "link": "https://www.gizmodo.jp/article/3coins_slide_outlet_holder/",
-        "date": "2026-11-19T06:00:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-19T06:00:00+00:00"
       },
       {
         "title": "スーパーのさつまいも4品種で検証。焼き芋の甘さと食感、どう違う？",
         "link": "https://www.gizmodo.jp/article/2611-sweet-potato-varieties-baked-recipe/",
         "date": "2026-11-19T05:35:00+00:00",
-        "body": "a44.txt"
+        "body": "a31.txt"
       },
       {
         "title": "Googleが投下した強力な新AI「Gemini 4 Neon」。“どのAIが最適か？”を変えちゃうところがある",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-neon-google-ai/",
         "date": "2026-11-19T05:15:00+00:00",
-        "body": "a45.txt"
+        "body": "a32.txt"
       },
       {
         "title": "Boseに「アイスブルー」が来た。人気ヘッドホンもイヤホンも冬仕様に",
         "link": "https://www.gizmodo.jp/article/2611-bose-new-ice-color-headphones-earbuds/",
-        "date": "2026-11-19T05:00:00+00:00"
+        "date": "2026-11-19T05:00:00+00:00",
+        "body": "a33.txt"
       },
       {
         "title": "Googleの新AI「Gemini 4 Neon」登場。賢さはCarbon級、仕事はもっと速く",
         "link": "https://www.gizmodo.jp/article/2611-gemini-4-neon/",
-        "date": "2026-11-19T04:30:00+00:00"
+        "date": "2026-11-19T04:30:00+00:00",
+        "body": "a34.txt"
+      },
+      {
+        "title": "PHPにまた「致命的」な脆弱性。修正版は今夜23時に公開予定",
+        "link": "https://www.gizmodo.jp/article/2611-php-critical-vulnerability-november-2024/",
+        "date": "2026-11-19T04:15:00+00:00",
+        "body": "a35.txt"
       }
     ],
     "yahoo": [
@@ -285,49 +219,45 @@
         "title": "米中露首脳「平和宣言」を発表",
         "link": "https://news.yahoo.co.jp/pickup/6603204?source=rss",
         "date": "2026-11-19T11:59:20+00:00",
-        "body": "a48.txt"
+        "body": "a36.txt"
       },
       {
         "title": "内閣支持率は微増の42.8% 時事",
         "link": "https://news.yahoo.co.jp/pickup/6603191?source=rss",
         "date": "2026-11-19T09:56:58+00:00",
-        "body": "a49.txt"
+        "body": "a37.txt"
       },
       {
         "title": "JT 露事業巡り1.3兆円の損失計上",
         "link": "https://news.yahoo.co.jp/pickup/6603194?source=rss",
-        "date": "2026-11-19T10:35:41+00:00",
-        "body": "a50.txt"
+        "date": "2026-11-19T10:35:41+00:00"
       },
       {
         "title": "入浴施設で作業 熱中症で男性死亡",
         "link": "https://news.yahoo.co.jp/pickup/6603190?source=rss",
         "date": "2026-11-19T09:49:16+00:00",
-        "body": "a51.txt"
+        "body": "a39.txt"
       },
       {
         "title": "育休とった男性の心身不調 症状は",
         "link": "https://news.yahoo.co.jp/pickup/6603193?source=rss",
         "date": "2026-11-19T10:32:57+00:00",
-        "body": "a52.txt"
+        "body": "a40.txt"
       },
       {
         "title": "分厚い塊肉 ポークステーキ店拡大",
         "link": "https://news.yahoo.co.jp/pickup/6603181?source=rss",
-        "date": "2026-11-19T09:01:19+00:00",
-        "body": "a53.txt"
+        "date": "2026-11-19T09:01:19+00:00"
       },
       {
         "title": "HIKESHI賞のG船迫 消火器を持参",
         "link": "https://news.yahoo.co.jp/pickup/6603172?source=rss",
-        "date": "2026-11-19T07:38:13+00:00",
-        "body": "a54.txt"
+        "date": "2026-11-19T07:38:13+00:00"
       },
       {
         "title": "FIFA会長選 田嶋氏ら3人が届け出",
         "link": "https://news.yahoo.co.jp/pickup/6603192?source=rss",
-        "date": "2026-11-19T10:01:13+00:00",
-        "body": "a55.txt"
+        "date": "2026-11-19T10:01:13+00:00"
       }
     ]
   },
@@ -449,7 +379,7 @@
     "rain": null
   },
   "index": {
-    "price": 60225.0,
+    "price": 60155.0,
     "prev": 58870.0,
     "points": [
       [
@@ -482,15 +412,15 @@
       ],
       [
         "11/19 08:20",
-        59150.0,
+        59200.0,
         59130.0,
-        59150.0,
-        59130.0
+        59245.0,
+        59115.0
       ],
       [
         "11/19 08:25",
         59225.0,
-        59240.0,
+        59185.0,
         59255.0,
         59170.0
       ],
@@ -511,7 +441,7 @@
       [
         "11/19 08:40",
         59405.0,
-        59285.0,
+        59270.0,
         59450.0,
         59270.0
       ],
@@ -567,13 +497,13 @@
       [
         "11/19 09:20",
         59080.0,
-        59270.0,
+        59265.0,
         59275.0,
         59080.0
       ],
       [
         "11/19 09:25",
-        59320.0,
+        59330.0,
         59090.0,
         59330.0,
         59090.0
@@ -581,7 +511,7 @@
       [
         "11/19 09:30",
         59405.0,
-        59310.0,
+        59300.0,
         59440.0,
         59280.0
       ],
@@ -609,7 +539,7 @@
       [
         "11/19 09:50",
         59645.0,
-        59690.0,
+        59685.0,
         59715.0,
         59595.0
       ],
@@ -623,7 +553,7 @@
       [
         "11/19 10:00",
         59590.0,
-        59680.0,
+        59670.0,
         59700.0,
         59505.0
       ],
@@ -728,7 +658,7 @@
       [
         "11/19 11:15",
         59185.0,
-        59255.0,
+        59265.0,
         59265.0,
         59150.0
       ],
@@ -749,7 +679,7 @@
       [
         "11/19 11:30",
         59145.0,
-        59155.0,
+        59150.0,
         59180.0,
         59115.0
       ],
@@ -1190,7 +1120,7 @@
       [
         "11/19 16:50",
         60000.0,
-        59990.0,
+        59985.0,
         60010.0,
         59935.0
       ],
@@ -1204,7 +1134,7 @@
       [
         "11/19 17:00",
         60050.0,
-        60090.0,
+        60065.0,
         60165.0,
         59995.0
       ],
@@ -1253,7 +1183,7 @@
       [
         "11/19 17:35",
         60070.0,
-        60055.0,
+        60050.0,
         60095.0,
         60040.0
       ],
@@ -1400,7 +1330,7 @@
       [
         "11/19 19:20",
         60085.0,
-        60095.0,
+        60090.0,
         60105.0,
         60030.0
       ],
@@ -1525,28 +1455,35 @@
       ],
       [
         "11/19 20:50",
-        60225.0,
+        60185.0,
         60205.0,
         60240.0,
-        60205.0
+        60175.0
       ],
       [
-        "11/19 20:52",
-        60225.0,
-        60225.0,
-        60225.0,
-        60225.0
+        "11/19 20:55",
+        60155.0,
+        60190.0,
+        60240.0,
+        60155.0
+      ],
+      [
+        "11/19 20:57",
+        60155.0,
+        60155.0,
+        60155.0,
+        60155.0
       ]
     ]
   },
   "gold": {
-    "price": 3727.9,
+    "price": 3722.0,
     "prev": 3727.8,
     "points": [
       [
         "11/19 08:00",
         3732.9,
-        3730.3,
+        3730.2,
         3733.3,
         3727.4
       ],
@@ -1559,35 +1496,35 @@
       ],
       [
         "11/19 08:10",
-        3736.2,
-        3736.5,
+        3736.0,
+        3736.7,
         3738.5,
         3734.9
       ],
       [
         "11/19 08:15",
-        3737.3,
+        3737.4,
         3735.6,
         3737.4,
         3733.9
       ],
       [
         "11/19 08:20",
-        3736.7,
+        3742.9,
         3737.3,
-        3737.9,
+        3743.1,
         3735.8
       ],
       [
         "11/19 08:25",
         3741.2,
-        3744.8,
-        3744.9,
+        3743.0,
+        3746.1,
         3740.9
       ],
       [
         "11/19 08:30",
-        3742.3,
+        3742.5,
         3740.4,
         3742.7,
         3737.6
@@ -1630,7 +1567,7 @@
       [
         "11/19 09:00",
         3740.0,
-        3741.1,
+        3741.2,
         3743.0,
         3738.1
       ],
@@ -1650,15 +1587,15 @@
       ],
       [
         "11/19 09:15",
-        3742.2,
+        3742.6,
         3739.0,
-        3743.9,
+        3743.8,
         3737.6
       ],
       [
         "11/19 09:20",
         3745.0,
-        3742.0,
+        3742.1,
         3745.5,
         3739.8
       ],
@@ -1672,7 +1609,7 @@
       [
         "11/19 09:30",
         3747.3,
-        3744.6,
+        3744.7,
         3750.1,
         3741.9
       ],
@@ -1693,7 +1630,7 @@
       [
         "11/19 09:45",
         3755.9,
-        3754.4,
+        3754.3,
         3757.6,
         3753.4
       ],
@@ -1706,14 +1643,14 @@
       ],
       [
         "11/19 09:55",
-        3754.4,
+        3754.5,
         3755.3,
         3755.5,
         3750.5
       ],
       [
         "11/19 10:00",
-        3747.5,
+        3747.6,
         3754.3,
         3755.7,
         3747.2
@@ -1721,7 +1658,7 @@
       [
         "11/19 10:05",
         3756.6,
-        3747.8,
+        3747.6,
         3759.5,
         3747.3
       ],
@@ -1735,7 +1672,7 @@
       [
         "11/19 10:15",
         3749.5,
-        3755.5,
+        3755.6,
         3755.8,
         3748.7
       ],
@@ -1749,14 +1686,14 @@
       [
         "11/19 10:25",
         3744.7,
-        3748.8,
+        3748.4,
         3750.2,
         3743.8
       ],
       [
         "11/19 10:30",
-        3740.9,
-        3744.4,
+        3740.8,
+        3744.1,
         3746.4,
         3739.3
       ],
@@ -1784,7 +1721,7 @@
       [
         "11/19 10:50",
         3752.9,
-        3754.2,
+        3754.5,
         3755.7,
         3751.5
       ],
@@ -1805,7 +1742,7 @@
       [
         "11/19 11:05",
         3747.9,
-        3748.5,
+        3748.6,
         3748.8,
         3745.6
       ],
@@ -1840,21 +1777,21 @@
       [
         "11/19 11:30",
         3743.0,
-        3746.1,
+        3745.9,
         3746.4,
         3741.1
       ],
       [
         "11/19 11:35",
-        3743.3,
+        3743.4,
         3743.3,
         3743.7,
         3741.0
       ],
       [
         "11/19 11:40",
-        3734.2,
-        3743.6,
+        3734.7,
+        3743.7,
         3744.6,
         3733.2
       ],
@@ -1867,21 +1804,21 @@
       ],
       [
         "11/19 11:50",
-        3724.7,
-        3727.9,
+        3724.6,
+        3728.1,
         3728.4,
         3724.4
       ],
       [
         "11/19 11:55",
         3710.2,
-        3725.0,
+        3724.9,
         3725.1,
         3705.4
       ],
       [
         "11/19 12:00",
-        3709.9,
+        3709.5,
         3710.0,
         3717.7,
         3705.1
@@ -1889,14 +1826,14 @@
       [
         "11/19 12:05",
         3701.5,
-        3710.2,
+        3709.8,
         3711.0,
         3699.2
       ],
       [
         "11/19 12:10",
         3701.0,
-        3701.5,
+        3701.6,
         3705.6,
         3694.5
       ],
@@ -1910,14 +1847,14 @@
       [
         "11/19 12:20",
         3712.6,
-        3708.0,
+        3708.5,
         3713.0,
         3704.8
       ],
       [
         "11/19 12:25",
         3714.9,
-        3712.7,
+        3713.1,
         3715.4,
         3711.0
       ],
@@ -1931,7 +1868,7 @@
       [
         "11/19 12:35",
         3712.0,
-        3714.4,
+        3714.6,
         3715.5,
         3710.1
       ],
@@ -1945,7 +1882,7 @@
       [
         "11/19 12:45",
         3716.4,
-        3708.9,
+        3709.2,
         3718.8,
         3708.4
       ],
@@ -1959,14 +1896,14 @@
       [
         "11/19 12:55",
         3721.3,
-        3717.7,
+        3717.6,
         3724.3,
         3717.3
       ],
       [
         "11/19 13:00",
         3727.0,
-        3721.7,
+        3721.2,
         3727.5,
         3720.9
       ],
@@ -1987,7 +1924,7 @@
       [
         "11/19 13:15",
         3725.7,
-        3728.9,
+        3728.8,
         3729.0,
         3724.5
       ],
@@ -2008,7 +1945,7 @@
       [
         "11/19 13:30",
         3726.9,
-        3726.7,
+        3726.6,
         3728.6,
         3725.9
       ],
@@ -2085,14 +2022,14 @@
       [
         "11/19 14:25",
         3735.6,
-        3733.6,
+        3732.8,
         3735.8,
         3732.7
       ],
       [
         "11/19 14:30",
         3738.2,
-        3735.9,
+        3736.0,
         3739.0,
         3730.9
       ],
@@ -2155,7 +2092,7 @@
       [
         "11/19 15:15",
         3739.4,
-        3739.8,
+        3740.0,
         3740.7,
         3737.8
       ],
@@ -2175,7 +2112,7 @@
       ],
       [
         "11/19 15:30",
-        3737.4,
+        3737.3,
         3736.6,
         3739.4,
         3736.6
@@ -2252,21 +2189,21 @@
       ],
       [
         "11/19 16:25",
-        3735.3,
-        3741.7,
+        3735.4,
+        3742.2,
         3742.3,
         3734.1
       ],
       [
         "11/19 16:30",
         3737.0,
-        3735.7,
+        3735.5,
         3738.7,
         3734.3
       ],
       [
         "11/19 16:35",
-        3733.5,
+        3733.3,
         3736.5,
         3736.5,
         3732.3
@@ -2294,7 +2231,7 @@
       ],
       [
         "11/19 16:55",
-        3738.6,
+        3738.4,
         3734.8,
         3739.2,
         3734.8
@@ -2302,7 +2239,7 @@
       [
         "11/19 17:00",
         3734.9,
-        3738.3,
+        3737.7,
         3740.0,
         3734.6
       ],
@@ -2386,14 +2323,14 @@
       [
         "11/19 18:00",
         3740.3,
-        3736.9,
+        3737.5,
         3740.5,
         3735.7
       ],
       [
         "11/19 18:05",
         3741.7,
-        3740.4,
+        3740.5,
         3742.4,
         3738.7
       ],
@@ -2407,7 +2344,7 @@
       [
         "11/19 18:15",
         3736.4,
-        3733.8,
+        3733.9,
         3736.8,
         3731.7
       ],
@@ -2428,7 +2365,7 @@
       [
         "11/19 18:30",
         3735.2,
-        3727.8,
+        3727.7,
         3735.4,
         3727.1
       ],
@@ -2448,7 +2385,7 @@
       ],
       [
         "11/19 18:45",
-        3730.6,
+        3730.8,
         3732.1,
         3733.1,
         3730.3
@@ -2505,14 +2442,14 @@
       [
         "11/19 19:25",
         3728.8,
-        3731.1,
+        3731.0,
         3731.5,
         3728.0
       ],
       [
         "11/19 19:30",
         3731.3,
-        3729.0,
+        3728.9,
         3731.3,
         3726.6
       ],
@@ -2547,7 +2484,7 @@
       [
         "11/19 19:55",
         3736.7,
-        3737.9,
+        3738.0,
         3738.5,
         3736.0
       ],
@@ -2582,7 +2519,7 @@
       [
         "11/19 20:20",
         3728.2,
-        3728.3,
+        3728.7,
         3728.9,
         3726.3
       ],
@@ -2623,22 +2560,29 @@
       ],
       [
         "11/19 20:50",
-        3728.1,
+        3725.2,
         3727.2,
         3729.1,
-        3726.9
+        3725.1
       ],
       [
-        "11/19 20:53",
-        3727.9,
-        3727.9,
-        3727.9,
-        3727.9
+        "11/19 20:55",
+        3722.6,
+        3725.7,
+        3725.8,
+        3721.4
+      ],
+      [
+        "11/19 20:58",
+        3722.0,
+        3722.0,
+        3722.0,
+        3722.0
       ]
     ]
   },
   "fx": {
-    "price": 159.935,
+    "price": 159.932,
     "prev": 159.278
   },
   "topix": {
