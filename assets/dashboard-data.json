@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T09:33:46.977478+09:00",
+  "updated": "2026-11-20T09:38:31.797207+09:00",
   "feeds": {
     "kabu": [
       {
@@ -33,24 +33,24 @@
         "date": "2026-11-19T22:30:00+00:00"
       },
       {
+        "title": "日経平均株価、一時1500円安 米AI株安で売り先行 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
+        "date": "2026-11-20T00:08:15+00:00"
+      },
+      {
         "title": "２０日の東京株式市場見通し＝米株安受けリスクオフ拡大へ(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWJpZ3ZXSkZHek11RVJ1cjczcHRkMVF5V2VXUkpDVGVkajVha19BSjlsYzVmUE5HY045S1RwUk9OUk1nS2E1QTdBcTdveHl2S2tMN0pZZlVqczc1S0RNWVFaUlBPRkpMUHRrUkZJMWxNcFY5aXc2Z1BaTTlOaUFoNHh2X0xPNmM?oc=5",
         "date": "2026-11-19T22:48:46+00:00"
       },
       {
+        "title": "日経平均、5万7000円台に下落＝2週間ぶり―東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVXk1VzAxeFBLbkk1VFhEeXFrRDRvV0VVNnFNc0luaFcteGYwMzdWYlB1eTBJbk9JN2N0NE9fTldiN1hDdVhPaHZqRjRDYlVrR2lrQ3J5eHF5X3NMVnlsYmRXd1o4UU45Mlc3X1NRX2wxWGo0ZVYxSE05Q2JtZFlQTk5tSTVpSE0?oc=5",
+        "date": "2026-11-20T00:06:51+00:00"
+      },
+      {
         "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
         "date": "2026-11-18T02:51:05+00:00"
-      },
-      {
-        "title": "日経平均、27年3月末に7万7000円 三菱UFJアセットマネジメントの上辻氏 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IRTZzYldZN0xMQXRuMTB1Sk5qVDRxcjRWY0tPSS0yYmFSRFlRQzNnZXYyQVFEZ0R1c0g0LUYzLXV2STFXcGlBYlVpMXVaM0tkOXZOeXhDLTlEU01NTHBPLUdzNzR5VXF5ZDQ3RQ?oc=5",
-        "date": "2026-11-19T19:00:00+00:00"
-      },
-      {
-        "title": "シカゴ日経平均先物 大取終値比 1840円安 （11月19日） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAya21JV3ZpSFpadE0tVENyNHV4cW55QjVhNFZBWDN4cXNqMTBzY0JHX1hDSkdOVF9FNFVBd0I5bjkzczktMkdtekNoakJHa3Y3b1NpSGRwZmt4RUhXX1UzUg?oc=5",
-        "date": "2026-11-19T22:45:52+00:00"
       },
       {
         "title": "（朝）米国市場は3指数揃って下落　ハイテク株を中心に市場全体が下落し売り優勢の展開 - マネクリ",
@@ -213,75 +213,72 @@
     ],
     "gadget": [
       {
+        "title": "Anthropic上場。創業者7人、全員が資産約4兆円に",
+        "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo-2-trillion-valuation/",
+        "date": "2026-11-20T00:35:00+00:00",
+        "body": "a36.txt"
+      },
+      {
+        "title": "OpenAI公式、ChatGPTに請求書を作らせる方法",
+        "link": "https://www.gizmodo.jp/article/2611-chatgpt-accounting-plugin-invoice-automation/",
+        "date": "2026-11-20T00:30:00+00:00"
+      },
+      {
         "title": "ChatGPTの音声入力が「Live Dictation」に進化。めっちゃ文字起こしできる！",
         "link": "https://www.gizmodo.jp/article/2611-chatgpt-live-dictation/",
         "date": "2026-11-19T23:20:00+00:00",
-        "body": "a36.txt"
+        "body": "a38.txt"
       },
       {
         "title": "人型ロボの操縦士、募集中。時給5,100円",
         "link": "https://www.gizmodo.jp/article/figure-humanoid-robot-pilot-job/",
         "date": "2026-11-19T23:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a39.txt"
       },
       {
         "title": "ジェンスン・フアンの「いい人」イメージがどんどん崩れていく…",
         "link": "https://www.gizmodo.jp/article/2611-jensen-huang-scandal-nvidia/",
         "date": "2026-11-19T22:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a40.txt"
       },
       {
         "title": "音声入力でAI操作。エアマウスにもなる小型デバイスは…タコ？",
         "link": "https://www.gizmodo.jp/article/2611-taco-ai-voice-remote-device/",
         "date": "2026-11-19T22:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a41.txt"
       },
       {
         "title": "【速報】Anthropicが上場。初値は111.50ドル、公開価格を34%上回る",
         "link": "https://www.gizmodo.jp/article/2611-anthropic-ipo/",
         "date": "2026-11-19T16:55:00+00:00",
-        "body": "a40.txt"
+        "body": "a42.txt"
       },
       {
         "title": "パイロット不要のAI自律戦闘機、ついに滑走路まで不要に",
         "link": "https://www.gizmodo.jp/article/2611-ai-fighter-jet-x-bat-vertical-takeoff/",
-        "date": "2026-11-19T14:00:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-19T14:00:00+00:00"
       },
       {
         "title": "ジム・ジャームッシュ新作『ファーザー マザー シスター ブラザー』 ルカ・サバト来日インタビュー",
         "link": "https://www.gizmodo.jp/article/luca-sabbath_father-mother-sister-brother_interview/",
         "date": "2026-11-19T13:30:00+00:00",
-        "body": "a42.txt"
+        "body": "a44.txt"
       },
       {
         "title": "数年使って使い勝手が忘れられず、次も同じ財布に買い替え。今度はラクダ革を育てます",
         "link": "https://www.gizmodo.jp/article/2611-minimalight-play-wallet-leather-review/",
-        "date": "2026-11-19T13:00:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-19T13:00:00+00:00"
       },
       {
         "title": "辞任したNVIDIA CEOに台湾からエール。台北のランドマークにハートが浮かぶ",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-ceo-jensen-taiwan-tpe101/",
         "date": "2026-11-19T12:45:00+00:00",
-        "body": "a44.txt"
+        "body": "a46.txt"
       },
       {
         "title": "ビットコイン採掘企業、次々とAIデータセンターに転身中。そっちのほうが儲かるんだもん…",
         "link": "https://www.gizmodo.jp/article/2611-bitcoin-miners-pivoting-to-ai-data-centers/",
         "date": "2026-11-19T12:30:00+00:00",
-        "body": "a45.txt"
-      },
-      {
-        "title": "びっくりドンキーのハンバーグを焼くロボット。注文から約3分、1時間180食つくる",
-        "link": "https://www.gizmodo.jp/article/bikkuri-donkey-hamburger-robot-line/",
-        "date": "2026-11-19T12:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "全米のデータセンターだけで東京都1年分の電力を消費。その半分以上は化石燃料",
-        "link": "https://www.gizmodo.jp/article/2611-ai-datacenter-energy-consumption-fossil-fuels/",
-        "date": "2026-11-19T11:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -454,7 +451,7 @@
     "rain": null
   },
   "index": {
-    "price": 57690.0,
+    "price": 57325.0,
     "prev": 57835.0,
     "points": [
       [
@@ -571,22 +568,29 @@
       ],
       [
         "11/20 09:20",
-        57690.0,
+        57610.0,
         57690.0,
         57815.0,
-        57650.0
+        57610.0
       ],
       [
-        "11/20 09:23",
-        57690.0,
-        57690.0,
-        57690.0,
-        57690.0
+        "11/20 09:25",
+        57335.0,
+        57590.0,
+        57590.0,
+        57320.0
+      ],
+      [
+        "11/20 09:28",
+        57325.0,
+        57325.0,
+        57325.0,
+        57325.0
       ]
     ]
   },
   "gold": {
-    "price": 3617.6,
+    "price": 3616.2,
     "prev": 3627.9,
     "points": [
       [
@@ -710,22 +714,29 @@
       ],
       [
         "11/20 09:20",
-        3618.5,
+        3620.2,
         3624.4,
         3625.0,
         3617.1
       ],
       [
-        "11/20 09:23",
-        3617.6,
-        3617.6,
-        3617.6,
-        3617.6
+        "11/20 09:25",
+        3615.4,
+        3619.6,
+        3620.1,
+        3614.8
+      ],
+      [
+        "11/20 09:28",
+        3616.2,
+        3616.2,
+        3616.2,
+        3616.2
       ]
     ]
   },
   "fx": {
-    "price": 159.588,
+    "price": 159.534,
     "prev": 159.601
   },
   "topix": {
