@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:23:17.178235+09:00",
+  "updated": "2026-11-20T21:28:20.449526+09:00",
   "feeds": {
     "kabu": [
       {
@@ -38,14 +38,14 @@
         "date": "2026-11-19T22:30:00+00:00"
       },
       {
-        "title": "ソフトバンクG反落、米国株安でAI関連株に売り（20日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wM1k5dHpKVlphek10NUxMT2xaYU9CakVhdllnRmdTVk5TLUV2bU1MOVpQRTRJcnhXajNTNTFlazR0b3R1NGJvdVgyOU81MG0zTndTUnl3OC1XTzY2MUlfZWNmVW5Ta1hnQTRiVQ?oc=5",
-        "date": "2026-11-20T07:30:00+00:00"
-      },
-      {
         "title": "２０日の東京株式市場見通し＝米株安受けリスクオフ拡大へ(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWJpZ3ZXSkZHek11RVJ1cjczcHRkMVF5V2VXUkpDVGVkajVha19BSjlsYzVmUE5HY045S1RwUk9OUk1nS2E1QTdBcTdveHl2S2tMN0pZZlVqczc1S0RNWVFaUlBPRkpMUHRrUkZJMWxNcFY5aXc2Z1BaTTlOaUFoNHh2X0xPNmM?oc=5",
         "date": "2026-11-19T22:48:46+00:00"
+      },
+      {
+        "title": "ソフトバンクG反落、米国株安でAI関連株に売り（20日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wM1k5dHpKVlphek10NUxMT2xaYU9CakVhdllnRmdTVk5TLUV2bU1MOVpQRTRJcnhXajNTNTFlazR0b3R1NGJvdVgyOU81MG0zTndTUnl3OC1XTzY2MUlfZWNmVW5Ta1hnQTRiVQ?oc=5",
+        "date": "2026-11-20T07:30:00+00:00"
       },
       {
         "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
@@ -329,9 +329,9 @@
         "body": "a54.txt"
       },
       {
-        "title": "巨人・坂本勇人が減俸更改 危機感",
-        "link": "https://news.yahoo.co.jp/pickup/6603319?source=rss",
-        "date": "2026-11-20T09:24:43+00:00",
+        "title": "ハマ・オカモト 活動再開を報告",
+        "link": "https://news.yahoo.co.jp/pickup/6603334?source=rss",
+        "date": "2026-11-20T12:24:13+00:00",
         "body": "a55.txt"
       }
     ]
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 56500.0,
+    "price": 56470.0,
     "prev": 57835.0,
     "points": [
       [
@@ -1558,22 +1558,29 @@
       ],
       [
         "11/20 21:10",
-        56530.0,
+        56555.0,
         56525.0,
-        56550.0,
+        56560.0,
         56490.0
       ],
       [
-        "11/20 21:13",
-        56500.0,
-        56500.0,
-        56500.0,
-        56500.0
+        "11/20 21:15",
+        56470.0,
+        56545.0,
+        56555.0,
+        56465.0
+      ],
+      [
+        "11/20 21:18",
+        56470.0,
+        56470.0,
+        56470.0,
+        56470.0
       ]
     ]
   },
   "gold": {
-    "price": 3571.5,
+    "price": 3575.4,
     "prev": 3627.9,
     "points": [
       [
@@ -2691,22 +2698,29 @@
       ],
       [
         "11/20 21:10",
-        3572.3,
+        3574.4,
         3574.9,
-        3574.9,
+        3575.3,
         3570.3
       ],
       [
-        "11/20 21:13",
-        3571.5,
-        3571.5,
-        3571.5,
-        3571.5
+        "11/20 21:15",
+        3575.9,
+        3573.9,
+        3575.9,
+        3573.5
+      ],
+      [
+        "11/20 21:18",
+        3575.4,
+        3575.4,
+        3575.4,
+        3575.4
       ]
     ]
   },
   "fx": {
-    "price": 158.867,
+    "price": 158.902,
     "prev": 159.601
   },
   "topix": {
