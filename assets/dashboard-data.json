@@ -1,46 +1,16 @@
 {
-  "updated": "2026-11-20T21:58:38.606039+09:00",
+  "updated": "2026-11-20T22:03:26.328323+09:00",
   "feeds": {
     "kabu": [
       {
-        "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
-        "date": "2026-11-20T02:43:24+00:00"
+        "title": "日経平均株価、3日ぶり反落 終値は3007円安の5万6436円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
+        "date": "2026-11-20T00:08:15+00:00"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月20日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yR1hjeGZmcW9wUE1VeFVicjh4ZG9pZXVUMEo5ODN3S2Y0bVZ6dXBEdEpMQnhzY0JLbngzVEJENW1BUTdjVUVYaVFXNjZ5c2E2NmZsbWZ5Z2NDeWNLd2lDQQ?oc=5",
-        "date": "2026-11-19T23:34:12+00:00"
-      },
-      {
-        "title": "（まとめ）日経平均は3,007円安の56,436円で大幅安　TOPIXも3.9%安で全面安の展開に - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Na0wwQk9ManVzWjRZZWNZM09oSEV2T1czNkJaUkhiMTFWcWJzTGdvbG5jbWZMbUxxczFVbENLY2pSajJ4S0JIVlo0OEZvb3VNSlBNdtIBV0FVX3lxTE8zMXRvY2k1THlqYVZ4dXFiWTFibGZwX0dQOG9kN2ZINmhPamoyZS1NbzhCSl9CTENpenNNNTJJMHNpVWJLelpFeUhLVk1Pa21zWVpLM1AtMA?oc=5",
-        "date": "2026-11-20T07:21:00+00:00"
-      },
-      {
-        "title": "２０日の東京株式市場見通し＝米株安受けリスクオフ拡大へ(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWJpZ3ZXSkZHek11RVJ1cjczcHRkMVF5V2VXUkpDVGVkajVha19BSjlsYzVmUE5HY045S1RwUk9OUk1nS2E1QTdBcTdveHl2S2tMN0pZZlVqczc1S0RNWVFaUlBPRkpMUHRrUkZJMWxNcFY5aXc2Z1BaTTlOaUFoNHh2X0xPNmM?oc=5",
-        "date": "2026-11-19T22:48:46+00:00"
-      },
-      {
-        "title": "来週の株式相場に向けて＝「アンソロピック」不発で次の手掛かり材料模索に - みんかぶ",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XdDJfZENfeEE4LTlFYlRBYi1PeUFYQkNoNXFUa0ZNaUFmSWZkNW1BVVoyQS1aVzJqYkR6TVd2Ri1VcXM1M3c?oc=5",
-        "date": "2026-11-20T08:42:12+00:00"
-      },
-      {
-        "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - TVer",
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVUFCR1hNREZjUzNPVHFNMi1lUHRZNGFKN1htcDBnTUp1SnBJRkpidHpKdVZDYjllVmJCLVlBVDdPN2phSV81SGFDVQ?oc=5",
-        "date": "2026-11-20T03:18:18+00:00"
-      },
-      {
-        "title": "企業業績は上振れ期待、株価は再び上昇へ？ - SBI証券",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teWQ2UkhmSm0yVmh1bHNuTmJ3UHJiSXhrYlVab3k5UmE0LVJ4TWdfMkFPdkNTTi1oQW5nSG1mRzc4Uzdkc0tCcHpZV0xGVjNLdWRiY1V3dGU1eFFTVHNHYkZmODBUNTlKVUFwRw?oc=5",
-        "date": "2026-11-17T07:03:23+00:00"
-      },
-      {
-        "title": "日経平均株価、一時2800円超下げ 取引時間中で7カ月ぶり安値 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMWNxMzQzVmpZVVBmdnlQUmlPVFU2Ul96RDR1enBsT2h2bndyMGM5Zko3b3pIeEtlUWtpQktvNjZ6eTlMNkZjeWdub1VnRW1ZZGItVXNQd2hKc1U1cGx1cXk3N21rRWdwMGZBeA?oc=5",
-        "date": "2026-11-20T00:27:35+00:00"
+        "title": "来週の株式相場に向けて＝「アンソロピック」不発で次の手掛かり材料模索に - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxazFyVExCVXdKWFczUS1GeG5WVVRXaVc4TzhmNVRMNnJxMFN2WEJ6dXBjY0lZYk5YNTdwZmpWX3VFeHhmNnhPNFpOa0JRWnZaQkVEOTZZc1dNcGUxS1BYaQ?oc=5",
+        "date": "2026-11-20T08:42:00+00:00"
       },
       {
         "title": "日経平均、アンソロピック上場が重荷 JT株に注目（先読み株式相場） - 日本経済新聞",
@@ -48,19 +18,49 @@
         "date": "2026-11-19T22:30:00+00:00"
       },
       {
-        "title": "ソフトバンクG反落、米国株安でAI関連株に売り（20日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wM1k5dHpKVlphek10NUxMT2xaYU9CakVhdllnRmdTVk5TLUV2bU1MOVpQRTRJcnhXajNTNTFlazR0b3R1NGJvdVgyOU81MG0zTndTUnl3OC1XTzY2MUlfZWNmVW5Ta1hnQTRiVQ?oc=5",
-        "date": "2026-11-20T07:30:00+00:00"
+        "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
+        "date": "2026-11-20T02:43:24+00:00"
       },
       {
-        "title": "日経平均株価、3日ぶり反落 終値は3007円安の5万6436円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
-        "date": "2026-11-20T00:08:15+00:00"
+        "title": "日経平均株価、一時2800円超下げ 取引時間中で7カ月ぶり安値 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMWNxMzQzVmpZVVBmdnlQUmlPVFU2Ul96RDR1enBsT2h2bndyMGM5Zko3b3pIeEtlUWtpQktvNjZ6eTlMNkZjeWdub1VnRW1ZZGItVXNQd2hKc1U1cGx1cXk3N21rRWdwMGZBeA?oc=5",
+        "date": "2026-11-20T00:27:35+00:00"
       },
       {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-20T10:14:03+00:00"
+        "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNENQeXdLbFc3MjJrS3NBb1R6QkkwWTBJSGVpMUR0T1JSSE1KSGNuYkxGdTVLRDdrbEZVYkxyUXpkNWZnWHoyTTBUMWJwWUdlbHB1cWd0M2dySGlvTzQyRG94QURzVERTcE0wVQ?oc=5",
+        "date": "2026-11-20T08:23:46+00:00"
+      },
+      {
+        "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
+        "date": "2026-11-18T22:37:05+00:00"
+      },
+      {
+        "title": "フリュー株価が3年ぶり高値 海外成長、自社株買い評価の買い続く - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53MUFXUktGZnJjVEJFRDJUMzdVZjZnaXVZM2QxYUxhdW45cVd1NzZJUENMeEtnWEt2bERvaTNZdlZJakM0MFdnandpTjRVWnlJU29mVlM2S1Q2d1IydWRWY1VTM1MzLWdjWjNDaQ?oc=5",
+        "date": "2026-11-20T05:47:13+00:00"
+      },
+      {
+        "title": "日経平均大幅安「5万円割れに警戒」「3連休明けは堅調か」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Wm92Wm9Fbk83T1liQTlraWREUGJYemtXc0VBZFZtRGlsN250NkxyanlEUTdfTHNwQzVUdVI1MTNnVXBVSWp2T0FjQU1oNzlZVzlFR2U3V3dXclVYNTVISC1fX3RCQkN5NklCSA?oc=5",
+        "date": "2026-11-20T05:20:36+00:00"
+      },
+      {
+        "title": "東証後場寄り 日経平均は引き続き安い TOPIXは一段安 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56dkpnakN6ZXlQWThIRVkyZ19FV3hCU1ZiOThNUExFMHBCT29sSFRZTXRpZmNiWHM4cmNjUjJxbG52VTAtNHRRZzd6VVpLd1ltXzZHem93WXJTRG9Vdlg0c015aEdkbDVHLVh5Sg?oc=5",
+        "date": "2026-11-20T03:59:41+00:00"
+      },
+      {
+        "title": "日経平均株価163円高の5万9024円、NVIDIA好決算でも高揚感乏しく - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00WVJWdmVCQkNNdXNQRW1nbE1DVWQ0ZmdFdWxuTDNxb0ZCTU52eS1TVERLaGFyNFV2QU1sUVQxemU3NnNkbFROZzBnNlV5QTJ2QUhEUkNldm9hWmpEVEItX1ZnMWZNZDR0NTdLTw?oc=5",
+        "date": "2026-11-18T02:51:05+00:00"
+      },
+      {
+        "title": "巨大上場で疑念晴れず AI相場に晩秋の嵐 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1laC1XUTdqMkxCdG9YM3dtUGRrdDFlWjM3X3JnOWNYd1dHY1VjVzY5Q3EtazRFNm5zUkY3cVV0a1VqU3FXbGtSZWVHSi12VkRTUHI2VjlQdmFxbm9tM2JpWFlMVTlfMzl1U0h4VWxYTmZvVElaZFlmV1NCVXl4UQ?oc=5",
+        "date": "2026-11-20T08:01:48+00:00"
       }
     ],
     "ai": [
@@ -343,11 +343,6 @@
     "min": 11.6,
     "hours": [
       {
-        "time": "2026-11-20T21:00",
-        "temp": 12.1,
-        "code": 0
-      },
-      {
         "time": "2026-11-20T22:00",
         "temp": 11.9,
         "code": 0
@@ -366,83 +361,88 @@
         "time": "2026-11-21T01:00",
         "temp": 11.5,
         "code": 0
+      },
+      {
+        "time": "2026-11-21T02:00",
+        "temp": 11.3,
+        "code": 0
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-20T21:00",
-        "temp": 12.1,
+        "time": "2026-11-20T22:00",
+        "temp": 11.9,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-21T00:00",
-        "temp": 11.6,
+        "time": "2026-11-21T01:00",
+        "temp": 11.5,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-21T03:00",
-        "temp": 11.2,
-        "code": 0,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-21T06:00",
-        "temp": 11.0,
-        "code": 0,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-21T09:00",
+        "time": "2026-11-21T04:00",
         "temp": 11.1,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-21T12:00",
-        "temp": 12.4,
+        "time": "2026-11-21T07:00",
+        "temp": 10.9,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-21T15:00",
-        "temp": 13.7,
+        "time": "2026-11-21T10:00",
+        "temp": 11.5,
+        "code": 0,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-21T13:00",
+        "temp": 12.9,
+        "code": 0,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-21T16:00",
+        "temp": 14.0,
         "code": 0,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-20T21:00",
+        "time": "2026-11-20T22:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T00:00",
+        "time": "2026-11-21T01:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T03:00",
+        "time": "2026-11-21T04:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T06:00",
+        "time": "2026-11-21T07:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T09:00",
+        "time": "2026-11-21T10:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T12:00",
+        "time": "2026-11-21T13:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T15:00",
+        "time": "2026-11-21T16:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T18:00",
+        "time": "2026-11-21T19:00",
         "pop": 0
       }
     ],
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 56285.0,
+    "price": 56395.0,
     "prev": 57835.0,
     "points": [
       [
@@ -523,7 +523,7 @@
       [
         "11/20 08:45",
         57545.0,
-        57650.0,
+        57635.0,
         57695.0,
         57445.0
       ],
@@ -614,7 +614,7 @@
       [
         "11/20 09:50",
         56675.0,
-        56685.0,
+        56695.0,
         56805.0,
         56650.0
       ],
@@ -649,7 +649,7 @@
       [
         "11/20 10:15",
         57310.0,
-        57160.0,
+        57165.0,
         57310.0,
         57040.0
       ],
@@ -726,7 +726,7 @@
       [
         "11/20 11:10",
         57045.0,
-        56980.0,
+        56935.0,
         57075.0,
         56890.0
       ],
@@ -838,7 +838,7 @@
       [
         "11/20 12:30",
         56755.0,
-        56830.0,
+        56835.0,
         57010.0,
         56730.0
       ],
@@ -851,7 +851,7 @@
       ],
       [
         "11/20 12:40",
-        57010.0,
+        57015.0,
         56955.0,
         57090.0,
         56945.0
@@ -1083,7 +1083,7 @@
       [
         "11/20 15:30",
         56500.0,
-        56550.0,
+        56535.0,
         56665.0,
         56470.0
       ],
@@ -1097,7 +1097,7 @@
       [
         "11/20 15:40",
         56425.0,
-        56480.0,
+        56475.0,
         56480.0,
         56395.0
       ],
@@ -1251,7 +1251,7 @@
       [
         "11/20 17:30",
         57040.0,
-        57120.0,
+        57125.0,
         57130.0,
         57040.0
       ],
@@ -1321,7 +1321,7 @@
       [
         "11/20 18:20",
         56835.0,
-        56795.0,
+        56800.0,
         56945.0,
         56790.0
       ],
@@ -1607,22 +1607,29 @@
       ],
       [
         "11/20 21:45",
-        56300.0,
+        56345.0,
         56255.0,
-        56300.0,
+        56345.0,
         56255.0
       ],
       [
-        "11/20 21:48",
-        56285.0,
-        56285.0,
-        56285.0,
-        56285.0
+        "11/20 21:50",
+        56420.0,
+        56340.0,
+        56430.0,
+        56295.0
+      ],
+      [
+        "11/20 21:53",
+        56395.0,
+        56395.0,
+        56395.0,
+        56395.0
       ]
     ]
   },
   "gold": {
-    "price": 3568.9,
+    "price": 3569.8,
     "prev": 3627.9,
     "points": [
       [
@@ -1635,7 +1642,7 @@
       [
         "11/20 08:00",
         3634.2,
-        3633.0,
+        3632.4,
         3637.5,
         3630.3
       ],
@@ -1656,7 +1663,7 @@
       [
         "11/20 08:15",
         3632.6,
-        3632.2,
+        3631.4,
         3636.0,
         3630.4
       ],
@@ -1684,21 +1691,21 @@
       [
         "11/20 08:35",
         3593.9,
-        3623.3,
+        3623.1,
         3623.6,
         3591.6
       ],
       [
         "11/20 08:40",
-        3609.9,
-        3594.5,
+        3609.8,
+        3594.1,
         3610.6,
         3593.6
       ],
       [
         "11/20 08:45",
         3604.3,
-        3610.9,
+        3610.5,
         3611.2,
         3603.5
       ],
@@ -1725,21 +1732,21 @@
       ],
       [
         "11/20 09:05",
-        3619.0,
-        3613.3,
+        3619.2,
+        3613.0,
         3619.3,
         3611.7
       ],
       [
         "11/20 09:10",
-        3622.7,
-        3619.5,
+        3622.6,
+        3619.4,
         3623.7,
         3619.0
       ],
       [
         "11/20 09:15",
-        3624.6,
+        3624.8,
         3622.0,
         3628.0,
         3621.8
@@ -1747,7 +1754,7 @@
       [
         "11/20 09:20",
         3620.2,
-        3624.4,
+        3624.3,
         3625.0,
         3617.1
       ],
@@ -1768,21 +1775,21 @@
       [
         "11/20 09:35",
         3603.9,
-        3610.0,
+        3610.5,
         3610.6,
         3601.5
       ],
       [
         "11/20 09:40",
         3596.2,
-        3604.9,
+        3605.0,
         3605.2,
         3593.4
       ],
       [
         "11/20 09:45",
-        3593.4,
-        3595.6,
+        3594.0,
+        3595.7,
         3598.6,
         3589.6
       ],
@@ -1802,8 +1809,8 @@
       ],
       [
         "11/20 10:00",
-        3594.5,
-        3597.7,
+        3594.4,
+        3597.8,
         3609.3,
         3590.0
       ],
@@ -1816,15 +1823,15 @@
       ],
       [
         "11/20 10:10",
-        3595.3,
-        3603.1,
+        3595.2,
+        3603.5,
         3610.4,
         3594.8
       ],
       [
         "11/20 10:15",
         3591.5,
-        3595.4,
+        3595.8,
         3599.4,
         3587.1
       ],
@@ -1837,8 +1844,8 @@
       ],
       [
         "11/20 10:25",
-        3576.0,
-        3577.6,
+        3575.9,
+        3577.8,
         3585.0,
         3573.8
       ],
@@ -1851,15 +1858,15 @@
       ],
       [
         "11/20 10:35",
-        3579.0,
-        3580.0,
+        3578.6,
+        3579.8,
         3584.3,
         3574.4
       ],
       [
         "11/20 10:40",
-        3566.8,
-        3578.3,
+        3567.2,
+        3578.2,
         3578.6,
         3562.6
       ],
@@ -1880,14 +1887,14 @@
       [
         "11/20 10:55",
         3561.9,
-        3562.3,
+        3562.2,
         3565.2,
         3557.8
       ],
       [
         "11/20 11:00",
         3556.2,
-        3560.9,
+        3560.7,
         3562.2,
         3552.1
       ],
@@ -1900,7 +1907,7 @@
       ],
       [
         "11/20 11:10",
-        3555.0,
+        3554.9,
         3549.9,
         3555.0,
         3538.3
@@ -1908,7 +1915,7 @@
       [
         "11/20 11:15",
         3539.7,
-        3555.6,
+        3555.4,
         3556.9,
         3533.3
       ],
@@ -1922,28 +1929,28 @@
       [
         "11/20 11:25",
         3532.8,
-        3535.6,
+        3536.1,
         3538.7,
         3532.0
       ],
       [
         "11/20 11:30",
         3533.3,
-        3531.7,
+        3532.8,
         3548.4,
         3526.8
       ],
       [
         "11/20 11:35",
         3550.7,
-        3533.6,
+        3533.5,
         3554.9,
         3531.8
       ],
       [
         "11/20 11:40",
-        3551.6,
-        3550.4,
+        3552.1,
+        3550.6,
         3554.6,
         3546.0
       ],
@@ -1963,43 +1970,43 @@
       ],
       [
         "11/20 11:55",
-        3548.6,
-        3547.4,
+        3548.5,
+        3547.2,
         3559.9,
         3547.1
       ],
       [
         "11/20 12:00",
         3534.0,
-        3549.3,
+        3548.7,
         3550.4,
         3532.4
       ],
       [
         "11/20 12:05",
         3531.8,
-        3533.5,
+        3533.4,
         3536.9,
         3529.6
       ],
       [
         "11/20 12:10",
         3524.6,
-        3530.8,
+        3530.9,
         3533.3,
         3522.0
       ],
       [
         "11/20 12:15",
         3534.3,
-        3525.8,
+        3524.7,
         3534.8,
         3522.2
       ],
       [
         "11/20 12:20",
         3520.1,
-        3534.4,
+        3535.1,
         3537.2,
         3518.5
       ],
@@ -2040,15 +2047,15 @@
       ],
       [
         "11/20 12:50",
-        3553.4,
-        3556.5,
+        3553.6,
+        3556.6,
         3557.0,
         3550.5
       ],
       [
         "11/20 12:55",
         3551.0,
-        3553.4,
+        3553.7,
         3553.8,
         3548.1
       ],
@@ -2075,7 +2082,7 @@
       ],
       [
         "11/20 13:15",
-        3540.8,
+        3540.7,
         3544.5,
         3547.3,
         3538.4
@@ -2089,7 +2096,7 @@
       ],
       [
         "11/20 13:25",
-        3531.2,
+        3531.3,
         3533.6,
         3535.8,
         3528.9
@@ -2097,7 +2104,7 @@
       [
         "11/20 13:30",
         3527.0,
-        3531.1,
+        3530.9,
         3531.9,
         3525.2
       ],
@@ -2125,7 +2132,7 @@
       [
         "11/20 13:50",
         3534.4,
-        3531.3,
+        3531.5,
         3534.8,
         3529.4
       ],
@@ -2153,7 +2160,7 @@
       [
         "11/20 14:10",
         3521.8,
-        3523.5,
+        3524.1,
         3526.8,
         3517.5
       ],
@@ -2181,21 +2188,21 @@
       [
         "11/20 14:30",
         3521.2,
-        3524.1,
+        3523.8,
         3524.9,
         3515.3
       ],
       [
         "11/20 14:35",
         3521.8,
-        3520.9,
+        3520.6,
         3526.7,
         3517.4
       ],
       [
         "11/20 14:40",
         3523.4,
-        3522.4,
+        3522.3,
         3524.0,
         3515.1
       ],
@@ -2208,22 +2215,22 @@
       ],
       [
         "11/20 14:50",
-        3555.6,
+        3555.2,
         3546.3,
         3558.6,
         3545.6
       ],
       [
         "11/20 14:55",
-        3546.1,
+        3546.2,
         3555.3,
         3556.2,
         3542.2
       ],
       [
         "11/20 15:00",
-        3549.1,
-        3546.6,
+        3549.3,
+        3546.7,
         3555.8,
         3544.1
       ],
@@ -2244,7 +2251,7 @@
       [
         "11/20 15:15",
         3562.2,
-        3554.2,
+        3553.9,
         3565.3,
         3553.9
       ],
@@ -2257,8 +2264,8 @@
       ],
       [
         "11/20 15:25",
-        3555.2,
-        3559.2,
+        3555.4,
+        3559.3,
         3562.6,
         3552.6
       ],
@@ -2299,29 +2306,29 @@
       ],
       [
         "11/20 15:55",
-        3561.2,
-        3560.1,
+        3561.3,
+        3560.6,
         3563.3,
         3559.0
       ],
       [
         "11/20 16:00",
         3554.3,
-        3560.7,
+        3561.0,
         3562.6,
         3553.6
       ],
       [
         "11/20 16:05",
         3552.7,
-        3554.4,
+        3554.3,
         3555.1,
         3549.4
       ],
       [
         "11/20 16:10",
         3558.8,
-        3552.4,
+        3552.7,
         3560.2,
         3550.2
       ],
@@ -2335,7 +2342,7 @@
       [
         "11/20 16:20",
         3550.8,
-        3556.7,
+        3556.8,
         3557.5,
         3549.6
       ],
@@ -2356,14 +2363,14 @@
       [
         "11/20 16:35",
         3545.4,
-        3545.4,
+        3545.3,
         3547.9,
         3542.2
       ],
       [
         "11/20 16:40",
         3554.4,
-        3545.9,
+        3545.8,
         3556.7,
         3545.5
       ],
@@ -2377,7 +2384,7 @@
       [
         "11/20 16:50",
         3573.4,
-        3563.6,
+        3563.9,
         3576.5,
         3563.2
       ],
@@ -2391,20 +2398,20 @@
       [
         "11/20 17:00",
         3577.2,
-        3569.7,
+        3569.3,
         3579.2,
         3568.5
       ],
       [
         "11/20 17:05",
         3578.4,
-        3575.7,
+        3576.5,
         3579.7,
         3574.9
       ],
       [
         "11/20 17:10",
-        3574.8,
+        3574.6,
         3578.0,
         3578.7,
         3572.4
@@ -2433,13 +2440,13 @@
       [
         "11/20 17:30",
         3588.5,
-        3590.7,
+        3591.0,
         3591.6,
         3584.0
       ],
       [
         "11/20 17:35",
-        3591.2,
+        3591.1,
         3588.6,
         3591.4,
         3586.5
@@ -2461,7 +2468,7 @@
       [
         "11/20 17:50",
         3585.2,
-        3583.6,
+        3583.3,
         3585.7,
         3581.5
       ],
@@ -2474,8 +2481,8 @@
       ],
       [
         "11/20 18:00",
-        3578.3,
-        3582.8,
+        3578.4,
+        3582.9,
         3584.4,
         3577.8
       ],
@@ -2530,7 +2537,7 @@
       ],
       [
         "11/20 18:40",
-        3577.6,
+        3576.9,
         3575.1,
         3578.0,
         3573.5
@@ -2551,7 +2558,7 @@
       ],
       [
         "11/20 18:55",
-        3569.2,
+        3568.9,
         3569.5,
         3571.7,
         3567.8
@@ -2593,7 +2600,7 @@
       ],
       [
         "11/20 19:25",
-        3583.0,
+        3583.4,
         3582.6,
         3585.0,
         3580.7
@@ -2601,7 +2608,7 @@
       [
         "11/20 19:30",
         3587.6,
-        3583.0,
+        3583.2,
         3587.6,
         3582.6
       ],
@@ -2615,7 +2622,7 @@
       [
         "11/20 19:40",
         3596.7,
-        3595.3,
+        3595.0,
         3596.7,
         3591.6
       ],
@@ -2636,14 +2643,14 @@
       [
         "11/20 19:55",
         3588.4,
-        3586.7,
+        3586.9,
         3588.7,
         3586.3
       ],
       [
         "11/20 20:00",
         3590.6,
-        3588.6,
+        3588.5,
         3593.6,
         3588.4
       ],
@@ -2713,14 +2720,14 @@
       [
         "11/20 20:50",
         3581.3,
-        3582.8,
+        3582.5,
         3585.7,
         3581.1
       ],
       [
         "11/20 20:55",
         3575.7,
-        3581.2,
+        3581.0,
         3582.4,
         3575.2
       ],
@@ -2734,7 +2741,7 @@
       [
         "11/20 21:05",
         3575.2,
-        3573.2,
+        3573.0,
         3575.4,
         3567.8
       ],
@@ -2762,7 +2769,7 @@
       [
         "11/20 21:25",
         3579.2,
-        3579.9,
+        3579.8,
         3581.4,
         3577.7
       ],
@@ -2789,22 +2796,29 @@
       ],
       [
         "11/20 21:45",
-        3568.2,
+        3569.9,
         3571.8,
         3572.9,
         3568.0
       ],
       [
-        "11/20 21:48",
-        3568.9,
-        3568.9,
-        3568.9,
-        3568.9
+        "11/20 21:50",
+        3569.9,
+        3569.6,
+        3570.2,
+        3566.7
+      ],
+      [
+        "11/20 21:53",
+        3569.8,
+        3569.8,
+        3569.8,
+        3569.8
       ]
     ]
   },
   "fx": {
-    "price": 158.759,
+    "price": 158.689,
     "prev": 159.601
   },
   "topix": {
