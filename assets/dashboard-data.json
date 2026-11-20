@@ -1,11 +1,21 @@
 {
-  "updated": "2026-11-20T16:13:18.288537+09:00",
+  "updated": "2026-11-20T16:18:20.216237+09:00",
   "feeds": {
     "kabu": [
+      {
+        "title": "日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5",
+        "date": "2026-11-19T02:54:41+00:00"
+      },
       {
         "title": "日経平均、3007円56銭安の5万6436円65銭で終了＝東京株式（時事通信） - Yahoo!ニュース",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qckM5cXBYaGR2ZEZnbWZMdkJlVVdoV3NpRGFzNm1Ibllab3F1UkNKMTBNdVBxaG5LekdoZEhMLVdrN0xyeklkNERPbHpjRTdMalVuR2NOSGhjSm1pUDVUWnJudUl2UndkUklwZjlsTG1zMUx1dDItREp5eWZBVEU?oc=5",
         "date": "2026-11-20T07:00:16+00:00"
+      },
+      {
+        "title": "来週の相場展望：好材料に反応薄、日経平均下げ止まりめどは？(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmZLMEJTYUFZQlVmeFI5UWJSZ0Rad0gxNllQOXJZNk14SFNhWGVlZDNQTVpTYWF2UlNQckhyRXBNZkprX2lCOWY4dmFGUzA3S0stMnoxMkVpODJVYnRqaTNYUFhJaUNkOFg1OVpmTll4VTJ4aFB2UGRUY0JPOTFyaklIVlRkVU0?oc=5",
+        "date": "2026-11-20T07:02:20+00:00"
       },
       {
         "title": "3007円安の5万6436円65銭＝20日の平均株価(時事通信) - Yahoo!ファイナンス",
@@ -18,11 +28,6 @@
         "date": "2026-11-20T00:31:51+00:00"
       },
       {
-        "title": "日経平均大幅安「5万円割れに警戒」「3連休明けは堅調か」 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Wm92Wm9Fbk83T1liQTlraWREUGJYemtXc0VBZFZtRGlsN250NkxyanlEUTdfTHNwQzVUdVI1MTNnVXBVSWp2T0FjQU1oNzlZVzlFR2U3V3dXclVYNTVISC1fX3RCQkN5NklCSA?oc=5",
-        "date": "2026-11-20T05:20:36+00:00"
-      },
-      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月20日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yR1hjeGZmcW9wUE1VeFVicjh4ZG9pZXVUMEo5ODN3S2Y0bVZ6dXBEdEpMQnhzY0JLbngzVEJENW1BUTdjVUVYaVFXNjZ5c2E2NmZsbWZ5Z2NDeWNLd2lDQQ?oc=5",
         "date": "2026-11-19T23:34:12+00:00"
@@ -33,24 +38,19 @@
         "date": "2026-11-20T01:05:00+00:00"
       },
       {
-        "title": "【速報】日経平均株価 一時3000円超値下がり 米AI・半導体関連株の下落受け - Infoseek",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YbUtidWNlR0RxdFFwQjFPRHpjUjZxeVFIQTNKUVZ1RlBaeHVWUHVUa1lGOHM2bHBlc1dGekkzLTQ3TUhCMFFSVkpmUHZIcm9ZR3BXWEs1OHA2VWNnVU96NnFkQVZqLWVV?oc=5",
-        "date": "2026-11-20T05:49:00+00:00"
-      },
-      {
         "title": "企業業績は上振れ期待、株価は再び上昇へ？ - SBI証券",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teWQ2UkhmSm0yVmh1bHNuTmJ3UHJiSXhrYlVab3k5UmE0LVJ4TWdfMkFPdkNTTi1oQW5nSG1mRzc4Uzdkc0tCcHpZV0xGVjNLdWRiY1V3dGU1eFFTVHNHYkZmODBUNTlKVUFwRw?oc=5",
         "date": "2026-11-17T07:03:23+00:00"
       },
       {
-        "title": "日経平均VIは大幅に上昇、株価大幅安で警戒感強まる(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONGZOalRuVEwwQ0RfbWNnQm1pbXU3QW9wYWN4U0JIdE0teVZvQmJ6eDJST3U5R2VfNmNyQVFBdTdaeFEzaTNiZEZQYll2ZXFHRl83Y29fUmJpczdEU2tfbXczNWpXQ0pHdURZWUZSandIOXdvNE5WU3ZnVEJFaW1rLU8zRGU2cGc?oc=5",
-        "date": "2026-11-20T05:21:34+00:00"
+        "title": "【速報】日経平均株価 一時3000円超値下がり 米AI・半導体関連株の下落受け - Infoseek",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YbUtidWNlR0RxdFFwQjFPRHpjUjZxeVFIQTNKUVZ1RlBaeHVWUHVUa1lGOHM2bHBlc1dGekkzLTQ3TUhCMFFSVkpmUHZIcm9ZR3BXWEs1OHA2VWNnVU96NnFkQVZqLWVV?oc=5",
+        "date": "2026-11-20T05:49:00+00:00"
       },
       {
-        "title": "日経平均株価、一時2800円超下げ 取引時間中で7カ月ぶり安値 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMWNxMzQzVmpZVVBmdnlQUmlPVFU2Ul96RDR1enBsT2h2bndyMGM5Zko3b3pIeEtlUWtpQktvNjZ6eTlMNkZjeWdub1VnRW1ZZGItVXNQd2hKc1U1cGx1cXk3N21rRWdwMGZBeA?oc=5",
-        "date": "2026-11-20T00:27:35+00:00"
+        "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
+        "date": "2026-11-20T02:43:24+00:00"
       },
       {
         "title": "日経平均株価、反落 午前終値は2669円安の5万6775円 - 日本経済新聞",
@@ -311,9 +311,9 @@
         "body": "a51.txt"
       },
       {
-        "title": "ネパールで邦人35人拘束 詐欺疑い",
-        "link": "https://news.yahoo.co.jp/pickup/6603293?source=rss",
-        "date": "2026-11-20T06:30:01+00:00",
+        "title": "27年卒大学生の内定率73% 高水準",
+        "link": "https://news.yahoo.co.jp/pickup/6603291?source=rss",
+        "date": "2026-11-20T06:21:22+00:00",
         "body": "a52.txt"
       },
       {
@@ -337,7 +337,7 @@
     ]
   },
   "weather": {
-    "temp": 13.7,
+    "temp": 13.6,
     "code": 0,
     "max": 14.9,
     "min": 11.6,
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 56515.0,
+    "price": 56420.0,
     "prev": 57835.0,
     "points": [
       [
@@ -977,22 +977,29 @@
       ],
       [
         "11/20 16:00",
-        56520.0,
+        56515.0,
         56560.0,
         56595.0,
         56470.0
       ],
       [
-        "11/20 16:03",
-        56515.0,
-        56515.0,
-        56515.0,
-        56515.0
+        "11/20 16:05",
+        56460.0,
+        56505.0,
+        56505.0,
+        56420.0
+      ],
+      [
+        "11/20 16:08",
+        56420.0,
+        56420.0,
+        56420.0,
+        56420.0
       ]
     ]
   },
   "gold": {
-    "price": 3556.3,
+    "price": 3553.6,
     "prev": 3627.9,
     "points": [
       [
@@ -1550,22 +1557,29 @@
       ],
       [
         "11/20 16:00",
-        3555.8,
+        3554.3,
         3560.7,
         3562.6,
-        3555.4
+        3553.6
       ],
       [
-        "11/20 16:03",
-        3556.3,
-        3556.3,
-        3556.3,
-        3556.3
+        "11/20 16:05",
+        3552.8,
+        3554.4,
+        3555.1,
+        3549.4
+      ],
+      [
+        "11/20 16:08",
+        3553.6,
+        3553.6,
+        3553.6,
+        3553.6
       ]
     ]
   },
   "fx": {
-    "price": 159.19,
+    "price": 159.181,
     "prev": 159.601
   },
   "topix": {
