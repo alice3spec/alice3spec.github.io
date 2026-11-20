@@ -1,26 +1,36 @@
 {
-  "updated": "2026-11-20T21:43:17.396646+09:00",
+  "updated": "2026-11-20T21:48:13.876531+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "日経平均株価、3日ぶり反落 終値は3007円安の5万6436円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
-        "date": "2026-11-20T00:08:15+00:00"
-      },
-      {
-        "title": "来週の株式相場に向けて＝「アンソロピック」不発で次の手掛かり材料模索に - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxazFyVExCVXdKWFczUS1GeG5WVVRXaVc4TzhmNVRMNnJxMFN2WEJ6dXBjY0lZYk5YNTdwZmpWX3VFeHhmNnhPNFpOa0JRWnZaQkVEOTZZc1dNcGUxS1BYaQ?oc=5",
-        "date": "2026-11-20T08:42:00+00:00"
-      },
-      {
-        "title": "日経平均、アンソロピック上場が重荷 JT株に注目（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMXlHQlQ1aklNWVc5QlgxeTVaUkNqX3E3ajA3NHJPU01BekZmeHJNeThZLURwUzVTOTdCcUJobEJuNmRoTnZDc3M2S09ZSFFtTWpqWVRiNTVsaEllNjF0MFZiOEhpVHlENzVWWg?oc=5",
-        "date": "2026-11-19T22:30:00+00:00"
-      },
       {
         "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
         "date": "2026-11-20T02:43:24+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月20日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yR1hjeGZmcW9wUE1VeFVicjh4ZG9pZXVUMEo5ODN3S2Y0bVZ6dXBEdEpMQnhzY0JLbngzVEJENW1BUTdjVUVYaVFXNjZ5c2E2NmZsbWZ5Z2NDeWNLd2lDQQ?oc=5",
+        "date": "2026-11-19T23:34:12+00:00"
+      },
+      {
+        "title": "（まとめ）日経平均は3,007円安の56,436円で大幅安　TOPIXも3.9%安で全面安の展開に - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Na0wwQk9ManVzWjRZZWNZM09oSEV2T1czNkJaUkhiMTFWcWJzTGdvbG5jbWZMbUxxczFVbENLY2pSajJ4S0JIVlo0OEZvb3VNSlBNdtIBV0FVX3lxTE8zMXRvY2k1THlqYVZ4dXFiWTFibGZwX0dQOG9kN2ZINmhPamoyZS1NbzhCSl9CTENpenNNNTJJMHNpVWJLelpFeUhLVk1Pa21zWVpLM1AtMA?oc=5",
+        "date": "2026-11-20T07:21:00+00:00"
+      },
+      {
+        "title": "２０日の東京株式市場見通し＝米株安受けリスクオフ拡大へ(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWJpZ3ZXSkZHek11RVJ1cjczcHRkMVF5V2VXUkpDVGVkajVha19BSjlsYzVmUE5HY045S1RwUk9OUk1nS2E1QTdBcTdveHl2S2tMN0pZZlVqczc1S0RNWVFaUlBPRkpMUHRrUkZJMWxNcFY5aXc2Z1BaTTlOaUFoNHh2X0xPNmM?oc=5",
+        "date": "2026-11-19T22:48:46+00:00"
+      },
+      {
+        "title": "来週の株式相場に向けて＝「アンソロピック」不発で次の手掛かり材料模索に - みんかぶ",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XdDJfZENfeEE4LTlFYlRBYi1PeUFYQkNoNXFUa0ZNaUFmSWZkNW1BVVoyQS1aVzJqYkR6TVd2Ri1VcXM1M3c?oc=5",
+        "date": "2026-11-20T08:42:12+00:00"
+      },
+      {
+        "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - TVer",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVUFCR1hNREZjUzNPVHFNMi1lUHRZNGFKN1htcDBnTUp1SnBJRkpidHpKdVZDYjllVmJCLVlBVDdPN2phSV81SGFDVQ?oc=5",
+        "date": "2026-11-20T03:18:18+00:00"
       },
       {
         "title": "日経平均株価、一時2800円超下げ 取引時間中で7カ月ぶり安値 - 日本経済新聞",
@@ -28,39 +38,29 @@
         "date": "2026-11-20T00:27:35+00:00"
       },
       {
+        "title": "日経平均、アンソロピック上場が重荷 JT株に注目（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMXlHQlQ1aklNWVc5QlgxeTVaUkNqX3E3ajA3NHJPU01BekZmeHJNeThZLURwUzVTOTdCcUJobEJuNmRoTnZDc3M2S09ZSFFtTWpqWVRiNTVsaEllNjF0MFZiOEhpVHlENzVWWg?oc=5",
+        "date": "2026-11-19T22:30:00+00:00"
+      },
+      {
+        "title": "日経平均株価、3日ぶり反落 終値は3007円安の5万6436円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
+        "date": "2026-11-20T00:08:15+00:00"
+      },
+      {
         "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNENQeXdLbFc3MjJrS3NBb1R6QkkwWTBJSGVpMUR0T1JSSE1KSGNuYkxGdTVLRDdrbEZVYkxyUXpkNWZnWHoyTTBUMWJwWUdlbHB1cWd0M2dySGlvTzQyRG94QURzVERTcE0wVQ?oc=5",
         "date": "2026-11-20T08:23:46+00:00"
       },
       {
-        "title": "東証14時 日経平均はじり安 下げ幅2900円、JTが後場一段安 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQQnpoSHBkSkJfMDRhOVc0ZWswNlpjUmdQNEZDQ1ViZmswU0dxa1dfRVpObWtVYXNuYUNrYm1PeWY5bldjejh5al9PaTE5R3VxNU45QmkxR01uN2ZrT1F5WG5Held0eDZ3eTRYTQ?oc=5",
-        "date": "2026-11-20T05:18:04+00:00"
+        "title": "来週の株式相場に向けて＝「アンソロピック」不発で次の手掛かり材料模索に - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxazFyVExCVXdKWFczUS1GeG5WVVRXaVc4TzhmNVRMNnJxMFN2WEJ6dXBjY0lZYk5YNTdwZmpWX3VFeHhmNnhPNFpOa0JRWnZaQkVEOTZZc1dNcGUxS1BYaQ?oc=5",
+        "date": "2026-11-20T08:42:00+00:00"
       },
       {
         "title": "日経平均大幅安「5万円割れに警戒」「3連休明けは堅調か」 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Wm92Wm9Fbk83T1liQTlraWREUGJYemtXc0VBZFZtRGlsN250NkxyanlEUTdfTHNwQzVUdVI1MTNnVXBVSWp2T0FjQU1oNzlZVzlFR2U3V3dXclVYNTVISC1fX3RCQkN5NklCSA?oc=5",
         "date": "2026-11-20T05:20:36+00:00"
-      },
-      {
-        "title": "フリュー株価が3年ぶり高値 海外成長、自社株買い評価の買い続く - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53MUFXUktGZnJjVEJFRDJUMzdVZjZnaXVZM2QxYUxhdW45cVd1NzZJUENMeEtnWEt2bERvaTNZdlZJakM0MFdnandpTjRVWnlJU29mVlM2S1Q2d1IydWRWY1VTM1MzLWdjWjNDaQ?oc=5",
-        "date": "2026-11-20T05:47:13+00:00"
-      },
-      {
-        "title": "東証後場寄り 日経平均は引き続き安い TOPIXは一段安 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56dkpnakN6ZXlQWThIRVkyZ19FV3hCU1ZiOThNUExFMHBCT29sSFRZTXRpZmNiWHM4cmNjUjJxbG52VTAtNHRRZzd6VVpLd1ltXzZHem93WXJTRG9Vdlg0c015aEdkbDVHLVh5Sg?oc=5",
-        "date": "2026-11-20T03:59:41+00:00"
-      },
-      {
-        "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
-        "date": "2026-11-18T22:37:05+00:00"
-      },
-      {
-        "title": "巨大上場で疑念晴れず AI相場に晩秋の嵐 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1laC1XUTdqMkxCdG9YM3dtUGRrdDFlWjM3X3JnOWNYd1dHY1VjVzY5Q3EtazRFNm5zUkY3cVV0a1VqU3FXbGtSZWVHSi12VkRTUHI2VjlQdmFxbm9tM2JpWFlMVTlfMzl1U0h4VWxYTmZvVElaZFlmV1NCVXl4UQ?oc=5",
-        "date": "2026-11-20T08:01:48+00:00"
       }
     ],
     "ai": [
@@ -311,9 +311,9 @@
         "body": "a51.txt"
       },
       {
-        "title": "横浜市長 市長公舎の廃止方針表明",
-        "link": "https://news.yahoo.co.jp/pickup/6603326?source=rss",
-        "date": "2026-11-20T10:13:05+00:00",
+        "title": "ツルハHD シンガポール事業撤退",
+        "link": "https://news.yahoo.co.jp/pickup/6603315?source=rss",
+        "date": "2026-11-20T09:13:59+00:00",
         "body": "a52.txt"
       },
       {
@@ -337,7 +337,7 @@
     ]
   },
   "weather": {
-    "temp": 12.0,
+    "temp": 11.9,
     "code": 0,
     "max": 14.9,
     "min": 11.6,
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 56445.0,
+    "price": 56400.0,
     "prev": 57835.0,
     "points": [
       [
@@ -1586,22 +1586,29 @@
       ],
       [
         "11/20 21:30",
-        56395.0,
+        56465.0,
         56470.0,
         56470.0,
         56390.0
       ],
       [
-        "11/20 21:33",
-        56445.0,
-        56445.0,
-        56445.0,
-        56445.0
+        "11/20 21:35",
+        56400.0,
+        56480.0,
+        56510.0,
+        56375.0
+      ],
+      [
+        "11/20 21:37",
+        56400.0,
+        56400.0,
+        56400.0,
+        56400.0
       ]
     ]
   },
   "gold": {
-    "price": 3574.3,
+    "price": 3572.8,
     "prev": 3627.9,
     "points": [
       [
@@ -2750,19 +2757,26 @@
         3572.4,
         3579.1,
         3579.1,
-        3572.3
+        3570.6
       ],
       [
-        "11/20 21:33",
-        3574.3,
-        3574.3,
-        3574.3,
-        3574.3
+        "11/20 21:35",
+        3571.8,
+        3572.8,
+        3574.5,
+        3570.4
+      ],
+      [
+        "11/20 21:38",
+        3572.8,
+        3572.8,
+        3572.8,
+        3572.8
       ]
     ]
   },
   "fx": {
-    "price": 158.756,
+    "price": 158.715,
     "prev": 159.601
   },
   "topix": {
