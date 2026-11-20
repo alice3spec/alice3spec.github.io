@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-20T09:28:43.728570+09:00",
+  "updated": "2026-11-20T09:33:46.977478+09:00",
   "feeds": {
     "kabu": [
       {
-        "title": "日経平均、1800円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXAzeXpUU2tuQnZEeDFTc1M0QVRuVVZjUFVFTklUNDZybTFyaEszTVQ3bDdVdnUzTlo3QkFNck1YNUdHbFNTd3NXejFmZlpJd0swQkxfUkJVcXF2R0JPZXJWb3NzZkNYempydUNILUtfTU42NmZ6ZGU5Vl9UU1FSc2FyZGhCbVk?oc=5",
-        "date": "2026-11-20T00:13:01+00:00"
+        "title": "日経平均株価、一時2000円超下げ 米半導体株安が波及 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMWNxMzQzVmpZVVBmdnlQUmlPVFU2Ul96RDR1enBsT2h2bndyMGM5Zko3b3pIeEtlUWtpQktvNjZ6eTlMNkZjeWdub1VnRW1ZZGItVXNQd2hKc1U1cGx1cXk3N21rRWdwMGZBeA?oc=5",
+        "date": "2026-11-20T00:27:35+00:00"
       },
       {
-        "title": "日経平均、アンソロピック上場が重荷 JT株に注目（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMXlHQlQ1aklNWVc5QlgxeTVaUkNqX3E3ajA3NHJPU01BekZmeHJNeThZLURwUzVTOTdCcUJobEJuNmRoTnZDc3M2S09ZSFFtTWpqWVRiNTVsaEllNjF0MFZiOEhpVHlENzVWWg?oc=5",
-        "date": "2026-11-19T22:30:00+00:00"
+        "title": "日経平均、2100円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONU1KMUtzOG93VDI3TUE1VFBTbzk0NWh5cUZHYjJ5V25uQTlFa2pSTlJvTFVBb3BzQ3dRTHlWTW9pU1VoWDdVWU1kbEstY0hzQi04WmN6Vk1pQjh2bkJKeVEyc3hIdENNeTZWT2tYVlFhb3hRbUk0M002Z2JFbU9ZcHVaTTB1eGc?oc=5",
+        "date": "2026-11-20T00:27:57+00:00"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月20日記） - 株探",
@@ -26,6 +26,11 @@
         "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waW5xVjM5MWc4LVdKVE1vYmFXVENzY1otOEdfdGNOUzdaSS1NRTVqbmxPN1VLQ1JlQjBvYjVpOFptVDhCMEFjLWZVX2o3NFMtbUJlQlNUanVWRWN5elVVQ2YwaHN3Nk9DN3Z0ZndLeW8yLVhkNFdv?oc=5",
         "date": "2026-11-19T00:47:00+00:00"
+      },
+      {
+        "title": "日経平均、アンソロピック上場が重荷 JT株に注目（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMXlHQlQ1aklNWVc5QlgxeTVaUkNqX3E3ajA3NHJPU01BekZmeHJNeThZLURwUzVTOTdCcUJobEJuNmRoTnZDc3M2S09ZSFFtTWpqWVRiNTVsaEllNjF0MFZiOEhpVHlENzVWWg?oc=5",
+        "date": "2026-11-19T22:30:00+00:00"
       },
       {
         "title": "２０日の東京株式市場見通し＝米株安受けリスクオフ拡大へ(ウエルスアドバイザー) - Yahoo!ファイナンス",
@@ -46,11 +51,6 @@
         "title": "シカゴ日経平均先物 大取終値比 1840円安 （11月19日） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAya21JV3ZpSFpadE0tVENyNHV4cW55QjVhNFZBWDN4cXNqMTBzY0JHX1hDSkdOVF9FNFVBd0I5bjkzczktMkdtekNoakJHa3Y3b1NpSGRwZmt4RUhXX1UzUg?oc=5",
         "date": "2026-11-19T22:45:52+00:00"
-      },
-      {
-        "title": "日経平均終値419円高 気迷い相場、アンソロピックIPOで打破なるか - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GT3FtLXlFLUZ1NUhsaUNUTXpRRmxJUW5QWGdGMXQ3ZE8zV2VNdkw0TGFEYVYxdWxDblh0WXVVSmNxMUhWWUdjM2pEWHNqdWxqdlRFenh6QUJqSWZYOHl2elVsLWMzNnNpQVBGaA?oc=5",
-        "date": "2026-11-19T02:54:41+00:00"
       },
       {
         "title": "（朝）米国市場は3指数揃って下落　ハイテク株を中心に市場全体が下落し売り優勢の展開 - マネクリ",
@@ -325,7 +325,8 @@
       {
         "title": "故ピート・ローズ氏に死後恩赦",
         "link": "https://news.yahoo.co.jp/pickup/6603240?source=rss",
-        "date": "2026-11-20T00:15:19+00:00"
+        "date": "2026-11-20T00:15:19+00:00",
+        "body": "a54.txt"
       },
       {
         "title": "地面師たち 綾野&豊川が再び主演",
@@ -336,7 +337,7 @@
     ]
   },
   "weather": {
-    "temp": 12.8,
+    "temp": 12.9,
     "code": 0,
     "max": 14.2,
     "min": 11.2,
@@ -453,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 57640.0,
+    "price": 57690.0,
     "prev": 57835.0,
     "points": [
       [
@@ -522,7 +523,7 @@
       [
         "11/20 08:45",
         57545.0,
-        57635.0,
+        57650.0,
         57695.0,
         57445.0
       ],
@@ -563,22 +564,29 @@
       ],
       [
         "11/20 09:15",
-        57640.0,
+        57690.0,
         57655.0,
         57725.0,
         57570.0
       ],
       [
-        "11/20 09:18",
-        57640.0,
-        57640.0,
-        57640.0,
-        57640.0
+        "11/20 09:20",
+        57690.0,
+        57690.0,
+        57815.0,
+        57650.0
+      ],
+      [
+        "11/20 09:23",
+        57690.0,
+        57690.0,
+        57690.0,
+        57690.0
       ]
     ]
   },
   "gold": {
-    "price": 3623.2,
+    "price": 3617.6,
     "prev": 3627.9,
     "points": [
       [
@@ -591,7 +599,7 @@
       [
         "11/20 08:00",
         3634.2,
-        3632.4,
+        3633.0,
         3637.5,
         3630.3
       ],
@@ -612,7 +620,7 @@
       [
         "11/20 08:15",
         3632.6,
-        3631.4,
+        3632.2,
         3636.0,
         3630.4
       ],
@@ -640,21 +648,21 @@
       [
         "11/20 08:35",
         3593.9,
-        3623.1,
+        3623.3,
         3623.6,
         3591.6
       ],
       [
         "11/20 08:40",
-        3609.8,
-        3594.1,
+        3609.9,
+        3594.5,
         3610.6,
         3593.6
       ],
       [
         "11/20 08:45",
         3604.3,
-        3610.5,
+        3610.9,
         3611.2,
         3603.5
       ],
@@ -681,36 +689,43 @@
       ],
       [
         "11/20 09:05",
-        3619.2,
-        3613.0,
+        3619.0,
+        3613.3,
         3619.3,
         3611.7
       ],
       [
         "11/20 09:10",
-        3622.6,
-        3619.4,
+        3622.7,
+        3619.5,
         3623.7,
         3619.0
       ],
       [
         "11/20 09:15",
-        3623.4,
+        3624.6,
         3622.0,
         3628.0,
         3621.8
       ],
       [
-        "11/20 09:18",
-        3623.2,
-        3623.2,
-        3623.2,
-        3623.2
+        "11/20 09:20",
+        3618.5,
+        3624.4,
+        3625.0,
+        3617.1
+      ],
+      [
+        "11/20 09:23",
+        3617.6,
+        3617.6,
+        3617.6,
+        3617.6
       ]
     ]
   },
   "fx": {
-    "price": 159.61,
+    "price": 159.588,
     "prev": 159.601
   },
   "topix": {
