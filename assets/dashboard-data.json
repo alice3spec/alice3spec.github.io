@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:13:18.340218+09:00",
+  "updated": "2026-11-20T21:18:21.245373+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,83 +213,83 @@
     ],
     "gadget": [
       {
+        "title": "お財布はいらない、ミャクミャクがいるから。スマートリングEveringに限定デザイン登場",
+        "link": "https://www.gizmodo.jp/article/evering-myaku-myaku/",
+        "date": "2026-11-20T12:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "あとどのくらい走れるか。スタミナがリアルタイムで見える、ランナーの武器「Suunto Run 2」",
         "link": "https://www.gizmodo.jp/article/suunto-run-2-review/",
         "date": "2026-11-20T11:30:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "2026年ギズモードおすすめの贅沢なテック系ギフト",
         "link": "https://www.gizmodo.jp/article/best-tech-gifts-over-500-dollars-holiday-gift-guide/",
         "date": "2026-11-20T11:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "トーストを食べながら考えた。Orca echoは薄切り派 厚切り派？",
         "link": "https://www.gizmodo.jp/article/orca-echo-toast/",
         "date": "2026-11-20T10:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "iPhone Duo、自分で修理できるようになりました（北米限定）。各交換パーツはいくらで買える？",
         "link": "https://www.gizmodo.jp/article/iphone-duo-self-repair-parts-price/",
         "date": "2026-11-20T10:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "作戦名は「エンドゲーム」。FBIなど9カ国の捜査機関がマルウェアの配布網を一斉摘発",
         "link": "https://www.gizmodo.jp/article/2611-operation-endgame-malware-fbi-raid/",
         "date": "2026-11-20T09:30:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "ゼンハイザーの定番モニターイヤホン「IE 100 PRO」が最安の1万円ポッキリ！",
         "link": "https://www.gizmodo.jp/article/2611-sennheiser-ie-100-pro-sale/",
         "date": "2026-11-20T09:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "ゲームするので今日は休みます。ロジクールが社員に「ゲーム休暇」をプレゼント",
         "link": "https://www.gizmodo.jp/article/2611-logicool-game-day-vacation/",
         "date": "2026-11-20T08:45:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "祝Xbox 25周年！ 次世代Xboxについてわかっていること7つ",
         "link": "https://www.gizmodo.jp/article/2611-xbox-25th-next-gen-features/",
         "date": "2026-11-20T08:30:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "ホリデーシーズンのプレゼントに。人気の折りたたみマウスの新デザイン",
         "link": "https://www.gizmodo.jp/article/orimouse_new-colors_and_art-design/",
         "date": "2026-11-20T08:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "Oura Ringに「時差ぼけ対策」新機能、カフェイン摂取のタイミングまで教えてくれる",
         "link": "https://www.gizmodo.jp/article/2611-oura-ring-jet-lag-plan/",
         "date": "2026-11-20T07:35:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "先行セール中！ Xiaomi初のイヤーカフ型イヤホン。まるでアクセサリーなデザインに、録音機能もついてくる",
         "link": "https://www.gizmodo.jp/article/2611-xiaomi-clip-earcuff-earphones/",
         "date": "2026-11-20T06:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "Amazonの「Alexa+」の進化に驚いた。曖昧なお願いも「意図をくみ取って」先回りしてくれる",
-        "link": "https://www.gizmodo.jp/article/2611-alexa-plus-natural-conversation/",
-        "date": "2026-11-20T05:35:00+00:00",
         "body": "a47.txt"
       }
     ],
     "yahoo": [
       {
-        "title": "政府内部資料流出か 不正アクセス",
-        "link": "https://news.yahoo.co.jp/pickup/6603320?source=rss",
-        "date": "2026-11-20T09:36:38+00:00",
+        "title": "大型クロマグロ漁獲枠 25%増合意",
+        "link": "https://news.yahoo.co.jp/pickup/6603329?source=rss",
+        "date": "2026-11-20T11:09:13+00:00",
         "body": "a48.txt"
       },
       {
@@ -299,44 +299,45 @@
         "body": "a49.txt"
       },
       {
+        "title": "自民党で関文科相の辞任論が浮上",
+        "link": "https://news.yahoo.co.jp/pickup/6603332?source=rss",
+        "date": "2026-11-20T12:02:20+00:00",
+        "body": "a50.txt"
+      },
+      {
         "title": "小中高生の自殺者数 最多ペース",
         "link": "https://news.yahoo.co.jp/pickup/6603331?source=rss",
         "date": "2026-11-20T11:41:48+00:00",
-        "body": "a50.txt"
+        "body": "a51.txt"
       },
       {
         "title": "横浜市長 市長公舎の廃止方針表明",
         "link": "https://news.yahoo.co.jp/pickup/6603326?source=rss",
         "date": "2026-11-20T10:13:05+00:00",
-        "body": "a51.txt"
+        "body": "a52.txt"
       },
       {
         "title": "ココイチ売却 米KKRに優先交渉権",
         "link": "https://news.yahoo.co.jp/pickup/6603327?source=rss",
         "date": "2026-11-20T10:35:37+00:00",
-        "body": "a52.txt"
+        "body": "a53.txt"
       },
       {
         "title": "横綱・豊昇龍 勝ち越しで感極まる",
         "link": "https://news.yahoo.co.jp/pickup/6603330?source=rss",
         "date": "2026-11-20T11:20:22+00:00",
-        "body": "a53.txt"
+        "body": "a54.txt"
       },
       {
         "title": "巨人・坂本勇人が減俸更改 危機感",
         "link": "https://news.yahoo.co.jp/pickup/6603319?source=rss",
         "date": "2026-11-20T09:24:43+00:00",
-        "body": "a54.txt"
-      },
-      {
-        "title": "前橋のクマを20日も目撃 再び休校",
-        "link": "https://news.yahoo.co.jp/pickup/6603312?source=rss",
-        "date": "2026-11-20T08:58:30+00:00"
+        "body": "a55.txt"
       }
     ]
   },
   "weather": {
-    "temp": 11.9,
+    "temp": 11.8,
     "code": 0,
     "max": 14.9,
     "min": 11.6,
@@ -453,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 56570.0,
+    "price": 56395.0,
     "prev": 57835.0,
     "points": [
       [
@@ -1543,22 +1544,29 @@
       ],
       [
         "11/20 21:00",
-        56560.0,
+        56500.0,
         56640.0,
         56680.0,
         56485.0
       ],
       [
-        "11/20 21:03",
-        56570.0,
-        56570.0,
-        56570.0,
-        56570.0
+        "11/20 21:05",
+        56480.0,
+        56500.0,
+        56525.0,
+        56395.0
+      ],
+      [
+        "11/20 21:08",
+        56395.0,
+        56395.0,
+        56395.0,
+        56395.0
       ]
     ]
   },
   "gold": {
-    "price": 3573.3,
+    "price": 3569.1,
     "prev": 3627.9,
     "points": [
       [
@@ -2662,22 +2670,29 @@
       ],
       [
         "11/20 21:00",
-        3572.5,
+        3573.6,
         3575.7,
         3577.8,
         3570.9
       ],
       [
-        "11/20 21:03",
-        3573.3,
-        3573.3,
-        3573.3,
-        3573.3
+        "11/20 21:05",
+        3570.1,
+        3573.2,
+        3573.7,
+        3567.8
+      ],
+      [
+        "11/20 21:08",
+        3569.1,
+        3569.1,
+        3569.1,
+        3569.1
       ]
     ]
   },
   "fx": {
-    "price": 158.783,
+    "price": 158.801,
     "prev": 159.601
   },
   "topix": {
