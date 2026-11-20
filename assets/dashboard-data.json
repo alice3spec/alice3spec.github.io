@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:13:12.504342+09:00",
+  "updated": "2026-11-20T14:18:12.472560+09:00",
   "feeds": {
     "kabu": [
       {
@@ -28,16 +28,6 @@
         "date": "2026-11-19T00:47:00+00:00"
       },
       {
-        "title": "日経平均株価、反落 午前終値は2669円安の5万6775円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
-        "date": "2026-11-20T00:08:15+00:00"
-      },
-      {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で横ばい圏 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TWTBBeHowYTRRTmh2TGdhZGpuS2FLbnphZGJ2N2x5azRBWi1UdkxVMnhPTVpPTklFX0xxRE90LWgzX0VEVFNlMXRpOVlPa21ubzZVOV9nUktWU0lnRGVJYw?oc=5",
-        "date": "2026-11-20T03:33:00+00:00"
-      },
-      {
         "title": "日経平均、27年3月末に7万7000円 三菱UFJアセットマネジメントの上辻氏 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IRTZzYldZN0xMQXRuMTB1Sk5qVDRxcjRWY0tPSS0yYmFSRFlRQzNnZXYyQVFEZ0R1c0g0LUYzLXV2STFXcGlBYlVpMXVaM0tkOXZOeXhDLTlEU01NTHBPLUdzNzR5VXF5ZDQ3RQ?oc=5",
         "date": "2026-11-19T19:00:00+00:00"
@@ -46,6 +36,16 @@
         "title": "日経平均、アンソロピック上場が重荷 JT株に注目（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMXlHQlQ1aklNWVc5QlgxeTVaUkNqX3E3ajA3NHJPU01BekZmeHJNeThZLURwUzVTOTdCcUJobEJuNmRoTnZDc3M2S09ZSFFtTWpqWVRiNTVsaEllNjF0MFZiOEhpVHlENzVWWg?oc=5",
         "date": "2026-11-19T22:30:00+00:00"
+      },
+      {
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比で横ばい圏 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TWTBBeHowYTRRTmh2TGdhZGpuS2FLbnphZGJ2N2x5azRBWi1UdkxVMnhPTVpPTklFX0xxRE90LWgzX0VEVFNlMXRpOVlPa21ubzZVOV9nUktWU0lnRGVJYw?oc=5",
+        "date": "2026-11-20T03:33:00+00:00"
+      },
+      {
+        "title": "日経平均株価、反落 午前終値は2669円安の5万6775円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
+        "date": "2026-11-20T00:08:15+00:00"
       },
       {
         "title": "２０日の東京株式市場見通し＝米株安受けリスクオフ拡大へ(ウエルスアドバイザー) - Yahoo!ファイナンス",
@@ -126,7 +126,8 @@
       {
         "title": "なぜ中国はヒューマノイドを量産するのか　突き動かす「焦り」と足踏みの正体",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/20/news014.html",
-        "date": "2026-11-19T22:00:00+00:00"
+        "date": "2026-11-19T22:00:00+00:00",
+        "body": "a22.txt"
       },
       {
         "title": "伊藤忠が月1.3万時間削減、数千件の「二重業務」解消へ　AI推進で経営陣を動かした「定量の匂い」とは？",
@@ -168,7 +169,8 @@
       {
         "title": "日本で受け入れられるのか？　ネットにつながらない携帯「INFOBAR ZERO」　KDDIが語った発売の意図",
         "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003330/",
-        "date": "2026-11-19T23:45:00+00:00"
+        "date": "2026-11-19T23:45:00+00:00",
+        "body": "a29.txt"
       },
       {
         "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
@@ -335,12 +337,12 @@
   "weather": {
     "temp": 14.1,
     "code": 0,
-    "max": 14.3,
-    "min": 11.2,
+    "max": 14.4,
+    "min": 11.4,
     "hours": [
       {
         "time": "2026-11-20T14:00",
-        "temp": 14.1,
+        "temp": 14.2,
         "code": 0
       },
       {
@@ -360,14 +362,14 @@
       },
       {
         "time": "2026-11-20T18:00",
-        "temp": 12.7,
+        "temp": 13.0,
         "code": 0
       }
     ],
     "hours3": [
       {
         "time": "2026-11-20T14:00",
-        "temp": 14.1,
+        "temp": 14.2,
         "code": 0,
         "mm": 0.0
       },
@@ -379,13 +381,13 @@
       },
       {
         "time": "2026-11-20T20:00",
-        "temp": 12.0,
+        "temp": 12.6,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-20T23:00",
-        "temp": 11.4,
+        "temp": 11.8,
         "code": 0,
         "mm": 0.0
       },
@@ -397,13 +399,13 @@
       },
       {
         "time": "2026-11-21T05:00",
-        "temp": 10.8,
+        "temp": 10.7,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-21T08:00",
-        "temp": 11.0,
+        "temp": 10.9,
         "code": 0,
         "mm": 0.0
       }
@@ -445,7 +447,7 @@
     "tomorrow": {
       "code": 0,
       "max": 14.1,
-      "min": 10.8
+      "min": 10.7
     },
     "rain": null
   },
@@ -820,7 +822,7 @@
     ]
   },
   "gold": {
-    "price": 3527.8,
+    "price": 3527.0,
     "prev": 3627.9,
     "points": [
       [
@@ -1210,22 +1212,29 @@
       ],
       [
         "11/20 14:00",
-        3526.6,
+        3525.9,
         3533.7,
         3534.0,
         3525.0
       ],
       [
-        "11/20 14:03",
-        3527.8,
-        3527.8,
-        3527.8,
-        3527.8
+        "11/20 14:05",
+        3524.5,
+        3526.3,
+        3527.5,
+        3522.6
+      ],
+      [
+        "11/20 14:08",
+        3527.0,
+        3527.0,
+        3527.0,
+        3527.0
       ]
     ]
   },
   "fx": {
-    "price": 159.082,
+    "price": 159.074,
     "prev": 159.601
   },
   "topix": {
