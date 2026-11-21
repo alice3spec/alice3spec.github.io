@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T10:58:20.434746+09:00",
+  "updated": "2026-11-21T11:03:20.718004+09:00",
   "feeds": {
     "kabu": [
       {
@@ -38,6 +38,11 @@
         "date": "2026-11-20T03:18:18+00:00"
       },
       {
+        "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxQngwYXBmY2dEMldpejBuRDV4bUczbVJrVW5yQm0wSV9xZnQ3WHREUGphV0tUam5ZVGN6QThDQ0t2Qy1nMUFYNUc5dXlkM0ZXVndXR3FxOUtRa1o4MHpKWVI3UE9XMlJHLVRCaA?oc=5",
+        "date": "2026-11-20T13:35:20+00:00"
+      },
+      {
         "title": "【市況】 日経225先物：21日夜間取引終値＝1870円安、5万4550円 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDQmZDQXl5NDZiblcyaGRZbkhPYWhsNE1XX1BhSGM2NHp4V0ZVX3pmRzB4b3BNR0dNMFY1OUZBd2JaWjdqaUlWMUxkUlZXamQ2cnozdUhUZ205a0dmU3BfOA?oc=5",
         "date": "2026-11-20T21:03:17+00:00"
@@ -48,19 +53,14 @@
         "date": "2026-11-20T02:43:24+00:00"
       },
       {
-        "title": "日経平均大幅安「5万円割れに警戒」「3連休明けは堅調か」 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Wm92Wm9Fbk83T1liQTlraWREUGJYemtXc0VBZFZtRGlsN250NkxyanlEUTdfTHNwQzVUdVI1MTNnVXBVSWp2T0FjQU1oNzlZVzlFR2U3V3dXclVYNTVISC1fX3RCQkN5NklCSA?oc=5",
-        "date": "2026-11-20T05:20:36+00:00"
+        "title": "今週の【早わかり株式市況】急反落、ハイテク株リスクオフ加速で7ヵ月ぶり安値 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVlhQRkNTNVVQU2p5YnFCX1BCY1FJbC15ZVY0VktWbnFoQmlXVDEwTnc0Z29DdEtudFFWTk1yWFUyZlBUMFd6QUhlc3djQ0NWekFwc1hTUlNGLVB4OGltag?oc=5",
+        "date": "2026-11-20T21:40:00+00:00"
       },
       {
         "title": "日経平均先物、大取の夜間取引で下落 1870円安の5万4550円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYTFpKRHRnOHBKdlc0WWdDVjlRMjRqVGZCRVVNVXAtQzNkcHFILWxycTllTFluSDl1dGdOSDBHUW9ONURWYmhqYWc4LUNBVGN4WmltSHlvS2hSQmU4Rndfcy1NNXNBaGluTUhIQw?oc=5",
         "date": "2026-11-20T21:46:56+00:00"
-      },
-      {
-        "title": "今週の【早わかり株式市況】急反落、ハイテク株リスクオフ加速で7ヵ月ぶり安値 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVlhQRkNTNVVQU2p5YnFCX1BCY1FJbC15ZVY0VktWbnFoQmlXVDEwTnc0Z29DdEtudFFWTk1yWFUyZlBUMFd6QUhlc3djQ0NWekFwc1hTUlNGLVB4OGltag?oc=5",
-        "date": "2026-11-20T21:40:00+00:00"
       }
     ],
     "ai": [
@@ -301,7 +301,8 @@
       {
         "title": "兵庫3歳児暴行死 頭部に致命傷か",
         "link": "https://news.yahoo.co.jp/pickup/6603367?source=rss",
-        "date": "2026-11-20T23:53:27+00:00"
+        "date": "2026-11-20T23:53:27+00:00",
+        "body": "a50.txt"
       },
       {
         "title": "大型物流倉庫で火事 三郷JCT付近",
@@ -336,16 +337,11 @@
     ]
   },
   "weather": {
-    "temp": 12.3,
+    "temp": 12.4,
     "code": 0,
     "max": 14.5,
     "min": 11.2,
     "hours": [
-      {
-        "time": "2026-11-21T10:00",
-        "temp": 11.8,
-        "code": 0
-      },
       {
         "time": "2026-11-21T11:00",
         "temp": 12.4,
@@ -365,83 +361,88 @@
         "time": "2026-11-21T14:00",
         "temp": 14.0,
         "code": 0
+      },
+      {
+        "time": "2026-11-21T15:00",
+        "temp": 14.2,
+        "code": 0
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-21T10:00",
-        "temp": 11.8,
+        "time": "2026-11-21T11:00",
+        "temp": 12.4,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-21T13:00",
-        "temp": 13.5,
+        "time": "2026-11-21T14:00",
+        "temp": 14.0,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-21T16:00",
+        "time": "2026-11-21T17:00",
         "temp": 14.4,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-21T19:00",
-        "temp": 13.9,
+        "time": "2026-11-21T20:00",
+        "temp": 13.2,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-21T22:00",
-        "temp": 12.7,
+        "time": "2026-11-21T23:00",
+        "temp": 12.5,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-22T01:00",
-        "temp": 12.2,
-        "code": 0,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-22T04:00",
+        "time": "2026-11-22T02:00",
         "temp": 12.1,
+        "code": 0,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-22T05:00",
+        "temp": 12.0,
         "code": 0,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-21T10:00",
+        "time": "2026-11-21T11:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T13:00",
+        "time": "2026-11-21T14:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T16:00",
+        "time": "2026-11-21T17:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T19:00",
+        "time": "2026-11-21T20:00",
         "pop": 0
       },
       {
-        "time": "2026-11-21T22:00",
+        "time": "2026-11-21T23:00",
         "pop": 0
       },
       {
-        "time": "2026-11-22T01:00",
+        "time": "2026-11-22T02:00",
         "pop": 0
       },
       {
-        "time": "2026-11-22T04:00",
+        "time": "2026-11-22T05:00",
         "pop": 0
       },
       {
-        "time": "2026-11-22T07:00",
+        "time": "2026-11-22T08:00",
         "pop": 0
       }
     ],
