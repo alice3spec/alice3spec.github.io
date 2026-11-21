@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:18:25.761106+09:00",
+  "updated": "2026-11-21T19:23:22.992589+09:00",
   "feeds": {
     "kabu": [
       {
@@ -28,19 +28,9 @@
         "date": "2026-11-20T07:21:00+00:00"
       },
       {
-        "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waW5xVjM5MWc4LVdKVE1vYmFXVENzY1otOEdfdGNOUzdaSS1NRTVqbmxPN1VLQ1JlQjBvYjVpOFptVDhCMEFjLWZVX2o3NFMtbUJlQlNUanVWRWN5elVVQ2YwaHN3Nk9DN3Z0ZndLeW8yLVhkNFdv?oc=5",
-        "date": "2026-11-19T00:47:00+00:00"
-      },
-      {
-        "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - au Webポータル",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0LU9ZM0FSZUFYS3NFRGVHNGhkT25xM21tT21FWlZDQkJHaE1QT05YTFBlUUs5MTBJOGdRYmw1YzEtMVY3VUcxSjVGSE9qU01lTXg5Q1ozMWhEa1hoUFFEaFMwN29jYkMyampJRjJn?oc=5",
-        "date": "2026-11-20T02:44:29+00:00"
-      },
-      {
-        "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNENQeXdLbFc3MjJrS3NBb1R6QkkwWTBJSGVpMUR0T1JSSE1KSGNuYkxGdTVLRDdrbEZVYkxyUXpkNWZnWHoyTTBUMWJwWUdlbHB1cWd0M2dySGlvTzQyRG94QURzVERTcE0wVQ?oc=5",
-        "date": "2026-11-20T08:23:46+00:00"
+        "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - TVer",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVUFCR1hNREZjUzNPVHFNMi1lUHRZNGFKN1htcDBnTUp1SnBJRkpidHpKdVZDYjllVmJCLVlBVDdPN2phSV81SGFDVQ?oc=5",
+        "date": "2026-11-20T03:18:18+00:00"
       },
       {
         "title": "来週の株式相場に向けて＝「アンソロピック」不発で次の手掛かり材料模索に - 株探",
@@ -48,14 +38,24 @@
         "date": "2026-11-20T08:42:00+00:00"
       },
       {
+        "title": "日経平均大幅安「5万円割れに警戒」「3連休明けは堅調か」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Wm92Wm9Fbk83T1liQTlraWREUGJYemtXc0VBZFZtRGlsN250NkxyanlEUTdfTHNwQzVUdVI1MTNnVXBVSWp2T0FjQU1oNzlZVzlFR2U3V3dXclVYNTVISC1fX3RCQkN5NklCSA?oc=5",
+        "date": "2026-11-20T05:20:36+00:00"
+      },
+      {
+        "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNENQeXdLbFc3MjJrS3NBb1R6QkkwWTBJSGVpMUR0T1JSSE1KSGNuYkxGdTVLRDdrbEZVYkxyUXpkNWZnWHoyTTBUMWJwWUdlbHB1cWd0M2dySGlvTzQyRG94QURzVERTcE0wVQ?oc=5",
+        "date": "2026-11-20T08:23:46+00:00"
+      },
+      {
         "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxQngwYXBmY2dEMldpejBuRDV4bUczbVJrVW5yQm0wSV9xZnQ3WHREUGphV0tUam5ZVGN6QThDQ0t2Qy1nMUFYNUc5dXlkM0ZXVndXR3FxOUtRa1o4MHpKWVI3UE9XMlJHLVRCaA?oc=5",
         "date": "2026-11-20T13:35:20+00:00"
       },
       {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-21T07:18:50+00:00"
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-21T07:04:48+00:00"
       },
       {
         "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
