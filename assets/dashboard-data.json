@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-21T17:38:11.101426+09:00",
+  "updated": "2026-11-21T17:43:46.855209+09:00",
   "feeds": {
     "kabu": [
       {
-        "title": "来週の株式相場に向けて＝「アンソロピック」不発で次の手掛かり材料模索に - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxazFyVExCVXdKWFczUS1GeG5WVVRXaVc4TzhmNVRMNnJxMFN2WEJ6dXBjY0lZYk5YNTdwZmpWX3VFeHhmNnhPNFpOa0JRWnZaQkVEOTZZc1dNcGUxS1BYaQ?oc=5",
-        "date": "2026-11-20T08:42:00+00:00"
+        "title": "シカゴ日経平均先物 大取終値比 1865円安 （11月20日） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZ082bWdGN0Z4RHRzMmcwYURZUk9sNEtUTFF0Qm9yMnlIdjVsOWF2Zmt6V0pjeWZ4ODFTclJveHlXeFJ3Yi1fZTd3Qmh1bzFHeUd5THpuaTVGWkZ4amMwag?oc=5",
+        "date": "2026-11-21T05:30:07+00:00"
       },
       {
-        "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNENQeXdLbFc3MjJrS3NBb1R6QkkwWTBJSGVpMUR0T1JSSE1KSGNuYkxGdTVLRDdrbEZVYkxyUXpkNWZnWHoyTTBUMWJwWUdlbHB1cWd0M2dySGlvTzQyRG94QURzVERTcE0wVQ?oc=5",
-        "date": "2026-11-20T08:23:46+00:00"
+        "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxQngwYXBmY2dEMldpejBuRDV4bUczbVJrVW5yQm0wSV9xZnQ3WHREUGphV0tUam5ZVGN6QThDQ0t2Qy1nMUFYNUc5dXlkM0ZXVndXR3FxOUtRa1o4MHpKWVI3UE9XMlJHLVRCaA?oc=5",
+        "date": "2026-11-20T13:35:20+00:00"
       },
       {
         "title": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート - ダイヤモンド・オンライン",
@@ -28,14 +28,24 @@
         "date": "2026-11-20T07:21:00+00:00"
       },
       {
+        "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waW5xVjM5MWc4LVdKVE1vYmFXVENzY1otOEdfdGNOUzdaSS1NRTVqbmxPN1VLQ1JlQjBvYjVpOFptVDhCMEFjLWZVX2o3NFMtbUJlQlNUanVWRWN5elVVQ2YwaHN3Nk9DN3Z0ZndLeW8yLVhkNFdv?oc=5",
+        "date": "2026-11-19T00:47:00+00:00"
+      },
+      {
         "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - TVer",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVUFCR1hNREZjUzNPVHFNMi1lUHRZNGFKN1htcDBnTUp1SnBJRkpidHpKdVZDYjllVmJCLVlBVDdPN2phSV81SGFDVQ?oc=5",
         "date": "2026-11-20T03:18:18+00:00"
       },
       {
-        "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxQngwYXBmY2dEMldpejBuRDV4bUczbVJrVW5yQm0wSV9xZnQ3WHREUGphV0tUam5ZVGN6QThDQ0t2Qy1nMUFYNUc5dXlkM0ZXVndXR3FxOUtRa1o4MHpKWVI3UE9XMlJHLVRCaA?oc=5",
-        "date": "2026-11-20T13:35:20+00:00"
+        "title": "来週の株式相場に向けて＝「アンソロピック」不発で次の手掛かり材料模索に - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxazFyVExCVXdKWFczUS1GeG5WVVRXaVc4TzhmNVRMNnJxMFN2WEJ6dXBjY0lZYk5YNTdwZmpWX3VFeHhmNnhPNFpOa0JRWnZaQkVEOTZZc1dNcGUxS1BYaQ?oc=5",
+        "date": "2026-11-20T08:42:00+00:00"
+      },
+      {
+        "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNENQeXdLbFc3MjJrS3NBb1R6QkkwWTBJSGVpMUR0T1JSSE1KSGNuYkxGdTVLRDdrbEZVYkxyUXpkNWZnWHoyTTBUMWJwWUdlbHB1cWd0M2dySGlvTzQyRG94QURzVERTcE0wVQ?oc=5",
+        "date": "2026-11-20T08:23:46+00:00"
       },
       {
         "title": "日経平均株価、3日ぶり反落 終値は3007円安の5万6436円 - 日本経済新聞",
@@ -43,24 +53,14 @@
         "date": "2026-11-20T00:08:15+00:00"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月20日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yR1hjeGZmcW9wUE1VeFVicjh4ZG9pZXVUMEo5ODN3S2Y0bVZ6dXBEdEpMQnhzY0JLbngzVEJENW1BUTdjVUVYaVFXNjZ5c2E2NmZsbWZ5Z2NDeWNLd2lDQQ?oc=5",
-        "date": "2026-11-19T23:34:12+00:00"
+        "title": "米国株急落で強まるリスク回避、日経平均「年内5万円接近」の声 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSUIycW9td1ZocjVaMzFSbWc1ZXFUc3BadHVFaHhseXdjWmtwN2NrbWplRF9HTjgyOGd3b0xUR3dfd0NBSTdUM1hNY1BYRFdCbEM1cHdCMzI2VjhBVUMxeTJNcHNSc2dYbzVaRw?oc=5",
+        "date": "2026-11-21T08:41:47+00:00"
       },
       {
-        "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
-        "date": "2026-11-20T02:43:24+00:00"
-      },
-      {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-21T07:04:48+00:00"
-      },
-      {
-        "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
-        "date": "2026-11-18T22:37:05+00:00"
+        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
+        "date": "2026-11-21T07:18:50+00:00"
       }
     ],
     "ai": [
@@ -239,7 +239,8 @@
       {
         "title": "ロボット犬はもう、データセンターの警備を始めている。1台2800万円でも「2年で投資回収できる」",
         "link": "https://www.gizmodo.jp/article/2611-robot-dogs-data-center-security/",
-        "date": "2026-11-21T05:35:00+00:00"
+        "date": "2026-11-21T05:35:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "恐竜大国・福井で“世界最古の子育てタニシ”を発見",
@@ -262,7 +263,8 @@
       {
         "title": "スポークがない車輪の自転車、実はアレを使ってるんです",
         "link": "https://www.gizmodo.jp/article/2611-spokeless-acrylic-wheel-bicycle/",
-        "date": "2026-11-21T02:35:00+00:00"
+        "date": "2026-11-21T02:35:00+00:00",
+        "body": "a44.txt"
       },
       {
         "title": "日本がちょっと大きくなった。海底火山が硫黄島と合体",
@@ -273,7 +275,8 @@
       {
         "title": "ソファに沈みこみながら、リビングのスマートTVを操作したいって？",
         "link": "https://www.gizmodo.jp/article/2611-framework-wireless-touchpad-keyboard/",
-        "date": "2026-11-20T23:00:00+00:00"
+        "date": "2026-11-20T23:00:00+00:00",
+        "body": "a46.txt"
       },
       {
         "title": "Claudeの悪用を見張る調査員、募集中。年収3,665万円から",
