@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:48:22.722091+09:00",
+  "updated": "2026-11-21T19:53:23.817286+09:00",
   "feeds": {
     "kabu": [
       {
@@ -58,9 +58,9 @@
         "date": "2026-11-21T07:04:48+00:00"
       },
       {
-        "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
-        "date": "2026-11-18T22:37:05+00:00"
+        "title": "今週の【早わかり株式市況】急反落、ハイテク株リスクオフ加速で7ヵ月ぶり安値 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVlhQRkNTNVVQU2p5YnFCX1BCY1FJbC15ZVY0VktWbnFoQmlXVDEwTnc0Z29DdEtudFFWTk1yWFUyZlBUMFd6QUhlc3djQ0NWekFwc1hTUlNGLVB4OGltag?oc=5",
+        "date": "2026-11-20T21:40:00+00:00"
       }
     ],
     "ai": [
@@ -305,22 +305,19 @@
         "body": "a50.txt"
       },
       {
+        "title": "調理パフォで客やけど 有罪判決",
+        "link": "https://news.yahoo.co.jp/pickup/6603450?source=rss",
+        "date": "2026-11-21T10:21:16+00:00"
+      },
+      {
         "title": "六花亭 クレカ不正利用を1件確認",
         "link": "https://news.yahoo.co.jp/pickup/6603448?source=rss",
-        "date": "2026-11-21T09:55:28+00:00",
-        "body": "a51.txt"
+        "date": "2026-11-21T09:55:28+00:00"
       },
       {
         "title": "なんちゃって海鮮丼 ドンキ販売へ",
         "link": "https://news.yahoo.co.jp/pickup/6603439?source=rss",
-        "date": "2026-11-21T09:25:03+00:00",
-        "body": "a52.txt"
-      },
-      {
-        "title": "SB庄子雄大 今季の約3倍で更改",
-        "link": "https://news.yahoo.co.jp/pickup/6603429?source=rss",
-        "date": "2026-11-21T08:31:56+00:00",
-        "body": "a53.txt"
+        "date": "2026-11-21T09:25:03+00:00"
       },
       {
         "title": "バスケ元代表 石橋貴俊さん急逝",
