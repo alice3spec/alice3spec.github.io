@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T10:03:23.495295+09:00",
+  "updated": "2026-11-21T10:08:21.058678+09:00",
   "feeds": {
     "kabu": [
       {
@@ -287,21 +287,21 @@
     ],
     "yahoo": [
       {
-        "title": "首相 APECで台湾代表と会談せず",
-        "link": "https://news.yahoo.co.jp/pickup/6603354?source=rss",
-        "date": "2026-11-20T22:36:38+00:00",
-        "body": "a48.txt"
-      },
-      {
-        "title": "外国代理人 届け出義務3要件整理",
-        "link": "https://news.yahoo.co.jp/pickup/6603362?source=rss",
-        "date": "2026-11-20T23:10:14+00:00",
-        "body": "a49.txt"
-      },
-      {
         "title": "首相中国到着時の段差 木原氏説明",
         "link": "https://news.yahoo.co.jp/pickup/6603366?source=rss",
         "date": "2026-11-20T23:46:23+00:00",
+        "body": "a48.txt"
+      },
+      {
+        "title": "定数削減 野党の懸念を置き去りに",
+        "link": "https://news.yahoo.co.jp/pickup/6603370?source=rss",
+        "date": "2026-11-20T23:55:06+00:00",
+        "body": "a49.txt"
+      },
+      {
+        "title": "ミサイル落下 ポーランドが露非難",
+        "link": "https://news.yahoo.co.jp/pickup/6603377?source=rss",
+        "date": "2026-11-21T01:04:45+00:00",
         "body": "a50.txt"
       },
       {
@@ -317,9 +317,9 @@
         "body": "a52.txt"
       },
       {
-        "title": "「精子力」チェック 受ける意義",
-        "link": "https://news.yahoo.co.jp/pickup/6603371?source=rss",
-        "date": "2026-11-21T00:16:42+00:00",
+        "title": "大岩J スペイン人コーチ入閣へ",
+        "link": "https://news.yahoo.co.jp/pickup/6603363?source=rss",
+        "date": "2026-11-20T23:29:32+00:00",
         "body": "a53.txt"
       },
       {
