@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:48:24.665550+09:00",
+  "updated": "2026-11-21T13:53:26.811955+09:00",
   "feeds": {
     "kabu": [
       {
@@ -28,11 +28,6 @@
         "date": "2026-11-20T07:21:00+00:00"
       },
       {
-        "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waW5xVjM5MWc4LVdKVE1vYmFXVENzY1otOEdfdGNOUzdaSS1NRTVqbmxPN1VLQ1JlQjBvYjVpOFptVDhCMEFjLWZVX2o3NFMtbUJlQlNUanVWRWN5elVVQ2YwaHN3Nk9DN3Z0ZndLeW8yLVhkNFdv?oc=5",
-        "date": "2026-11-19T00:47:00+00:00"
-      },
-      {
         "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - TVer",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVUFCR1hNREZjUzNPVHFNMi1lUHRZNGFKN1htcDBnTUp1SnBJRkpidHpKdVZDYjllVmJCLVlBVDdPN2phSV81SGFDVQ?oc=5",
         "date": "2026-11-20T03:18:18+00:00"
@@ -53,9 +48,14 @@
         "date": "2026-11-20T08:42:00+00:00"
       },
       {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-21T01:18:29+00:00"
+        "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
+        "date": "2026-11-20T02:43:24+00:00"
+      },
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-21T04:06:18+00:00"
       },
       {
         "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
