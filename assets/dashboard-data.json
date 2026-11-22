@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:53:16.656885+09:00",
+  "updated": "2026-11-22T18:58:12.558373+09:00",
   "feeds": {
     "kabu": [
       {
@@ -33,16 +33,6 @@
         "date": "2026-11-20T03:18:18+00:00"
       },
       {
-        "title": "【速報】日経平均株価 一時2800円超値下がり 米中間選挙後の11月6日以来の安値 NY市場の利益確定売り受け東京市場もほぼ“全面安”に - TBS NEWS DIG",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42LWFOemVOak9LckJXRTNZbHRWNkJzMGJDSUUzaWxxQ3NaMjE2U2p0S01PS3hoa1YtRFZvbk01UVFjYnE2QlpzWk5PR0M0QnFGNl95SkxyMGdHN25qbDRGdnJlV2lWMnNtN0xBN3dsbXd3aU9h?oc=5",
-        "date": "2026-11-20T00:13:21+00:00"
-      },
-      {
-        "title": "【日本市況】日経平均上昇、アンソロピック期待先行－長期金利が低下 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4waW5xVjM5MWc4LVdKVE1vYmFXVENzY1otOEdfdGNOUzdaSS1NRTVqbmxPN1VLQ1JlQjBvYjVpOFptVDhCMEFjLWZVX2o3NFMtbUJlQlNUanVWRWN5elVVQ2YwaHN3Nk9DN3Z0ZndLeW8yLVhkNFdv?oc=5",
-        "date": "2026-11-19T00:47:00+00:00"
-      },
-      {
         "title": "米国株急落で強まるリスク回避 日経平均「年内5万円接近」の声 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSUIycW9td1ZocjVaMzFSbWc1ZXFUc3BadHVFaHhseXdjWmtwN2NrbWplRF9HTjgyOGd3b0xUR3dfd0NBSTdUM1hNY1BYRFdCbEM1cHdCMzI2VjhBVUMxeTJNcHNSc2dYbzVaRw?oc=5",
         "date": "2026-11-21T08:41:47+00:00"
@@ -53,9 +43,19 @@
         "date": "2026-11-20T19:00:00+00:00"
       },
       {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-22T03:00:40+00:00"
+        "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大（2026年11月19日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjNUl0WlBEQ1dRVUxtNkcxNnktdENBa2N2alptN2daX2hXR2FnOHJHdFRkREdteG9LVVlaUExkWWxpaGdqLWN0cmkzSjl1QkRnZldETWV3cWZYY3R2S3BGamIxMzNXSE1KOVRvQUZicE1PTThiN0JwUGxROHQ?oc=5",
+        "date": "2026-11-20T02:42:00+00:00"
+      },
+      {
+        "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNENQeXdLbFc3MjJrS3NBb1R6QkkwWTBJSGVpMUR0T1JSSE1KSGNuYkxGdTVLRDdrbEZVYkxyUXpkNWZnWHoyTTBUMWJwWUdlbHB1cWd0M2dySGlvTzQyRG94QURzVERTcE0wVQ?oc=5",
+        "date": "2026-11-20T08:23:46+00:00"
+      },
+      {
+        "title": "日経平均は下値探る展開か、AI半導体株の期待揺らぐ 今週の市場・予定 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Oc0xqWnlYdndfbGtyREVpYzY2c1g1RlJJT3dqd3NZbHg2Z3dOUm1Zb0kwcEQ0SVpKbGlLbEZPTWtacVJBWFU2V2pGMmlWamx1bjVkQ2ZLemE5YXQ4MlBjeDU0bWRySDZqUkFSUQ?oc=5",
+        "date": "2026-11-22T09:00:00+00:00"
       },
       {
         "title": "来週（11/24～27）の日経平均株価の予想レンジは、5万3000～6万円！ 11/6の安値も割り込んで自律反発に期待も、明確な“底入れ”まで材料株の物色が中心 - ダイヤモンド・オンライン",
@@ -214,96 +214,93 @@
     ],
     "gadget": [
       {
+        "title": "豆腐も生ウニも「そのまま」元通り。マイナス35℃の液体凍結機がすごかった",
+        "link": "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
+        "date": "2026-11-22T09:30:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "焼かれてるところを見たい！ 調理中に横からも上からも見えるエアフライヤー",
         "link": "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
         "date": "2026-11-22T08:35:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "AIの電力問題。Googleの一手は「地球の奥から取り出す」",
         "link": "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/",
         "date": "2026-11-22T08:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "巾着を被せたスニーカー見参。サロモンと謎に包まれたファッションブランドのコラボです",
         "link": "https://www.gizmodo.jp/article/mm6_salomon_collaboration_sneaker-boot/",
         "date": "2026-11-22T07:35:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "漆黒の帝国仕様デス・スターが腕時計に。シチズンから限定リリース",
         "link": "https://www.gizmodo.jp/article/citizen_attesa-death-star_watch/",
         "date": "2026-11-22T06:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "中国の優秀な卒業生はテック系や金融分野ではなく、製造業やエネルギー分野を選ぶ",
         "link": "https://www.gizmodo.jp/article/2611-china-top-graduates-manufacturing-energy/",
         "date": "2026-11-22T05:35:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "小型XRグラス「XREAL AURA」レビュー。VRヘッドセットは終焉を迎えるのか",
         "link": "https://www.gizmodo.jp/article/2611-xreal-aura-review/",
         "date": "2026-11-22T04:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "Nape Pro、ヘビーボールを搭載すれば操作感を変えられます",
         "link": "https://www.gizmodo.jp/article/nape-pro-se-heavy-ball-custom/",
         "date": "2026-11-22T03:30:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "スクエア型でかわいい。ロモグラフィーのハーフカメラ「Lomo72」",
         "link": "https://www.gizmodo.jp/article/2611-lomography-lomo72-half-camera/",
-        "date": "2026-11-22T03:00:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-22T03:00:00+00:00"
       },
       {
         "title": "世界一高いビルの2倍の高さの海底山が見つかる",
         "link": "https://www.gizmodo.jp/article/2611-underwater-mountain-taller-than-burj-khalifa/",
         "date": "2026-11-22T02:35:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "人気を伸ばす「動画付きポッドキャスト」。Apple TVでも配信スタート",
         "link": "https://www.gizmodo.jp/article/apple-tv_video-podcasts/",
-        "date": "2026-11-22T02:00:00+00:00",
-        "body": "a45.txt"
+        "date": "2026-11-22T02:00:00+00:00"
       },
       {
         "title": "Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」",
         "link": "https://www.gizmodo.jp/article/2611-inkleaf-dual-screen-ereader/",
         "date": "2026-11-21T23:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "宇宙を夢見るバリスタ、募集中。時給3,590円",
-        "link": "https://www.gizmodo.jp/article/2611-spacex-barista-job-starbase-redmond/",
-        "date": "2026-11-21T22:00:00+00:00",
         "body": "a47.txt"
       }
     ],
     "yahoo": [
       {
-        "title": "益永死刑囚が死亡 連続企業爆破",
-        "link": "https://news.yahoo.co.jp/pickup/6603563?source=rss",
-        "date": "2026-11-22T07:31:35+00:00",
+        "title": "関東で広く乾燥 火災相次ぎ死者も",
+        "link": "https://news.yahoo.co.jp/pickup/6603581?source=rss",
+        "date": "2026-11-22T09:35:26+00:00",
         "body": "a48.txt"
+      },
+      {
+        "title": "三原則例外 被爆者「言語道断だ」",
+        "link": "https://news.yahoo.co.jp/pickup/6603573?source=rss",
+        "date": "2026-11-22T08:45:05+00:00",
+        "body": "a49.txt"
       },
       {
         "title": "ホルムズ海峡を遠泳 環境被害訴え",
         "link": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
-        "date": "2026-11-22T09:08:26+00:00",
-        "body": "a49.txt"
-      },
-      {
-        "title": "関東で広く乾燥 火災相次ぎ死者も",
-        "link": "https://news.yahoo.co.jp/pickup/6603581?source=rss",
-        "date": "2026-11-22T09:35:26+00:00",
-        "body": "a50.txt"
+        "date": "2026-11-22T09:08:26+00:00"
       },
       {
         "title": "原発構内でガラスの下敷きに 死亡",
