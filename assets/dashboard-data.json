@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T07:48:20.901459+09:00",
+  "updated": "2026-11-23T07:53:20.766070+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,14 +53,14 @@
         "date": "2026-11-20T05:20:36+00:00"
       },
       {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-22T19:13:30+00:00"
-      },
-      {
         "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
         "date": "2026-11-18T22:37:05+00:00"
+      },
+      {
+        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
+        "date": "2026-11-20T08:00:00+00:00"
       }
     ],
     "ai": [
@@ -213,22 +213,27 @@
     ],
     "gadget": [
       {
+        "title": "NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます",
+        "link": "https://www.gizmodo.jp/article/nasa-moon-mars-analog-volunteers/",
+        "date": "2026-11-22T22:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "君はエイリアンか? はたまたイチゴか? 腕20本の動物が南極で発見",
         "link": "https://www.gizmodo.jp/article/2611-new-antarctic-strawberry-feather-star-species/",
-        "date": "2026-11-22T14:00:00+00:00",
-        "body": "a36.txt"
+        "date": "2026-11-22T14:00:00+00:00"
       },
       {
         "title": "ピークはまだ先。史上最強エルニーニョで、CO2の観測値がエグいことになりそう",
         "link": "https://www.gizmodo.jp/article/2611-super-el-nino-wildfires/",
         "date": "2026-11-22T13:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "失った“読む視力”を取り戻す、たった2ミリのチップ",
         "link": "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
         "date": "2026-11-22T12:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
@@ -238,49 +243,41 @@
       {
         "title": "AIがAIを作る時代が近い？ Anthropicですら“開発の加速”についていけなくなりつつある",
         "link": "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/",
-        "date": "2026-11-22T11:00:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-22T11:00:00+00:00"
       },
       {
         "title": "アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？",
         "link": "https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/",
         "date": "2026-11-22T10:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される",
         "link": "https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/",
         "date": "2026-11-22T10:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "豆腐も生ウニも「そのまま」元通り。マイナス35℃の液体凍結機がすごかった",
         "link": "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
-        "date": "2026-11-22T09:30:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-22T09:30:00+00:00"
       },
       {
         "title": "焼かれてるところを見たい！ 調理中に横からも上からも見えるエアフライヤー",
         "link": "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
         "date": "2026-11-22T08:35:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "AIの電力問題。Googleの一手は「地球の奥から取り出す」",
         "link": "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/",
-        "date": "2026-11-22T08:00:00+00:00",
-        "body": "a45.txt"
+        "date": "2026-11-22T08:00:00+00:00"
       },
       {
         "title": "巾着を被せたスニーカー見参。サロモンと謎に包まれたファッションブランドのコラボです",
         "link": "https://www.gizmodo.jp/article/mm6_salomon_collaboration_sneaker-boot/",
         "date": "2026-11-22T07:35:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "漆黒の帝国仕様デス・スターが腕時計に。シチズンから限定リリース",
-        "link": "https://www.gizmodo.jp/article/citizen_attesa-death-star_watch/",
-        "date": "2026-11-22T06:00:00+00:00"
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
@@ -291,9 +288,9 @@
         "body": "a48.txt"
       },
       {
-        "title": "文科相の「交代示唆」木原氏否定",
-        "link": "https://news.yahoo.co.jp/pickup/6603601?source=rss",
-        "date": "2026-11-22T12:39:35+00:00",
+        "title": "連休最終日 西-東日本は行楽日和",
+        "link": "https://news.yahoo.co.jp/pickup/6603622?source=rss",
+        "date": "2026-11-22T22:35:06+00:00",
         "body": "a49.txt"
       },
       {
@@ -4341,7 +4338,7 @@
     ]
   },
   "fx": {
-    "price": 158.539,
+    "price": 158.518,
     "prev": 159.601
   },
   "topix": {
