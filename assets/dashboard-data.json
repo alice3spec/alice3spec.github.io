@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T03:03:14.781985+09:00",
+  "updated": "2026-11-23T03:08:22.816362+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,9 +13,9 @@
         "date": "2026-11-20T20:00:00+00:00"
       },
       {
-        "title": "シカゴ日経平均先物 大取終値比 1865円安 （11月20日） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZ082bWdGN0Z4RHRzMmcwYURZUk9sNEtUTFF0Qm9yMnlIdjVsOWF2Zmt6V0pjeWZ4ODFTclJveHlXeFJ3Yi1fZTd3Qmh1bzFHeUd5THpuaTVGWkZ4amMwag?oc=5",
-        "date": "2026-11-20T22:43:34+00:00"
+        "title": "今週の【早わかり株式市況】急反落、ハイテク株リスクオフ加速で7ヵ月ぶり安値 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVlhQRkNTNVVQU2p5YnFCX1BCY1FJbC15ZVY0VktWbnFoQmlXVDEwTnc0Z29DdEtudFFWTk1yWFUyZlBUMFd6QUhlc3djQ0NWekFwc1hTUlNGLVB4OGltag?oc=5",
+        "date": "2026-11-20T21:40:00+00:00"
       },
       {
         "title": "（まとめ）日経平均は3,007円安の56,436円で大幅安　TOPIXも3.9%安で全面安の展開に - マネクリ",
@@ -23,9 +23,9 @@
         "date": "2026-11-20T07:21:00+00:00"
       },
       {
-        "title": "AI関連売りで日経平均892円安スタート【今日の市場はどう動いた？】 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tU2QzWXJacy1iUW8tUk03TFNRZTlzclQ1TS1NcmNEM1ZhbUxUcWZFbUFVaHhYeGR3WEljYndwOGFOeWYwNGozejFnWU02ZTliODRLaElNT0xlQUlyUEJCajlGUTc?oc=5",
-        "date": "2026-11-20T03:00:21+00:00"
+        "title": "日経平均、2900円超安＝東京株式（時事通信） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zSTZZelRNVGtzcEhhX2wxUW45WktGenFqU2xEQUNjTWlyNXVNdjdsZVc2NDlMcjhqcEZrM0lOcVk4eEdyaVJ5b0dCczVZa19aN1pqYU5waGZkRlBJMDBCeU9sM3huVmZTVEFIdXpXSTVPNU1kcGdpUm9ueWRlY0E?oc=5",
+        "date": "2026-11-20T05:00:17+00:00"
       },
       {
         "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - TVer",
@@ -48,19 +48,19 @@
         "date": "2026-11-20T02:42:00+00:00"
       },
       {
-        "title": "今週の【早わかり株式市況】急反落、ハイテク株リスクオフ加速で7ヵ月ぶり安値 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVlhQRkNTNVVQU2p5YnFCX1BCY1FJbC15ZVY0VktWbnFoQmlXVDEwTnc0Z29DdEtudFFWTk1yWFUyZlBUMFd6QUhlc3djQ0NWekFwc1hTUlNGLVB4OGltag?oc=5",
-        "date": "2026-11-20T21:40:00+00:00"
-      },
-      {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-22T13:13:31+00:00"
+        "title": "シカゴ日経平均先物 大取終値比 1865円安 （11月20日） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZ082bWdGN0Z4RHRzMmcwYURZUk9sNEtUTFF0Qm9yMnlIdjVsOWF2Zmt6V0pjeWZ4ODFTclJveHlXeFJ3Yi1fZTd3Qmh1bzFHeUd5THpuaTVGWkZ4amMwag?oc=5",
+        "date": "2026-11-20T22:43:34+00:00"
       },
       {
         "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
         "date": "2026-11-18T22:37:05+00:00"
+      },
+      {
+        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
+        "date": "2026-11-20T08:00:00+00:00"
       }
     ],
     "ai": [
