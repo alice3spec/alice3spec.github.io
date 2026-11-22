@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T18:58:12.558373+09:00",
+  "updated": "2026-11-22T19:03:18.012580+09:00",
   "feeds": {
     "kabu": [
       {
@@ -8,9 +8,14 @@
         "date": "2026-11-20T00:08:15+00:00"
       },
       {
-        "title": "今週の【早わかり株式市況】急反落、ハイテク株リスクオフ加速で7ヵ月ぶり安値 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVlhQRkNTNVVQU2p5YnFCX1BCY1FJbC15ZVY0VktWbnFoQmlXVDEwTnc0Z29DdEtudFFWTk1yWFUyZlBUMFd6QUhlc3djQ0NWekFwc1hTUlNGLVB4OGltag?oc=5",
-        "date": "2026-11-20T21:40:00+00:00"
+        "title": "反騰期待【ＲＳＩ(20％以下)】低PER 29社選出 ＜テクニカル特集＞ 11月20日版(株探ニュース) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGVpX2dRWmtJZU54ZWZ1NS0yXzdhdE1hWGoyeTRvX3NyWGlfSEdtdm9CdlNNcUhTM0R6dGxFakUyeFo0eHd4ekMzZm9aQTFwaTJ1TTVxWW9DSkFSLU93a3RMeERtQnQ0a2RrMjV1cENNX3VtN0ttUnU2Y0FYb3YzaG8xei15Ylk?oc=5",
+        "date": "2026-11-22T07:30:39+00:00"
+      },
+      {
+        "title": "シカゴ日経平均先物 大取終値比 1865円安 （11月20日） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZ082bWdGN0Z4RHRzMmcwYURZUk9sNEtUTFF0Qm9yMnlIdjVsOWF2Zmt6V0pjeWZ4ODFTclJveHlXeFJ3Yi1fZTd3Qmh1bzFHeUd5THpuaTVGWkZ4amMwag?oc=5",
+        "date": "2026-11-20T22:43:34+00:00"
       },
       {
         "title": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート - ダイヤモンド・オンライン",
@@ -21,11 +26,6 @@
         "title": "（まとめ）日経平均は3,007円安の56,436円で大幅安　TOPIXも3.9%安で全面安の展開に - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Na0wwQk9ManVzWjRZZWNZM09oSEV2T1czNkJaUkhiMTFWcWJzTGdvbG5jbWZMbUxxczFVbENLY2pSajJ4S0JIVlo0OEZvb3VNSlBNdtIBV0FVX3lxTE8zMXRvY2k1THlqYVZ4dXFiWTFibGZwX0dQOG9kN2ZINmhPamoyZS1NbzhCSl9CTENpenNNNTJJMHNpVWJLelpFeUhLVk1Pa21zWVpLM1AtMA?oc=5",
         "date": "2026-11-20T07:21:00+00:00"
-      },
-      {
-        "title": "日経平均、2900円超安＝東京株式（時事通信） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zSTZZelRNVGtzcEhhX2wxUW45WktGenFqU2xEQUNjTWlyNXVNdjdsZVc2NDlMcjhqcEZrM0lOcVk4eEdyaVJ5b0dCczVZa19aN1pqYU5waGZkRlBJMDBCeU9sM3huVmZTVEFIdXpXSTVPNU1kcGdpUm9ueWRlY0E?oc=5",
-        "date": "2026-11-20T05:00:17+00:00"
       },
       {
         "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - TVer",
@@ -264,7 +264,8 @@
       {
         "title": "スクエア型でかわいい。ロモグラフィーのハーフカメラ「Lomo72」",
         "link": "https://www.gizmodo.jp/article/2611-lomography-lomo72-half-camera/",
-        "date": "2026-11-22T03:00:00+00:00"
+        "date": "2026-11-22T03:00:00+00:00",
+        "body": "a44.txt"
       },
       {
         "title": "世界一高いビルの2倍の高さの海底山が見つかる",
@@ -275,7 +276,8 @@
       {
         "title": "人気を伸ばす「動画付きポッドキャスト」。Apple TVでも配信スタート",
         "link": "https://www.gizmodo.jp/article/apple-tv_video-podcasts/",
-        "date": "2026-11-22T02:00:00+00:00"
+        "date": "2026-11-22T02:00:00+00:00",
+        "body": "a46.txt"
       },
       {
         "title": "Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」",
@@ -298,14 +300,15 @@
         "body": "a49.txt"
       },
       {
-        "title": "ホルムズ海峡を遠泳 環境被害訴え",
-        "link": "https://news.yahoo.co.jp/pickup/6603576?source=rss",
-        "date": "2026-11-22T09:08:26+00:00"
-      },
-      {
         "title": "原発構内でガラスの下敷きに 死亡",
         "link": "https://news.yahoo.co.jp/pickup/6603574?source=rss",
         "date": "2026-11-22T09:02:34+00:00",
+        "body": "a50.txt"
+      },
+      {
+        "title": "海転落相次ぐ 生死分けた救命胴衣",
+        "link": "https://news.yahoo.co.jp/pickup/6603580?source=rss",
+        "date": "2026-11-22T09:49:30+00:00",
         "body": "a51.txt"
       },
       {
@@ -327,24 +330,19 @@
         "body": "a54.txt"
       },
       {
-        "title": "西野七瀬 理想は友達のような夫婦",
-        "link": "https://news.yahoo.co.jp/pickup/6603579?source=rss",
-        "date": "2026-11-22T09:28:18+00:00",
+        "title": "ジュノンボーイGP 兵庫出身の高3",
+        "link": "https://news.yahoo.co.jp/pickup/6603585?source=rss",
+        "date": "2026-11-22T09:58:58+00:00",
         "body": "a55.txt"
       }
     ]
   },
   "weather": {
-    "temp": 12.5,
+    "temp": 12.6,
     "code": 1,
     "max": 13.1,
     "min": 9.3,
     "hours": [
-      {
-        "time": "2026-11-22T18:00",
-        "temp": 12.4,
-        "code": 0
-      },
       {
         "time": "2026-11-22T19:00",
         "temp": 12.6,
@@ -364,83 +362,88 @@
         "time": "2026-11-22T22:00",
         "temp": 10.3,
         "code": 0
+      },
+      {
+        "time": "2026-11-22T23:00",
+        "temp": 9.7,
+        "code": 0
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-22T18:00",
-        "temp": 12.4,
+        "time": "2026-11-22T19:00",
+        "temp": 12.6,
+        "code": 1,
+        "mm": 0.0
+      },
+      {
+        "time": "2026-11-22T22:00",
+        "temp": 10.3,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-22T21:00",
-        "temp": 10.5,
+        "time": "2026-11-23T01:00",
+        "temp": 9.0,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-23T00:00",
-        "temp": 9.3,
+        "time": "2026-11-23T04:00",
+        "temp": 8.2,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-23T03:00",
-        "temp": 8.3,
+        "time": "2026-11-23T07:00",
+        "temp": 8.0,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-23T06:00",
-        "temp": 8.1,
+        "time": "2026-11-23T10:00",
+        "temp": 10.2,
         "code": 0,
         "mm": 0.0
       },
       {
-        "time": "2026-11-23T09:00",
-        "temp": 9.3,
-        "code": 0,
-        "mm": 0.0
-      },
-      {
-        "time": "2026-11-23T12:00",
-        "temp": 11.9,
-        "code": 0,
+        "time": "2026-11-23T13:00",
+        "temp": 12.8,
+        "code": 1,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-22T18:00",
+        "time": "2026-11-22T19:00",
         "pop": 0
       },
       {
-        "time": "2026-11-22T21:00",
+        "time": "2026-11-22T22:00",
         "pop": 0
       },
       {
-        "time": "2026-11-23T00:00",
+        "time": "2026-11-23T01:00",
         "pop": 0
       },
       {
-        "time": "2026-11-23T03:00",
+        "time": "2026-11-23T04:00",
         "pop": 0
       },
       {
-        "time": "2026-11-23T06:00",
+        "time": "2026-11-23T07:00",
         "pop": 0
       },
       {
-        "time": "2026-11-23T09:00",
+        "time": "2026-11-23T10:00",
         "pop": 0
       },
       {
-        "time": "2026-11-23T12:00",
+        "time": "2026-11-23T13:00",
         "pop": 0
       },
       {
-        "time": "2026-11-23T15:00",
+        "time": "2026-11-23T16:00",
         "pop": 0
       }
     ],
