@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T07:03:23.731038+09:00",
+  "updated": "2026-11-23T07:18:17.806928+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,75 +213,72 @@
     ],
     "gadget": [
       {
+        "title": "NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます",
+        "link": "https://www.gizmodo.jp/article/nasa-moon-mars-analog-volunteers/",
+        "date": "2026-11-22T22:00:00+00:00"
+      },
+      {
         "title": "君はエイリアンか? はたまたイチゴか? 腕20本の動物が南極で発見",
         "link": "https://www.gizmodo.jp/article/2611-new-antarctic-strawberry-feather-star-species/",
         "date": "2026-11-22T14:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "ピークはまだ先。史上最強エルニーニョで、CO2の観測値がエグいことになりそう",
         "link": "https://www.gizmodo.jp/article/2611-super-el-nino-wildfires/",
         "date": "2026-11-22T13:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "失った“読む視力”を取り戻す、たった2ミリのチップ",
         "link": "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
         "date": "2026-11-22T12:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
         "link": "https://www.gizmodo.jp/article/2611-yamashina-seiki-batasla/",
         "date": "2026-11-22T11:30:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "AIがAIを作る時代が近い？ Anthropicですら“開発の加速”についていけなくなりつつある",
         "link": "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/",
-        "date": "2026-11-22T11:00:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-22T11:00:00+00:00"
       },
       {
         "title": "アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？",
         "link": "https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/",
         "date": "2026-11-22T10:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される",
         "link": "https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/",
         "date": "2026-11-22T10:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "豆腐も生ウニも「そのまま」元通り。マイナス35℃の液体凍結機がすごかった",
         "link": "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
         "date": "2026-11-22T09:30:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "焼かれてるところを見たい！ 調理中に横からも上からも見えるエアフライヤー",
         "link": "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
-        "date": "2026-11-22T08:35:00+00:00",
-        "body": "a44.txt"
+        "date": "2026-11-22T08:35:00+00:00"
       },
       {
         "title": "AIの電力問題。Googleの一手は「地球の奥から取り出す」",
         "link": "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/",
         "date": "2026-11-22T08:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "巾着を被せたスニーカー見参。サロモンと謎に包まれたファッションブランドのコラボです",
         "link": "https://www.gizmodo.jp/article/mm6_salomon_collaboration_sneaker-boot/",
         "date": "2026-11-22T07:35:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "漆黒の帝国仕様デス・スターが腕時計に。シチズンから限定リリース",
-        "link": "https://www.gizmodo.jp/article/citizen_attesa-death-star_watch/",
-        "date": "2026-11-22T06:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -299,21 +296,21 @@
         "body": "a49.txt"
       },
       {
-        "title": "参政党が首長選に積極擁立 狙い",
-        "link": "https://news.yahoo.co.jp/pickup/6603611?source=rss",
-        "date": "2026-11-22T14:22:39+00:00",
-        "body": "a50.txt"
-      },
-      {
         "title": "社員を監禁疑い 社長ら4人逮捕",
         "link": "https://news.yahoo.co.jp/pickup/6603608?source=rss",
         "date": "2026-11-22T13:36:08+00:00",
-        "body": "a51.txt"
+        "body": "a50.txt"
       },
       {
         "title": "アンソロピックIPO巡り銀行に制約",
         "link": "https://news.yahoo.co.jp/pickup/6603609?source=rss",
         "date": "2026-11-22T13:45:03+00:00",
+        "body": "a51.txt"
+      },
+      {
+        "title": "たまごっち30周年「復活」の歴史",
+        "link": "https://news.yahoo.co.jp/pickup/6603615?source=rss",
+        "date": "2026-11-22T22:11:46+00:00",
         "body": "a52.txt"
       },
       {
@@ -337,7 +334,7 @@
     ]
   },
   "weather": {
-    "temp": 8.0,
+    "temp": 8.1,
     "code": 0,
     "max": 15.1,
     "min": 8.0,
@@ -4344,7 +4341,7 @@
     ]
   },
   "fx": {
-    "price": 158.541,
+    "price": 158.575,
     "prev": 159.601
   },
   "topix": {
