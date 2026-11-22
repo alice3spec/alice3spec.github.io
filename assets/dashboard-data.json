@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T23:03:31.725193+09:00",
+  "updated": "2026-11-22T23:08:22.707901+09:00",
   "feeds": {
     "kabu": [
       {
@@ -213,75 +213,74 @@
     ],
     "gadget": [
       {
+        "title": "君はエイリアンか? はたまたイチゴか? 腕20本の動物が南極で発見",
+        "link": "https://www.gizmodo.jp/article/2611-new-antarctic-strawberry-feather-star-species/",
+        "date": "2026-11-22T14:00:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "ピークはまだ先。史上最強エルニーニョで、CO2の観測値がエグいことになりそう",
         "link": "https://www.gizmodo.jp/article/2611-super-el-nino-wildfires/",
         "date": "2026-11-22T13:30:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "失った“読む視力”を取り戻す、たった2ミリのチップ",
         "link": "https://www.gizmodo.jp/article/science-prima-retinal-implant/",
         "date": "2026-11-22T12:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "日本のお菓子をもっとおいしくするのは、凍ったバターを切りまくれるマシンかも",
         "link": "https://www.gizmodo.jp/article/2611-yamashina-seiki-batasla/",
         "date": "2026-11-22T11:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "AIがAIを作る時代が近い？ Anthropicですら“開発の加速”についていけなくなりつつある",
         "link": "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/",
         "date": "2026-11-22T11:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a40.txt"
       },
       {
         "title": "アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？",
         "link": "https://www.gizmodo.jp/article/anthropic-goes-for-microsofts-crown-with-new-claude-powered-office-tools/",
         "date": "2026-11-22T10:30:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される",
         "link": "https://www.gizmodo.jp/article/openai-sued-california-ai-hacking-incident/",
         "date": "2026-11-22T10:00:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "豆腐も生ウニも「そのまま」元通り。マイナス35℃の液体凍結機がすごかった",
         "link": "https://www.gizmodo.jp/article/2611-zerokara-liquid-freezing-technology/",
         "date": "2026-11-22T09:30:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "焼かれてるところを見たい！ 調理中に横からも上からも見えるエアフライヤー",
         "link": "https://www.gizmodo.jp/article/cuisinart_clear-view-air-fryer/",
         "date": "2026-11-22T08:35:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "AIの電力問題。Googleの一手は「地球の奥から取り出す」",
         "link": "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/",
-        "date": "2026-11-22T08:00:00+00:00",
-        "body": "a44.txt"
+        "date": "2026-11-22T08:00:00+00:00"
       },
       {
         "title": "巾着を被せたスニーカー見参。サロモンと謎に包まれたファッションブランドのコラボです",
         "link": "https://www.gizmodo.jp/article/mm6_salomon_collaboration_sneaker-boot/",
         "date": "2026-11-22T07:35:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "漆黒の帝国仕様デス・スターが腕時計に。シチズンから限定リリース",
         "link": "https://www.gizmodo.jp/article/citizen_attesa-death-star_watch/",
         "date": "2026-11-22T06:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "中国の優秀な卒業生はテック系や金融分野ではなく、製造業やエネルギー分野を選ぶ",
-        "link": "https://www.gizmodo.jp/article/2611-china-top-graduates-manufacturing-energy/",
-        "date": "2026-11-22T05:35:00+00:00",
         "body": "a47.txt"
       }
     ],
