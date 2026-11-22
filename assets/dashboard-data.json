@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T07:33:27.203538+09:00",
+  "updated": "2026-11-23T07:48:20.901459+09:00",
   "feeds": {
     "kabu": [
       {
@@ -48,19 +48,19 @@
         "date": "2026-11-20T02:42:00+00:00"
       },
       {
-        "title": "シカゴ日経平均先物 大取終値比 1865円安 （11月20日） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZ082bWdGN0Z4RHRzMmcwYURZUk9sNEtUTFF0Qm9yMnlIdjVsOWF2Zmt6V0pjeWZ4ODFTclJveHlXeFJ3Yi1fZTd3Qmh1bzFHeUd5THpuaTVGWkZ4amMwag?oc=5",
-        "date": "2026-11-20T22:43:34+00:00"
+        "title": "日経平均大幅安「5万円割れに警戒」「3連休明けは堅調か」 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52Wm92Wm9Fbk83T1liQTlraWREUGJYemtXc0VBZFZtRGlsN250NkxyanlEUTdfTHNwQzVUdVI1MTNnVXBVSWp2T0FjQU1oNzlZVzlFR2U3V3dXclVYNTVISC1fX3RCQkN5NklCSA?oc=5",
+        "date": "2026-11-20T05:20:36+00:00"
+      },
+      {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-22T19:13:30+00:00"
       },
       {
         "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TY05nZGpzRTc4eDVyZl84al96cnQxUDhBTFZPcVFVY3ZnbTZaX3RpTzNRVWdZcGtBUGlScktQbWZ1Z0tmWGI5U2xORXdULU1MdFBBSDFzcjJtSkRQZ0tNWkpkQzJYWnJoeHVjXw?oc=5",
         "date": "2026-11-18T22:37:05+00:00"
-      },
-      {
-        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
-        "date": "2026-11-20T08:00:00+00:00"
       }
     ],
     "ai": [
@@ -215,12 +215,14 @@
       {
         "title": "君はエイリアンか? はたまたイチゴか? 腕20本の動物が南極で発見",
         "link": "https://www.gizmodo.jp/article/2611-new-antarctic-strawberry-feather-star-species/",
-        "date": "2026-11-22T14:00:00+00:00"
+        "date": "2026-11-22T14:00:00+00:00",
+        "body": "a36.txt"
       },
       {
         "title": "ピークはまだ先。史上最強エルニーニョで、CO2の観測値がエグいことになりそう",
         "link": "https://www.gizmodo.jp/article/2611-super-el-nino-wildfires/",
-        "date": "2026-11-22T13:30:00+00:00"
+        "date": "2026-11-22T13:30:00+00:00",
+        "body": "a37.txt"
       },
       {
         "title": "失った“読む視力”を取り戻す、たった2ミリのチップ",
@@ -236,7 +238,8 @@
       {
         "title": "AIがAIを作る時代が近い？ Anthropicですら“開発の加速”についていけなくなりつつある",
         "link": "https://www.gizmodo.jp/article/anthropic-ai-development-acceleration/",
-        "date": "2026-11-22T11:00:00+00:00"
+        "date": "2026-11-22T11:00:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？",
@@ -265,7 +268,8 @@
       {
         "title": "AIの電力問題。Googleの一手は「地球の奥から取り出す」",
         "link": "https://www.gizmodo.jp/article/2611-google-quaise-energy-geothermal-power-ai/",
-        "date": "2026-11-22T08:00:00+00:00"
+        "date": "2026-11-22T08:00:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "巾着を被せたスニーカー見参。サロモンと謎に包まれたファッションブランドのコラボです",
@@ -311,14 +315,14 @@
         "body": "a52.txt"
       },
       {
-        "title": "「オリックス藤浪」今日にも誕生",
-        "link": "https://news.yahoo.co.jp/pickup/6603624?source=rss",
-        "date": "2026-11-22T22:30:35+00:00"
+        "title": "戸柱恭孝 オリックス移籍を決断",
+        "link": "https://news.yahoo.co.jp/pickup/6603623?source=rss",
+        "date": "2026-11-22T22:31:36+00:00"
       },
       {
-        "title": "ゴルフ佐久間朱莉がSNSに謝罪文",
-        "link": "https://news.yahoo.co.jp/pickup/6603613?source=rss",
-        "date": "2026-11-22T14:30:41+00:00",
+        "title": "空手・植草歩さん 結婚を発表",
+        "link": "https://news.yahoo.co.jp/pickup/6603619?source=rss",
+        "date": "2026-11-22T22:34:20+00:00",
         "body": "a54.txt"
       },
       {
@@ -330,7 +334,7 @@
     ]
   },
   "weather": {
-    "temp": 8.2,
+    "temp": 8.4,
     "code": 0,
     "max": 15.1,
     "min": 8.0,
@@ -4337,7 +4341,7 @@
     ]
   },
   "fx": {
-    "price": 158.528,
+    "price": 158.539,
     "prev": 159.601
   },
   "topix": {
