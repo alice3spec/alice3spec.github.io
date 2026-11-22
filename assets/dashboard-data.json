@@ -1,26 +1,41 @@
 {
-  "updated": "2026-11-23T01:48:17.026364+09:00",
+  "updated": "2026-11-23T01:53:20.104654+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-22T13:13:31+00:00"
-      },
       {
         "title": "日経平均株価、3日ぶり反落 終値は3007円安の5万6436円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
         "date": "2026-11-20T00:08:15+00:00"
       },
       {
-        "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5",
-        "date": "2026-11-20T08:00:00+00:00"
+        "title": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート - ダイヤモンド・オンライン",
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UazVHN242cVdWenZSYnZsakdtc3lYWXVkRGNrNzVBMTBtbURZWFl3Z2M5TnpCRjZmNVlrbVlHOWdXanU3bmwwTi1iU18?oc=5",
+        "date": "2026-11-20T20:00:00+00:00"
       },
       {
-        "title": "国内株式市場見通し：短期的にはAI・半導体関連株中心に売られ過ぎ感への意識強まる - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wdnFxZURYMkpySzBKRmhVT2tpcUdCdzA5TXE5S2tZRHV4cGVLUHJRMFFXQ2NXWWprRkZUZ09uemhtWGVpRU9KUExwaGw4Q3NXVGN1RUFzR2ZBeHhvNkpXOA?oc=5",
-        "date": "2026-11-21T05:31:23+00:00"
+        "title": "シカゴ日経平均先物 大取終値比 1865円安 （11月20日） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZ082bWdGN0Z4RHRzMmcwYURZUk9sNEtUTFF0Qm9yMnlIdjVsOWF2Zmt6V0pjeWZ4ODFTclJveHlXeFJ3Yi1fZTd3Qmh1bzFHeUd5THpuaTVGWkZ4amMwag?oc=5",
+        "date": "2026-11-20T22:43:34+00:00"
+      },
+      {
+        "title": "来週の相場展望：好材料に反応薄、日経平均下げ止まりめどは？(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmZLMEJTYUFZQlVmeFI5UWJSZ0Rad0gxNllQOXJZNk14SFNhWGVlZDNQTVpTYWF2UlNQckhyRXBNZkprX2lCOWY4dmFGUzA3S0stMnoxMkVpODJVYnRqaTNYUFhJaUNkOFg1OVpmTll4VTJ4aFB2UGRUY0JPOTFyaklIVlRkVU0?oc=5",
+        "date": "2026-11-20T07:02:20+00:00"
+      },
+      {
+        "title": "（まとめ）日経平均は3,007円安の56,436円で大幅安　TOPIXも3.9%安で全面安の展開に - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Na0wwQk9ManVzWjRZZWNZM09oSEV2T1czNkJaUkhiMTFWcWJzTGdvbG5jbWZMbUxxczFVbENLY2pSajJ4S0JIVlo0OEZvb3VNSlBNdtIBV0FVX3lxTE8zMXRvY2k1THlqYVZ4dXFiWTFibGZwX0dQOG9kN2ZINmhPamoyZS1NbzhCSl9CTENpenNNNTJJMHNpVWJLelpFeUhLVk1Pa21zWVpLM1AtMA?oc=5",
+        "date": "2026-11-20T07:21:00+00:00"
+      },
+      {
+        "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大 - TVer",
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWVUFCR1hNREZjUzNPVHFNMi1lUHRZNGFKN1htcDBnTUp1SnBJRkpidHpKdVZDYjllVmJCLVlBVDdPN2phSV81SGFDVQ?oc=5",
+        "date": "2026-11-20T03:18:18+00:00"
+      },
+      {
+        "title": "日経平均は下値探る展開か AI半導体株の期待揺らぐ - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sYWVCMV9DMkxTamoyYzZuVkMzQUU0TmwzTkRaamJoLVVZLU14dTRJU1UzdWFDdlQybG1fYkprUk42UEdGeUgxb2JkNlpFOFltWjNGbENremtvRGdvVnRoRmZzUUlRUkxXb01TNA?oc=5",
+        "date": "2026-11-20T19:00:00+00:00"
       },
       {
         "title": "米国株急落で強まるリスク回避 日経平均「年内5万円接近」の声 - 日本経済新聞",
@@ -28,9 +43,9 @@
         "date": "2026-11-21T08:41:47+00:00"
       },
       {
-        "title": "日経平均株価一時6万円超えも、前日比445円安 なぜ、日本株は大きく変動する？ 野村證券ストラテジストが解説 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4M19mRnhZWm9yWHlhQ0Q0WDc0SHk1MVA0UTM2VTFjaHdWeTc1VTB0T0dna3hYbUI0U1FHUDN6YXdwZk9oQzVqZzR2UTdiZXNyMTZ2dTNxSkZFS3JBRi04?oc=5",
-        "date": "2026-11-20T08:00:00+00:00"
+        "title": "日経平均株価 一時2800円超下落 米市場でAI・半導体関連株の売り拡大（2026年11月19日掲載）｜日テレNEWS NNN - 日テレNEWS NNN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjNUl0WlBEQ1dRVUxtNkcxNnktdENBa2N2alptN2daX2hXR2FnOHJHdFRkREdteG9LVVlaUExkWWxpaGdqLWN0cmkzSjl1QkRnZldETWV3cWZYY3R2S3BGamIxMzNXSE1KOVRvQUZicE1PTThiN0JwUGxROHQ?oc=5",
+        "date": "2026-11-20T02:42:00+00:00"
       },
       {
         "title": "日本株、的中するか「午尻下がり」 年末にかけ2018年型相場警戒 - 日本経済新聞",
@@ -38,29 +53,14 @@
         "date": "2026-11-20T08:23:46+00:00"
       },
       {
-        "title": "日経平均、アンソロピック上場が重荷 JT株に注目（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QMXlHQlQ1aklNWVc5QlgxeTVaUkNqX3E3ajA3NHJPU01BekZmeHJNeThZLURwUzVTOTdCcUJobEJuNmRoTnZDc3M2S09ZSFFtTWpqWVRiNTVsaEllNjF0MFZiOEhpVHlENzVWWg?oc=5",
-        "date": "2026-11-19T22:30:00+00:00"
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-22T13:13:31+00:00"
       },
       {
-        "title": "日経平均終値3007円安、AI・半導体に売り アンソロピックに祝杯ならず - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ec0IzZWNDNk9XVmZGOUJjbkFGTVZFeW9yTlBFRHQyY1Z2OVpMRW1TNG5jbmRyN3NQakdGN1dfSTh3b0x0ckZDc3hPVmpWWEtFUjhXOWtqT3JhcHZhSnBQWmRUM1k4MzFuczl0WA?oc=5",
-        "date": "2026-11-20T02:43:24+00:00"
-      },
-      {
-        "title": "日経平均株価、一時2800円超下げ 取引時間中で7カ月ぶり安値 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMWNxMzQzVmpZVVBmdnlQUmlPVFU2Ul96RDR1enBsT2h2bndyMGM5Zko3b3pIeEtlUWtpQktvNjZ6eTlMNkZjeWdub1VnRW1ZZGItVXNQd2hKc1U1cGx1cXk3N21rRWdwMGZBeA?oc=5",
-        "date": "2026-11-20T00:27:35+00:00"
-      },
-      {
-        "title": "日経平均、米株安が重荷 NVIDIA株の勢い焦点に（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95T1RqRGYyZmxKSVRnWDZjZ1dOUTFUX1JCWjZPc09xczYtTXJGcGl6Wm04d0xkamdlYnZUeEZvSzFOWkNDVGxVb0tOOUlXR2pERV9ObHBGSHhuSlB1cHVUQ3N6RFZUM211VG5OUg?oc=5",
-        "date": "2026-11-17T22:30:00+00:00"
-      },
-      {
-        "title": "日経平均株価、3日ぶり反発 終値は163円高の5万9024円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aWEgxWEtFaXVtUy0zRFZtRTdrUS1jOHI2eW1WcWVyT3AwWnNCck9yWHA5LXMtRmdpMktyZjJPdWNxRnY4di1xVW83cENNLWZfM3NwZnNPaXZtZlZrNDAwaUJTLW9TNHltaHoxYg?oc=5",
-        "date": "2026-11-18T00:04:33+00:00"
+        "title": "2026年末の日本株見通しを日経平均株価60,000円に上方修正 総選挙結果と決算を反映 野村證券ストラテジストが解説 - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oSWU3ZUtYb2J2YW9yMmlwdDNBbFh2RG1jUldFU0FiSW9EYmhxZEdQeGxFS3gwTDZIWFo4THEzSnpRZVZpWlk1ZlpEN21HNFRuMXRubkhGYjJqYzhka0lv?oc=5",
+        "date": "2026-11-20T08:00:00+00:00"
       }
     ],
     "ai": [
