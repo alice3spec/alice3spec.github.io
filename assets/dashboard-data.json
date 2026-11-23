@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T07:23:20.581095+09:00",
+  "updated": "2026-11-24T07:28:21.625528+09:00",
   "feeds": {
     "kabu": [
       {
@@ -60,9 +60,9 @@
         "date": "2026-11-23T20:00:00+00:00"
       },
       {
-        "title": "ＪＴ【2914】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5UUhPYTBxaTZ0ajlqTWhkOW1DTE9DeDA0aXRLTEg0LVJnbklQb2xRMXZDU0ZPcWJRNW9YQjFmM2YzR25aVUszeDNFUUpNdV95Z3c?oc=5",
-        "date": "2026-11-23T17:28:34+00:00"
+        "title": "金利のある世界」への移行では整合的とみる 野村證券・岡崎康平 | NOMURA ウェルスタイル - 野村證券",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Z1BwUEx3R2RIN3NDbUloYjQwYjdJV0tvbVZXNEpuUHI4dEktODlHNHhnYng0aUZBOUNibGQ3S3QtUENUUGRoTGtTNnNISHo0SmR6UUw4YUtoUDlkS0Jn?oc=5",
+        "date": "2026-11-20T08:00:00+00:00"
       }
     ],
     "ai": [
@@ -167,7 +167,8 @@
       {
         "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
         "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
-        "date": "2026-11-21T23:21:31+00:00"
+        "date": "2026-11-21T23:21:31+00:00",
+        "body": "a28.txt"
       },
       {
         "title": "AIは人並みに動画編集できる？　“バズる切り抜き”からガジェット開封動画まで2つのツールを試す",
@@ -288,9 +289,9 @@
     ],
     "yahoo": [
       {
-        "title": "フアン氏 エヌビディアCEOに復帰",
-        "link": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
-        "date": "2026-11-23T14:17:46+00:00",
+        "title": "NY株大幅反発 フアン氏復帰好感",
+        "link": "https://news.yahoo.co.jp/pickup/6603740?source=rss",
+        "date": "2026-11-23T22:21:34+00:00",
         "body": "a48.txt"
       },
       {
@@ -330,9 +331,9 @@
         "body": "a54.txt"
       },
       {
-        "title": "小栗泉氏 今月末で日テレ退社",
-        "link": "https://news.yahoo.co.jp/pickup/6603735?source=rss",
-        "date": "2026-11-23T21:27:38+00:00",
+        "title": "木村拓哉 観客と大合唱で感極まる",
+        "link": "https://news.yahoo.co.jp/pickup/6603739?source=rss",
+        "date": "2026-11-23T22:21:25+00:00",
         "body": "a55.txt"
       }
     ]
@@ -4284,7 +4285,7 @@
       ],
       [
         "11/24 06:55",
-        3635.4,
+        3634.4,
         3633.2,
         3636.2,
         3631.9
@@ -4299,7 +4300,7 @@
     ]
   },
   "fx": {
-    "price": 158.946,
+    "price": 158.943,
     "prev": 158.512
   },
   "topix": {
