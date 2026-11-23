@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T19:23:16.532552+09:00",
+  "updated": "2026-11-23T19:33:18.370842+09:00",
   "feeds": {
     "kabu": [
       {
@@ -28,9 +28,19 @@
         "date": "2026-11-20T22:43:34+00:00"
       },
       {
+        "title": "投資に役立つ日経電子版 株価・検索ランキングで新たな銘柄発見 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51ZUpEdi0zZERpVk9QN1BPV0hlcVFKTy1BTTUzb3NyOG1CMElPVkJKbFRXTGY1T0hjTWt2VDNvZEdwZ1BDQ3VNYzFtd2ROVGtsWjByYk9INHZBYXhhdTF3dXBZNDE2aEJlOERfWA?oc=5",
+        "date": "2026-11-22T20:00:00+00:00"
+      },
+      {
         "title": "日経平均先物、大取の夜間取引で下落 1870円安の5万4550円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYTFpKRHRnOHBKdlc0WWdDVjlRMjRqVGZCRVVNVXAtQzNkcHFILWxycTllTFluSDl1dGdOSDBHUW9ONURWYmhqYWc4LUNBVGN4WmltSHlvS2hSQmU4Rndfcy1NNXNBaGluTUhIQw?oc=5",
         "date": "2026-11-20T21:46:33+00:00"
+      },
+      {
+        "title": "反騰期待【ＲＳＩ(20％以下)】低PER 29社選出 ＜テクニカル特集＞ 11月20日版(株探ニュース) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWGVpX2dRWmtJZU54ZWZ1NS0yXzdhdE1hWGoyeTRvX3NyWGlfSEdtdm9CdlNNcUhTM0R6dGxFakUyeFo0eHd4ekMzZm9aQTFwaTJ1TTVxWW9DSkFSLU93a3RMeERtQnQ0a2RrMjV1cENNX3VtN0ttUnU2Y0FYb3YzaG8xei15Ylk?oc=5",
+        "date": "2026-11-22T07:30:39+00:00"
       },
       {
         "title": "日経平均は下値探る展開か、AI半導体株の期待揺らぐ 今週の市場・予定 - 日本経済新聞",
@@ -41,16 +51,6 @@
         "title": "NYダウ続落、5日で4000ドル超安 7カ月ぶり安値 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KVmQxSjFsbDBvQmU2VG9OTFcwU09kaE5PLVZTQkdodjhTQmhVTXZTZlptRUhfcGYxTkpUaGlnUEU2ZXBSTnB2ek83SVREemJLLWEzQ0kwbTNqNEZOUVFiYXBBN3ZET25sWlZWbQ?oc=5",
         "date": "2026-11-20T21:39:19+00:00"
-      },
-      {
-        "title": "日経平均株価、3日ぶり反落 終値は3007円安の5万6436円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tRkRmSzYyR0xrMWlfd0dHYjk5YUl5dng5MzdkWmRmZkhULXRrQnFJSFQwSU9RTzhocEpDX1BCd0V1NWQtNzBQU1IzS09LUmcya0pvajJJMWdKSlZwTXl6M0pHRWJGaHVQaFkxdw?oc=5",
-        "date": "2026-11-20T00:08:15+00:00"
-      },
-      {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月20日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yR1hjeGZmcW9wUE1VeFVicjh4ZG9pZXVUMEo5ODN3S2Y0bVZ6dXBEdEpMQnhzY0JLbngzVEJENW1BUTdjVUVYaVFXNjZ5c2E2NmZsbWZ5Z2NDeWNLd2lDQQ?oc=5",
-        "date": "2026-11-19T23:34:12+00:00"
       },
       {
         "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
@@ -238,12 +238,14 @@
       {
         "title": "「こんな音が欲しい」をAIに伝えればOK。ZOOMの未来型ギターエフェクト",
         "link": "https://www.gizmodo.jp/article/zoom-neurig/",
-        "date": "2026-11-23T08:00:00+00:00"
+        "date": "2026-11-23T08:00:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "G-SHOCK×布袋寅泰、45周年を飾る漆黒のコラボモデル登場",
         "link": "https://www.gizmodo.jp/article/2611-g-shock-hotei-collab-gm5600/",
-        "date": "2026-11-23T07:35:00+00:00"
+        "date": "2026-11-23T07:35:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "2日間履きっぱなしでも疲れにくかった。ブーツみたいにフィットする長靴",
@@ -283,26 +285,27 @@
     ],
     "yahoo": [
       {
+        "title": "野党 24日にも文科相問責案を協議",
+        "link": "https://news.yahoo.co.jp/pickup/6603704?source=rss",
+        "date": "2026-11-23T10:12:28+00:00",
+        "body": "a48.txt"
+      },
+      {
         "title": "首里城正殿が一般公開 来場者感嘆",
         "link": "https://news.yahoo.co.jp/pickup/6603691?source=rss",
         "date": "2026-11-23T08:33:05+00:00",
-        "body": "a48.txt"
+        "body": "a49.txt"
       },
       {
         "title": "ウがリビア沖で露軍艦を「撃沈」",
         "link": "https://news.yahoo.co.jp/pickup/6603703?source=rss",
-        "date": "2026-11-23T10:12:22+00:00"
+        "date": "2026-11-23T10:12:22+00:00",
+        "body": "a50.txt"
       },
       {
         "title": "ガソリン価格下落 米大統領恨み節",
         "link": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
         "date": "2026-11-23T07:50:15+00:00",
-        "body": "a50.txt"
-      },
-      {
-        "title": "番組中にわいせつな音 BBCが謝罪",
-        "link": "https://news.yahoo.co.jp/pickup/6603674?source=rss",
-        "date": "2026-11-23T06:15:44+00:00",
         "body": "a51.txt"
       },
       {
@@ -332,7 +335,7 @@
     ]
   },
   "weather": {
-    "temp": 14.7,
+    "temp": 14.6,
     "code": 0,
     "max": 15.1,
     "min": 8.1,
@@ -452,7 +455,7 @@
     }
   },
   "index": {
-    "price": 56395.0,
+    "price": 56440.0,
     "prev": 54555.0,
     "points": [
       [
@@ -1367,22 +1370,36 @@
       ],
       [
         "11/23 19:10",
-        56390.0,
+        56430.0,
         56390.0,
         56430.0,
         56380.0
       ],
       [
-        "11/23 19:13",
-        56395.0,
-        56395.0,
-        56395.0,
-        56395.0
+        "11/23 19:15",
+        56425.0,
+        56420.0,
+        56445.0,
+        56415.0
+      ],
+      [
+        "11/23 19:20",
+        56440.0,
+        56425.0,
+        56440.0,
+        56415.0
+      ],
+      [
+        "11/23 19:22",
+        56440.0,
+        56440.0,
+        56440.0,
+        56440.0
       ]
     ]
   },
   "gold": {
-    "price": 3621.6,
+    "price": 3619.0,
     "prev": 3515.4,
     "points": [
       [
@@ -2304,22 +2321,36 @@
       ],
       [
         "11/23 19:10",
-        3622.3,
+        3621.0,
         3620.7,
         3623.0,
         3620.5
       ],
       [
-        "11/23 19:13",
-        3621.6,
-        3621.6,
-        3621.6,
-        3621.6
+        "11/23 19:15",
+        3620.3,
+        3621.1,
+        3621.7,
+        3618.9
+      ],
+      [
+        "11/23 19:20",
+        3617.4,
+        3620.5,
+        3621.0,
+        3617.2
+      ],
+      [
+        "11/23 19:23",
+        3619.0,
+        3619.0,
+        3619.0,
+        3619.0
       ]
     ]
   },
   "fx": {
-    "price": 159.129,
+    "price": 159.094,
     "prev": 158.512
   },
   "topix": {
