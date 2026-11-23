@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:58:20.634957+09:00",
+  "updated": "2026-11-24T05:03:23.052493+09:00",
   "feeds": {
     "kabu": [
       {
@@ -8,14 +8,15 @@
         "date": "2026-11-21T08:41:47+00:00"
       },
       {
+        "title": "伊藤智洋が読むマーケット・シナリオ【週間展望】 11月23日版 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wejFUTkl6UnBGdU9RZFZPRmdVRXktTXNnWnBLNDJ1V0NuZlRWZmRlSjRMS2pEdkRta3YzOFZtXzdyamg5TlM1NmhCR0pjdkpEQ2FEejF0TmMyeFB2OUJoVA?oc=5",
+        "date": "2026-11-23T01:34:17+00:00",
+        "body": "a01.txt"
+      },
+      {
         "title": "日本株はなぜ「AI失望売り」で全面安になったのか？浮かび上がった「次の主役企業」 | ＤＯＬ特別レポート - ダイヤモンド・オンライン",
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UazVHN242cVdWenZSYnZsakdtc3lYWXVkRGNrNzVBMTBtbURZWFl3Z2M5TnpCRjZmNVlrbVlHOWdXanU3bmwwTi1iU18?oc=5",
         "date": "2026-11-20T20:00:00+00:00"
-      },
-      {
-        "title": "国内株式市場見通し：短期的にはAI・半導体関連株中心に売られ過ぎ感への意識強まる - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wdnFxZURYMkpySzBKRmhVT2tpcUdCdzA5TXE5S2tZRHV4cGVLUHJRMFFXQ2NXWWprRkZUZ09uemhtWGVpRU9KUExwaGw4Q3NXVGN1RUFzR2ZBeHhvNkpXOA?oc=5",
-        "date": "2026-11-21T05:31:23+00:00"
       },
       {
         "title": "日経平均は6万円を大きく割り込んだが悲観するのはまだ早い、株価の「底入れサイン」が点灯する条件とは(東洋経済オンライン) - Yahoo!ファイナンス",
@@ -23,24 +24,14 @@
         "date": "2026-11-22T22:30:41+00:00"
       },
       {
-        "title": "日経平均は下値探る展開か AI半導体株の期待揺らぐ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sYWVCMV9DMkxTamoyYzZuVkMzQUU0TmwzTkRaamJoLVVZLU14dTRJU1UzdWFDdlQybG1fYkprUk42UEdGeUgxb2JkNlpFOFltWjNGbENremtvRGdvVnRoRmZzUUlRUkxXb01TNA?oc=5",
-        "date": "2026-11-20T19:00:00+00:00"
+        "title": "相場展望　11月23日号　米国株：アンソロピック上場も期待外れ、AI株冷え込み、NYダウ大幅下落　日本株：日経平均は「弱気相場」入り、年初来安値銘柄が続々 - 財経新聞",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14R01JMzVSa1hzUHNyM0dhV1ptejI4Ul9WWGVOamQ5aHlpZTFIamNXWC1IaG9CX1BNUm9vbUhrYm9wYUhGNHEtV3ZLRi1oUF9RQWQ0TFhLZlhUMGhtSzk1V3NNa9IBaEFVX3lxTE4zeFQtbEM0TUNlSDhpdEFQMW1vOTJkUENSaUN5UW5tcFJvNjZQbkxHRm95MUJpZXJMeE1vVHUyUWdqdkxpRmtFVEFoVHhHdE1QV3RMb3g2MnpSY0lyeWVnQV9GRFNBaHQy?oc=5",
+        "date": "2026-11-23T19:03:16+00:00"
       },
       {
-        "title": "今週の【早わかり株式市況】急反落、ハイテク株リスクオフ加速で7ヵ月ぶり安値 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVlhQRkNTNVVQU2p5YnFCX1BCY1FJbC15ZVY0VktWbnFoQmlXVDEwTnc0Z29DdEtudFFWTk1yWFUyZlBUMFd6QUhlc3djQ0NWekFwc1hTUlNGLVB4OGltag?oc=5",
-        "date": "2026-11-20T21:40:00+00:00"
-      },
-      {
-        "title": "世界株安、半導体発のリスク回避加速 日経平均3007円下げ - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxQngwYXBmY2dEMldpejBuRDV4bUczbVJrVW5yQm0wSV9xZnQ3WHREUGphV0tUam5ZVGN6QThDQ0t2Qy1nMUFYNUc5dXlkM0ZXVndXR3FxOUtRa1o4MHpKWVI3UE9XMlJHLVRCaA?oc=5",
-        "date": "2026-11-20T13:35:20+00:00"
-      },
-      {
-        "title": "伊藤智洋が読むマーケット・シナリオ【週間展望】 11月23日版 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wejFUTkl6UnBGdU9RZFZPRmdVRXktTXNnWnBLNDJ1V0NuZlRWZmRlSjRMS2pEdkRta3YzOFZtXzdyamg5TlM1NmhCR0pjdkpEQ2FEejF0TmMyeFB2OUJoVA?oc=5",
-        "date": "2026-11-23T01:34:17+00:00"
+        "title": "国内株式市場見通し：短期的にはAI・半導体関連株中心に売られ過ぎ感への意識強まる - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wdnFxZURYMkpySzBKRmhVT2tpcUdCdzA5TXE5S2tZRHV4cGVLUHJRMFFXQ2NXWWprRkZUZ09uemhtWGVpRU9KUExwaGw4Q3NXVGN1RUFzR2ZBeHhvNkpXOA?oc=5",
+        "date": "2026-11-21T05:31:23+00:00"
       },
       {
         "title": "日経平均は下値探る展開か、AI半導体株の期待揺らぐ 今週の市場・予定 - 日本経済新聞",
@@ -51,6 +42,16 @@
         "title": "シカゴ日経平均先物 大取終値比 1865円安 （11月20日） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vZ082bWdGN0Z4RHRzMmcwYURZUk9sNEtUTFF0Qm9yMnlIdjVsOWF2Zmt6V0pjeWZ4ODFTclJveHlXeFJ3Yi1fZTd3Qmh1bzFHeUd5THpuaTVGWkZ4amMwag?oc=5",
         "date": "2026-11-20T22:43:34+00:00"
+      },
+      {
+        "title": "今週の【早わかり株式市況】急反落、ハイテク株リスクオフ加速で7ヵ月ぶり安値 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVlhQRkNTNVVQU2p5YnFCX1BCY1FJbC15ZVY0VktWbnFoQmlXVDEwTnc0Z29DdEtudFFWTk1yWFUyZlBUMFd6QUhlc3djQ0NWekFwc1hTUlNGLVB4OGltag?oc=5",
+        "date": "2026-11-20T21:40:00+00:00"
+      },
+      {
+        "title": "日経平均先物、大取の夜間取引で下落 1870円安の5万4550円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYTFpKRHRnOHBKdlc0WWdDVjlRMjRqVGZCRVVNVXAtQzNkcHFILWxycTllTFluSDl1dGdOSDBHUW9ONURWYmhqYWc4LUNBVGN4WmltSHlvS2hSQmU4Rndfcy1NNXNBaGluTUhIQw?oc=5",
+        "date": "2026-11-20T21:46:33+00:00"
       },
       {
         "title": "日経平均、アンソロピック上場前に買い控えムード（先読み株式相場） - 日本経済新聞",
@@ -337,16 +338,11 @@
     ]
   },
   "weather": {
-    "temp": 15.0,
+    "temp": 15.1,
     "code": 1,
     "max": 18.9,
     "min": 12.4,
     "hours": [
-      {
-        "time": "2026-11-24T04:00",
-        "temp": 14.9,
-        "code": 1
-      },
       {
         "time": "2026-11-24T05:00",
         "temp": 15.1,
@@ -366,84 +362,89 @@
         "time": "2026-11-24T08:00",
         "temp": 16.3,
         "code": 2
+      },
+      {
+        "time": "2026-11-24T09:00",
+        "temp": 16.8,
+        "code": 2
       }
     ],
     "hours3": [
       {
-        "time": "2026-11-24T04:00",
-        "temp": 14.9,
+        "time": "2026-11-24T05:00",
+        "temp": 15.1,
         "code": 1,
         "mm": 0.0
       },
       {
-        "time": "2026-11-24T07:00",
-        "temp": 15.7,
+        "time": "2026-11-24T08:00",
+        "temp": 16.3,
         "code": 2,
         "mm": 0.0
       },
       {
-        "time": "2026-11-24T10:00",
-        "temp": 18.2,
+        "time": "2026-11-24T11:00",
+        "temp": 18.4,
         "code": 2,
         "mm": 0.0
       },
       {
-        "time": "2026-11-24T13:00",
-        "temp": 18.7,
-        "code": 1,
+        "time": "2026-11-24T14:00",
+        "temp": 18.9,
+        "code": 2,
         "mm": 0.0
       },
       {
-        "time": "2026-11-24T16:00",
-        "temp": 18.8,
-        "code": 51,
-        "mm": 0.1
-      },
-      {
-        "time": "2026-11-24T19:00",
-        "temp": 16.4,
+        "time": "2026-11-24T17:00",
+        "temp": 18.5,
         "code": 63,
-        "mm": 3.0
+        "mm": 4.3
       },
       {
-        "time": "2026-11-24T22:00",
-        "temp": 14.6,
+        "time": "2026-11-24T20:00",
+        "temp": 16.5,
+        "code": 51,
+        "mm": 0.3
+      },
+      {
+        "time": "2026-11-24T23:00",
+        "temp": 13.4,
         "code": 1,
         "mm": 0.0
       }
     ],
     "pop3": [
       {
-        "time": "2026-11-24T04:00",
+        "time": "2026-11-24T05:00",
         "pop": 0
       },
       {
-        "time": "2026-11-24T07:00",
+        "time": "2026-11-24T08:00",
         "pop": 0
       },
       {
-        "time": "2026-11-24T10:00",
-        "pop": 7
+        "time": "2026-11-24T11:00",
+        "pop": 17
       },
       {
-        "time": "2026-11-24T13:00",
-        "pop": 53
+        "time": "2026-11-24T14:00",
+        "pop": 79
       },
       {
-        "time": "2026-11-24T16:00",
+        "time": "2026-11-24T17:00",
         "pop": 100
       },
       {
-        "time": "2026-11-24T19:00",
-        "pop": 97
+        "time": "2026-11-24T20:00",
+        "pop": 92
       },
       {
-        "time": "2026-11-24T22:00",
-        "pop": 55
+        "time": "2026-11-24T23:00",
+        "pop": 23
       },
       {
-        "time": "2026-11-25T01:00",
-        "pop": 4
+        "time": "2026-11-25T02:00",
+        "pop": 17
       }
     ],
     "tomorrow": {
@@ -457,7 +458,7 @@
     }
   },
   "index": {
-    "price": 57785.0,
+    "price": 57790.0,
     "prev": 54555.0,
     "points": [
       [
@@ -2177,22 +2178,29 @@
       ],
       [
         "11/24 04:45",
-        57760.0,
+        57745.0,
         57780.0,
         57860.0,
-        57755.0
+        57735.0
       ],
       [
-        "11/24 04:48",
-        57785.0,
-        57785.0,
-        57785.0,
-        57785.0
+        "11/24 04:50",
+        57790.0,
+        57770.0,
+        57790.0,
+        57715.0
+      ],
+      [
+        "11/24 04:53",
+        57790.0,
+        57790.0,
+        57790.0,
+        57790.0
       ]
     ]
   },
   "gold": {
-    "price": 3640.8,
+    "price": 3640.9,
     "prev": 3515.4,
     "points": [
       [
@@ -3919,26 +3927,33 @@
       ],
       [
         "11/24 04:45",
-        3640.0,
+        3641.1,
         3640.7,
         3642.1,
         3638.5
       ],
       [
-        "11/24 04:48",
-        3640.8,
-        3640.8,
-        3640.8,
-        3640.8
+        "11/24 04:50",
+        3641.2,
+        3641.2,
+        3642.0,
+        3639.8
+      ],
+      [
+        "11/24 04:53",
+        3640.9,
+        3640.9,
+        3640.9,
+        3640.9
       ]
     ]
   },
   "fx": {
-    "price": 158.953,
+    "price": 158.942,
     "prev": 158.512
   },
   "topix": {
-    "price": 134.27,
+    "price": 134.32,
     "prev": 127.79
   },
   "ver": "v62"
