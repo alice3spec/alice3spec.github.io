@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T06:28:10.802401+09:00",
+  "updated": "2026-11-25T06:33:26.437914+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,14 +53,14 @@
         "date": "2026-11-23T22:54:33+00:00"
       },
       {
+        "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnVxTWVqWUxVMHZnRmdzMjZNZF9BaVFiOVlTQ1pWcDMwRENGbm1kLUR5VXNoWWpNR2JHUmkxZTJ4bGNsOUNXblljR09ya3N5Z2x3U08zUGpyNEI1dUF0b3pteVF2dTJZSExxWg?oc=5",
+        "date": "2026-11-24T06:47:34+00:00"
+      },
+      {
         "title": "日経平均は戻り高値から2割下落で値ごろ感、AI関連株から反発か - SBI証券",
         "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOeVltanhnNnFpOVhIYnc1QXVUa3JxdHVwT3JHT0o4S3Z6RVVodHRBT3ZsSndxM0MzUmlabHdCNklfYjB2U3ZiVko5WG1DalhNdldoeWFRWm1pX0FBcWY5OHpXcENkeFFlcVA3UjA1eUFzdklwZXhYX3VjbjFjcUZ1ek1NSy1RajIzdEs5dzk4dExJTDdfS3JrU1V5MXBmLXM5TWhNMW9Zc0VnSjNaUlpLNmxGZDJRZDQ2UTRnUC1XbVlTOWI3MFNad1dYbjBHNmR1TjlnOUdwVkFTWm1oM1BjX2N1WG1WZFQxVDJJUjFzamxMcEhQeW1UcUhzcE9vLXM3ZFRwcGNQN3RueGNncTJEMzRPeTVTZV8xTEdUUWdYaHR3a1hIV2oxU0dlR1RpbWFyamVvcEc3WkRsT0Q2SUg2Z3NjUnVzRm5RdzkwSGF3ME1jUDBkbDhUUHdWZFlDYUswcGpLeXFXejgwZlVZQkE1MDRrUQ?oc=5",
         "date": "2026-11-24T09:12:39+00:00"
-      },
-      {
-        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
-        "date": "2026-11-20T08:00:00+00:00"
       }
     ],
     "ai": [
@@ -454,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 57420.0,
+    "price": 57460.0,
     "prev": 58110.0,
     "points": [
       [
@@ -2314,22 +2314,29 @@
       ],
       [
         "11/25 06:15",
-        57420.0,
+        57410.0,
         57365.0,
         57420.0,
         57360.0
       ],
       [
-        "11/25 06:18",
-        57420.0,
-        57420.0,
-        57420.0,
-        57420.0
+        "11/25 06:20",
+        57460.0,
+        57435.0,
+        57460.0,
+        57435.0
+      ],
+      [
+        "11/25 06:22",
+        57460.0,
+        57460.0,
+        57460.0,
+        57460.0
       ]
     ]
   },
   "gold": {
-    "price": 3549.7,
+    "price": 3553.6,
     "prev": 3634.4,
     "points": [
       [
@@ -4189,22 +4196,29 @@
       ],
       [
         "11/25 06:15",
-        3549.9,
+        3549.7,
         3549.8,
         3550.7,
         3549.0
       ],
       [
-        "11/25 06:18",
-        3549.7,
-        3549.7,
-        3549.7,
-        3549.7
+        "11/25 06:20",
+        3553.2,
+        3550.4,
+        3554.6,
+        3550.1
+      ],
+      [
+        "11/25 06:23",
+        3553.6,
+        3553.6,
+        3553.6,
+        3553.6
       ]
     ]
   },
   "fx": {
-    "price": 159.239,
+    "price": 159.245,
     "prev": 158.982
   },
   "topix": {
