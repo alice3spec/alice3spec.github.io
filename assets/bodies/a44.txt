@@ -1,83 +1,78 @@
-パンチホール、そこに置く？ Motorolaの新折りたたみスマホ「Razr Flex」がリーク
+「リーマン予想の証明、25万ページ超はジョーク」アンソロピックの数学者がしたごめんなさいを解説
 
-Nov 24,2026 12:45 8,134
+Nov 24,2026 13:15
 
-そうこ ( GIZMODOライター )
+かみやまたくみ ( GIZMODO編集部 / 残響言語文法論 )
 
-Image: SammyGuru
+Image: levent @alpoge
 
-iPhone Duoの影響で、一気に広がりそうなコンテンツ消費に特化した画面サイズの折りたたみスマホ。iPhone Duo発表のタイミングに合わせたようにMotroolaも折りたたみをチラ見せしていましたが、そのスペックがわかってきました。
+11月24日（日本時間）、アンソロピック所属の数学者Levent Alpöge氏はXで「リーマン予想の証明が25万ページ超は冗談だった」と説明しました。同氏は先日、Claudeと数学の超難問であるリーマン予想の証明を発見したと発表していました。
 
-ネタ元のSammyGuruが、Motorolaの折りたたみスマホ「Razr Flex」のリーク情報と独自入手したという画像を公開しています。
+> Stupid things I did: 1. 250,000+ pages was a joke guys!, I find big number extremely hilarious. I tried to make it clear by the level of pedantry of the reals total ordered statement in the main theorem, but people ran with it unfortunately and I didn’t feel like talking on social media in the days after the announcement, though I did have a good time with the memes. Sorry!!! (Similarly with our YM4 existence I found it extremely funny that we were slowly working through 60,000 pages of slop, though the committee asking for Lean made me feel dumb about wasting our time with that. But 60,000 funny.) Tao advises to not joke in papers, see also the Big Lebowski reference I shoehorned, I now understand why… I didn’t feel comfortable having any slop writeup attached to this problem, and I figured I can’t produce anything readable anyway, so I went off the Lean to lengthmaxx. 2. The Lean is full of garbage obviously, but compiles, but all criticism of such garbage is totally reasonable and accepted, I should have cleaned it up but it was randomly difficult to for various strange reasons. Mea culpa… 3. @scottnarmstrong clocked me, indeed even as a student there were theorems that took me the better part of a decade to write up, but with this one I should hopefully be more responsible. (I really was yoloing a lot in there, I bet most is unnecessary in the end, admittedly the lazy thing to do would be to wait because it’ll simplify massively…) 4. I forgot to emphasize what I think is the point. Arguments like these, cool, but they are the raw inputs when interpolating definitions. We don’t have the / an “H^1 object” over number fields, and probably for a layperson the fact that we fight hard for these arguments for the purpose of definitions is not clear a priori (that’s at least my philosophy). Just like I knew I must fight for an utterly simple Weil / Deligne, I feel Riemann should be easy, and any real difficulty is an indication our setup is just dumb at the moment.
+>
+> — levent (@alpoge) November 23, 2026
 
-メインとなるインナーディスプレイは7インチ、アウターディスプレイは4.97インチ。リアカメラは2つで、ディスプレイ両方にセルフィーカメラあり。
-
-注目したいのは、このセルフィーカメラ。iPhone Duo発表前にSamsungがリリースし、絶賛されているGalaxy Z Fold8は、メインディスプレイの右半分の真ん中あたりにカメラがあります。このパンチホールがコンテンツ視聴中気になるという意見がありますが、一方でiPhone Duoは、カメラを画面下埋め込みにすることでこれを回避。
-
-では、Motorolaはというと…、SammyGuruの画像をみると、カメラのパンチホールがぎりぎり端っこに位置しており、AppleとSamsungの中間とも言える作戦になっています。
-
-カラバリは2色、ダークボタニカルガーデンという名のベージュと、コリアンダーという名前のグリーン。後者のグリーンは、かなり濃い青緑です。背面パネルはレザー感のある仕様。
-
-正式発表は、年明けのCES 2027が濃厚。SammyGuruいわく、価格は1799ドル（約28万6000円）がターゲットだといいます。価格的にはiPhone DuoよりもGalaxy X Fold8がライバルですね。
-
-Source:Sammy Guru
+ところが、この説明自体がかなりわかりにくい。どういう意味なんでしょう？ 証明の価値に影響するのでしょうか？ そんなわけで、彼の主張をきちんと読んでみました。
 
 Advertisement
 
-Advertisement
+まず、「冗談だ」と述べた部分がこちら。まだ関連する部分が続きますが、追々お見せします。
 
-Advertisement
+> 僕がやらかしたこと：
+>
+>
+> 1. 「25万ページ超」は冗談だよ、みんな！ 僕はやたらでかい数字がもうおかしくてしょうがない。主要な定理のところで、実数の大小関係をあそこまでくどくど書けば冗談だと伝わると思ったんだけど、残念ながら話はひとり歩きしてしまった。
 
-#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
+次に、このリーマン予想の証明が25万ページ超という話がどこから来たかを見てみましょう。以下が該当箇所で、Alpöge氏が「リーマン予想の証明をClaudeと見つけた」と発表したPDFの2ページ目脚注にあります。
 
-### Ranking
+> 2. もちろん僕は面白がって、25万ページを超えるまでやった。Claudeはかわいらしく、それを一般化リーマン予想の…「本」と呼んだ。
 
-Daily
+確かに「証明を文章にしたら25万ページを超えた」と書いてあり、ぼく自身、発表時にこの文書を読んだときにはそこに目がいきました。
 
-Weekly
+ところがよく見ると、その前に「I of course amused myself（遊んでいたら）」という一文があるんですね。実はAlpöge氏の力点はこちらにあったようなのです。
 
-Monthly
+そして、この注釈には続きがあります。こちらはClaudeの証明はかなり基本的なところから始まっていたといったことを言っているようです。
 
-Amazon
+> 定理1を見てみると、実数には大小の順序があるので、σが1/2と等しくなければ、σは1/2より大きいか小さいかのどちらかだ、というところから始まっていた。
 
-1. NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます Nov 23,2026 07:00 29,7672. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 41,7203. 猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ Nov 21,2026 20:00 19,7434. AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される Nov 22,2026 19:00 25,5085. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,857
+ここでAlpöge氏が述べたいのは、「25万ページ超はちゃんとした論文ではないよ」ということだと思われます。確かにリーマン予想の証明ではありますが、当たり前のことまでくどくどAIに書かせて意図的に25万ページ超まで膨らませた、ということのようです（実際、この25万ページは「駄文」とも呼ばれています）。そういう遊びだった、と。
 
-1. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 85,4592. 280万匹のウナギが海底の山に大集結。理由は未だ謎のまま Nov 18,2026 21:00 53,7343. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 50,9504. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,8575. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 41,720
+わかるわけないです。25万ページ超の原稿は本当にあって、そこまで長くしたこと自体がジョークだったなんて。
 
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 380,0142. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 150,1093. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,9514. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,4185. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,145
+Xの投稿では、Alpöge氏は他にもAIと難解な数学の証明に取り組んでいて、そちらでも膨大な量の下書きが生成されたことが明かされています。
 
-PR
+で、おもしろいのがどうも彼もうんざりしてたっぽいこと。
 
-## Latest
+> 僕たちが取り組んだ4次元のヤン＝ミルズ理論の存在証明でも、AIが吐き出した6万ページの駄文をちまちまと読み進めている状況が、僕にはおかしくてしょうがなかった。
 
-#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
+この辺りの背景を知っていたら、「冗談だったんだ」と言われて理解できたのかもしれません。
 
-### Ranking
+でも、Alpöge氏は世紀の大発見を、世界に向けて主張した。
 
-Daily
+ぼく自身そうですけど、彼のこの釈明を読んでなお、調べないとまったくわからなかった。彼のことをそもそもよく知らないんですから。
 
-Weekly
+さらにおもしろいのが、彼がちゃんとそのことを反省しているようで、自虐的に書いていること。
 
-Monthly
+> タオは論文に冗談を書くなと言ってる。僕が無理やりねじ込んだ『ビッグ・リボウスキ』ネタも参照。今ならその理由がわかる…。この問題にAIの駄文を添えて出す気にはなれなかったし、どうせ読めるものは書けないと思って、Leanのコードをもとに、いっそ長さの限界に挑んだんだ。
 
-Amazon
+この「タオ」は、フィールズ賞を受賞した著名な数学者テレンス・タオ氏と思われます。
 
-1. NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます Nov 23,2026 07:00 29,7672. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 41,7203. 猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ Nov 21,2026 20:00 19,7434. AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される Nov 22,2026 19:00 25,5085. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,857
+タオ氏は2009年のインタビューで、初めて書いた論文に冗談を入れ、指導教員から「論文は30年後も残る。いま面白いことがそのときも面白いとは限らない」と諭されたそうです。タオ氏はこれをいい助言だったと振り返っています。
 
-1. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 85,4592. 280万匹のウナギが海底の山に大集結。理由は未だ謎のまま Nov 18,2026 21:00 53,7343. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 50,9504. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,8575. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 41,720
+で、Alpöge氏も「論文に冗談は書くな」というタオ氏が受けた助言を知っていたようなんです。
 
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 380,0142. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 150,1093. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,9514. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,4185. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,145
+それなのに、Alpöge氏は冗談を紛れこませてしまった。世紀の大発見を主張する文章の中に。世界中の人が見て、多くの人が意図を読み切れなかった。
 
-PR
+Alpöge氏はリーマン予想に真剣に向き合い、ちゃんとしたものを書きたいがとてもじゃないが難しい…となって開き直って長々書いてしまおうと思ったと述べてはいますが、さすがにAlpöge氏が悪いと思います。
 
-## Review
+でも、彼を非難する気にはなれません。
 
-## Sale
+Alpöge氏はたくさんの業績をもつ数学者で、おそらくは極めて優秀な人です。そんな人でもAIのクソ長い文章に辟易気味だった。そんな中でここぞという時に禁を侵してしまった。
 
-© 2026 Mediagene Inc.
+AIの長文を読んでると頭がおかしくなりそうになりませんか？ 彼はAnthropic所属の数学者で、ハーバード大にもいた。そんな人でもそうなるんだって。
 
-運営会社媒体資料のお問い合わせ
+彼の投稿をちゃんと読んでよかったと思いました。
 
-プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
+AI科学の未来は地獄かもしれないけれど、人間味はあるのかもと思えたから。
 
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
+Alpöge氏が出したリーマン予想の証明については、各所で検証の試みが続いています。証明の本体はLeanという数学の証明用のプログラミング言語で書かれており、この25万ページ超の自然言語での証明はなくても問題な
