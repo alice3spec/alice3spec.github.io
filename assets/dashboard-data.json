@@ -1,12 +1,7 @@
 {
-  "updated": "2026-11-24T18:13:16.030912+09:00",
+  "updated": "2026-11-24T18:18:24.440327+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "２４日の東京株式市場見通し＝ＡＩ関連買い戻し、日経平均５万８０００円前後の維持焦点(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSF93LURjcUMzZmxORmpjWkltSVIxYjNJbXczdmtjWjkyR0FJZjBJLWdwSldNOVNkbjgtcExNQTl2V0Rkb1daYWhua2F1Nm5rdUhydHVadGZRemRHcmNKSkgtbjJKeE9acW1vVFRmc0d6LU5SeW93eVVvN3F2dERxeENYam0zSXc?oc=5",
-        "date": "2026-11-23T22:47:09+00:00"
-      },
       {
         "title": "「日経225先物」手口情報（24日日中） ABNクリアリン証券取引高トップ、12月限1万9633枚 | 市況 - 株探ニュース - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pb052cVp0MGVTTjlFenJDM0kwbEJicEstMUg4ckJXODBrQWtieEFEQ2tpNFpTeER0MVlFZUpYcUtMZHZscU9YMGx5cnJVNFAzRUFLRXZlMWRHckhYRDNZbDB3?oc=5",
@@ -16,6 +11,11 @@
         "title": "日経平均、終値2207円高 NVIDIAファン氏復帰で悲観の揺り戻し - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLMVBMelFrWHY3VXZuSWkzTG0xeHhCUWE1MzVIVnBhTGloWmhPeWE0NUNSb3pvWllSTUJJdVJ3VXlZWkdtTm5WS1JNcmVQbnJoWjEzZWQyTmlsSlp1MVI0TTRBczNSMEQ1bVVvRA?oc=5",
         "date": "2026-11-24T03:05:02+00:00"
+      },
+      {
+        "title": "２４日の東京株式市場見通し＝ＡＩ関連買い戻し、日経平均５万８０００円前後の維持焦点(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSF93LURjcUMzZmxORmpjWkltSVIxYjNJbXczdmtjWjkyR0FJZjBJLWdwSldNOVNkbjgtcExNQTl2V0Rkb1daYWhua2F1Nm5rdUhydHVadGZRemRHcmNKSkgtbjJKeE9acW1vVFRmc0d6LU5SeW93eVVvN3F2dERxeENYam0zSXc?oc=5",
+        "date": "2026-11-23T22:47:09+00:00"
       },
       {
         "title": "日経平均の今週の予想レンジは5万3000円-6万円 - マネクリ",
@@ -38,9 +38,14 @@
         "date": "2026-11-23T23:18:34+00:00"
       },
       {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、アドバンテストや東エレクが2銘柄で約973円分押し上げ(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEY4WTZWOVdsUC1jUUt4akhpOWdkcWhvYk1rMlRwc3lDTFVRb1dWdnFpS01TME9ZbjA2RUxjX1dXaTNub0xRQ3gxR3dBZmxtRTZxbEJreEZ3S3dNSHNPVzVVeGxROUV4ZXdFT000YVhQRnNQRTRYa0UzQUlUSmxpcnZGWEFsU1k?oc=5",
-        "date": "2026-11-24T07:49:27+00:00"
+        "title": "日経平均株価、一時2800円高 米国株急伸で5万9000円台回復 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSkRLU3lBakVxWURtNUVJVmhzejVxbUdqREVpSmVYQ0ZmNkw0enZQSzhaT2ctVmJaTVRXOUZRLVNzdTk2dWx1SnhMdU5wYkc1a29vdmRxZGtWWE5FUGtpdVlyeExCamE0QUNpNQ?oc=5",
+        "date": "2026-11-24T00:24:10+00:00"
+      },
+      {
+        "title": "シカゴ日本株先物概況・23日 日経平均先物は3405円高の5万7960円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUFN4MzNkd2g2bzNfX3JDZDc1QmNEOHNfTE5CZ1dRb25FdFp6bUZwWXh6R1dyY2pDcThIcnRGTE1qNVg4a240cVBOeXJpSXBNYXNCZmJtZWU5dVZoRkdvb21LVkQzbGpaVWM3Xw?oc=5",
+        "date": "2026-11-23T22:54:33+00:00"
       },
       {
         "title": "ソフトバンクG株が反発、英アーム大幅高で買い波及（24日の株式市場） - 日本経済新聞",
@@ -48,19 +53,14 @@
         "date": "2026-11-24T07:30:00+00:00"
       },
       {
-        "title": "日経平均株価、一時2800円高 米国株急伸で5万9000円台回復 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSkRLU3lBakVxWURtNUVJVmhzejVxbUdqREVpSmVYQ0ZmNkw0enZQSzhaT2ctVmJaTVRXOUZRLVNzdTk2dWx1SnhMdU5wYkc1a29vdmRxZGtWWE5FUGtpdVlyeExCamE0QUNpNQ?oc=5",
-        "date": "2026-11-24T00:24:10+00:00"
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-24T07:36:07+00:00"
       },
       {
-        "title": "日経平均株価、NVIDIA急伸が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zU0hfcm1tV1RzdWtVdDZ3WkV1X3o3cGZQSTZQaXpLYjluYnduWVZpZU91a3JrYUtsQXNhaDN0Q0o4S2JLUktvb01ZbWZvYkFFZ21DWlJoRVh2RmlfZ0NMNmhxanJINnlfdmhCZg?oc=5",
-        "date": "2026-11-23T23:33:22+00:00"
-      },
-      {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-24T04:51:24+00:00"
+        "title": "日経平均は戻り高値から2割下落で値ごろ感、AI関連株から反発か - SBI証券",
+        "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOeVltanhnNnFpOVhIYnc1QXVUa3JxdHVwT3JHT0o4S3Z6RVVodHRBT3ZsSndxM0MzUmlabHdCNklfYjB2U3ZiVko5WG1DalhNdldoeWFRWm1pX0FBcWY5OHpXcENkeFFlcVA3UjA1eUFzdklwZXhYX3VjbjFjcUZ1ek1NSy1RajIzdEs5dzk4dExJTDdfS3JrU1V5MXBmLXM5TWhNMW9Zc0VnSjNaUlpLNmxGZDJRZDQ2UTRnUC1XbVlTOWI3MFNad1dYbjBHNmR1TjlnOUdwVkFTWm1oM1BjX2N1WG1WZFQxVDJJUjFzamxMcEhQeW1UcUhzcE9vLXM3ZFRwcGNQN3RueGNncTJEMzRPeTVTZV8xTEdUUWdYaHR3a1hIV2oxU0dlR1RpbWFyamVvcEc3WkRsT0Q2SUg2Z3NjUnVzRm5RdzkwSGF3ME1jUDBkbDhUUHdWZFlDYUswcGpLeXFXejgwZlVZQkE1MDRrUQ?oc=5",
+        "date": "2026-11-24T09:12:39+00:00"
       }
     ],
     "ai": [
@@ -221,7 +221,8 @@
       {
         "title": "Amazonで買える革ジャンまとめ",
         "link": "https://www.gizmodo.jp/article/2611-amazon-leather-jacket/",
-        "date": "2026-11-24T08:20:00+00:00"
+        "date": "2026-11-24T08:20:00+00:00",
+        "body": "a37.txt"
       },
       {
         "title": "約1億3000万年前の化石を探しに山へ。発掘の相棒に「タフブック」を選んだ理由",
@@ -244,7 +245,8 @@
       {
         "title": "コーヒーをこぼしても、雷が落ちても無償で修理。 VAIOから神メーカー保証",
         "link": "https://www.gizmodo.jp/article/2611-vaio-free-accidental-damage-warranty/",
-        "date": "2026-11-24T06:30:00+00:00"
+        "date": "2026-11-24T06:30:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "深海生物「シェンロン」の体内から「ドラゴンボール」を発見",
@@ -267,7 +269,8 @@
       {
         "title": "令和によみがえる二眼レフスタイル。上から覗いて撮るデジカメが楽しそう",
         "link": "https://www.gizmodo.jp/article/2611-twin-lens-style-digital-camera/",
-        "date": "2026-11-24T04:30:00+00:00"
+        "date": "2026-11-24T04:30:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "「リーマン予想の証明、25万ページ超はジョーク」アンソロピックの数学者がしたごめんなさいを解説",
@@ -296,28 +299,26 @@
         "body": "a49.txt"
       },
       {
-        "title": "食料安保 政府広報の裏で廃棄課題",
-        "link": "https://news.yahoo.co.jp/pickup/6603799?source=rss",
-        "date": "2026-11-24T05:03:50+00:00",
-        "body": "a50.txt"
-      },
-      {
         "title": "高市首相の到着時 タラップ故障か",
         "link": "https://news.yahoo.co.jp/pickup/6603810?source=rss",
-        "date": "2026-11-24T07:52:18+00:00",
-        "body": "a51.txt"
-      },
-      {
-        "title": "ヴェレダ クレカ4万件超漏えいか",
-        "link": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
-        "date": "2026-11-24T06:57:01+00:00",
-        "body": "a52.txt"
+        "date": "2026-11-24T07:52:18+00:00"
       },
       {
         "title": "情報流出相次ぐ 防犯グッズ人気",
         "link": "https://news.yahoo.co.jp/pickup/6603815?source=rss",
         "date": "2026-11-24T08:02:55+00:00",
-        "body": "a53.txt"
+        "body": "a51.txt"
+      },
+      {
+        "title": "京王グループ 約1063万件漏えいか",
+        "link": "https://news.yahoo.co.jp/pickup/6603825?source=rss",
+        "date": "2026-11-24T09:13:58+00:00",
+        "body": "a52.txt"
+      },
+      {
+        "title": "ヴェレダ クレカ4万件超漏えいか",
+        "link": "https://news.yahoo.co.jp/pickup/6603807?source=rss",
+        "date": "2026-11-24T06:57:01+00:00"
       },
       {
         "title": "Z世代トレンド 大賞「ドパガキ」",
@@ -334,8 +335,8 @@
     ]
   },
   "weather": {
-    "temp": 17.5,
-    "code": 61,
+    "temp": 17.4,
+    "code": 3,
     "max": 18.7,
     "min": 12.5,
     "hours": [
@@ -454,7 +455,7 @@
     }
   },
   "index": {
-    "price": 58285.0,
+    "price": 58200.0,
     "prev": 58110.0,
     "points": [
       [
@@ -1236,22 +1237,29 @@
       ],
       [
         "11/24 18:00",
-        58265.0,
+        58215.0,
         58375.0,
         58395.0,
-        58235.0
+        58200.0
       ],
       [
-        "11/24 18:03",
-        58285.0,
-        58285.0,
-        58285.0,
-        58285.0
+        "11/24 18:05",
+        58200.0,
+        58230.0,
+        58250.0,
+        58165.0
+      ],
+      [
+        "11/24 18:08",
+        58200.0,
+        58200.0,
+        58200.0,
+        58200.0
       ]
     ]
   },
   "gold": {
-    "price": 3618.4,
+    "price": 3618.6,
     "prev": 3634.4,
     "points": [
       [
@@ -2033,22 +2041,29 @@
       ],
       [
         "11/24 18:00",
-        3617.9,
+        3616.7,
         3618.0,
         3619.0,
         3614.3
       ],
       [
-        "11/24 18:03",
-        3618.4,
-        3618.4,
-        3618.4,
-        3618.4
+        "11/24 18:05",
+        3617.9,
+        3616.6,
+        3620.4,
+        3616.1
+      ],
+      [
+        "11/24 18:08",
+        3618.6,
+        3618.6,
+        3618.6,
+        3618.6
       ]
     ]
   },
   "fx": {
-    "price": 159.294,
+    "price": 159.348,
     "prev": 158.982
   },
   "topix": {
