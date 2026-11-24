@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:43:16.506710+09:00",
+  "updated": "2026-11-24T21:48:23.830832+09:00",
   "feeds": {
     "kabu": [
       {
@@ -33,11 +33,6 @@
         "date": "2026-11-23T19:03:16+00:00"
       },
       {
-        "title": "日経平均、終値2207円高 NVIDIAファン氏復帰で悲観の揺り戻し - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLMVBMelFrWHY3VXZuSWkzTG0xeHhCUWE1MzVIVnBhTGloWmhPeWE0NUNSb3pvWllSTUJJdVJ3VXlZWkdtTm5WS1JNcmVQbnJoWjEzZWQyTmlsSlp1MVI0TTRBczNSMEQ1bVVvRA?oc=5",
-        "date": "2026-11-24T03:05:02+00:00"
-      },
-      {
         "title": "日経平均株価、一時2800円高 米国株急伸で5万9000円台回復 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSkRLU3lBakVxWURtNUVJVmhzejVxbUdqREVpSmVYQ0ZmNkw0enZQSzhaT2ctVmJaTVRXOUZRLVNzdTk2dWx1SnhMdU5wYkc1a29vdmRxZGtWWE5FUGtpdVlyeExCamE0QUNpNQ?oc=5",
         "date": "2026-11-24T00:24:10+00:00"
@@ -46,6 +41,11 @@
         "title": "シカゴ日本株先物概況・23日 日経平均先物は3405円高の5万7960円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUFN4MzNkd2g2bzNfX3JDZDc1QmNEOHNfTE5CZ1dRb25FdFp6bUZwWXh6R1dyY2pDcThIcnRGTE1qNVg4a240cVBOeXJpSXBNYXNCZmJtZWU5dVZoRkdvb21LVkQzbGpaVWM3Xw?oc=5",
         "date": "2026-11-23T22:54:33+00:00"
+      },
+      {
+        "title": "日経平均、終値2207円高 NVIDIAファン氏復帰で悲観の揺り戻し - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLMVBMelFrWHY3VXZuSWkzTG0xeHhCUWE1MzVIVnBhTGloWmhPeWE0NUNSb3pvWllSTUJJdVJ3VXlZWkdtTm5WS1JNcmVQbnJoWjEzZWQyTmlsSlp1MVI0TTRBczNSMEQ1bVVvRA?oc=5",
+        "date": "2026-11-24T03:05:02+00:00"
       },
       {
         "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅反発、アドバンテストや東エレクが2銘柄で約973円分押し上げ(フィスコ) - Yahoo!ファイナンス",
@@ -213,126 +213,119 @@
     ],
     "gadget": [
       {
+        "title": "みんなが待ってた！ Xが「間違って更新したタイムライン」をもとに戻す機能を準備中？",
+        "link": "https://www.gizmodo.jp/article/2611-x-timeline-undo-update-feature/",
+        "date": "2026-11-24T12:30:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "電力、水、騒音。データセンターを迎えるアメリカの街に起きている異変",
         "link": "https://www.gizmodo.jp/article/2611-us-data-center-construction-ban/",
         "date": "2026-11-24T12:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "Claudeが使えないはずの中国・ロシアで「契約済みアカウント」が転売されていた",
         "link": "https://www.gizmodo.jp/article/2611-claude-black-market-china-russia/",
         "date": "2026-11-24T12:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "マットレスの上でくつろぎながら音楽に浸る。「Ambient Hours Tokyo 2026」レポート",
         "link": "https://www.gizmodo.jp/article/ff5ec653-e430-451d-bf12-946b4d35c6b0/",
         "date": "2026-11-24T11:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "AI使用はどこまでが許容範囲？ インディーゲームアワードで物議",
         "link": "https://www.gizmodo.jp/article/2611-indie-game-award-ai-usage-controversy/",
-        "date": "2026-11-24T10:00:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-24T10:00:00+00:00"
       },
       {
         "title": "Leanで検証を通過。リーマン予想は「解けた」と言っていいのか？",
         "link": "https://www.gizmodo.jp/article/2611-riemann-hypothesis-lean-claude-proof/",
-        "date": "2026-11-24T09:45:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-24T09:45:00+00:00"
       },
       {
         "title": "「GPU界のキリスト」復活？ ジェンスン・フアンのNVIDIA CEO復帰に対する著名人たちの反応",
         "link": "https://www.gizmodo.jp/article/gpu-jesus-has-risen-and-the-tech-bros-are-rejoicing/",
         "date": "2026-11-24T09:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "フライングしちゃった？ Amazonブラックフライデー前に最新ルンバが10万円引きなんだが！",
         "link": "https://www.gizmodo.jp/article/2611-roomba-black-friday-sale-100k-off/",
-        "date": "2026-11-24T09:00:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-24T09:00:00+00:00"
       },
       {
         "title": "Amazonで買える革ジャンまとめ",
         "link": "https://www.gizmodo.jp/article/2611-amazon-leather-jacket/",
         "date": "2026-11-24T08:20:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "約1億3000万年前の化石を探しに山へ。発掘の相棒に「タフブック」を選んだ理由",
         "link": "https://www.gizmodo.jp/article/toughbook/",
         "date": "2026-11-24T08:00:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "折りたたみスマホの黒い余白、Googleは許しまへんでー！2027年4月から対応義務化へ",
         "link": "https://www.gizmodo.jp/article/2611-google-foldable-smartphone-app-requirement-2027/",
         "date": "2026-11-24T08:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "サムスンのヘッドホン「Galaxy Studio」はバッテリーに期待。50時間超えはいけるかも？",
         "link": "https://www.gizmodo.jp/article/2611-galaxy-studio-headphones-battery-specs/",
         "date": "2026-11-24T07:35:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "コーヒーをこぼしても、雷が落ちても無償で修理。 VAIOから神メーカー保証",
-        "link": "https://www.gizmodo.jp/article/2611-vaio-free-accidental-damage-warranty/",
-        "date": "2026-11-24T06:30:00+00:00",
         "body": "a47.txt"
       }
     ],
     "yahoo": [
       {
+        "title": "衆院定数31削減法案 成立の行方は",
+        "link": "https://news.yahoo.co.jp/pickup/6603821?source=rss",
+        "date": "2026-11-24T11:38:00+00:00",
+        "body": "a48.txt"
+      },
+      {
         "title": "重要土地法の改正案が衆院可決",
         "link": "https://news.yahoo.co.jp/pickup/6603817?source=rss",
         "date": "2026-11-24T08:43:20+00:00",
-        "body": "a48.txt"
+        "body": "a49.txt"
       },
       {
         "title": "個人消費判断 約3年ぶり下方修正",
         "link": "https://news.yahoo.co.jp/pickup/6603828?source=rss",
-        "date": "2026-11-24T09:50:22+00:00",
-        "body": "a49.txt"
+        "date": "2026-11-24T09:50:22+00:00"
       },
       {
         "title": "入湯税未納公表せず 立山町長謝罪",
         "link": "https://news.yahoo.co.jp/pickup/6603837?source=rss",
-        "date": "2026-11-24T12:08:01+00:00",
-        "body": "a50.txt"
+        "date": "2026-11-24T12:08:01+00:00"
       },
       {
         "title": "免許持たず美容手術疑い 3人逮捕",
         "link": "https://news.yahoo.co.jp/pickup/6603835?source=rss",
-        "date": "2026-11-24T11:16:02+00:00",
-        "body": "a51.txt"
+        "date": "2026-11-24T11:16:02+00:00"
       },
       {
         "title": "休養の日テレ・森圭介アナ 復帰へ",
         "link": "https://news.yahoo.co.jp/pickup/6603833?source=rss",
         "date": "2026-11-24T10:48:08+00:00",
-        "body": "a52.txt"
+        "body": "a53.txt"
       },
       {
         "title": "水ダウのドッキリ企画 物議の背景",
         "link": "https://news.yahoo.co.jp/pickup/6603830?source=rss",
         "date": "2026-11-24T09:54:39+00:00",
-        "body": "a53.txt"
+        "body": "a54.txt"
       },
       {
         "title": "栗山巧氏 西武の本部付特別補佐に",
         "link": "https://news.yahoo.co.jp/pickup/6603840?source=rss",
-        "date": "2026-11-24T12:37:16+00:00",
-        "body": "a54.txt"
-      },
-      {
-        "title": "台湾 フアン氏のCEO復帰に沸く",
-        "link": "https://news.yahoo.co.jp/pickup/6603832?source=rss",
-        "date": "2026-11-24T10:43:18+00:00",
-        "body": "a55.txt"
+        "date": "2026-11-24T12:37:16+00:00"
       }
     ]
   },
@@ -457,7 +450,7 @@
     }
   },
   "index": {
-    "price": 57710.0,
+    "price": 57775.0,
     "prev": 58110.0,
     "points": [
       [
@@ -1589,22 +1582,29 @@
       ],
       [
         "11/24 21:30",
-        57715.0,
+        57745.0,
         57710.0,
         57795.0,
         57700.0
       ],
       [
-        "11/24 21:33",
-        57710.0,
-        57710.0,
-        57710.0,
-        57710.0
+        "11/24 21:35",
+        57745.0,
+        57765.0,
+        57790.0,
+        57735.0
+      ],
+      [
+        "11/24 21:38",
+        57775.0,
+        57775.0,
+        57775.0,
+        57775.0
       ]
     ]
   },
   "gold": {
-    "price": 3625.6,
+    "price": 3634.3,
     "prev": 3634.4,
     "points": [
       [
@@ -2743,22 +2743,29 @@
       ],
       [
         "11/24 21:30",
-        3625.9,
+        3629.9,
         3625.1,
-        3628.5,
+        3631.2,
         3624.8
       ],
       [
-        "11/24 21:33",
-        3625.6,
-        3625.6,
-        3625.6,
-        3625.6
+        "11/24 21:35",
+        3633.4,
+        3629.8,
+        3636.7,
+        3629.5
+      ],
+      [
+        "11/24 21:38",
+        3634.3,
+        3634.3,
+        3634.3,
+        3634.3
       ]
     ]
   },
   "fx": {
-    "price": 159.149,
+    "price": 159.129,
     "prev": 158.982
   },
   "topix": {
