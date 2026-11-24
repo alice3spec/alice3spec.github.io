@@ -1,54 +1,38 @@
-約81万年から93万年前の更新世には、人類はわずか1,280人まで減少していた
+長大なリーマン予想のLean証明、GitHubでみんなが整理中。ファイル数を68%も減らせた！
 
-Nov 24,2026 11:35
+Nov 24,2026 10:45
 
-Isaac Schultz - GIZMODO US［原文］（岩田リョウコ / GIZMODOライター ）
+かみやまたくみ ( GIZMODO編集部 / 残響言語文法論 )
 
-Image: Wikimedia Commons
+削除対象にならずに残ったモジュールのうち、Lean 4.36への移植が完了したものの累計数。11月22日時点で14,863件に対応、丸いアイコンは大きな変更箇所への貢献者を示しています。Image: Rohan Arun/X
 
-2023年9月4日の記事を編集して再掲載しています。
+Anthropic所属の数学者Levent Alpöge氏がClaudeと数学界のラスボス「リーマン予想」の証明を見つけたと発表してから数日。
 
-よく80億人まで回復したもんですね…。
+本当にリーマン予想は証明されたのか？提出された証明は正しいのか？ そういったことを検証する試みがさまざま進んでいます。
 
-ボトルの首が細くなるように個体数が減少することを「ボトルネック現象」というのですが、これが更新世の約81万年前から93万年前にかけて発生し、人類が1,280人まで減少していたことがわかりました。
+その中のひとつ、Rohan Arun氏がGitHubで始めた「公開されたLean証明を有志で分担して再検証するプロジェクト」がおもしろい進展を見せています。
 
-ボトルネック現象はなんと11万年も続いたそうです。その期間のアフリカとユーラシアの人類の化石の記録に大きな年代ギャップがあったことと一致しています。この研究はScience誌に発表されています。
+Leanは、数学の証明をコンピューターで検証できる形で書けるプログラミング言語です。今回公開されたリーマン予想の証明も、Leanで書かれています。
 
-## ボトルネック現象で何が起こる？
+みんなで分担する都合上、17.5万個のモジュールを小分けにして、人・AIエージェントで分担しようとしていたのですが、新バージョンへの移植作業や膨大なファイルを整理しないと厳しそうということで、有志が集まり最終定理の証明に不要な読み込みやファイルを取り除く変更や移植を始めました。
 
-ボトルネック現象では、ある種の総個体数が深刻に減少し、その種全体の遺伝的多様性も全体的に減少してしまいます。
+11月24日にArun氏はXで元のファイル数14万9000を、4万7000まで減らせた！（67.9%減）と報告しています。最終的にはコンパイル時間を25〜45%短縮できる可能性があるとのこと。
 
-遺伝的多様性がなくなると、個体群が健康でなくなってしまう可能性があります。現在は生物工学のクローン技術と遺伝子編集で、動物個体群内での遺伝的多様性を合成することができます。
-
-しかし、ボトルネック現象がいつだって人口を脅かすというわけではありません。
-
-例えばニュージーランドの繁殖率が低く、大きいのに飛べない鳥フクロウオウムなど個体数が激減している原因は、遺伝的多様性が減ることより、人間の狩猟や人類による生息地の現象の方が大きな脅威となっています。
-
-研究チームは、アフリカ内の10の集団とアフリカ以外の40の集団から、3,154の現代のゲノムを分析するために、「Fast Infinitesimal Time Coalescent Process（FitCoal）」と呼ばれるツールを開発しました。
-
-研究チームは、アフリカ人のゲノムに「祖先の人口を絶滅寸前まで減少させた深刻な個体群ボトルネック」の証拠を発見。チームは、このボトルネック現象は気候の変化に起因している可能性があると仮説を立てています。
-
-## ほぼ絶滅状態だったヒト族
-
-研究と同時に発表された研究記事にて、大英博物館の考古学者Nick Ashton氏とロンドン自然史博物館の古人類学者Chris Stringer氏は「ボトルネックを引き起こした要因が、ホモサピエンス系統以外の人口への影響が制限されていた可能性、もしくはその影響が短いものだった可能性があります。これはボトルネックの原因が激しい地球寒冷化などの大きな環境の変化ではない可能性が高いことを示唆しています。もし地球規模なら、広範な影響を及ぼすはずだからです」とコメントしています。
-
-> 「にもかかわらず、今回の研究は初期の人類集団の脆弱性に焦点を当てています。
+> RH optimization update: We found a massive refactor that reduces the original RH proof to 47k files from ~149k(-67.9%). However we need help to get it over the finish line! We're at about 98.6% Lake jobs and 80% modules compiling, so it still needs full verification, but it could optimize compile times by 25-45%. Upstream has ported to Lean 4.37-rc1, so we redirected our efforts to optimizing the proof. One problem we're solving: the way Lean transitive imports works uses a lot of RAM, so a big optimization is consolidating imports and files down to reduce processes and RAM. This makes it easier for smaller contributors to work on it in local machines. You could be a part of history by helping, so please consider pointing your agent here: https://t.co/XvW3t64eMx My hope is after we consolidate and refactor the massive Lean proof, it will be easier for experts to find logical optimizations, understand the proof, and contribute by building it locally without a massive machine. We've been building it on four 128-vCPU machines Thank you to the 130+ who contributed to the Alpöge RH replay and the 47k-file consolidation! 🤯 @1337isnot1337, @emsi_kil3r, roy7, alectionary, HITEYY, @gledos_green, UnityChaos, @ch00ts, loremcdmx, Amahane-Hikari, RobertBarnettProjects, @aliromman, hipotures, ANdATIon, TomMoeras, zediir, dga471, @jjjhenriksen, mu-mei, JamCh01, @bgouldoak, BenCaunt, jasonyandell, f10etclawdbot, dhudakk, maugomez77, JanSimeonMetzger, @AntoineBouquet, rayy3535, florianmodel, gilad12-coder, jdenwood, galakurpi, dgahelper, surfyhou, amrehan, nico1996it, @WorldianAI, @pCwOrM, user42245, nicu-chiciuc, sp20262026, arxhr007, matiasm15, t-choudhury, CubeJerry, Sethumathavanpk, sderrow, egergerfg, brysontang, maxime-fleury, agi-for-my-llama, TheMrZZ, @maddoxjack, 21Z121Z1, @larryhaonlp, @jesuisfayaz, sat3n, misuadn-laplace, @haqtanefe, m4tthewdavis, gabeldev, jwr404, matan1905, shardmods, rahulsundar477-star, DanieleCorso, varo6, iAndyHD3, Mzzj114, MLEARNER701, yingluom, Mfweb, chriswilson413, juanfers1, certified-retart, @LakshyAAAgrawal, WilmervH, walkingsophie, Aurantium-47, YutoriKomeiji, jsnider3, mdpmcc, ADB991, drew2apps, @RhizoNymph, ThatOneShortGuy, Rafa-Ross, SeriousRising, Trefoiler, Sheape, Lv-00-ANI, aapolipponen, unhingedpanda, @tiwarishabh16, whitegrave1917-web, krisyotam, @lcfpl, aulafy, @plee314, TOTOGT, @twaldin, @introsp3ctor, MLTQ, 123454321bobbob-tech, heath-hunnicutt-ruach-tov, TVSuchty, Wronskode, dh5at, @SigomiAi, angusbarry, Genius-Cai-wen-zheng, jaykobdetar, mabdelazim, IlluminPhoenix, burbon, TimShakespeare, adamchugo, ChristosMaglaras, EF-Code, Ethan-prog-netizen, @coinvotecc, Brendon-Hablutzel, ealcarazsoto, keithadler, Nibroc6, @scanningwithsam, science-markets, Scratch-net, and @fahim_hakim_15. 🫡
 >
->
-> ホモサピエンスが化石記録に初めて現れるのは約30万年前なので、モデル化された個体群ボトルネックは私たちの祖先に影響を与えていたはずです。
->
->
-> 今回の研究チームは、個体群ボトルネックの期間である約95万年〜約65万年前にアフリカでのホモ・ハイデルベルゲンシスの化石がほんのわずかしかないことを指摘していて、チームはさらに、このボトルネック現象が、現代人とネアンデルタール人、デニソワ人が種分化された地点を示している可能性があるとまで述べています」
+> — Rohan Arun (@RohanArun) November 23, 2026
 
-Ashton氏とStringer氏は、最後の共通の祖先がより早い時期に存在したと示唆する研究もあるけれど、いずれにせよ、今回の研究チームがモデル化したような重大なボトルネックが発生していた場合、それはヒト族の種分化に重要な影響を与えた可能性があると指摘しています。
+この再検証やファイルの整理に協力した人は130人以上。Arun氏は「手伝ってもらえれば、歴史の一部になれるかもしれません」と述べています（参加したい人はまずこちらを読んでねとのこと）。
 
-遺伝子モデリングは、古代の人類がどのように世界中に広がって他の集団と混ざったかの過程を理解するために大変有用なツールとなりつつあります。
+このリーマン予想の証明の件は、数学界に大きな影響を与えると思われますし、他の分野に波及する可能性もあると思います。将来にどのような影響を与えるかはもはや想像が難しい。
 
-2,640 円
+人間はAIが提出した証明を検証し、理解しきることができるのでしょうか？
 
-PR
+また何が起こるのでしょうか？
 
-※商品を購入すると、売上の一部が販売プラットフォームよりメディアジーンに還元されることがあります。掲載されている情報は執筆時点の情報、または自動で更新されています。
+何もかも不透明な中で、多くの人がそれについてできることがないかを探し、取り組んでいることがとても印象的でした。
+
+Source: Rohan Arun, alpoge-rh-replay
 
 Advertisement
 
@@ -68,44 +52,6 @@ Monthly
 
 Amazon
 
-1. NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます Nov 23,2026 07:00 29,2792. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,4193. 猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ Nov 21,2026 20:00 19,6884. AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される Nov 22,2026 19:00 24,8025. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,377
+1. NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます Nov 23,2026 07:00 29,3632. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,6313. 猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ Nov 21,2026 20:00 19,6934. AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される Nov 22,2026 19:00 24,9545. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,447
 
-1. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 85,1862. 280万匹のウナギが海底の山に大集結。理由は未だ謎のまま Nov 18,2026 21:00 53,3913. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 50,8414. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,3775. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,419
-
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 379,9762. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 150,1003. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,9374. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,3885. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,132
-
-PR
-
-## Latest
-
-#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
-
-### Ranking
-
-Daily
-
-Weekly
-
-Monthly
-
-Amazon
-
-1. NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます Nov 23,2026 07:00 29,2792. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,4193. 猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ Nov 21,2026 20:00 19,6884. AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される Nov 22,2026 19:00 24,8025. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,377
-
-1. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 85,1862. 280万匹のウナギが海底の山に大集結。理由は未だ謎のまま Nov 18,2026 21:00 53,3913. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 50,8414. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,3775. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,419
-
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 379,9762. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 150,1003. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,9374. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,3885. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,132
-
-PR
-
-## Review
-
-## Sale
-
-© 2026 Mediagene Inc.
-
-運営会社媒体資料のお問い合わせ
-
-プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
-
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
+1. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 85,2122. 280万匹のウナギが海底の山に大集結。理由は未だ謎のまま Nov 18,2026 21:00
