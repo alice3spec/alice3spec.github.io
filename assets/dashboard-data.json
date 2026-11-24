@@ -1,16 +1,11 @@
 {
-  "updated": "2026-11-24T09:38:23.704058+09:00",
+  "updated": "2026-11-24T09:43:21.495773+09:00",
   "feeds": {
     "kabu": [
       {
-        "title": "日経平均、2100円超高＝東京株式（時事通信） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43SktidWpXME1HMmlaVG00bGQxdHJsMlhnVDR3XzlqRDU1bkt6M1BRWm02eFhiNjk5Y1REOW9ZNmRfUUxNWGswQ2JUalY3LXJCS0ZqVzU0cTA0NlhnMGlsNVZnYThFcFgzcEFQb1YwSkFRTHJNa0NVRm5Hc0FnaUU?oc=5",
-        "date": "2026-11-24T00:30:31+00:00"
-      },
-      {
-        "title": "日経平均株価、一時2000円高 米国株急伸で5万8000円台回復 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSkRLU3lBakVxWURtNUVJVmhzejVxbUdqREVpSmVYQ0ZmNkw0enZQSzhaT2ctVmJaTVRXOUZRLVNzdTk2dWx1SnhMdU5wYkc1a29vdmRxZGtWWE5FUGtpdVlyeExCamE0QUNpNQ?oc=5",
-        "date": "2026-11-24T00:24:10+00:00"
+        "title": "日経平均株価、NVIDIA急伸が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zU0hfcm1tV1RzdWtVdDZ3WkV1X3o3cGZQSTZQaXpLYjluYnduWVZpZU91a3JrYUtsQXNhaDN0Q0o4S2JLUktvb01ZbWZvYkFFZ21DWlJoRVh2RmlfZ0NMNmhxanJINnlfdmhCZg?oc=5",
+        "date": "2026-11-23T23:32:54+00:00"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月24日記） - 株探",
@@ -33,11 +28,6 @@
         "date": "2026-11-24T00:05:40+00:00"
       },
       {
-        "title": "日経平均株価、NVIDIA急伸が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zU0hfcm1tV1RzdWtVdDZ3WkV1X3o3cGZQSTZQaXpLYjluYnduWVZpZU91a3JrYUtsQXNhaDN0Q0o4S2JLUktvb01ZbWZvYkFFZ21DWlJoRVh2RmlfZ0NMNmhxanJINnlfdmhCZg?oc=5",
-        "date": "2026-11-23T23:32:54+00:00"
-      },
-      {
         "title": "２４日の東京株式市場見通し＝ＡＩ関連買い戻し、日経平均５万８０００円前後の維持焦点(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSF93LURjcUMzZmxORmpjWkltSVIxYjNJbXczdmtjWjkyR0FJZjBJLWdwSldNOVNkbjgtcExNQTl2V0Rkb1daYWhua2F1Nm5rdUhydHVadGZRemRHcmNKSkgtbjJKeE9acW1vVFRmc0d6LU5SeW93eVVvN3F2dERxeENYam0zSXc?oc=5",
         "date": "2026-11-23T22:47:09+00:00"
@@ -48,9 +38,19 @@
         "date": "2026-11-24T00:30:27+00:00"
       },
       {
-        "title": "日経平均、1700円超高＝東京株式（時事通信） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80dHMzdWZianFDUHlRQm9hTGc5OTkxUGVHQTBjdVJublBvZHlZRlVmVmtQa0pRM28wWnBpUmMtZHFNYWNtMTdXWWJlb2d2OUZ1RFUyTGtPeVg3SHpRNnpvMC1CUXBfcGppWl9rSjMzRlhoV25UWFloRll4WHJEalk?oc=5",
-        "date": "2026-11-24T00:30:30+00:00"
+        "title": "日経平均、900円超高＝東京株式（時事通信） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IZVhGWmxIeFVhZnExX0kxWnFsRmZBT1hmUl83Qk5MVkdwRlBRQmRyWVpXT1MwZ094eEtqdlVQa01aU0hVdG55NzE3Q2FJckl2Nk1jLUdJR09lLVhza3VYcG1ZVTlXWTVZR0VXcF9LSVdMN1ZxMHhaVVhEekpwLVE?oc=5",
+        "date": "2026-11-24T00:30:27+00:00"
+      },
+      {
+        "title": "日経平均、2000円超高＝東京株式（時事通信） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SSlJXb1RkTXpEVUVBWVV5RWd4UDhvazY5Yi1rcGdyTXJIQWtnVnlPNGhVN0NEdXRtS18tc3lhZHJrZHBnT1piVjYxelluNkFuTWp2a3pyeWlnUUJKWUk2Nld5ZmNlYlJGVWNFTVJBdUEtVVEyZDhBak9OOER2bUU?oc=5",
+        "date": "2026-11-24T00:30:31+00:00"
+      },
+      {
+        "title": "米国株急落で強まるリスク回避 日経平均「年内5万円接近」の声 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSUIycW9td1ZocjVaMzFSbWc1ZXFUc3BadHVFaHhseXdjWmtwN2NrbWplRF9HTjgyOGd3b0xUR3dfd0NBSTdUM1hNY1BYRFdCbEM1cHdCMzI2VjhBVUMxeTJNcHNSc2dYbzVaRw?oc=5",
+        "date": "2026-11-21T08:41:47+00:00"
       },
       {
         "title": "金利のある世界」への移行では整合的とみる 野村證券・岡崎康平 | NOMURA ウェルスタイル - 野村證券",
@@ -58,83 +58,75 @@
         "date": "2026-11-20T08:00:00+00:00"
       },
       {
-        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
-        "date": "2026-11-20T08:00:00+00:00"
+        "title": "日経平均株価、一時2000円高 米国株急伸で5万8000円台回復 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSkRLU3lBakVxWURtNUVJVmhzejVxbUdqREVpSmVYQ0ZmNkw0enZQSzhaT2ctVmJaTVRXOUZRLVNzdTk2dWx1SnhMdU5wYkc1a29vdmRxZGtWWE5FUGtpdVlyeExCamE0QUNpNQ?oc=5",
+        "date": "2026-11-24T00:24:10+00:00"
       }
     ],
     "ai": [
       {
+        "title": "パナソニックHDが描くフィジカルAIの未来、研究開発と現場実装を両輪に",
+        "link": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news040.html",
+        "date": "2026-11-24T00:00:00+00:00"
+      },
+      {
         "title": "2028年までに「サービス中断」に見舞われるIT部門の共通点は？　Gartner予測",
         "link": "https://www.itmedia.co.jp/enterprise/articles/2611/24/news023.html",
-        "date": "2026-11-23T23:00:00+00:00",
-        "body": "a12.txt"
+        "date": "2026-11-23T23:00:00+00:00"
       },
       {
         "title": "眠る「200兆円市場」、フィジカルAIを阻む「資源不足」　日立は独自技術で突破口探る",
         "link": "https://www.itmedia.co.jp/aiplus/article/2611/24/2000003382/",
         "date": "2026-11-23T23:00:00+00:00",
-        "body": "a13.txt"
+        "body": "a14.txt"
       },
       {
         "title": "CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保",
         "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
-        "date": "2026-11-23T22:20:30+00:00",
-        "body": "a14.txt"
+        "date": "2026-11-23T22:20:30+00:00"
       },
       {
         "title": "住友生命がChatGPT導入で524％のROI達成　金融の厳格な基準をどう突破した？",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/24/2000003335/",
-        "date": "2026-11-23T22:00:00+00:00",
-        "body": "a15.txt"
+        "date": "2026-11-23T22:00:00+00:00"
       },
       {
         "title": "データセンター「迷惑施設」から“名誉挽回“なるか？　東大教授が「あとはやる気の問題」と指摘するワケ",
         "link": "https://www.itmedia.co.jp/business/articles/2611/24/news007.html",
-        "date": "2026-11-23T22:00:00+00:00",
-        "body": "a16.txt"
+        "date": "2026-11-23T22:00:00+00:00"
       },
       {
         "title": "ロックウェルがAIで狙う工程革新　各エージェントを“指揮”する新製品とは",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/24/news024.html",
-        "date": "2026-11-23T22:00:00+00:00",
-        "body": "a17.txt"
+        "date": "2026-11-23T22:00:00+00:00"
       },
       {
         "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
         "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
-        "date": "2026-11-22T22:49:18+00:00",
-        "body": "a18.txt"
+        "date": "2026-11-22T22:49:18+00:00"
       },
       {
         "title": "メルカリの情報流出、AI委託先で何が起きた？　確認された2つの攻撃",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
         "date": "2026-11-22T21:00:00+00:00",
-        "body": "a19.txt"
+        "body": "a20.txt"
       },
       {
         "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
         "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
         "date": "2026-11-21T23:21:31+00:00",
-        "body": "a20.txt"
+        "body": "a21.txt"
       },
       {
         "title": "AIに必要なのは知識か、企業独自の判断基準か？　管理職調査で見えたAI活用の盲点",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/",
         "date": "2026-11-21T21:00:00+00:00",
-        "body": "a21.txt"
+        "body": "a22.txt"
       },
       {
         "title": "企業はAIをどう選ぶようになった？　ChatGPT、Copilot、Geminiの勢力図",
         "link": "https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/",
-        "date": "2026-11-21T05:22:15+00:00",
-        "body": "a22.txt"
-      },
-      {
-        "title": "AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表",
-        "link": "https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html",
-        "date": "2026-11-21T00:00:00+00:00",
-        "body": "a23.txt"
+        "date": "2026-11-21T05:22:15+00:00"
       }
     ],
     "it": [
@@ -457,7 +449,7 @@
     }
   },
   "index": {
-    "price": 58685.0,
+    "price": 58515.0,
     "prev": 58110.0,
     "points": [
       [
@@ -477,7 +469,7 @@
       [
         "11/24 08:10",
         58045.0,
-        58085.0,
+        58090.0,
         58110.0,
         58045.0
       ],
@@ -505,7 +497,7 @@
       [
         "11/24 08:30",
         57740.0,
-        57935.0,
+        57940.0,
         57955.0,
         57740.0
       ],
@@ -539,7 +531,7 @@
       ],
       [
         "11/24 08:55",
-        57900.0,
+        57885.0,
         57870.0,
         57920.0,
         57795.0
@@ -547,7 +539,7 @@
       [
         "11/24 09:00",
         58250.0,
-        57920.0,
+        57890.0,
         58340.0,
         57720.0
       ],
@@ -581,35 +573,42 @@
       ],
       [
         "11/24 09:25",
-        58680.0,
+        58725.0,
         58420.0,
-        58685.0,
+        58760.0,
         58410.0
       ],
       [
-        "11/24 09:28",
-        58685.0,
-        58685.0,
-        58685.0,
-        58685.0
+        "11/24 09:30",
+        58550.0,
+        58735.0,
+        58735.0,
+        58510.0
+      ],
+      [
+        "11/24 09:33",
+        58515.0,
+        58515.0,
+        58515.0,
+        58515.0
       ]
     ]
   },
   "gold": {
-    "price": 3641.6,
+    "price": 3647.4,
     "prev": 3634.4,
     "points": [
       [
         "11/24 08:00",
         3637.0,
-        3636.4,
+        3636.6,
         3641.3,
         3635.3
       ],
       [
         "11/24 08:05",
         3636.3,
-        3637.0,
+        3637.2,
         3638.1,
         3635.0
       ],
@@ -678,7 +677,7 @@
       ],
       [
         "11/24 08:55",
-        3630.6,
+        3631.0,
         3626.3,
         3631.0,
         3625.8
@@ -686,7 +685,7 @@
       [
         "11/24 09:00",
         3632.1,
-        3630.1,
+        3630.4,
         3638.2,
         3629.9
       ],
@@ -714,23 +713,30 @@
       [
         "11/24 09:20",
         3644.4,
-        3634.9,
+        3634.6,
         3647.5,
         3634.3
       ],
       [
         "11/24 09:25",
-        3644.0,
+        3644.9,
         3644.3,
         3646.1,
         3641.6
       ],
       [
-        "11/24 09:28",
-        3641.6,
-        3641.6,
-        3641.6,
-        3641.6
+        "11/24 09:30",
+        3652.2,
+        3644.6,
+        3653.9,
+        3642.7
+      ],
+      [
+        "11/24 09:33",
+        3647.4,
+        3647.4,
+        3647.4,
+        3647.4
       ]
     ]
   },
