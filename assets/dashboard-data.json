@@ -1,11 +1,12 @@
 {
-  "updated": "2026-11-25T00:28:18.371037+09:00",
+  "updated": "2026-11-25T00:38:15.491192+09:00",
   "feeds": {
     "kabu": [
       {
         "title": "２４日の東京株式市場見通し＝ＡＩ関連買い戻し、日経平均５万８０００円前後の維持焦点(ウエルスアドバイザー) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSF93LURjcUMzZmxORmpjWkltSVIxYjNJbXczdmtjWjkyR0FJZjBJLWdwSldNOVNkbjgtcExNQTl2V0Rkb1daYWhua2F1Nm5rdUhydHVadGZRemRHcmNKSkgtbjJKeE9acW1vVFRmc0d6LU5SeW93eVVvN3F2dERxeENYam0zSXc?oc=5",
-        "date": "2026-11-23T22:47:09+00:00"
+        "date": "2026-11-23T22:47:09+00:00",
+        "body": "a00.txt"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月24日記） - 株探",
@@ -15,7 +16,8 @@
       {
         "title": "ソフトバンクG株が反発、英アーム大幅高で買い波及（24日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vM1dfaUU1bkJESEd2UEM0dXZ4NnBhRV9NY0tKMHY5SHZYTEc4MWNuSFRlUDQwMV9zWjVfTW9PUGotbW45SThfcm00SXpHVHAyYlN4MzJhU0sxdTVocXNtSkRuWDhLSjdPNVFVSw?oc=5",
-        "date": "2026-11-24T07:30:00+00:00"
+        "date": "2026-11-24T07:30:00+00:00",
+        "body": "a02.txt"
       },
       {
         "title": "【日本株】日経平均株価のダブルトップ形成後の下値めど - マネクリ",
@@ -53,14 +55,14 @@
         "date": "2026-11-24T08:30:00+00:00"
       },
       {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-24T07:36:07+00:00"
+      },
+      {
         "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnVxTWVqWUxVMHZnRmdzMjZNZF9BaVFiOVlTQ1pWcDMwRENGbm1kLUR5VXNoWWpNR2JHUmkxZTJ4bGNsOUNXblljR09ya3N5Z2x3U08zUGpyNEI1dUF0b3pteVF2dTJZSExxWg?oc=5",
         "date": "2026-11-24T06:47:34+00:00"
-      },
-      {
-        "title": "日経平均は戻り高値から2割下落で値ごろ感、AI関連株から反発か - SBI証券",
-        "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOeVltanhnNnFpOVhIYnc1QXVUa3JxdHVwT3JHT0o4S3Z6RVVodHRBT3ZsSndxM0MzUmlabHdCNklfYjB2U3ZiVko5WG1DalhNdldoeWFRWm1pX0FBcWY5OHpXcENkeFFlcVA3UjA1eUFzdklwZXhYX3VjbjFjcUZ1ek1NSy1RajIzdEs5dzk4dExJTDdfS3JrU1V5MXBmLXM5TWhNMW9Zc0VnSjNaUlpLNmxGZDJRZDQ2UTRnUC1XbVlTOWI3MFNad1dYbjBHNmR1TjlnOUdwVkFTWm1oM1BjX2N1WG1WZFQxVDJJUjFzamxMcEhQeW1UcUhzcE9vLXM3ZFRwcGNQN3RueGNncTJEMzRPeTVTZV8xTEdUUWdYaHR3a1hIV2oxU0dlR1RpbWFyamVvcEc3WkRsT0Q2SUg2Z3NjUnVzRm5RdzkwSGF3ME1jUDBkbDhUUHdWZFlDYUswcGpLeXFXejgwZlVZQkE1MDRrUQ?oc=5",
-        "date": "2026-11-24T09:12:39+00:00"
       }
     ],
     "ai": [
@@ -313,7 +315,8 @@
       {
         "title": "逆走車に衝突されたか 運転手死亡",
         "link": "https://news.yahoo.co.jp/pickup/6603855?source=rss",
-        "date": "2026-11-24T14:55:44+00:00"
+        "date": "2026-11-24T14:55:44+00:00",
+        "body": "a52.txt"
       },
       {
         "title": "クマ捕獲で苦情多数 市業務に支障",
@@ -453,7 +456,7 @@
     "rain": null
   },
   "index": {
-    "price": 57530.0,
+    "price": 57185.0,
     "prev": 58110.0,
     "points": [
       [
@@ -1809,22 +1812,36 @@
       ],
       [
         "11/25 00:15",
-        57460.0,
+        57425.0,
         57730.0,
         57755.0,
-        57460.0
+        57415.0
       ],
       [
-        "11/25 00:18",
-        57530.0,
-        57530.0,
-        57530.0,
-        57530.0
+        "11/25 00:20",
+        57345.0,
+        57425.0,
+        57520.0,
+        57300.0
+      ],
+      [
+        "11/25 00:25",
+        57235.0,
+        57360.0,
+        57390.0,
+        57165.0
+      ],
+      [
+        "11/25 00:28",
+        57185.0,
+        57185.0,
+        57185.0,
+        57185.0
       ]
     ]
   },
   "gold": {
-    "price": 3582.4,
+    "price": 3584.2,
     "prev": 3634.4,
     "points": [
       [
@@ -3180,26 +3197,40 @@
       ],
       [
         "11/25 00:15",
-        3586.1,
+        3586.3,
         3601.5,
         3602.2,
         3581.7
       ],
       [
-        "11/25 00:18",
-        3582.4,
-        3582.4,
-        3582.4,
-        3582.4
+        "11/25 00:20",
+        3589.2,
+        3586.1,
+        3593.1,
+        3584.2
+      ],
+      [
+        "11/25 00:25",
+        3584.6,
+        3590.3,
+        3592.1,
+        3582.5
+      ],
+      [
+        "11/25 00:28",
+        3584.2,
+        3584.2,
+        3584.2,
+        3584.2
       ]
     ]
   },
   "fx": {
-    "price": 159.14,
+    "price": 159.263,
     "prev": 158.982
   },
   "topix": {
-    "price": 125.39,
+    "price": 124.855,
     "prev": 133.35
   },
   "ver": "v62"
