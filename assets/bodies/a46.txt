@@ -1,46 +1,38 @@
-ドラレコもセキュリティカメラも一番大事なのは「データ」だ。専用高耐久SDカードが登場
+長大なリーマン予想のLean証明、GitHubでみんなが整理中。ファイル数を68%も減らせた！
 
-Nov 24,2026 10:00
+Nov 24,2026 10:45
 
-小暮ひさのり ( GIZMODOライター )
+かみやまたくみ ( GIZMODO編集部 / 残響言語文法論 )
 
-Image: サンディスク
+削除対象にならずに残ったモジュールのうち、Lean 4.36への移植が完了したものの累計数。11月22日時点で14,863件に対応、丸いアイコンは大きな変更箇所への貢献者を示しています。Image: Rohan Arun/X
 
-飛んだらおじゃんですから。
+Anthropic所属の数学者Levent Alpöge氏がClaudeと数学界のラスボス「リーマン予想」の証明を見つけたと発表してから数日。
 
-SDカード（microSDカード）の使い道は多種多様。カメラやスマホ、タブレットの外部ストレージだけじゃなく、最近すっかり必須装備になった「ドライブレコーダー」。そして必須装備になりつつある「セキュリティカメラ」のストレージもmicroSDが多く採用されています。
+本当にリーマン予想は証明されたのか？提出された証明は正しいのか？ そういったことを検証する試みがさまざま進んでいます。
 
-でも、それらってちょっと特殊な用途ですよね？ だって、稼働中ずーっとデータって書き込み続けているわけで、普通のSDカード入れて大丈夫なの？って。
+その中のひとつ、Rohan Arun氏がGitHubで始めた「公開されたLean証明を有志で分担して再検証するプロジェクト」がおもしろい進展を見せています。
 
-Advertisement
+Leanは、数学の証明をコンピューターで検証できる形で書けるプログラミング言語です。今回公開されたリーマン予想の証明も、Leanで書かれています。
 
-そこ、サンディスクが徹底してきました。
+みんなで分担する都合上、17.5万個のモジュールを小分けにして、人・AIエージェントで分担しようとしていたのですが、新バージョンへの移植作業や膨大なファイルを整理しないと厳しそうということで、有志が集まり最終定理の証明に不要な読み込みやファイルを取り除く変更や移植を始めました。
 
-## 耐久性テスト済み、ガチのガチガチmicroSDカードたちが登場
+11月24日にArun氏はXで元のファイル数14万9000を、4万7000まで減らせた！（67.9%減）と報告しています。最終的にはコンパイル時間を25〜45%短縮できる可能性があるとのこと。
 
-Image: サンディスク
+> RH optimization update: We found a massive refactor that reduces the original RH proof to 47k files from ~149k(-67.9%). However we need help to get it over the finish line! We're at about 98.6% Lake jobs and 80% modules compiling, so it still needs full verification, but it could optimize compile times by 25-45%. Upstream has ported to Lean 4.37-rc1, so we redirected our efforts to optimizing the proof. One problem we're solving: the way Lean transitive imports works uses a lot of RAM, so a big optimization is consolidating imports and files down to reduce processes and RAM. This makes it easier for smaller contributors to work on it in local machines. You could be a part of history by helping, so please consider pointing your agent here: https://t.co/XvW3t64eMx My hope is after we consolidate and refactor the massive Lean proof, it will be easier for experts to find logical optimizations, understand the proof, and contribute by building it locally without a massive machine. We've been building it on four 128-vCPU machines Thank you to the 130+ who contributed to the Alpöge RH replay and the 47k-file consolidation! 🤯 @1337isnot1337, @emsi_kil3r, roy7, alectionary, HITEYY, @gledos_green, UnityChaos, @ch00ts, loremcdmx, Amahane-Hikari, RobertBarnettProjects, @aliromman, hipotures, ANdATIon, TomMoeras, zediir, dga471, @jjjhenriksen, mu-mei, JamCh01, @bgouldoak, BenCaunt, jasonyandell, f10etclawdbot, dhudakk, maugomez77, JanSimeonMetzger, @AntoineBouquet, rayy3535, florianmodel, gilad12-coder, jdenwood, galakurpi, dgahelper, surfyhou, amrehan, nico1996it, @WorldianAI, @pCwOrM, user42245, nicu-chiciuc, sp20262026, arxhr007, matiasm15, t-choudhury, CubeJerry, Sethumathavanpk, sderrow, egergerfg, brysontang, maxime-fleury, agi-for-my-llama, TheMrZZ, @maddoxjack, 21Z121Z1, @larryhaonlp, @jesuisfayaz, sat3n, misuadn-laplace, @haqtanefe, m4tthewdavis, gabeldev, jwr404, matan1905, shardmods, rahulsundar477-star, DanieleCorso, varo6, iAndyHD3, Mzzj114, MLEARNER701, yingluom, Mfweb, chriswilson413, juanfers1, certified-retart, @LakshyAAAgrawal, WilmervH, walkingsophie, Aurantium-47, YutoriKomeiji, jsnider3, mdpmcc, ADB991, drew2apps, @RhizoNymph, ThatOneShortGuy, Rafa-Ross, SeriousRising, Trefoiler, Sheape, Lv-00-ANI, aapolipponen, unhingedpanda, @tiwarishabh16, whitegrave1917-web, krisyotam, @lcfpl, aulafy, @plee314, TOTOGT, @twaldin, @introsp3ctor, MLTQ, 123454321bobbob-tech, heath-hunnicutt-ruach-tov, TVSuchty, Wronskode, dh5at, @SigomiAi, angusbarry, Genius-Cai-wen-zheng, jaykobdetar, mabdelazim, IlluminPhoenix, burbon, TimShakespeare, adamchugo, ChristosMaglaras, EF-Code, Ethan-prog-netizen, @coinvotecc, Brendon-Hablutzel, ealcarazsoto, keithadler, Nibroc6, @scanningwithsam, science-markets, Scratch-net, and @fahim_hakim_15. 🫡
+>
+> — Rohan Arun (@RohanArun) November 23, 2026
 
-まずはドラレコ用の「SANDISK Dash Cam Card」シリーズ。
+この再検証やファイルの整理に協力した人は130人以上。Arun氏は「手伝ってもらえれば、歴史の一部になれるかもしれません」と述べています（参加したい人はまずこちらを読んでねとのこと）。
 
-32GB、64GB、128GB、256GB、512GBの容量バリエーションがあり、シーケンシャル書き込みパフォーマンスは40MB/s以上。読み出しが100MB/s以上となっています。
+このリーマン予想の証明の件は、数学界に大きな影響を与えると思われますし、他の分野に波及する可能性もあると思います。将来にどのような影響を与えるかはもはや想像が難しい。
 
-ここまでは普通なのですが、最大40,000時間の連続録画への耐久性をテスト済み。さらに2年間の製品保証もついています。
+人間はAIが提出した証明を検証し、理解しきることができるのでしょうか？
 
-Image: サンディスク
+また何が起こるのでしょうか？
 
-続いてセキュリティカメラ用の「SANDISK Security Cam Card」シリーズ。
+何もかも不透明な中で、多くの人がそれについてできることがないかを探し、取り組んでいることがとても印象的でした。
 
-こちらも容量は32GB、64GB、128GB、256GB、512GBのバリエーションがあり、基本スペックは書き込み40MB/s以上、読み出し100MB/s以上とスペックは同じ。
-
-ですが、こっちは24時間365日連続録画で最大4年間の耐久性をテスト済みとなっています（保証も2年）。
-
-片や最大40,000時間、片や24時間365日最大4年間という、どちらも数字でわからせていくストロングスタイルなカードとなっています。
-
-証拠が安心感になる時代だから、こういうモデル選んでおきたいですね。
-
-かくいう僕も実をいうとセキュリティカメラのSDカード、その辺の余ってるやつを適当に突っ込んでいました。これに変えとこうかしら…。
-
-Source: サンディスク(1, 2）
+Source: Rohan Arun, alpoge-rh-replay
 
 Advertisement
 
@@ -60,44 +52,6 @@ Monthly
 
 Amazon
 
-1. NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます Nov 23,2026 07:00 29,3282. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,5393. 猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ Nov 21,2026 20:00 19,6914. AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される Nov 22,2026 19:00 24,8845. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,418
+1. NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます Nov 23,2026 07:00 29,3632. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,6313. 猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ Nov 21,2026 20:00 19,6934. AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される Nov 22,2026 19:00 24,9545. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,447
 
-1. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 85,1992. 280万匹のウナギが海底の山に大集結。理由は未だ謎のまま Nov 18,2026 21:00 53,4263. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 50,8454. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,4185. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,539
-
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 379,9772. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 150,1013. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,9384. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,3925. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,134
-
-PR
-
-## Latest
-
-#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
-
-### Ranking
-
-Daily
-
-Weekly
-
-Monthly
-
-Amazon
-
-1. NASA、1年間「月と火星」に住む4人を募集中。謝礼も出ます Nov 23,2026 07:00 29,3282. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,5393. 猛暑、大雨、干ばつ、火災。今回のエルニーニョ、12月までに観測史上最強へ Nov 21,2026 20:00 19,6914. AIが実験室から「脱走」して外部をハッキング。OpenAIがカリフォルニア州に提訴される Nov 22,2026 19:00 24,8845. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,418
-
-1. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 85,1992. 280万匹のウナギが海底の山に大集結。理由は未だ謎のまま Nov 18,2026 21:00 53,4263. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 50,8454. Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 Nov 22,2026 08:00 43,4185. アンソロピックがマイクロソフトに勝負をしかけた。新たなオフィスツールで“エクセル超え”なるか？ Nov 22,2026 19:30 40,539
-
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 379,9772. 超デカいくせに25年で処分。風力発電機の第二の人生は、住居・セメント・鉄 Oct 25,2026 22:30 150,1013. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 139,9384. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,3925. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,134
-
-PR
-
-## Review
-
-## Sale
-
-© 2026 Mediagene Inc.
-
-運営会社媒体資料のお問い合わせ
-
-プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
-
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
+1. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 85,2122. 280万匹のウナギが海底の山に大集結。理由は未だ謎のまま Nov 18,2026 21:00
