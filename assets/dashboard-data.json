@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T00:18:19.060529+09:00",
+  "updated": "2026-11-25T00:28:18.371037+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,14 +53,14 @@
         "date": "2026-11-24T08:30:00+00:00"
       },
       {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-24T07:36:07+00:00"
-      },
-      {
         "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnVxTWVqWUxVMHZnRmdzMjZNZF9BaVFiOVlTQ1pWcDMwRENGbm1kLUR5VXNoWWpNR2JHUmkxZTJ4bGNsOUNXblljR09ya3N5Z2x3U08zUGpyNEI1dUF0b3pteVF2dTJZSExxWg?oc=5",
         "date": "2026-11-24T06:47:34+00:00"
+      },
+      {
+        "title": "日経平均は戻り高値から2割下落で値ごろ感、AI関連株から反発か - SBI証券",
+        "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOeVltanhnNnFpOVhIYnc1QXVUa3JxdHVwT3JHT0o4S3Z6RVVodHRBT3ZsSndxM0MzUmlabHdCNklfYjB2U3ZiVko5WG1DalhNdldoeWFRWm1pX0FBcWY5OHpXcENkeFFlcVA3UjA1eUFzdklwZXhYX3VjbjFjcUZ1ek1NSy1RajIzdEs5dzk4dExJTDdfS3JrU1V5MXBmLXM5TWhNMW9Zc0VnSjNaUlpLNmxGZDJRZDQ2UTRnUC1XbVlTOWI3MFNad1dYbjBHNmR1TjlnOUdwVkFTWm1oM1BjX2N1WG1WZFQxVDJJUjFzamxMcEhQeW1UcUhzcE9vLXM3ZFRwcGNQN3RueGNncTJEMzRPeTVTZV8xTEdUUWdYaHR3a1hIV2oxU0dlR1RpbWFyamVvcEc3WkRsT0Q2SUg2Z3NjUnVzRm5RdzkwSGF3ME1jUDBkbDhUUHdWZFlDYUswcGpLeXFXejgwZlVZQkE1MDRrUQ?oc=5",
+        "date": "2026-11-24T09:12:39+00:00"
       }
     ],
     "ai": [
@@ -295,7 +295,8 @@
       {
         "title": "首相 第2次補正予算案編成を指示",
         "link": "https://news.yahoo.co.jp/pickup/6603844?source=rss",
-        "date": "2026-11-24T13:13:01+00:00"
+        "date": "2026-11-24T13:13:01+00:00",
+        "body": "a49.txt"
       },
       {
         "title": "上海市トップを調査 規律違反疑い",
@@ -452,7 +453,7 @@
     "rain": null
   },
   "index": {
-    "price": 57580.0,
+    "price": 57530.0,
     "prev": 58110.0,
     "points": [
       [
@@ -1794,22 +1795,36 @@
       ],
       [
         "11/25 00:05",
-        57640.0,
+        57735.0,
         57875.0,
         57875.0,
         57565.0
       ],
       [
-        "11/25 00:08",
-        57580.0,
-        57580.0,
-        57580.0,
+        "11/25 00:10",
+        57715.0,
+        57725.0,
+        57735.0,
         57580.0
+      ],
+      [
+        "11/25 00:15",
+        57460.0,
+        57730.0,
+        57755.0,
+        57460.0
+      ],
+      [
+        "11/25 00:18",
+        57530.0,
+        57530.0,
+        57530.0,
+        57530.0
       ]
     ]
   },
   "gold": {
-    "price": 3606.1,
+    "price": 3582.4,
     "prev": 3634.4,
     "points": [
       [
@@ -3151,26 +3166,40 @@
       ],
       [
         "11/25 00:05",
-        3606.5,
+        3606.8,
         3615.1,
         3615.1,
         3603.6
       ],
       [
-        "11/25 00:08",
-        3606.1,
-        3606.1,
-        3606.1,
-        3606.1
+        "11/25 00:10",
+        3601.7,
+        3606.6,
+        3606.6,
+        3600.5
+      ],
+      [
+        "11/25 00:15",
+        3586.1,
+        3601.5,
+        3602.2,
+        3581.7
+      ],
+      [
+        "11/25 00:18",
+        3582.4,
+        3582.4,
+        3582.4,
+        3582.4
       ]
     ]
   },
   "fx": {
-    "price": 159.29,
+    "price": 159.14,
     "prev": 158.982
   },
   "topix": {
-    "price": 127.37,
+    "price": 125.39,
     "prev": 133.35
   },
   "ver": "v62"
