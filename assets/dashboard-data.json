@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:33:22.001479+09:00",
+  "updated": "2026-11-24T13:43:25.420517+09:00",
   "feeds": {
     "kabu": [
       {
@@ -43,24 +43,24 @@
         "date": "2026-11-24T00:24:10+00:00"
       },
       {
-        "title": "日経平均、2600円超高＝東京株式（時事通信） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yZWxwMFhWZzZweW0weUZMbEtDcWx4cG5YMkgzd1hFcWludHhweC1fa1QwTHJoTUQwMW1GeVpkTkxHWE1sRUI2SG55cVJLU0tfMmgzM1A4X3ZZSXlsa3J5bW1BS0EwWGdYQ1k5RkhBSkVwSnhZQk9sMkg3Q3JIV3c?oc=5",
-        "date": "2026-11-24T01:30:20+00:00"
-      },
-      {
         "title": "シカゴ日本株先物概況・23日 日経平均先物は3405円高の5万7960円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUFN4MzNkd2g2bzNfX3JDZDc1QmNEOHNfTE5CZ1dRb25FdFp6bUZwWXh6R1dyY2pDcThIcnRGTE1qNVg4a240cVBOeXJpSXBNYXNCZmJtZWU5dVZoRkdvb21LVkQzbGpaVWM3Xw?oc=5",
         "date": "2026-11-23T22:54:33+00:00"
       },
       {
+        "title": "日経平均、2600円超高＝東京株式（時事通信） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yZWxwMFhWZzZweW0weUZMbEtDcWx4cG5YMkgzd1hFcWludHhweC1fa1QwTHJoTUQwMW1GeVpkTkxHWE1sRUI2SG55cVJLU0tfMmgzM1A4X3ZZSXlsa3J5bW1BS0EwWGdYQ1k5RkhBSkVwSnhZQk9sMkg3Q3JIV3c?oc=5",
+        "date": "2026-11-24T01:30:20+00:00"
+      },
+      {
+        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
+        "date": "2026-11-24T01:50:40+00:00"
+      },
+      {
         "title": "（朝）米国市場は3指数揃って上昇　エヌビディアのフアン氏の最高経営責任者への復帰が決定しリスクオンの姿勢が鮮明となり買いが優勢の展開 - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XMndsSXZXM3gyaHktVEJmbVlJYWFZTzA4SnF6LXIydDNGSHpvVURXM2lXS3IwOEItWklxaWNzMWxvOFNrdG94YnpVOXNuNVJXVk1FT9IBV0FVX3lxTFBHSUNJQUFrTkRmVUppRldldXhNVXZnVXF1VDh0NnV6YjZIWkdESmRtcm9TbkliQUl3STFueXhoamxnNDJ6Nnc5VHJrQVRjRkFTQVh3TFJBYw?oc=5",
         "date": "2026-11-23T23:30:00+00:00"
-      },
-      {
-        "title": "金利のある世界」への移行では整合的とみる 野村證券・岡崎康平 | NOMURA ウェルスタイル - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82Z1BwUEx3R2RIN3NDbUloYjQwYjdJV0tvbVZXNEpuUHI4dEktODlHNHhnYng0aUZBOUNibGQ3S3QtUENUUGRoTGtTNnNISHo0SmR6UUw4YUtoUDlkS0Jn?oc=5",
-        "date": "2026-11-20T08:00:00+00:00"
       }
     ],
     "ai": [
@@ -257,7 +257,8 @@
       {
         "title": "データセンターの排熱でエビを育てる。NTTのちょっと不思議な取り組み",
         "link": "https://www.gizmodo.jp/article/datacenter-waste-heat-shrimp-farming/",
-        "date": "2026-11-24T03:00:00+00:00"
+        "date": "2026-11-24T03:00:00+00:00",
+        "body": "a43.txt"
       },
       {
         "title": "約81万年から93万年前の更新世には、人類はわずか1,280人まで減少していた",
@@ -286,9 +287,9 @@
     ],
     "yahoo": [
       {
-        "title": "野党 文科相への問責案提出で一致",
-        "link": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
-        "date": "2026-11-24T02:44:46+00:00",
+        "title": "辺野古事故受け7割が校外活動点検",
+        "link": "https://news.yahoo.co.jp/pickup/6603791?source=rss",
+        "date": "2026-11-24T04:07:49+00:00",
         "body": "a48.txt"
       },
       {
@@ -298,9 +299,9 @@
         "body": "a49.txt"
       },
       {
-        "title": "集落で謎の渋滞 スマホナビ原因か",
-        "link": "https://news.yahoo.co.jp/pickup/6603790?source=rss",
-        "date": "2026-11-24T03:28:55+00:00",
+        "title": "野党 文科相への問責案提出で一致",
+        "link": "https://news.yahoo.co.jp/pickup/6603783?source=rss",
+        "date": "2026-11-24T02:44:46+00:00",
         "body": "a50.txt"
       },
       {
@@ -316,9 +317,9 @@
         "body": "a52.txt"
       },
       {
-        "title": "世界遺産が舞台の結婚式 人気",
-        "link": "https://news.yahoo.co.jp/pickup/6603772?source=rss",
-        "date": "2026-11-24T01:38:24+00:00",
+        "title": "集落で謎の渋滞 スマホナビ原因か",
+        "link": "https://news.yahoo.co.jp/pickup/6603790?source=rss",
+        "date": "2026-11-24T03:28:55+00:00",
         "body": "a53.txt"
       },
       {
@@ -456,7 +457,7 @@
     }
   },
   "index": {
-    "price": 58715.0,
+    "price": 58675.0,
     "prev": 58110.0,
     "points": [
       [
@@ -909,22 +910,36 @@
       ],
       [
         "11/24 13:20",
-        58700.0,
+        58650.0,
         58680.0,
         58720.0,
-        58665.0
+        58650.0
       ],
       [
-        "11/24 13:23",
-        58715.0,
-        58715.0,
-        58715.0,
-        58715.0
+        "11/24 13:25",
+        58640.0,
+        58635.0,
+        58680.0,
+        58635.0
+      ],
+      [
+        "11/24 13:30",
+        58675.0,
+        58635.0,
+        58675.0,
+        58635.0
+      ],
+      [
+        "11/24 13:32",
+        58675.0,
+        58675.0,
+        58675.0,
+        58675.0
       ]
     ]
   },
   "gold": {
-    "price": 3630.2,
+    "price": 3624.5,
     "prev": 3634.4,
     "points": [
       [
@@ -1377,22 +1392,36 @@
       ],
       [
         "11/24 13:20",
-        3629.5,
+        3627.9,
         3630.6,
         3632.8,
-        3629.1
+        3627.9
       ],
       [
-        "11/24 13:23",
-        3630.2,
-        3630.2,
-        3630.2,
-        3630.2
+        "11/24 13:25",
+        3626.1,
+        3627.4,
+        3628.3,
+        3624.9
+      ],
+      [
+        "11/24 13:30",
+        3624.0,
+        3625.8,
+        3626.7,
+        3623.7
+      ],
+      [
+        "11/24 13:33",
+        3624.5,
+        3624.5,
+        3624.5,
+        3624.5
       ]
     ]
   },
   "fx": {
-    "price": 158.957,
+    "price": 158.97,
     "prev": 158.982
   },
   "topix": {
