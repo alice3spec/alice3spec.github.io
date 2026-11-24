@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T01:48:21.373380+09:00",
+  "updated": "2026-11-25T01:53:20.848454+09:00",
   "feeds": {
     "kabu": [
       {
@@ -54,9 +54,9 @@
         "date": "2026-11-24T08:30:00+00:00"
       },
       {
-        "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnVxTWVqWUxVMHZnRmdzMjZNZF9BaVFiOVlTQ1pWcDMwRENGbm1kLUR5VXNoWWpNR2JHUmkxZTJ4bGNsOUNXblljR09ya3N5Z2x3U08zUGpyNEI1dUF0b3pteVF2dTJZSExxWg?oc=5",
-        "date": "2026-11-24T06:47:34+00:00"
+        "title": "日経平均株価、NVIDIA急伸が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zU0hfcm1tV1RzdWtVdDZ3WkV1X3o3cGZQSTZQaXpLYjluYnduWVZpZU91a3JrYUtsQXNhaDN0Q0o4S2JLUktvb01ZbWZvYkFFZ21DWlJoRVh2RmlfZ0NMNmhxanJINnlfdmhCZg?oc=5",
+        "date": "2026-11-23T23:33:22+00:00"
       },
       {
         "title": "日経平均は戻り高値から2割下落で値ごろ感、AI関連株から反発か - SBI証券",
@@ -458,7 +458,7 @@
     }
   },
   "index": {
-    "price": 56985.0,
+    "price": 57000.0,
     "prev": 58110.0,
     "points": [
       [
@@ -1926,22 +1926,29 @@
       ],
       [
         "11/25 01:35",
-        56985.0,
+        56955.0,
         57105.0,
         57105.0,
         56925.0
       ],
       [
-        "11/25 01:38",
-        56985.0,
-        56985.0,
-        56985.0,
-        56985.0
+        "11/25 01:40",
+        57095.0,
+        56950.0,
+        57100.0,
+        56920.0
+      ],
+      [
+        "11/25 01:43",
+        57000.0,
+        57000.0,
+        57000.0,
+        57000.0
       ]
     ]
   },
   "gold": {
-    "price": 3566.1,
+    "price": 3568.9,
     "prev": 3634.4,
     "points": [
       [
@@ -3409,26 +3416,33 @@
       ],
       [
         "11/25 01:35",
-        3567.1,
+        3566.5,
         3568.0,
         3568.1,
         3564.7
       ],
       [
-        "11/25 01:38",
-        3566.1,
-        3566.1,
-        3566.1,
-        3566.1
+        "11/25 01:40",
+        3569.8,
+        3566.7,
+        3571.2,
+        3564.6
+      ],
+      [
+        "11/25 01:43",
+        3568.9,
+        3568.9,
+        3568.9,
+        3568.9
       ]
     ]
   },
   "fx": {
-    "price": 159.209,
+    "price": 159.223,
     "prev": 158.982
   },
   "topix": {
-    "price": 125.58,
+    "price": 125.72,
     "prev": 133.35
   },
   "ver": "v62"
