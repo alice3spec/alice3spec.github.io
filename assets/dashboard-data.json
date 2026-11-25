@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T07:13:23.113650+09:00",
+  "updated": "2026-11-26T07:18:23.501739+09:00",
   "feeds": {
     "kabu": [
       {
@@ -59,9 +59,9 @@
         "date": "2026-11-25T21:25:06+00:00"
       },
       {
-        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
-        "date": "2026-11-25T14:19:09+00:00"
+        "title": "日経平均株価が反落 終値は1633円安の5万7011円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRNkFUUEVGUUppS1FTbV9FRUNKNHBRRXJSNHA1Z0ZjWVZQMUNEWUwtY1gtYXJQM2tiY3pqbmdnY1hNOEVxZUJJa3pxSHR1VmhRUmdiMEJsMkd0NTRjX0VBOXMyN3pta1F4dWFPXw?oc=5",
+        "date": "2026-11-25T00:05:25+00:00"
       }
     ],
     "ai": [
@@ -228,7 +228,8 @@
       {
         "title": "GTA 6の「マイアミ再現度」を、マイアミ帰りの男と検証してみた",
         "link": "https://www.gizmodo.jp/article/gta6-miami-reality-check/",
-        "date": "2026-11-25T13:30:00+00:00"
+        "date": "2026-11-25T13:30:00+00:00",
+        "body": "a38.txt"
       },
       {
         "title": "動物と話せる少女の不思議な旅。アルゼンチン発のロードムービー『アニカの伝言』監督に聞く",
@@ -244,7 +245,8 @@
       {
         "title": "偽イーロン・マスク、参上。「仮想通貨を倍にする」と吹聴→数百人が騙されかける",
         "link": "https://www.gizmodo.jp/article/2611-fake-elon-musk-crypto-scam/",
-        "date": "2026-11-25T12:05:00+00:00"
+        "date": "2026-11-25T12:05:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "パクリ案件？ ディフェンダーに酷似した中華製SUVがEU全域で販売禁止に",
@@ -273,7 +275,8 @@
       {
         "title": "ことばで頼めばデザイン完成。デザインツールCanva「AIに頼むモード」が一般提供スタート",
         "link": "https://www.gizmodo.jp/article/2611-canva-mcp-release/",
-        "date": "2026-11-25T10:20:00+00:00"
+        "date": "2026-11-25T10:20:00+00:00",
+        "body": "a46.txt"
       },
       {
         "title": "防火じゃなくて「消火する」ガジェットポーチ",
@@ -333,7 +336,7 @@
     ]
   },
   "weather": {
-    "temp": 9.2,
+    "temp": 9.5,
     "code": 0,
     "max": 15.8,
     "min": 8.3,
@@ -4333,7 +4336,7 @@
     ]
   },
   "fx": {
-    "price": 159.122,
+    "price": 159.126,
     "prev": 159.242
   },
   "topix": {
