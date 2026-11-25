@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T21:48:13.967257+09:00",
+  "updated": "2026-11-25T21:58:24.216066+09:00",
   "feeds": {
     "kabu": [
       {
@@ -16,7 +16,8 @@
       {
         "title": "（まとめ）日経平均は1,633円安の57,011円で大幅反落　ディフェンシブには買い - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wYXlYSzk0ekRhdUR3Qkpad3ZEai1zTmlwZjUzMkJFYjVNYVYtTEp5ZXFBdndDb094QlRMazhDc1ctSEE2dUp6Q3M2WG9MaUJyT1A5ZdIBV0FVX3lxTFAyUFFTcG1rdmVwNkVrbm5XbVZlZm9wOVRwSWMzd2NLQ19idXI4aGs4Q3FtNl9jc180MGhaR25neFViN0hCMTZPUlBaWl9wd3ZpQ3loZXpqSQ?oc=5",
-        "date": "2026-11-25T07:18:00+00:00"
+        "date": "2026-11-25T07:18:00+00:00",
+        "body": "a02.txt"
       },
       {
         "title": "２５日の東京株式市場見通し＝ＡＩ株反落、内需・ヘルスケアなど受け皿に(ウエルスアドバイザー) - Yahoo!ファイナンス",
@@ -31,12 +32,14 @@
       {
         "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5MjBpMGVJT056LXUyc29PZWJNX2pYbmg5elpNQms5WXJfbEJUZ0k1UGFHenhpVWpzV01taWtBVHBhcWZqTFdKYXlMZUYwMEJoY3pua1ItdWFrT1NORld4TWRJOA?oc=5",
-        "date": "2026-11-24T09:39:53+00:00"
+        "date": "2026-11-24T09:39:53+00:00",
+        "body": "a05.txt"
       },
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でもみ合い圏推移 - みんかぶ",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tY0dyb0Q0YndVZnNFcF9RTU40RUN0NDRSZDhXaFNQQXM3a2RRYUtuMzRfV0VtUTNnTWtET0s5eDRBTTREZ2c?oc=5",
-        "date": "2026-11-25T03:31:52+00:00"
+        "date": "2026-11-25T03:31:52+00:00",
+        "body": "a06.txt"
       },
       {
         "title": "日経平均株価、米AI・半導体株安が下押し材料（先読み株式相場） - 日本経済新聞",
@@ -60,9 +63,10 @@
         "date": "2026-11-25T09:32:16+00:00"
       },
       {
-        "title": "日経平均、AI・半導体中心に大幅反落 米関税引き上げ報道も影響 - 朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ud203V1lmV3BTTWd2YXhGWS1tSkEyakF0RzdMMGh1MmV2TFdtR1M5SE5KWFZPZE9uWTl5YS1WTlJGSzBvMHd5YnNIRE1zR1NGejZKWDQtVXRvUWREX3F0cVI0bl9Zdlk?oc=5",
-        "date": "2026-11-25T02:40:19+00:00"
+        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
+        "date": "2026-11-25T08:09:48+00:00",
+        "body": "a11.txt"
       }
     ],
     "ai": [
@@ -455,7 +459,7 @@
     "rain": null
   },
   "index": {
-    "price": 56250.0,
+    "price": 56200.0,
     "prev": 57380.0,
     "points": [
       [
@@ -1594,22 +1598,36 @@
       ],
       [
         "11/25 21:35",
-        56265.0,
+        56240.0,
         56155.0,
         56275.0,
         56155.0
       ],
       [
-        "11/25 21:38",
-        56250.0,
-        56250.0,
-        56250.0,
-        56250.0
+        "11/25 21:40",
+        56205.0,
+        56215.0,
+        56235.0,
+        56160.0
+      ],
+      [
+        "11/25 21:45",
+        56195.0,
+        56205.0,
+        56205.0,
+        56145.0
+      ],
+      [
+        "11/25 21:48",
+        56200.0,
+        56200.0,
+        56200.0,
+        56200.0
       ]
     ]
   },
   "gold": {
-    "price": 3556.4,
+    "price": 3545.3,
     "prev": 3555.1,
     "points": [
       [
@@ -2755,22 +2773,36 @@
       ],
       [
         "11/25 21:35",
-        3553.4,
+        3551.0,
         3552.1,
         3558.8,
-        3551.9
+        3550.3
       ],
       [
-        "11/25 21:38",
-        3556.4,
-        3556.4,
-        3556.4,
-        3556.4
+        "11/25 21:40",
+        3550.8,
+        3550.1,
+        3551.0,
+        3546.6
+      ],
+      [
+        "11/25 21:45",
+        3546.5,
+        3550.9,
+        3550.9,
+        3542.9
+      ],
+      [
+        "11/25 21:48",
+        3545.3,
+        3545.3,
+        3545.3,
+        3545.3
       ]
     ]
   },
   "fx": {
-    "price": 159.269,
+    "price": 159.314,
     "prev": 159.242
   },
   "topix": {
