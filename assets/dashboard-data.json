@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:48:13.961526+09:00",
+  "updated": "2026-11-26T02:53:18.158001+09:00",
   "feeds": {
     "kabu": [
       {
@@ -14,15 +14,14 @@
         "body": "a01.txt"
       },
       {
-        "title": "日経平均下落でリスクオフ強まる【今日の市場はどう動いた？】 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZQ04xX3h6S08ybE1KVjlWYTZTWldFVllQN3otVXF2cUlSS0RUVUtpWjhIYXI4MnFxRmlaZWhadHM2ZjZ2UkhhR3VlV1ZaWEdkLUIyVGJ1aVFMSGFVSWF1VlV0M2I?oc=5",
-        "date": "2026-11-25T02:57:45+00:00",
-        "body": "a02.txt"
-      },
-      {
         "title": "（まとめ）日経平均は1,633円安の57,011円で大幅反落　ディフェンシブには買い - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wYXlYSzk0ekRhdUR3Qkpad3ZEai1zTmlwZjUzMkJFYjVNYVYtTEp5ZXFBdndDb094QlRMazhDc1ctSEE2dUp6Q3M2WG9MaUJyT1A5ZdIBV0FVX3lxTFAyUFFTcG1rdmVwNkVrbm5XbVZlZm9wOVRwSWMzd2NLQ19idXI4aGs4Q3FtNl9jc180MGhaR25neFViN0hCMTZPUlBaWl9wd3ZpQ3loZXpqSQ?oc=5",
         "date": "2026-11-25T07:18:00+00:00"
+      },
+      {
+        "title": "日経平均下落でリスクオフ強まる【今日の市場はどう動いた？】 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZQ04xX3h6S08ybE1KVjlWYTZTWldFVllQN3otVXF2cUlSS0RUVUtpWjhIYXI4MnFxRmlaZWhadHM2ZjZ2UkhhR3VlV1ZaWEdkLUIyVGJ1aVFMSGFVSWF1VlV0M2I?oc=5",
+        "date": "2026-11-25T02:57:45+00:00"
       },
       {
         "title": "【日本市況】日経平均1600円超安､米ハイテク株急落嫌気－円159円前半 - TBS NEWS DIG",
@@ -53,19 +52,20 @@
         "date": "2026-11-25T01:13:59+00:00"
       },
       {
-        "title": "東京株式（大引け）＝２２０７円高、ジェンスン・ファンＣＥＯ復帰効果で急反発 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFUkFCVHJHVS1pa1lZZEl1QWQwWWt5eUxMa0FSMGg0NVozVWVHRGs1cVFNTk80SmdvZFhOR2RzbVo5YzF3ekxCSFI3VzdPZlNBVGJQNlJiNVJzS1FvNWVrQQ?oc=5",
-        "date": "2026-11-24T07:18:00+00:00"
-      },
-      {
-        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
-        "date": "2026-11-25T14:19:09+00:00"
+        "title": "２５日の東京株式市場見通し＝ＡＩ株反落、内需・ヘルスケアなど受け皿に(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFRLUXlRcS1nNmRINWNyajlySTVrWFZVVFpIdlRqQUFDUnJUNV8wcTR5U3A1N3ZWVzhWa21UT0U0QUpQSFBIXzg2MC1zamc5WXdTTHNUM1RUYnljU25yOThRc3dSazdwTGtlTmVpVlFJb1lna1M4Zjh2RXRpZTBoQjFacWFsYXM?oc=5",
+        "date": "2026-11-24T22:47:08+00:00"
       },
       {
         "title": "日経平均、AI・半導体中心に大幅反落 米関税引き上げ報道も影響 - 朝日新聞",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ud203V1lmV3BTTWd2YXhGWS1tSkEyakF0RzdMMGh1MmV2TFdtR1M5SE5KWFZPZE9uWTl5YS1WTlJGSzBvMHd5YnNIRE1zR1NGejZKWDQtVXRvUWREX3F0cVI0bl9Zdlk?oc=5",
-        "date": "2026-11-25T02:40:19+00:00"
+        "date": "2026-11-25T02:40:19+00:00",
+        "body": "a10.txt"
+      },
+      {
+        "title": "シカゴ日経平均先物 大取終値比 1575円安 （11月24日） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QX21PLUlpc0I3Z1NfX0Y4NVdMV0lXOUp1eXVYTkxOZmdIaFNUM0FWbDc0cDM0VG5tTkUwQi12LWFzOXVPZ1FKMHpISjloS3dZNGZ1OWtPTmhsSHJNc3Vocw?oc=5",
+        "date": "2026-11-25T10:30:06+00:00"
       }
     ],
     "ai": [
@@ -459,7 +459,7 @@
     "rain": null
   },
   "index": {
-    "price": 56510.0,
+    "price": 56710.0,
     "prev": 57380.0,
     "points": [
       [
@@ -2018,22 +2018,29 @@
       ],
       [
         "11/26 02:35",
-        56575.0,
+        56565.0,
         56415.0,
         56650.0,
         56410.0
       ],
       [
-        "11/26 02:38",
-        56510.0,
-        56510.0,
-        56510.0,
-        56510.0
+        "11/26 02:40",
+        56725.0,
+        56590.0,
+        56750.0,
+        56520.0
+      ],
+      [
+        "11/26 02:43",
+        56710.0,
+        56710.0,
+        56710.0,
+        56710.0
       ]
     ]
   },
   "gold": {
-    "price": 3529.6,
+    "price": 3543.3,
     "prev": 3555.1,
     "points": [
       [
@@ -3599,26 +3606,33 @@
       ],
       [
         "11/26 02:35",
-        3532.7,
+        3534.2,
         3524.8,
-        3534.1,
+        3534.6,
         3524.2
       ],
       [
-        "11/26 02:38",
-        3529.6,
-        3529.6,
-        3529.6,
-        3529.6
+        "11/26 02:40",
+        3540.2,
+        3533.8,
+        3545.0,
+        3533.3
+      ],
+      [
+        "11/26 02:43",
+        3543.3,
+        3543.3,
+        3543.3,
+        3543.3
       ]
     ]
   },
   "fx": {
-    "price": 158.925,
+    "price": 158.927,
     "prev": 159.242
   },
   "topix": {
-    "price": 121.68,
+    "price": 122.165,
     "prev": 125.81
   },
   "ver": "v62"
