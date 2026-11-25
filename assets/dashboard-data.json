@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T22:08:22.347360+09:00",
+  "updated": "2026-11-25T22:13:21.435556+09:00",
   "feeds": {
     "kabu": [
       {
@@ -20,9 +20,9 @@
         "body": "a02.txt"
       },
       {
-        "title": "日経平均下落でリスクオフ強まる【今日の市場はどう動いた？】 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZQ04xX3h6S08ybE1KVjlWYTZTWldFVllQN3otVXF2cUlSS0RUVUtpWjhIYXI4MnFxRmlaZWhadHM2ZjZ2UkhhR3VlV1ZaWEdkLUIyVGJ1aVFMSGFVSWF1VlV0M2I?oc=5",
-        "date": "2026-11-25T02:57:45+00:00"
+        "title": "２５日の東京株式市場見通し＝ＡＩ株反落、内需・ヘルスケアなど受け皿に(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFRLUXlRcS1nNmRINWNyajlySTVrWFZVVFpIdlRqQUFDUnJUNV8wcTR5U3A1N3ZWVzhWa21UT0U0QUpQSFBIXzg2MC1zamc5WXdTTHNUM1RUYnljU25yOThRc3dSazdwTGtlTmVpVlFJb1lna1M4Zjh2RXRpZTBoQjFacWFsYXM?oc=5",
+        "date": "2026-11-24T22:47:08+00:00"
       },
       {
         "title": "【日本市況】日経平均1600円超安､米ハイテク株急落嫌気－円159円前半 - TBS NEWS DIG",
@@ -226,7 +226,8 @@
       {
         "title": "『GTA6』は想像以上にすごかった。だからこそ次世代コンソールで遊びたい",
         "link": "https://www.gizmodo.jp/article/2611-gta6-performance-and-consoles/",
-        "date": "2026-11-25T12:15:00+00:00"
+        "date": "2026-11-25T12:15:00+00:00",
+        "body": "a37.txt"
       },
       {
         "title": "偽イーロン・マスク、参上。「仮想通貨を倍にする」と吹聴→数百人が騙されかける",
@@ -237,7 +238,8 @@
       {
         "title": "パクリ案件？ ディフェンダーに酷似した中華製SUVがEU全域で販売禁止に",
         "link": "https://www.gizmodo.jp/article/byd-ti7_defender_eu_ban/",
-        "date": "2026-11-25T12:00:00+00:00"
+        "date": "2026-11-25T12:00:00+00:00",
+        "body": "a39.txt"
       },
       {
         "title": "【20周年アンケート】高木康行",
@@ -248,7 +250,8 @@
       {
         "title": "OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？",
         "link": "https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/",
-        "date": "2026-11-25T11:00:00+00:00"
+        "date": "2026-11-25T11:00:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "イルカ印のハッカーツール、新型「Flipper One」登場。ヤバいことできそう？",
@@ -453,7 +456,7 @@
     "rain": null
   },
   "index": {
-    "price": 56240.0,
+    "price": 56225.0,
     "prev": 57380.0,
     "points": [
       [
@@ -1620,22 +1623,29 @@
       ],
       [
         "11/25 21:55",
-        56265.0,
+        56300.0,
         56195.0,
-        56265.0,
+        56300.0,
         56175.0
       ],
       [
-        "11/25 21:58",
-        56240.0,
-        56240.0,
-        56240.0,
-        56240.0
+        "11/25 22:00",
+        56250.0,
+        56300.0,
+        56315.0,
+        56195.0
+      ],
+      [
+        "11/25 22:03",
+        56225.0,
+        56225.0,
+        56225.0,
+        56225.0
       ]
     ]
   },
   "gold": {
-    "price": 3547.9,
+    "price": 3542.6,
     "prev": 3555.1,
     "points": [
       [
@@ -2809,22 +2819,29 @@
       ],
       [
         "11/25 21:55",
-        3549.7,
+        3549.2,
         3545.1,
-        3549.7,
+        3549.8,
         3544.7
       ],
       [
-        "11/25 21:58",
-        3547.9,
-        3547.9,
-        3547.9,
-        3547.9
+        "11/25 22:00",
+        3544.4,
+        3549.1,
+        3551.2,
+        3542.4
+      ],
+      [
+        "11/25 22:03",
+        3542.6,
+        3542.6,
+        3542.6,
+        3542.6
       ]
     ]
   },
   "fx": {
-    "price": 159.326,
+    "price": 159.324,
     "prev": 159.242
   },
   "topix": {
