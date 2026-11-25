@@ -1,51 +1,53 @@
 {
-  "updated": "2026-11-25T21:23:18.057882+09:00",
+  "updated": "2026-11-25T21:28:15.168961+09:00",
   "feeds": {
     "kabu": [
       {
-        "title": "日経平均株価、米AI・半導体株安が下押し材料（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aXY1MXJoTUplRkNfTUdjcEpXNWdyTXZLRFNXLTNaUHloTGFSa0dDdFVrQy1oTm5LUS1KcWUzaUV5Si1iNDdxVkcxUlZtcHBVXzV1Y2h6Vkw4Q3BCX3JKUXRHdTFFZmZlSGw1eQ?oc=5",
-        "date": "2026-11-24T22:35:58+00:00"
-      },
-      {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でもみ合い圏推移 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZanlvTUNLT3pMT0pKN2ZPVkg2WDRnSlY5X09PYk52NUU2STBrLXhEdEdfZmREZTYyZTFYVG1fZldzVjFWbFVHZmhnaGtadFhPM2c?oc=5",
-        "date": "2026-11-25T09:32:16+00:00"
-      },
-      {
-        "title": "日経平均、AI・半導体中心に大幅反落 米関税引き上げ報道も影響 - 朝日新聞",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ud203V1lmV3BTTWd2YXhGWS1tSkEyakF0RzdMMGh1MmV2TFdtR1M5SE5KWFZPZE9uWTl5YS1WTlJGSzBvMHd5YnNIRE1zR1NGejZKWDQtVXRvUWREX3F0cVI0bl9Zdlk?oc=5",
-        "date": "2026-11-25T02:40:19+00:00"
-      },
-      {
-        "title": "2040年の日経平均株価は「24万円」に到達する可能性があると予想 その根拠は？ 野村アセットマネジメント・石黒英之 - 野村證券",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjNUtSeTRZXzBWU1JWT2ZMUEVTOVk1empBOEdBck5QNktTU1dPcXhHdmpPWjFrdWU4WFppMkpqaHlBaHlEbG9aN3ZQc21NOGhpaWtFYV9PdkNBMG9qYkVN?oc=5",
-        "date": "2026-11-20T08:00:00+00:00"
-      },
-      {
-        "title": "日経平均株価が反落 終値は1633円安の5万7011円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRNkFUUEVGUUppS1FTbV9FRUNKNHBRRXJSNHA1Z0ZjWVZQMUNEWUwtY1gtYXJQM2tiY3pqbmdnY1hNOEVxZUJJa3pxSHR1VmhRUmdiMEJsMkd0NTRjX0VBOXMyN3pta1F4dWFPXw?oc=5",
-        "date": "2026-11-25T00:05:25+00:00"
+        "title": "キオクシア株が反落、28年にNAND型価格下落の予想（25日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yVEF3TzdxNldhaExKa2xtMlluS2dxTXZuN3FQWFZhU19CUVg5bTBIMHNpSElLSmNJZW90MWlnaWJaNkoyaHVLV1EtV3c0TVpXZThmcER1X3hBUEIyWlp6ZW95ZzZkR1AyeGJLeg?oc=5",
+        "date": "2026-11-25T07:30:00+00:00"
       },
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月25日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ekM2TGp2WXNESjZpMGNCSFduWHZLRm1GeUxzaS01M0ZDdWZWS3oxUEhYT3h0U05QdV9BbVZnLVhuS0J6X2FLTzF5MDYxVlptcnRtT19GTlEwbFR6OHdTNQ?oc=5",
-        "date": "2026-11-25T10:30:56+00:00"
+        "date": "2026-11-25T10:30:56+00:00",
+        "body": "a01.txt"
       },
       {
-        "title": "日経平均終値1633円安 フジクラ売り誘ったAI懸念 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZV3RwS3FSRUM2ampnUXNraEFGS0tBeW1MNEJhdjQxUUl6NXZyZXJDUmRNT1FNcHN4TEFkSnFVS3NaVVhhSHJtTjl5U3QzbHJpM0MtbFdrOTRsRzQwLVkwUVpleWxrNkk2ZnlYcw?oc=5",
-        "date": "2026-11-25T02:52:48+00:00"
+        "title": "（まとめ）日経平均は1,633円安の57,011円で大幅反落　ディフェンシブには買い - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wYXlYSzk0ekRhdUR3Qkpad3ZEai1zTmlwZjUzMkJFYjVNYVYtTEp5ZXFBdndDb094QlRMazhDc1ctSEE2dUp6Q3M2WG9MaUJyT1A5ZdIBV0FVX3lxTFAyUFFTcG1rdmVwNkVrbm5XbVZlZm9wOVRwSWMzd2NLQ19idXI4aGs4Q3FtNl9jc180MGhaR25neFViN0hCMTZPUlBaWl9wd3ZpQ3loZXpqSQ?oc=5",
+        "date": "2026-11-25T07:18:00+00:00"
       },
       {
-        "title": "明日の株式相場に向けて＝米エヌビディアの「政治」リスクをどう織り込むか - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NRTladS1jNk1KM2JacnhOdHZDRmNNVHBSVjlFZE9nRm9Wb0hQNk81WGZ2aDN4NjYxbjBRNjBvaVAtWm8wam5NMmJhRUVfUUxMeFVTQUF4OC1qLVJqLUZKUw?oc=5",
-        "date": "2026-11-25T08:30:00+00:00"
+        "title": "２５日の東京株式市場見通し＝ＡＩ株反落、内需・ヘルスケアなど受け皿に(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFRLUXlRcS1nNmRINWNyajlySTVrWFZVVFpIdlRqQUFDUnJUNV8wcTR5U3A1N3ZWVzhWa21UT0U0QUpQSFBIXzg2MC1zamc5WXdTTHNUM1RUYnljU25yOThRc3dSazdwTGtlTmVpVlFJb1lna1M4Zjh2RXRpZTBoQjFacWFsYXM?oc=5",
+        "date": "2026-11-24T22:47:08+00:00"
       },
       {
-        "title": "日経平均株価、NVIDIA急伸が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zU0hfcm1tV1RzdWtVdDZ3WkV1X3o3cGZQSTZQaXpLYjluYnduWVZpZU91a3JrYUtsQXNhaDN0Q0o4S2JLUktvb01ZbWZvYkFFZ21DWlJoRVh2RmlfZ0NMNmhxanJINnlfdmhCZg?oc=5",
-        "date": "2026-11-23T23:32:54+00:00"
+        "title": "【日本市況】日経平均1600円超安､米ハイテク株急落嫌気－円159円前半 - TBS NEWS DIG",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBta2JSaGtPQ21fZmtlZktLZ25FNzJZeDZGcDkwaTc4VzJZUU9ETEZHTW1zcGZqNW03ZXlzQVBYN0FGa3ZoeDRtamlQWTV2aUdBLWlrMV9BaVFkUHNFcGRoaEtjMnlLZjJqZ2R4QVY2VWZQYWNP?oc=5",
+        "date": "2026-11-25T02:04:00+00:00"
+      },
+      {
+        "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5MjBpMGVJT056LXUyc29PZWJNX2pYbmg5elpNQms5WXJfbEJUZ0k1UGFHenhpVWpzV01taWtBVHBhcWZqTFdKYXlMZUYwMEJoY3pua1ItdWFrT1NORld4TWRJOA?oc=5",
+        "date": "2026-11-24T09:39:53+00:00"
+      },
+      {
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でもみ合い圏推移 - みんかぶ",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0tY0dyb0Q0YndVZnNFcF9RTU40RUN0NDRSZDhXaFNQQXM3a2RRYUtuMzRfV0VtUTNnTWtET0s5eDRBTTREZ2c?oc=5",
+        "date": "2026-11-25T03:31:52+00:00"
+      },
+      {
+        "title": "日経平均株価、米AI・半導体株安が下押し材料（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aXY1MXJoTUplRkNfTUdjcEpXNWdyTXZLRFNXLTNaUHloTGFSa0dDdFVrQy1oTm5LUS1KcWUzaUV5Si1iNDdxVkcxUlZtcHBVXzV1Y2h6Vkw4Q3BCX3JKUXRHdTFFZmZlSGw1eQ?oc=5",
+        "date": "2026-11-24T22:35:58+00:00",
+        "body": "a07.txt"
+      },
+      {
+        "title": "東証10時 日経平均は下げ一服 ディフェンシブ銘柄が支え - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQlc0NXBYNmJEdzVjUG5NUndHTVNWdG1SMG9YVTI3WEg4RkRUanVrNzlLakpQZ1l6Zkl6QldEc04xdnZCOG9JOHZrdWNqOGVidVpUNlcxNmZLcGhCNEk0QVJiUTNkXzZJaWZoVQ?oc=5",
+        "date": "2026-11-25T01:13:59+00:00"
       },
       {
         "title": "明日の株式相場に向けて＝激動するエヌビディア主導相場の勝ち筋 - 株探",
@@ -53,14 +55,14 @@
         "date": "2026-11-24T08:30:00+00:00"
       },
       {
-        "title": "日経平均株価、一時2800円高 米国株急伸で5万9000円台回復 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSkRLU3lBakVxWURtNUVJVmhzejVxbUdqREVpSmVYQ0ZmNkw0enZQSzhaT2ctVmJaTVRXOUZRLVNzdTk2dWx1SnhMdU5wYkc1a29vdmRxZGtWWE5FUGtpdVlyeExCamE0QUNpNQ?oc=5",
-        "date": "2026-11-24T00:24:10+00:00"
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でもみ合い圏推移 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZanlvTUNLT3pMT0pKN2ZPVkg2WDRnSlY5X09PYk52NUU2STBrLXhEdEdfZmREZTYyZTFYVG1fZldzVjFWbFVHZmhnaGtadFhPM2c?oc=5",
+        "date": "2026-11-25T09:32:16+00:00"
       },
       {
-        "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnVxTWVqWUxVMHZnRmdzMjZNZF9BaVFiOVlTQ1pWcDMwRENGbm1kLUR5VXNoWWpNR2JHUmkxZTJ4bGNsOUNXblljR09ya3N5Z2x3U08zUGpyNEI1dUF0b3pteVF2dTJZSExxWg?oc=5",
-        "date": "2026-11-24T06:47:34+00:00"
+        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
+        "date": "2026-11-25T08:09:48+00:00"
       }
     ],
     "ai": [
@@ -213,6 +215,23 @@
     ],
     "gadget": [
       {
+        "title": "『GTA6』は想像以上にすごかった。だからこそ次世代コンソールで遊びたい",
+        "link": "https://www.gizmodo.jp/article/2611-gta6-performance-and-consoles/",
+        "date": "2026-11-25T12:15:00+00:00",
+        "body": "a36.txt"
+      },
+      {
+        "title": "偽イーロン・マスク、参上。「仮想通貨を倍にする」と吹聴→数百人が騙されかける",
+        "link": "https://www.gizmodo.jp/article/2611-fake-elon-musk-crypto-scam/",
+        "date": "2026-11-25T12:05:00+00:00"
+      },
+      {
+        "title": "パクリ案件？ ディフェンダーに酷似した中華製SUVがEU全域で販売禁止に",
+        "link": "https://www.gizmodo.jp/article/byd-ti7_defender_eu_ban/",
+        "date": "2026-11-25T12:00:00+00:00",
+        "body": "a38.txt"
+      },
+      {
         "title": "【20周年アンケート】高木康行",
         "link": "https://www.gizmodo.jp/article/yasuyuki-takaki-gizmodo-20th-anniversary-interview/",
         "date": "2026-11-25T11:30:00+00:00"
@@ -220,64 +239,47 @@
       {
         "title": "OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？",
         "link": "https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/",
-        "date": "2026-11-25T11:00:00+00:00"
+        "date": "2026-11-25T11:00:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "イルカ印のハッカーツール、新型「Flipper One」登場。ヤバいことできそう？",
         "link": "https://www.gizmodo.jp/article/2611-flipper-one-network-hacking-tool/",
         "date": "2026-11-25T10:30:00+00:00",
-        "body": "a38.txt"
+        "body": "a41.txt"
       },
       {
         "title": "ことばで頼めばデザイン完成。デザインツールCanva「AIに頼むモード」が一般提供スタート",
         "link": "https://www.gizmodo.jp/article/2611-canva-mcp-release/",
-        "date": "2026-11-25T10:20:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-25T10:20:00+00:00"
       },
       {
         "title": "防火じゃなくて「消火する」ガジェットポーチ",
         "link": "https://www.gizmodo.jp/article/2611-fire-extinguishing-gadget-pouch/",
-        "date": "2026-11-25T10:00:00+00:00"
+        "date": "2026-11-25T10:00:00+00:00",
+        "body": "a43.txt"
       },
       {
         "title": "さようなら、AI音楽。配信サービスのTidalが、AIで作られた音楽を排除へ",
         "link": "https://www.gizmodo.jp/article/2611-tidal-bans-ai-generated-music/",
         "date": "2026-11-25T09:30:00+00:00",
-        "body": "a41.txt"
+        "body": "a44.txt"
       },
       {
         "title": "来年から「金さえあれば」宇宙へ行ける時代が来るらしい。民間の宇宙旅行パッケージ、スタートへ",
         "link": "https://www.gizmodo.jp/article/commercial-space-travel-virgin-galactic-apeiron/",
-        "date": "2026-11-25T09:00:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-25T09:00:00+00:00"
       },
       {
         "title": "モトローラの極薄フラッグシップスマホ、人間の執事付き",
         "link": "https://www.gizmodo.jp/article/motorola-signature_launch/",
         "date": "2026-11-25T08:45:00+00:00",
-        "body": "a43.txt"
+        "body": "a46.txt"
       },
       {
         "title": "USB-Cポートが足らない？ 大丈夫、Ankerの2-in-1二股ケーブルが30％オフだから",
         "link": "https://www.gizmodo.jp/article/2611-anker-2-in-1-usb-c-cable/",
         "date": "2026-11-25T08:00:00+00:00",
-        "body": "a44.txt"
-      },
-      {
-        "title": "大人向けレゴに「ヨッシー」の予告が。なんか…デカい？",
-        "link": "https://www.gizmodo.jp/article/2611-lego-yoshi-adults-welcome/",
-        "date": "2026-11-25T07:35:00+00:00"
-      },
-      {
-        "title": "来年春「iPhone Air 2」は2眼カメラになってやってくる？",
-        "link": "https://www.gizmodo.jp/article/2611-iphone-18-and-iphone-air-2-dummy-models-leaked/",
-        "date": "2026-11-25T06:30:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "パスワードをもう使わない。Bluetooth指紋認証リーダーでセキュリティレベルアップ",
-        "link": "https://www.gizmodo.jp/article/2611-elecom-bluetooth-fingerprint-reader/",
-        "date": "2026-11-25T06:00:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -450,7 +452,7 @@
     "rain": null
   },
   "index": {
-    "price": 56080.0,
+    "price": 56145.0,
     "prev": 57380.0,
     "points": [
       [
@@ -1554,22 +1556,29 @@
       ],
       [
         "11/25 21:10",
-        56155.0,
+        56140.0,
         56100.0,
-        56155.0,
+        56170.0,
         56080.0
       ],
       [
-        "11/25 21:13",
-        56080.0,
-        56080.0,
-        56080.0,
-        56080.0
+        "11/25 21:15",
+        56125.0,
+        56135.0,
+        56180.0,
+        56125.0
+      ],
+      [
+        "11/25 21:18",
+        56145.0,
+        56145.0,
+        56145.0,
+        56145.0
       ]
     ]
   },
   "gold": {
-    "price": 3537.2,
+    "price": 3548.4,
     "prev": 3555.1,
     "points": [
       [
@@ -2680,22 +2689,29 @@
       ],
       [
         "11/25 21:10",
-        3540.2,
+        3541.0,
         3528.4,
-        3540.6,
+        3545.4,
         3528.2
       ],
       [
-        "11/25 21:13",
-        3537.2,
-        3537.2,
-        3537.2,
-        3537.2
+        "11/25 21:15",
+        3545.8,
+        3541.1,
+        3549.4,
+        3540.5
+      ],
+      [
+        "11/25 21:18",
+        3548.4,
+        3548.4,
+        3548.4,
+        3548.4
       ]
     ]
   },
   "fx": {
-    "price": 159.266,
+    "price": 159.27,
     "prev": 159.242
   },
   "topix": {
