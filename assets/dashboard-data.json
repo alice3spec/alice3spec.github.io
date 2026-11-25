@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T07:53:26.749352+09:00",
+  "updated": "2026-11-26T07:58:13.848838+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,9 +53,9 @@
         "date": "2026-11-24T22:35:58+00:00"
       },
       {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-25T18:00:03+00:00"
+        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
+        "date": "2026-11-25T14:19:09+00:00"
       },
       {
         "title": "日本株ADR25日、買い優勢 トヨタやソニーG上昇 - 日本経済新聞",
@@ -4335,7 +4335,7 @@
     ]
   },
   "fx": {
-    "price": 159.121,
+    "price": 159.101,
     "prev": 159.242
   },
   "topix": {
