@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T17:43:15.061397+09:00",
+  "updated": "2026-11-25T17:48:19.435322+09:00",
   "feeds": {
     "kabu": [
       {
@@ -15,7 +15,7 @@
       {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月25日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ekM2TGp2WXNESjZpMGNCSFduWHZLRm1GeUxzaS01M0ZDdWZWS3oxUEhYT3h0U05QdV9BbVZnLVhuS0J6X2FLTzF5MDYxVlptcnRtT19GTlEwbFR6OHdTNQ?oc=5",
-        "date": "2026-11-25T08:30:24+00:00",
+        "date": "2026-11-24T22:58:54+00:00",
         "body": "a02.txt"
       },
       {
@@ -41,14 +41,15 @@
         "body": "a06.txt"
       },
       {
-        "title": "明日の株式相場に向けて＝激動するエヌビディア主導相場の勝ち筋 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RZS1jRnhYNmdZb081MXp0a093cU13bWZLcWRLM252emJvZVJ5RkI1Q0t6R2JHaEg2VUhMa3F3bGgwSzVoQ2R2MkRMbFlKRTN4cHNXNmRLZ1dmOVBnOHJETg?oc=5",
-        "date": "2026-11-24T08:30:00+00:00"
+        "title": "東証10時 日経平均は下げ一服 ディフェンシブ銘柄が支え - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IQlc0NXBYNmJEdzVjUG5NUndHTVNWdG1SMG9YVTI3WEg4RkRUanVrNzlLakpQZ1l6Zkl6QldEc04xdnZCOG9JOHZrdWNqOGVidVpUNlcxNmZLcGhCNEk0QVJiUTNkXzZJaWZoVQ?oc=5",
+        "date": "2026-11-25T01:13:59+00:00"
       },
       {
-        "title": "東証後場寄り 日経平均は下げ渋り 5万7000円下回り押し目買い - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIWXl4N1IwYXpNQ1dia1g0eVJYX2tkQkJKcFNDeXJfUHhETUZ3WHZCTnZ0QllqTlllX0R3Qi1lZDBLdzZnUkZNbVh4aXBFM1ozRjRpRWZIenJDbm5XaWV1NUxLMzZMY3RfNnZvdQ?oc=5",
-        "date": "2026-11-25T04:02:23+00:00"
+        "title": "明日の株式相場に向けて＝激動するエヌビディア主導相場の勝ち筋 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RZS1jRnhYNmdZb081MXp0a093cU13bWZLcWRLM252emJvZVJ5RkI1Q0t6R2JHaEg2VUhMa3F3bGgwSzVoQ2R2MkRMbFlKRTN4cHNXNmRLZ1dmOVBnOHJETg?oc=5",
+        "date": "2026-11-24T08:30:00+00:00",
+        "body": "a08.txt"
       },
       {
         "title": "ソフトバンクG株が反発、英アーム大幅高で買い波及（24日の株式市場） - 日本経済新聞",
@@ -458,7 +459,7 @@
     "rain": null
   },
   "index": {
-    "price": 57110.0,
+    "price": 57075.0,
     "prev": 57380.0,
     "points": [
       [
@@ -1254,22 +1255,29 @@
       ],
       [
         "11/25 17:30",
-        57120.0,
-        56960.0,
         57145.0,
+        56960.0,
+        57175.0,
         56960.0
       ],
       [
-        "11/25 17:33",
-        57110.0,
-        57110.0,
-        57110.0,
-        57110.0
+        "11/25 17:35",
+        57100.0,
+        57155.0,
+        57235.0,
+        57055.0
+      ],
+      [
+        "11/25 17:38",
+        57075.0,
+        57075.0,
+        57075.0,
+        57075.0
       ]
     ]
   },
   "gold": {
-    "price": 3561.2,
+    "price": 3558.2,
     "prev": 3555.1,
     "points": [
       [
@@ -2072,22 +2080,29 @@
       ],
       [
         "11/25 17:30",
-        3532.5,
+        3562.0,
         3530.2,
-        3561.9,
+        3562.5,
         3529.3
       ],
       [
-        "11/25 17:33",
-        3561.2,
-        3561.2,
-        3561.2,
-        3561.2
+        "11/25 17:35",
+        3530.2,
+        3561.9,
+        3564.4,
+        3528.2
+      ],
+      [
+        "11/25 17:38",
+        3558.2,
+        3558.2,
+        3558.2,
+        3558.2
       ]
     ]
   },
   "fx": {
-    "price": 159.429,
+    "price": 159.441,
     "prev": 159.242
   },
   "topix": {
