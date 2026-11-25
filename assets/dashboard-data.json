@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:18:20.183978+09:00",
+  "updated": "2026-11-25T13:23:18.576518+09:00",
   "feeds": {
     "kabu": [
       {
@@ -36,10 +36,9 @@
         "body": "a05.txt"
       },
       {
-        "title": "日経平均、1974円73銭安の5万6669円90銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUxBY3RvSkVPWFBNLXFKei02TGc4NUUwemlYQTFCZExTaHR3T0ZzbzB0TFJXWXdqcUpwNUlmSWNXNERHcUtGNkxmLUpLQnZWM0xPdWFyRWhrZlBRS01PYUd2eF9WZi1yWENpVzZVTk1fM0RUaEpLNi1VZ2paa1kzNEd1NVlKd2c?oc=5",
-        "date": "2026-11-25T03:31:15+00:00",
-        "body": "a06.txt"
+        "title": "日経平均、1934円20銭安の5万6710円43銭で終了＝東京株式前場（時事通信） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ka3gtVkRUQUM1bjlRWi1hOFZZZWlTTVhGOGNqTFVaRHJJcEREQTFqVklnTU1mUmdWMUdBaWRCZVQ1ZjdfMWJ3Wnk0WnJ1UUVUNk1WQXRKNVdGTlpJcFJkM3VILV9va3RHaUxZWXFjOE1heWZnb3FQNWJ1X1o1d2M?oc=5",
+        "date": "2026-11-25T03:00:19+00:00"
       },
       {
         "title": "日経平均、2100円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
@@ -48,14 +47,14 @@
         "body": "a07.txt"
       },
       {
+        "title": "日経平均、1974円73銭安の5万6669円90銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUxBY3RvSkVPWFBNLXFKei02TGc4NUUwemlYQTFCZExTaHR3T0ZzbzB0TFJXWXdqcUpwNUlmSWNXNERHcUtGNkxmLUpLQnZWM0xPdWFyRWhrZlBRS01PYUd2eF9WZi1yWENpVzZVTk1fM0RUaEpLNi1VZ2paa1kzNEd1NVlKd2c?oc=5",
+        "date": "2026-11-25T03:31:15+00:00"
+      },
+      {
         "title": "日経平均、終値2207円高 NVIDIAファン氏復帰で悲観の揺り戻し - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLMVBMelFrWHY3VXZuSWkzTG0xeHhCUWE1MzVIVnBhTGloWmhPeWE0NUNSb3pvWllSTUJJdVJ3VXlZWkdtTm5WS1JNcmVQbnJoWjEzZWQyTmlsSlp1MVI0TTRBczNSMEQ1bVVvRA?oc=5",
         "date": "2026-11-24T03:05:02+00:00"
-      },
-      {
-        "title": "ソフトバンクG株が反発、英アーム大幅高で買い波及（24日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vM1dfaUU1bkJESEd2UEM0dXZ4NnBhRV9NY0tKMHY5SHZYTEc4MWNuSFRlUDQwMV9zWjVfTW9PUGotbW45SThfcm00SXpHVHAyYlN4MzJhU0sxdTVocXNtSkRuWDhLSjdPNVFVSw?oc=5",
-        "date": "2026-11-24T07:30:00+00:00"
       },
       {
         "title": "日経平均株価が大幅反落 午前終値は1934円安の5万6710円 - 日本経済新聞",
@@ -63,9 +62,9 @@
         "date": "2026-11-25T00:05:25+00:00"
       },
       {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-25T02:27:53+00:00"
+        "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でもみ合い圏推移 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZanlvTUNLT3pMT0pKN2ZPVkg2WDRnSlY5X09PYk52NUU2STBrLXhEdEdfZmREZTYyZTFYVG1fZldzVjFWbFVHZmhnaGtadFhPM2c?oc=5",
+        "date": "2026-11-25T03:31:00+00:00"
       }
     ],
     "ai": [
@@ -220,12 +219,14 @@
       {
         "title": "浅瀬のサンゴ礁に残された時間、あと50年かも...",
         "link": "https://www.gizmodo.jp/article/e49253df-fc89-4d17-b88b-af7d3bc129fa/",
-        "date": "2026-11-25T04:00:00+00:00"
+        "date": "2026-11-25T04:00:00+00:00",
+        "body": "a36.txt"
       },
       {
         "title": "クリップより軽いロボット、ヒマワリに着陸。将来、ミツバチになるらしい",
         "link": "https://www.gizmodo.jp/article/2611-mit-flying-robot-sunflower-pollination/",
-        "date": "2026-11-25T03:30:00+00:00"
+        "date": "2026-11-25T03:30:00+00:00",
+        "body": "a37.txt"
       },
       {
         "title": "映像に入っていた「飛行機の音」から、撮影場所を割り出したすごすぎYouTuber",
@@ -252,22 +253,26 @@
       {
         "title": "MacBook Neo、新作が来年春に登場か？ チップのアプデに加えてメモリ増量の噂も",
         "link": "https://www.gizmodo.jp/article/macbook-neo-2-ipad-spring-update/",
-        "date": "2026-11-25T02:00:00+00:00"
+        "date": "2026-11-25T02:00:00+00:00",
+        "body": "a42.txt"
       },
       {
         "title": "NVIDIA、ジェンスン・フアン氏の復帰に「国家安全保障上のリスクはなし」",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-return-national-security/",
-        "date": "2026-11-25T01:30:00+00:00"
+        "date": "2026-11-25T01:30:00+00:00",
+        "body": "a43.txt"
       },
       {
         "title": "お前が話すんかーい！ MacBookのトラックパッドを喋らせた猛者あらわる",
         "link": "https://www.gizmodo.jp/article/macbook-trackpad-speaker-hack/",
-        "date": "2026-11-25T01:00:00+00:00"
+        "date": "2026-11-25T01:00:00+00:00",
+        "body": "a44.txt"
       },
       {
         "title": "Metaが温室効果ガス削減の目標を見直しへ。「事業環境が変わった」そう",
         "link": "https://www.gizmodo.jp/article/meta-greenhouse-gas-emissions-target-review/",
-        "date": "2026-11-24T23:00:00+00:00"
+        "date": "2026-11-24T23:00:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "脳にチップを埋める会社の「動物のお世話係」、募集中。時給8,000円",
@@ -277,7 +282,8 @@
       {
         "title": "ジャングルに潜む2,500年前の古代都市がレーダー技術で発見される",
         "link": "https://www.gizmodo.jp/article/2611-ancient-amazon-city-discovered-by-lidar/",
-        "date": "2026-11-24T14:00:00+00:00"
+        "date": "2026-11-24T14:00:00+00:00",
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
@@ -306,7 +312,8 @@
       {
         "title": "バンダイなど3社連携 模倣品対応",
         "link": "https://news.yahoo.co.jp/pickup/6603893?source=rss",
-        "date": "2026-11-25T02:10:21+00:00"
+        "date": "2026-11-25T02:10:21+00:00",
+        "body": "a52.txt"
       },
       {
         "title": "石川佳純さん結婚発表 SNSの反応",
@@ -446,7 +453,7 @@
     "rain": null
   },
   "index": {
-    "price": 57070.0,
+    "price": 57125.0,
     "prev": 57380.0,
     "points": [
       [
@@ -529,7 +536,7 @@
       [
         "11/25 08:55",
         57310.0,
-        57305.0,
+        57300.0,
         57320.0,
         57190.0
       ],
@@ -550,14 +557,14 @@
       [
         "11/25 09:10",
         57020.0,
-        57020.0,
+        57030.0,
         57105.0,
         56965.0
       ],
       [
         "11/25 09:15",
         57150.0,
-        57030.0,
+        57005.0,
         57170.0,
         56960.0
       ],
@@ -619,7 +626,7 @@
       ],
       [
         "11/25 10:00",
-        57035.0,
+        57040.0,
         57260.0,
         57290.0,
         57025.0
@@ -647,7 +654,7 @@
       ],
       [
         "11/25 10:20",
-        57265.0,
+        57270.0,
         57250.0,
         57370.0,
         57240.0
@@ -662,7 +669,7 @@
       [
         "11/25 10:30",
         57145.0,
-        57265.0,
+        57275.0,
         57310.0,
         57115.0
       ],
@@ -684,14 +691,14 @@
         "11/25 10:45",
         56975.0,
         57010.0,
-        57025.0,
+        57045.0,
         56910.0
       ],
       [
         "11/25 10:50",
         56990.0,
-        56910.0,
-        56990.0,
+        56945.0,
+        57000.0,
         56825.0
       ],
       [
@@ -718,7 +725,7 @@
       [
         "11/25 11:10",
         56800.0,
-        56840.0,
+        56835.0,
         56860.0,
         56780.0
       ],
@@ -830,7 +837,7 @@
       [
         "11/25 12:30",
         56900.0,
-        56750.0,
+        56745.0,
         56930.0,
         56710.0
       ],
@@ -878,28 +885,35 @@
       ],
       [
         "11/25 13:05",
-        57070.0,
+        57050.0,
         56950.0,
-        57070.0,
+        57090.0,
         56950.0
       ],
       [
-        "11/25 13:08",
-        57070.0,
-        57070.0,
-        57070.0,
-        57070.0
+        "11/25 13:10",
+        57150.0,
+        57050.0,
+        57150.0,
+        57050.0
+      ],
+      [
+        "11/25 13:13",
+        57125.0,
+        57125.0,
+        57125.0,
+        57125.0
       ]
     ]
   },
   "gold": {
-    "price": 3543.9,
+    "price": 3548.4,
     "prev": 3555.1,
     "points": [
       [
         "11/25 08:00",
         3557.8,
-        3559.3,
+        3557.8,
         3562.0,
         3556.1
       ],
@@ -947,7 +961,7 @@
       ],
       [
         "11/25 08:35",
-        3555.2,
+        3555.4,
         3562.4,
         3563.9,
         3553.9
@@ -976,7 +990,7 @@
       [
         "11/25 08:55",
         3548.9,
-        3548.4,
+        3548.1,
         3550.2,
         3546.9
       ],
@@ -1004,7 +1018,7 @@
       [
         "11/25 09:15",
         3540.0,
-        3549.0,
+        3549.2,
         3550.0,
         3539.3
       ],
@@ -1025,7 +1039,7 @@
       [
         "11/25 09:30",
         3547.9,
-        3541.8,
+        3543.1,
         3548.0,
         3541.7
       ],
@@ -1081,7 +1095,7 @@
       [
         "11/25 10:10",
         3539.3,
-        3537.6,
+        3537.0,
         3540.1,
         3534.5
       ],
@@ -1116,7 +1130,7 @@
       [
         "11/25 10:35",
         3542.8,
-        3541.8,
+        3541.7,
         3551.9,
         3541.7
       ],
@@ -1129,16 +1143,16 @@
       ],
       [
         "11/25 10:45",
-        3549.7,
+        3551.5,
         3550.5,
-        3551.4,
-        3548.7
+        3553.1,
+        3547.6
       ],
       [
         "11/25 10:50",
         3553.2,
-        3547.4,
-        3553.4,
+        3550.1,
+        3553.6,
         3544.1
       ],
       [
@@ -1228,7 +1242,7 @@
       [
         "11/25 11:55",
         3550.3,
-        3551.2,
+        3551.5,
         3553.7,
         3549.4
       ],
@@ -1270,7 +1284,7 @@
       [
         "11/25 12:25",
         3550.3,
-        3554.9,
+        3554.5,
         3554.9,
         3549.8
       ],
@@ -1291,7 +1305,7 @@
       [
         "11/25 12:40",
         3549.5,
-        3549.6,
+        3549.7,
         3551.5,
         3548.3
       ],
@@ -1325,22 +1339,29 @@
       ],
       [
         "11/25 13:05",
-        3543.4,
+        3543.6,
         3543.9,
         3545.2,
-        3543.2
+        3542.8
       ],
       [
-        "11/25 13:08",
-        3543.9,
-        3543.9,
-        3543.9,
-        3543.9
+        "11/25 13:10",
+        3547.7,
+        3542.2,
+        3549.5,
+        3542.1
+      ],
+      [
+        "11/25 13:13",
+        3548.4,
+        3548.4,
+        3548.4,
+        3548.4
       ]
     ]
   },
   "fx": {
-    "price": 159.32,
+    "price": 159.304,
     "prev": 159.242
   },
   "topix": {
