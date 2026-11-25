@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T19:33:17.112637+09:00",
+  "updated": "2026-11-25T19:38:13.481070+09:00",
   "feeds": {
     "kabu": [
       {
@@ -59,9 +59,9 @@
         "date": "2026-11-25T09:32:16+00:00"
       },
       {
-        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
-        "date": "2026-11-25T08:09:48+00:00"
+        "title": "日経平均、AI・半導体中心に大幅反落 米関税引き上げ報道も影響 - 朝日新聞",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Ud203V1lmV3BTTWd2YXhGWS1tSkEyakF0RzdMMGh1MmV2TFdtR1M5SE5KWFZPZE9uWTl5YS1WTlJGSzBvMHd5YnNIRE1zR1NGejZKWDQtVXRvUWREX3F0cVI0bl9Zdlk?oc=5",
+        "date": "2026-11-25T02:40:19+00:00"
       }
     ],
     "ai": [
@@ -214,68 +214,76 @@
     ],
     "gadget": [
       {
+        "title": "ことばで頼めばデザイン完成。デザインツールCanva「AIに頼むモード」が一般提供スタート",
+        "link": "https://www.gizmodo.jp/article/2611-canva-mcp-release/",
+        "date": "2026-11-25T10:20:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "防火じゃなくて「消火する」ガジェットポーチ",
         "link": "https://www.gizmodo.jp/article/2611-fire-extinguishing-gadget-pouch/",
         "date": "2026-11-25T10:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "さようなら、AI音楽。配信サービスのTidalが、AIで作られた音楽を排除へ",
         "link": "https://www.gizmodo.jp/article/2611-tidal-bans-ai-generated-music/",
         "date": "2026-11-25T09:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "来年から「金さえあれば」宇宙へ行ける時代が来るらしい。民間の宇宙旅行パッケージ、スタートへ",
         "link": "https://www.gizmodo.jp/article/commercial-space-travel-virgin-galactic-apeiron/",
-        "date": "2026-11-25T09:00:00+00:00"
+        "date": "2026-11-25T09:00:00+00:00",
+        "body": "a39.txt"
       },
       {
         "title": "モトローラの極薄フラッグシップスマホ、人間の執事付き",
         "link": "https://www.gizmodo.jp/article/motorola-signature_launch/",
-        "date": "2026-11-25T08:45:00+00:00"
+        "date": "2026-11-25T08:45:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "USB-Cポートが足らない？ 大丈夫、Ankerの2-in-1二股ケーブルが30％オフだから",
         "link": "https://www.gizmodo.jp/article/2611-anker-2-in-1-usb-c-cable/",
-        "date": "2026-11-25T08:00:00+00:00"
+        "date": "2026-11-25T08:00:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "大人向けレゴに「ヨッシー」の予告が。なんか…デカい？",
         "link": "https://www.gizmodo.jp/article/2611-lego-yoshi-adults-welcome/",
         "date": "2026-11-25T07:35:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "来年春「iPhone Air 2」は2眼カメラになってやってくる？",
         "link": "https://www.gizmodo.jp/article/2611-iphone-18-and-iphone-air-2-dummy-models-leaked/",
-        "date": "2026-11-25T06:30:00+00:00"
+        "date": "2026-11-25T06:30:00+00:00",
+        "body": "a43.txt"
       },
       {
         "title": "パスワードをもう使わない。Bluetooth指紋認証リーダーでセキュリティレベルアップ",
         "link": "https://www.gizmodo.jp/article/2611-elecom-bluetooth-fingerprint-reader/",
-        "date": "2026-11-25T06:00:00+00:00"
+        "date": "2026-11-25T06:00:00+00:00",
+        "body": "a44.txt"
       },
       {
         "title": "不倫疑惑は4件以上か。それでもNVIDIAのCEO復帰で時価総額は158兆円の爆上がり",
         "link": "https://www.gizmodo.jp/article/2611-jensen-huang-nvidia-ceo-return-market-cap/",
         "date": "2026-11-25T05:45:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "ニトリの「サイズ調整できる吸水マット」が、狭いキッチンの救世主に！吸水性も満足です",
         "link": "https://www.gizmodo.jp/article/2611-nitori-suisui-mat/",
-        "date": "2026-11-25T05:35:00+00:00"
+        "date": "2026-11-25T05:35:00+00:00",
+        "body": "a46.txt"
       },
       {
         "title": "NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開",
         "link": "https://www.gizmodo.jp/article/nasa-asteroid-dart-hera-live/",
-        "date": "2026-11-25T04:45:00+00:00"
-      },
-      {
-        "title": "浅瀬のサンゴ礁に残された時間、あと50年かも...",
-        "link": "https://www.gizmodo.jp/article/e49253df-fc89-4d17-b88b-af7d3bc129fa/",
-        "date": "2026-11-25T04:00:00+00:00"
+        "date": "2026-11-25T04:45:00+00:00",
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
@@ -446,7 +454,7 @@
     "rain": null
   },
   "index": {
-    "price": 56485.0,
+    "price": 56490.0,
     "prev": 57380.0,
     "points": [
       [
@@ -1396,22 +1404,29 @@
       ],
       [
         "11/25 19:20",
-        56455.0,
+        56465.0,
         56585.0,
         56585.0,
         56450.0
       ],
       [
-        "11/25 19:23",
-        56485.0,
-        56485.0,
-        56485.0,
-        56485.0
+        "11/25 19:25",
+        56475.0,
+        56470.0,
+        56545.0,
+        56455.0
+      ],
+      [
+        "11/25 19:28",
+        56490.0,
+        56490.0,
+        56490.0,
+        56490.0
       ]
     ]
   },
   "gold": {
-    "price": 3559.2,
+    "price": 3558.8,
     "prev": 3555.1,
     "points": [
       [
@@ -2368,22 +2383,29 @@
       ],
       [
         "11/25 19:20",
-        3558.4,
+        3558.0,
         3561.5,
         3561.6,
         3557.6
       ],
       [
-        "11/25 19:23",
-        3559.2,
-        3559.2,
-        3559.2,
-        3559.2
+        "11/25 19:25",
+        3558.5,
+        3558.0,
+        3560.0,
+        3558.0
+      ],
+      [
+        "11/25 19:28",
+        3558.8,
+        3558.8,
+        3558.8,
+        3558.8
       ]
     ]
   },
   "fx": {
-    "price": 159.29,
+    "price": 159.285,
     "prev": 159.242
   },
   "topix": {
