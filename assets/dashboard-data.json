@@ -1,27 +1,26 @@
 {
-  "updated": "2026-11-25T15:53:22.283883+09:00",
+  "updated": "2026-11-25T15:58:20.913926+09:00",
   "feeds": {
     "kabu": [
+      {
+        "title": "日経平均は大幅反落、米半導体株安でAI関連株に売り／相場概況 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyZmNWUklmMUdIM18wSXhhcVhoWEpkNC1mQ0xXYmMwWWNmeHgwSHo4MTdEVENTVGJ3UFlYZWwyRTdFeFVLYmM1SHh6cl9XV0JURlE?oc=5",
+        "date": "2026-11-25T06:55:33+00:00"
+      },
       {
         "title": "日経平均、1633円01銭安の5万7011円62銭で終了＝東京株式(時事通信) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORG91RkVYbnRuZGRiMlI2Um04MGNMU1ZkMTJUay1URzBNazJ0MU9DUV9RSmNILXNBNDVmWFFmWGx4cVp3ZjZNUkhsM2RGZ0xNMmdwdkUwNU1xY0pPQllmU1IwNnc2N0lyZU1abUhtS1NFZDJvNlp5enZQbm9DTnRpNWFSSW5sUzg?oc=5",
         "date": "2026-11-25T06:31:22+00:00"
       },
       {
-        "title": "日経平均株価、米AI・半導体株安が下押し材料（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aXY1MXJoTUplRkNfTUdjcEpXNWdyTXZLRFNXLTNaUHloTGFSa0dDdFVrQy1oTm5LUS1KcWUzaUV5Si1iNDdxVkcxUlZtcHBVXzV1Y2h6Vkw4Q3BCX3JKUXRHdTFFZmZlSGw1eQ?oc=5",
-        "date": "2026-11-24T22:35:58+00:00"
+        "title": "日経平均株価が反落 終値は1633円安の5万7011円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRNkFUUEVGUUppS1FTbV9FRUNKNHBRRXJSNHA1Z0ZjWVZQMUNEWUwtY1gtYXJQM2tiY3pqbmdnY1hNOEVxZUJJa3pxSHR1VmhRUmdiMEJsMkd0NTRjX0VBOXMyN3pta1F4dWFPXw?oc=5",
+        "date": "2026-11-25T06:32:44+00:00"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月25日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ekM2TGp2WXNESjZpMGNCSFduWHZLRm1GeUxzaS01M0ZDdWZWS3oxUEhYT3h0U05QdV9BbVZnLVhuS0J6X2FLTzF5MDYxVlptcnRtT19GTlEwbFR6OHdTNQ?oc=5",
-        "date": "2026-11-24T22:58:54+00:00",
-        "body": "a02.txt"
-      },
-      {
-        "title": "【日本市況】日経平均1600円超安､米ハイテク株急落嫌気－円159円前半 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDWkZWS2ozc19BVGowd3NJU19Gdk5vUExvQXRtNXZuaWZhdGw1S2RtelV1Sk1JWHNzVmZjaVVsN1FrZDMwUC1Kcm94QzQyNDRsV1VfeHpiU3Y2Zl9uUnRXVGh3SlJCRHJoaXNMQ00xY2dhbzNMWXYw?oc=5",
-        "date": "2026-11-25T00:39:00+00:00"
+        "title": "【日本市況】日経平均1600円超安､米ハイテク株急落嫌気－円159円前半 - TBS NEWS DIG",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBta2JSaGtPQ21fZmtlZktLZ25FNzJZeDZGcDkwaTc4VzJZUU9ETEZHTW1zcGZqNW03ZXlzQVBYN0FGa3ZoeDRtamlQWTV2aUdBLWlrMV9BaVFkUHNFcGRoaEtjMnlLZjJqZ2R4QVY2VWZQYWNP?oc=5",
+        "date": "2026-11-25T02:04:00+00:00"
       },
       {
         "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
@@ -30,9 +29,14 @@
         "body": "a04.txt"
       },
       {
-        "title": "日経平均株価が反落 終値は1633円安の5万7011円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRNkFUUEVGUUppS1FTbV9FRUNKNHBRRXJSNHA1Z0ZjWVZQMUNEWUwtY1gtYXJQM2tiY3pqbmdnY1hNOEVxZUJJa3pxSHR1VmhRUmdiMEJsMkd0NTRjX0VBOXMyN3pta1F4dWFPXw?oc=5",
-        "date": "2026-11-25T06:32:44+00:00"
+        "title": "日経平均、大幅に上昇 フアン氏のエヌビディアCEO復帰で - au Webポータル",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzYkE5Ny1BazNUcEx0SXNZS0dLSlRyLXM4azJ0SlVtMmhfZ0xMNHNweWhkbVJnY3hpQzU5SUlSNDNMZko1a2QwOHZIb3BULXB1SVh1c3BhcDk1cWllTVZWaVZaak0wVkV5YUdUREh3?oc=5",
+        "date": "2026-11-24T08:27:17+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月25日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12ekM2TGp2WXNESjZpMGNCSFduWHZLRm1GeUxzaS01M0ZDdWZWS3oxUEhYT3h0U05QdV9BbVZnLVhuS0J6X2FLTzF5MDYxVlptcnRtT19GTlEwbFR6OHdTNQ?oc=5",
+        "date": "2026-11-24T22:58:54+00:00"
       },
       {
         "title": "東証10時 日経平均は下げ一服 ディフェンシブ銘柄が支え - 日本経済新聞",
@@ -40,19 +44,14 @@
         "date": "2026-11-25T01:13:59+00:00"
       },
       {
-        "title": "日経平均、終値2207円高 NVIDIAファン氏復帰で悲観の揺り戻し - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLMVBMelFrWHY3VXZuSWkzTG0xeHhCUWE1MzVIVnBhTGloWmhPeWE0NUNSb3pvWllSTUJJdVJ3VXlZWkdtTm5WS1JNcmVQbnJoWjEzZWQyTmlsSlp1MVI0TTRBczNSMEQ1bVVvRA?oc=5",
-        "date": "2026-11-24T03:05:02+00:00"
-      },
-      {
         "title": "ソフトバンクG株が反発、英アーム大幅高で買い波及（24日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vM1dfaUU1bkJESEd2UEM0dXZ4NnBhRV9NY0tKMHY5SHZYTEc4MWNuSFRlUDQwMV9zWjVfTW9PUGotbW45SThfcm00SXpHVHAyYlN4MzJhU0sxdTVocXNtSkRuWDhLSjdPNVFVSw?oc=5",
         "date": "2026-11-24T07:30:00+00:00"
       },
       {
-        "title": "日経平均、5万6000円台に下落＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYkFxdklwZmJIbXhCRmFxMmc2MWJkVXRjUWQ4TVl6WGpNWGc0VlJ5Vl9mYVh4bmQzTjhCdWcxLVlBemhhcFgtcTFqeHlkWmx6MHFkRFgzak5RQlRLcExOQkFOOXU0bGI0REhBaXRwSFJVdTNkQWpEbHlFT1dYTTJ6N2p1ZHlfRk0?oc=5",
-        "date": "2026-11-25T00:16:16+00:00"
+        "title": "日経平均VIは大幅上昇、警戒材料多く市場心理悪化(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRzBDVXd1Zk1RUEtxUkQ2aUpfc2s4ZG9tYkZqWW15WlJGWDJwU05hRTVsUmpzdzA2NHZ6STdaZV9zcno5M05lZDhfbnZjNnFXajBSendLNTNiZndIbmJpeEVhRzFtbV9tOEh6aU9mN20yUUNJSWlfMGI5QVVxdllpdl9jZWdSTms?oc=5",
+        "date": "2026-11-25T05:24:36+00:00"
       },
       {
         "title": "東京株式（後場寄り付き）＝日経平均株価は前場終値比でもみ合い圏推移 - 株探",
@@ -240,7 +239,8 @@
       {
         "title": "NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開",
         "link": "https://www.gizmodo.jp/article/nasa-asteroid-dart-hera-live/",
-        "date": "2026-11-25T04:45:00+00:00"
+        "date": "2026-11-25T04:45:00+00:00",
+        "body": "a40.txt"
       },
       {
         "title": "浅瀬のサンゴ礁に残された時間、あと50年かも...",
@@ -250,7 +250,8 @@
       {
         "title": "クリップより軽いロボット、ヒマワリに着陸。将来、ミツバチになるらしい",
         "link": "https://www.gizmodo.jp/article/2611-mit-flying-robot-sunflower-pollination/",
-        "date": "2026-11-25T03:30:00+00:00"
+        "date": "2026-11-25T03:30:00+00:00",
+        "body": "a42.txt"
       },
       {
         "title": "映像に入っていた「飛行機の音」から、撮影場所を割り出したすごすぎYouTuber",
@@ -267,7 +268,8 @@
       {
         "title": "道路工事をしていたら、ピラミッドが見つかりました",
         "link": "https://www.gizmodo.jp/article/2611-mexico-road-construction-pyramid-discovery/",
-        "date": "2026-11-25T02:35:00+00:00"
+        "date": "2026-11-25T02:35:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "最大50%オフのチャンス。「お得にGeminiを使い続けたい人」はGoogleのブラックフライデーセールをのぞいてみて【11月26日頃まで】",
@@ -306,15 +308,14 @@
         "date": "2026-11-25T06:31:02+00:00"
       },
       {
+        "title": "3人逮捕「闇美容クリニック」潜入",
+        "link": "https://news.yahoo.co.jp/pickup/6603927?source=rss",
+        "date": "2026-11-25T06:37:45+00:00"
+      },
+      {
         "title": "中国で短尺ドラマ課金 被害相次ぐ",
         "link": "https://news.yahoo.co.jp/pickup/6603921?source=rss",
         "date": "2026-11-25T05:34:24+00:00",
-        "body": "a52.txt"
-      },
-      {
-        "title": "擬態段ボールも 置き配の盗難対策",
-        "link": "https://news.yahoo.co.jp/pickup/6603919?source=rss",
-        "date": "2026-11-25T05:42:06+00:00",
         "body": "a53.txt"
       },
       {
@@ -449,7 +450,7 @@
     "rain": null
   },
   "index": {
-    "price": 57095.0,
+    "price": 57085.0,
     "prev": 57380.0,
     "points": [
       [
@@ -1091,22 +1092,29 @@
       ],
       [
         "11/25 15:40",
-        57110.0,
+        57070.0,
         57160.0,
         57160.0,
-        57080.0
+        57050.0
       ],
       [
-        "11/25 15:43",
-        57095.0,
-        57095.0,
-        57095.0,
-        57095.0
+        "11/25 15:45",
+        57080.0,
+        57055.0,
+        57085.0,
+        57030.0
+      ],
+      [
+        "11/25 15:48",
+        57085.0,
+        57085.0,
+        57085.0,
+        57085.0
       ]
     ]
   },
   "gold": {
-    "price": 3518.4,
+    "price": 3518.6,
     "prev": 3555.1,
     "points": [
       [
@@ -1755,22 +1763,29 @@
       ],
       [
         "11/25 15:40",
-        3520.1,
+        3521.3,
         3519.6,
-        3520.1,
+        3521.3,
         3515.1
       ],
       [
-        "11/25 15:43",
-        3518.4,
-        3518.4,
-        3518.4,
-        3518.4
+        "11/25 15:45",
+        3518.6,
+        3519.6,
+        3521.6,
+        3518.6
+      ],
+      [
+        "11/25 15:47",
+        3518.6,
+        3518.6,
+        3518.6,
+        3518.6
       ]
     ]
   },
   "fx": {
-    "price": 159.336,
+    "price": 159.316,
     "prev": 159.242
   },
   "topix": {
