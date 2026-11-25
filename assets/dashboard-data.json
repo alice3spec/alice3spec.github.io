@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T13:53:17.727744+09:00",
+  "updated": "2026-11-25T13:58:18.152238+09:00",
   "feeds": {
     "kabu": [
       {
@@ -30,32 +30,29 @@
         "body": "a04.txt"
       },
       {
-        "title": "日経平均の今週の予想レンジは5万3000円-6万円 - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yaGhFbHhYUkdZcVhjZERIeGRidDFTXzEyZVFqbW5EcjNaTkdLUC1kNnVaNHhhVGFhWk5nZm43WW1RbmswUGZwbEdCRUM1RlBxZENIWNIBV0FVX3lxTFAtVUZWZWFMekEzZGx2WVpOUTU5ODhWWXBRY2xYVGJIV0plUFRCV3VUelRucHNFalpDQnpvWGl6elNEUm9kT0tlbllFRUtxLWg1VkFLS1M5cw?oc=5",
-        "date": "2026-11-25T03:50:23+00:00",
-        "body": "a05.txt"
-      },
-      {
-        "title": "日経平均、1974円73銭安の5万6669円90銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUxBY3RvSkVPWFBNLXFKei02TGc4NUUwemlYQTFCZExTaHR3T0ZzbzB0TFJXWXdqcUpwNUlmSWNXNERHcUtGNkxmLUpLQnZWM0xPdWFyRWhrZlBRS01PYUd2eF9WZi1yWENpVzZVTk1fM0RUaEpLNi1VZ2paa1kzNEd1NVlKd2c?oc=5",
-        "date": "2026-11-25T03:31:15+00:00",
-        "body": "a06.txt"
-      },
-      {
         "title": "日経平均、2100円超安＝東京株式(時事通信) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUnVZMGt6WlE4eXBYeGFyNW9tZWl3ZGNHLXlJOHdaTzBoZ0FVcTJFQzJwVFFjRW9zTHVQeU5ZMXNMMkVSNTVrVlZnM2V0eWVObEJsVElNVlJ4ODB5eFN1cjZBVkpzc2NaTXktV3hUNXpMMHNSZlVrWUlRUlVsTk1FVUl4QjFhZGs?oc=5",
-        "date": "2026-11-25T02:24:12+00:00",
-        "body": "a07.txt"
+        "date": "2026-11-25T02:24:12+00:00"
       },
       {
-        "title": "日経平均、終値2207円高 NVIDIAファン氏復帰で悲観の揺り戻し - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLMVBMelFrWHY3VXZuSWkzTG0xeHhCUWE1MzVIVnBhTGloWmhPeWE0NUNSb3pvWllSTUJJdVJ3VXlZWkdtTm5WS1JNcmVQbnJoWjEzZWQyTmlsSlp1MVI0TTRBczNSMEQ1bVVvRA?oc=5",
-        "date": "2026-11-24T03:05:02+00:00"
+        "title": "明日の株式相場に向けて＝激動するエヌビディア主導相場の勝ち筋 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RZS1jRnhYNmdZb081MXp0a093cU13bWZLcWRLM252emJvZVJ5RkI1Q0t6R2JHaEg2VUhMa3F3bGgwSzVoQ2R2MkRMbFlKRTN4cHNXNmRLZ1dmOVBnOHJETg?oc=5",
+        "date": "2026-11-24T08:30:00+00:00"
       },
       {
         "title": "ソフトバンクG株が反発、英アーム大幅高で買い波及（24日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vM1dfaUU1bkJESEd2UEM0dXZ4NnBhRV9NY0tKMHY5SHZYTEc4MWNuSFRlUDQwMV9zWjVfTW9PUGotbW45SThfcm00SXpHVHAyYlN4MzJhU0sxdTVocXNtSkRuWDhLSjdPNVFVSw?oc=5",
         "date": "2026-11-24T07:30:00+00:00"
+      },
+      {
+        "title": "日経平均、1974円73銭安の5万6669円90銭で始まる＝東京株式後場(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUxBY3RvSkVPWFBNLXFKei02TGc4NUUwemlYQTFCZExTaHR3T0ZzbzB0TFJXWXdqcUpwNUlmSWNXNERHcUtGNkxmLUpLQnZWM0xPdWFyRWhrZlBRS01PYUd2eF9WZi1yWENpVzZVTk1fM0RUaEpLNi1VZ2paa1kzNEd1NVlKd2c?oc=5",
+        "date": "2026-11-25T03:31:15+00:00"
+      },
+      {
+        "title": "２５日の東京株式市場見通し＝ＡＩ株反落、内需・ヘルスケアなど受け皿に(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORFRLUXlRcS1nNmRINWNyajlySTVrWFZVVFpIdlRqQUFDUnJUNV8wcTR5U3A1N3ZWVzhWa21UT0U0QUpQSFBIXzg2MC1zamc5WXdTTHNUM1RUYnljU25yOThRc3dSazdwTGtlTmVpVlFJb1lna1M4Zjh2RXRpZTBoQjFacWFsYXM?oc=5",
+        "date": "2026-11-24T22:47:08+00:00"
       },
       {
         "title": "日経平均株価が大幅反落 午前終値は1934円安の5万6710円 - 日本経済新聞",
@@ -84,7 +81,8 @@
       {
         "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供",
         "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
-        "date": "2026-11-25T01:07:59+00:00"
+        "date": "2026-11-25T01:07:59+00:00",
+        "body": "a14.txt"
       },
       {
         "title": "設計者がAIに求めるのはCAD操作だけじゃない――SOLIDWORKS AIが目指す課題解決",
@@ -175,7 +173,8 @@
       {
         "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ　直近90日の配信楽曲の43％がAI生成",
         "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003433/",
-        "date": "2026-11-25T01:57:02+00:00"
+        "date": "2026-11-25T01:57:02+00:00",
+        "body": "a29.txt"
       },
       {
         "title": "JAXAの衛星データ提供システムに不正アクセス　コマンドインジェクション脆弱性悪用、アカウント情報流出",
@@ -216,83 +215,78 @@
     ],
     "gadget": [
       {
+        "title": "NASAが探査機をぶつけた小惑星、4年後の姿を今夜ライブ配信で初公開",
+        "link": "https://www.gizmodo.jp/article/nasa-asteroid-dart-hera-live/",
+        "date": "2026-11-25T04:45:00+00:00",
+        "body": "a36.txt"
+      },
+      {
         "title": "浅瀬のサンゴ礁に残された時間、あと50年かも...",
         "link": "https://www.gizmodo.jp/article/e49253df-fc89-4d17-b88b-af7d3bc129fa/",
         "date": "2026-11-25T04:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
         "title": "クリップより軽いロボット、ヒマワリに着陸。将来、ミツバチになるらしい",
         "link": "https://www.gizmodo.jp/article/2611-mit-flying-robot-sunflower-pollination/",
         "date": "2026-11-25T03:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "映像に入っていた「飛行機の音」から、撮影場所を割り出したすごすぎYouTuber",
         "link": "https://www.gizmodo.jp/article/2611-youtuber-airplane-sound-location-tracking/",
         "date": "2026-11-25T03:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a39.txt"
       },
       {
         "title": "iPhone 18 Pro Maxが490円!? 騙されないで、ブラックフライデーの偽サイトが本物そっくり",
         "link": "https://www.gizmodo.jp/article/2611-iphone-18-pro-max-black-friday-phishing-scam/",
-        "date": "2026-11-25T02:45:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-25T02:45:00+00:00"
       },
       {
         "title": "道路工事をしていたら、ピラミッドが見つかりました",
         "link": "https://www.gizmodo.jp/article/2611-mexico-road-construction-pyramid-discovery/",
-        "date": "2026-11-25T02:35:00+00:00",
-        "body": "a40.txt"
+        "date": "2026-11-25T02:35:00+00:00"
       },
       {
         "title": "最大50%オフのチャンス。「お得にGeminiを使い続けたい人」はGoogleのブラックフライデーセールをのぞいてみて【11月26日頃まで】",
         "link": "https://www.gizmodo.jp/article/2611-gemini-black-friday-sale-early-access/",
         "date": "2026-11-25T02:15:00+00:00",
-        "body": "a41.txt"
+        "body": "a42.txt"
       },
       {
         "title": "MacBook Neo、新作が来年春に登場か？ チップのアプデに加えてメモリ増量の噂も",
         "link": "https://www.gizmodo.jp/article/macbook-neo-2-ipad-spring-update/",
-        "date": "2026-11-25T02:00:00+00:00",
-        "body": "a42.txt"
+        "date": "2026-11-25T02:00:00+00:00"
       },
       {
         "title": "NVIDIA、ジェンスン・フアン氏の復帰に「国家安全保障上のリスクはなし」",
         "link": "https://www.gizmodo.jp/article/2611-nvidia-jensen-huang-return-national-security/",
-        "date": "2026-11-25T01:30:00+00:00",
-        "body": "a43.txt"
+        "date": "2026-11-25T01:30:00+00:00"
       },
       {
         "title": "お前が話すんかーい！ MacBookのトラックパッドを喋らせた猛者あらわる",
         "link": "https://www.gizmodo.jp/article/macbook-trackpad-speaker-hack/",
-        "date": "2026-11-25T01:00:00+00:00",
-        "body": "a44.txt"
+        "date": "2026-11-25T01:00:00+00:00"
       },
       {
         "title": "Metaが温室効果ガス削減の目標を見直しへ。「事業環境が変わった」そう",
         "link": "https://www.gizmodo.jp/article/meta-greenhouse-gas-emissions-target-review/",
         "date": "2026-11-24T23:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "脳にチップを埋める会社の「動物のお世話係」、募集中。時給8,000円",
         "link": "https://www.gizmodo.jp/article/neuralink-veterinary-technician-job/",
-        "date": "2026-11-24T22:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "ジャングルに潜む2,500年前の古代都市がレーダー技術で発見される",
-        "link": "https://www.gizmodo.jp/article/2611-ancient-amazon-city-discovered-by-lidar/",
-        "date": "2026-11-24T14:00:00+00:00",
-        "body": "a47.txt"
+        "date": "2026-11-24T22:00:00+00:00"
       }
     ],
     "yahoo": [
       {
         "title": "福岡市で人刺されたと通報 男逃走",
         "link": "https://news.yahoo.co.jp/pickup/6603917?source=rss",
-        "date": "2026-11-25T04:49:55+00:00"
+        "date": "2026-11-25T04:49:55+00:00",
+        "body": "a48.txt"
       },
       {
         "title": "フアン氏 エヌビディア社員に謝罪",
@@ -326,7 +320,8 @@
       {
         "title": "石川佳純さん結婚発表 SNSの反応",
         "link": "https://news.yahoo.co.jp/pickup/6603914?source=rss",
-        "date": "2026-11-25T04:00:27+00:00"
+        "date": "2026-11-25T04:00:27+00:00",
+        "body": "a54.txt"
       },
       {
         "title": "唐沢&山口 結婚後初の地上波共演",
@@ -935,13 +930,20 @@
       ],
       [
         "11/25 13:40",
-        57060.0,
+        57045.0,
         57060.0,
         57065.0,
         57020.0
       ],
       [
-        "11/25 13:43",
+        "11/25 13:45",
+        57060.0,
+        57050.0,
+        57070.0,
+        57050.0
+      ],
+      [
+        "11/25 13:46",
         57060.0,
         57060.0,
         57060.0,
@@ -950,7 +952,7 @@
     ]
   },
   "gold": {
-    "price": 3547.1,
+    "price": 3547.8,
     "prev": 3555.1,
     "points": [
       [
@@ -1437,16 +1439,23 @@
         3543.7
       ],
       [
-        "11/25 13:43",
-        3547.1,
-        3547.1,
-        3547.1,
+        "11/25 13:45",
+        3548.1,
+        3547.4,
+        3548.1,
         3547.1
+      ],
+      [
+        "11/25 13:48",
+        3547.8,
+        3547.8,
+        3547.8,
+        3547.8
       ]
     ]
   },
   "fx": {
-    "price": 159.347,
+    "price": 159.365,
     "prev": 159.242
   },
   "topix": {
