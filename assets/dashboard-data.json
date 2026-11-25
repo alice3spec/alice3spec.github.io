@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T08:48:14.942995+09:00",
+  "updated": "2026-11-26T08:53:11.689974+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,14 +53,14 @@
         "date": "2026-11-24T07:30:00+00:00"
       },
       {
+        "title": "（朝）米国市場は高安まちまち　消費関連株の買いと半導体関連の売りが交錯し市場全体では方向感を欠く展開 - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mRmFYY3lkQl85bWlQR3ZycWJOY3U4WDRsTzdXTTV1bjIzVWdpNmVVRlJoOW1YSE5KN05YU0syWWpHS3ctOW1ESTJPQWVyMGNURllXS9IBV0FVX3lxTE9PMUwzREo2RkVNZURLejkzeGM3a3ItaUh3S3I4cE9jbTI2LUhUdDJianU4bXJBdnJtLTgtVksyMUd2Tm1USWtPQjlMWGdRaXpybHhoSHlUdw?oc=5",
+        "date": "2026-11-25T23:23:00+00:00"
+      },
+      {
         "title": "【市況】 ２５日の欧州主要株価指数終値 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMSGd0Q0h6UW1taUh0ZkRSUk9ISHJKNTFFMy1rendReFBKOEFONjlBanlBX21NY0h1TVhJN0NNcnFuak5paENwN0d2MHVHRGFadVZSbm81UmpQOWs2QlJGUQ?oc=5",
         "date": "2026-11-25T23:10:00+00:00"
-      },
-      {
-        "title": "シカゴ日本株先物概況・25日 日経平均先物は60円安の5万7345円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mejNWZUQtempUTzNmRWtIN2wxV2tWVzQya2ZMOTBJQi1RT3Mxdnk0S1hWLTJ1MWZ5blVRaXZrTlp4YW5jN210WndFd2YyX3hiblJ5bllWTW40UFd5bVh3cXR5ZmphdUd3UVdidw?oc=5",
-        "date": "2026-11-25T23:12:46+00:00"
       }
     ],
     "ai": [
@@ -322,10 +322,9 @@
         "body": "a53.txt"
       },
       {
-        "title": "上田綺世 負傷から復帰後初ゴール",
-        "link": "https://news.yahoo.co.jp/pickup/6603999?source=rss",
-        "date": "2026-11-25T23:07:59+00:00",
-        "body": "a54.txt"
+        "title": "上田綺世 バイエルン相手に復活弾",
+        "link": "https://news.yahoo.co.jp/pickup/6604009?source=rss",
+        "date": "2026-11-25T23:51:44+00:00"
       },
       {
         "title": "二宮和也 2年ぶりに映画主演へ",
@@ -453,7 +452,7 @@
     "rain": null
   },
   "index": {
-    "price": 57435.0,
+    "price": 57640.0,
     "prev": 57380.0,
     "points": [
       [
@@ -2438,16 +2437,23 @@
         57400.0
       ],
       [
-        "11/26 08:38",
-        57435.0,
-        57435.0,
-        57435.0,
-        57435.0
+        "11/26 08:40",
+        57640.0,
+        57490.0,
+        57660.0,
+        57490.0
+      ],
+      [
+        "11/26 08:42",
+        57640.0,
+        57640.0,
+        57640.0,
+        57640.0
       ]
     ]
   },
   "gold": {
-    "price": 3603.3,
+    "price": 3609.4,
     "prev": 3555.1,
     "points": [
       [
@@ -4433,22 +4439,29 @@
       ],
       [
         "11/26 08:35",
-        3604.5,
+        3602.4,
         3601.5,
         3606.6,
         3599.4
       ],
       [
-        "11/26 08:38",
-        3603.3,
-        3603.3,
-        3603.3,
-        3603.3
+        "11/26 08:40",
+        3610.7,
+        3602.4,
+        3610.7,
+        3601.3
+      ],
+      [
+        "11/26 08:43",
+        3609.4,
+        3609.4,
+        3609.4,
+        3609.4
       ]
     ]
   },
   "fx": {
-    "price": 159.179,
+    "price": 159.213,
     "prev": 159.242
   },
   "topix": {
