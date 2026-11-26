@@ -1,60 +1,54 @@
-ミニなXbox Nano コントローラー。旅行に持ってくのにいい！
+インターネットが危ない？ ネットの秘密を守る「RSA暗号」が破られるというウワサ
 
-Nov 26,2026 22:30
+Nov 26,2026 22:35
 
-KYLE BARR - GIZMODO US［原文］（そうこ / GIZMODOライター ）
+ヤマダユウス型 ( GIZMODOライター )
 
-Image: Raymond Wong / Gizmodo US
+Image: ギズモード・ジャパン generated with ChatGPT
 
-今月頭に発売されたXboxのコントローラー「Xbox Nano コントローラー」。名前の通り、通常コントローラーからぐっと小さくなり、ポケットにも入るコンパクトサイズ。子どもとゲームをするという人は、お子さん専用コントローラーとしてプレゼントするのもいいかも！
+大丈夫なのか、インターネット…？
 
-お値段もちょっとコンパクトで、8,800円。
+量子計算や計算量理論の研究で知られるテキサス大学のスコット・アーロンソン教授が、自身のブログのコメント欄で気になる噂に触れました。
 
-米Gizmodo編集部がレビューしました！
+その噂とは「AI研究所が素因数分解を効率よく解く方法を手にしている」というもの。AIについて発信している作家のアンドリュー・カラン氏も、AnthropicとOpenAIについて同じ噂を聞いたとXに投稿しています。
 
-* * *
+ただの数学的発見のように思えますが、もしこの噂が本当なら、僕らのインターネットを支えている仕組みのひとつであるRSA暗号が破られるかもしれない、とセキュリティ界隈にざわめきが広がっています。
 
-コンパクトなXbox Nano コントローラー、僕はけっこう気に入りました。旅行・移動用のサブコントローラーとしてこのサイズは魅力です。
+> Scott Aaronson on his blog. I have also heard this. In fact, this rumor has persisted for about ten days, about both Anthropic and OpenAI. Considering how closely their recent math results have mirrored each other, if one has it, they probably both do. This would crack RSA. https://t.co/s5AHbmcDFP
+>
+> — Andrew Curran (@AndrewCurran_) November 25, 2026
 
-が、先に残念なところをあげるなら、2点。バッテリーと振動機能です。内蔵バッテリーが大きくはないので、長時間プレイ（たとえば長距離フライト）では絶対途中でバッテリーが切れちゃいます。あとは、振動機能がないんです。これはなんとかしてほしかったですね、僕的には1番がっかりかも。コントローラーの振動ってゲームの没入感を高めますから。
+## RSA暗号って？
 
-## 指が無理してない
+RSAは、Webサイトとの通信の保護などに広く使われてきた暗号方式。
 
-Image: Raymond Wong / Gizmodo US
+「スーパーコンピュータを使っても、解読には1億年以上かかるから破られない」なんて説明を聞いたことはありませんか？ それがRSA暗号です。
 
-ポータブルコントローラーはいろいろなメーカーからたくさんでていますが、Xbox Nanoのサイズ感は絶妙。大人の手にも小さすぎず、大きすぎない。どのボタンにも指を無理に伸ばすことなく届くサイズ感は、手の中ですごく馴染みます。
+仕組みのキモとなるのは大きな数の素因数分解です。2つの大きな素数をかけ算するのは簡単ですが、その答えから元の2つの素数を割り出すのは、いまのコンピューターでは現実的な時間で終わりません。
 
-裏のグリップも（僕の場合は）中指をかけておくのにちょうどいいサイズ感。『Gears of War: E-Day』と『スター・ウォーズ：ギャラクティック・レーサー』を数時間プレイしてみましたが、開始数分でコントローラーがいつもより小さいことは忘れてしまいました。つまり、小さいながらも、そのサイズに違和感がないんです。
+> 17×23＝391は、簡単にかけ算で計算できます。しかし逆に「391はどの素数とどの素数をかけたもの？」と聞かれると、組み合わせを試すしかない。これを何百桁にしたのがRSA暗号。
 
-Image: Raymond Wong / Gizmodo US
+この「割り出すのがとても難しい」性質が、RSAの安全性を支えています。ゆえに、もし素因数分解を効率よく解く方法が見つかれば...RSAで守られた通信は読み解かれてしまうかもしれないのです。
 
-Xbox Nanoは、Switch 2のJoy-Conのデジタルではなく、アナログトリガーを2本搭載。その動きはスムーズで、ゲーマーが感じる力かけてる感、バネ感がちょうどいい。より大きな通常コントローラーほどはないものの、十分手応えは感じます。
+RSA暗号が破られた場合、それを利用したインターネット上の通信、認証、デジタル署名が役立たずになってしまいます。
 
-ただし、これも好みがあって、たとえば『Forza Horizon 6』や『ギャラクティック・レーサー』のようなゲームでは、スタートダッシュや微妙な塩梅のブレーキがかけづらいという人はいそう。
+また、「盗まれたけど暗号化されて読めないからセーフ」という機密データが、セーフでなくなるケースも考えられます。
 
-Image: Raymond Wong / Gizmodo US
+## AIがインターネットの根底を変える、かも
 
-ABXYボタンの押している感、いいですね。ただ、周りに人がいる場合、うるさいって言われる可能性はあります。十字キーも硬め、思っているより硬め。通常コントローラの微妙な操作感はないものの、コンパクトサイズのコントローラで同じ形を同じような感覚で再現したのはGJです。
+噂が本当ならば、RSAに頼る仕組みは作り直しが必要になります。量子コンピューター対策として、素因数分解の難しさに頼らない新しい暗号への切り替えはすでに始まっていますが、その切り替えを急ぐ必要が出てくるでしょう。
 
-通常コントローラーにある共有ボタンはないものの、Xbox専用アプリまたはXbox Seriesゲーム機から設定できるカスタマイズボタンが1つ設けられています。
+昨今のAI研究所は、数学や計算機科学の難問を解いたと次々に発表しています。11月20日にはAnthropicの数学者がClaudeと一緒に、160年以上解かれていなかったリーマン予想の証明を見つけたと発表。11月下旬にはAnthropicとOpenAIが、計算機科学の未解決問題であるVP≠VNP予想の証明を公開しました。
 
-通常とはあちこち少しずつ異なりつつも、全体的には許容範囲なのですが、（振動機能以外で）けっこう残念なのはジョイスティック。悪くないけど、ちょっとものたりない。手の大きさしだいなのですが、僕の場合は指のかかりが浅いというか、通常サイズのグリップを感じません。コントローラーの厚みがそもそも違いますからね。そこも含めてNanoなのでしょうがないのですが。
+> OpenAI has posted their own VP ≠ VNP proof in response to Anthropic's, and says their result 'was obtained on November 6, 2026.' Two weeks ago. The ETH papers were also released in an similar oneupmanship fashion. As with Anthropic's result, no name on the paper (my guess is this was GPT-Aeon). Also like Anthropic: no announcement, no blog post, no tweet. This is a significant result, yet both OpenAI and Anthropic chose to simply dump it online with no comment. I was listening to a Scott Aaronson interview this morning where he said this specific result would update him toward 'a solution to P ≠ NP by the AIs might really be around the corner.' To me this is more evidence for my argument that both OpenAI and Anthropic are sitting on a dragon's hoard of scientific results they are not releasing to the public. The first massive 700+ paper OpenAI GitHub dump took five weeks for their model to generate. It's been seven weeks since then, and their internal model has continued to improve. They said they had it working on 4,000 problems. How many have been solved in the last seven weeks? Based on the last release, 1,000+ is not unreasonable. I will quote OpenAI Chief Scientist Jakub Pachocki from the blog post 'Perplexity and Intelligence,' posted 48 hours ago: 'We have recently witnessed unprecedented acceleration in another domain. For more than a year, we have been posing open problems in mathematics to our models as one of the ways of evaluating them. Once we upgraded to a model of log-perplexity ~0.76, it started producing groundbreaking results. For many of us that have previously worked in mathematics and adjacent fields, seeing the resolutions to questions we've long thought about coming out of the model one after another in a single Slack thread felt deeply surreal.' There have also been, of late, multiple rumors about breakthroughs in cryptography that I have been reluctant to post about for obvious reasons. Specifically, there have been rumors of an encryption breakthrough at Anthropic. What I personally took from the big OpenAI math release was that all encryption will be cracked much sooner than people are expecting, and that the rate of scientific discoveries will continually increase as we continue to scale up. No, not will increase, *has increased*. At both labs. We just don't know about it yet. Because unless you work at those labs, the current frontier is completely invisible. But it won't stay that way forever. Or to put it another way: prepare yourself for revelations.
+>
+> — Andrew Curran (@AndrewCurran_) November 24, 2026
 
-Image: Raymond Wong / Gizmodo US
+アーロンソン教授も、AIが見つけるアルゴリズムの中にはいま使われている暗号を破るものも出てくるだろうと述べています。
 
-ジョイスティックの最大の問題はこれじゃなくて、ポテンショメータータイプであるということ。つまり、将来的に磨耗した時、ドリフトしちゃうリスクがあるんです。
+もちろん、そもそもの噂が真実なのかはまだわかりませんが、AIの進化はインターネットの在り方をも変えるかもしれません。
 
-…なぜ、このタイプを採用したのか。8BitDoのコントローラSN30は、似ていますがドリフト耐性のあるホールエフェクトのジョイスティックを採用しているのに。Asus ROG Xbox Ally X20やRazer PrioはTMR型だというのに。
-
-ポテンショメータータイプは業界からなくなってはいませんが、わざわざそっち採用しなくても…とは思ってしまいます。
-
-12
-
-## HOW ABOUT
-
-Xbox Nano コントローラー
-
-PUSH!!0
+Source: Shtetl-Optimized, X, Github, phys.org
 
 Advertisement
 
@@ -74,44 +68,4 @@ Monthly
 
 Amazon
 
-1. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 192,5142. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 103,0823. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 73,6824. パンチホール、そこに置く？ Motorolaの新折りたたみスマホ「Razr Flex」がリーク Nov 24,2026 12:45 25,5855. Leanで検証を通過。リーマン予想は「解けた」と言っていいのか？ Nov 24,2026 18:45 10,229
-
-1. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 192,5142. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 103,0823. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 87,1004. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 73,6825. 女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める Nov 24,2026 13:00 61,699
-
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 380,3262. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 192,5143. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 140,1144. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,5965. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,280
-
-PR
-
-## Latest
-
-#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
-
-### Ranking
-
-Daily
-
-Weekly
-
-Monthly
-
-Amazon
-
-1. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 192,5142. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 103,0823. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 73,6824. パンチホール、そこに置く？ Motorolaの新折りたたみスマホ「Razr Flex」がリーク Nov 24,2026 12:45 25,5855. Leanで検証を通過。リーマン予想は「解けた」と言っていいのか？ Nov 24,2026 18:45 10,229
-
-1. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 192,5142. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 103,0823. どシンプル、それが良い。通話特化の携帯電話「INFOBAR ZERO」が登場 Nov 18,2026 23:10 87,1004. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 73,6825. 女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める Nov 24,2026 13:00 61,699
-
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 380,3262. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 192,5143. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 140,1144. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,5965. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,280
-
-PR
-
-## Review
-
-## Sale
-
-© 2026 Mediagene Inc.
-
-運営会社媒体資料のお問い合わせ
-
-プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
-
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
+1. 深海生物「
