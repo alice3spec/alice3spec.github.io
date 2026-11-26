@@ -54,6 +54,8 @@ SNSでシェア
 
 Special PR
 
+advertisement
+
 ## この頃、セキュリティ界隈で
 
 海外のセキュリティ関連ニュースを追い続けている鈴木聖子さんによる、最近のセキュリティニュースブリーフィング。隔週でお届けします。
@@ -61,6 +63,14 @@ Special PR
 ## この記事の著者
 
 ## 関連記事
+
+今、あなたにオススメ
+
+PR(セイコーウオッチ on GOETHE)
+
+PR(ITmedia AI＋)
+
+PR(ITmedia ビジネスオンライン)
 
 Special PR
 
@@ -97,8 +107,6 @@ Special PR
 
 ITmedia NEWS SNS
 
-> ITmedia News
-
 インフォメーション
 
 注目情報をチェック
@@ -128,3 +136,15 @@ ITmediaNEWSをフォロー
 *   運営会社
 *   採用情報
 *   推奨環境
+
+## ITmedia NEWS の最新記事をお届けします
+
+通知を受け取る
+
+×
+
+✔
+
+## 通知登録完了
+
+閉じる
