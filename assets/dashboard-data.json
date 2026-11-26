@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T06:18:19.594120+09:00",
+  "updated": "2026-11-27T06:23:17.123626+09:00",
   "feeds": {
     "kabu": [
       {
@@ -32,8 +32,8 @@
       },
       {
         "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5cUltSm1wVUtuX3ZGZG1kVTFkOWhhcGI2THh5U2FJVVRWcmpLVmhOMVhWbjVWR0YydE54eW9JSWhVa1RaQkJ5WXFlbVE5T1pWUkYzXzUweDJZcFVNYndwd3pOLVVjYzg?oc=5",
-        "date": "2026-11-24T13:11:41+00:00"
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5MjBpMGVJT056LXUyc29PZWJNX2pYbmg5elpNQms5WXJfbEJUZ0k1UGFHenhpVWpzV01taWtBVHBhcWZqTFdKYXlMZUYwMEJoY3pua1ItdWFrT1NORld4TWRJOA?oc=5",
+        "date": "2026-11-24T09:39:53+00:00"
       },
       {
         "title": "日経平均株価きょうは大幅下落 終値は約1600円安の5万7011円62銭 - au Webポータル",
@@ -56,9 +56,9 @@
         "date": "2026-11-26T05:14:43+00:00"
       },
       {
-        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
-        "date": "2026-11-26T14:08:26+00:00"
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-26T17:45:26+00:00"
       },
       {
         "title": "日本株相場、一本足打法から全員野球へ 年末高に期待 - 日本経済新聞",
@@ -284,14 +284,15 @@
       {
         "title": "ウニの「のど」に住んでいた未知の生物、50年越しに正体が判明",
         "link": "https://www.gizmodo.jp/article/2611-new-clam-species-found-in-sea-urchin-throat/",
-        "date": "2026-11-26T11:45:00+00:00"
+        "date": "2026-11-26T11:45:00+00:00",
+        "body": "a47.txt"
       }
     ],
     "yahoo": [
       {
-        "title": "笹川環境相側 国契約企業から寄付",
-        "link": "https://news.yahoo.co.jp/pickup/6604111?source=rss",
-        "date": "2026-11-26T11:53:29+00:00",
+        "title": "沖縄県本島北部 線状降水帯が発生",
+        "link": "https://news.yahoo.co.jp/pickup/6604125?source=rss",
+        "date": "2026-11-26T21:15:22+00:00",
         "body": "a48.txt"
       },
       {
@@ -1479,7 +1480,7 @@
     ]
   },
   "fx": {
-    "price": 159.281,
+    "price": 159.272,
     "prev": 159.123
   },
   "topix": {
