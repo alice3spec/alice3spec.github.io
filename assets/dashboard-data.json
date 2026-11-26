@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T09:38:21.734096+09:00",
+  "updated": "2026-11-26T09:43:24.275680+09:00",
   "feeds": {
     "kabu": [
       {
@@ -8,19 +8,19 @@
         "date": "2026-11-25T22:47:01+00:00"
       },
       {
-        "title": "日経平均の上げ幅が1100円突破 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Gd0VjZ2NSLXpjcnpYUG95dGFVOGpKN19rcXNVbEowbmlHZ3FwRVk0cm5lY1o4RjRrRFJPWThfNWx4WmQ2eTBjenMwdDBDdVRSOFJ0ajVnaWdoVWJBZE1Hbw?oc=5",
-        "date": "2026-11-26T00:29:01+00:00"
-      },
-      {
         "title": "日経平均、1000円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQXzVyb2libjd4X1lKei1xekU1eExPVDZocDdHMHk5NzY2R1VTWEJ4WkRVZlY5a2x2N1dlQmxGdVNnSWloRUNlbERiUHVqU3F5VzBndllLS0h2Z2x2UndSN2s1Ykdra0YyVlNiY0U4ZFVWa29xdFJVYWRnVGl1a3dWb1hCZmNoV2c?oc=5",
         "date": "2026-11-26T00:24:39+00:00"
       },
       {
-        "title": "日経平均、900円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFhOdzBFTUVjSU93bXZQXzlvb0lLcDdnMlRvWUlQOGlSQzJuU0tRX2ZZdGpjWXJ1by0xRnJsTjgyR0p6MmNQSlNhT29uVGlIWElBeExqQ1hEVC1DOFJySmphcXZiejRUbFU4Y0Y5MEZLTkUxN3IxUFFUalJ3TWlnVVJST3NwN3M?oc=5",
-        "date": "2026-11-26T00:20:44+00:00"
+        "title": "日経平均、1100円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQUd0THNaTjl0UG5iNmpUOFpHZmJmSExObUNMRi1ON3N1eE80ejZEelRWUDFMdWJ6bW9OdVVDOXQ4X0dEeDJOdWZwTjJJMFZHVnFSZlBmXzI3RndHaFJkaTllckhpWW10dG52Smc2bE5FcV82Zl9NRC1JUS05MjRENzdLSk1QSWM?oc=5",
+        "date": "2026-11-26T00:28:03+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月26日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEMHBlTTBBRnZSVmpyLU9WUlF4V196OGVOWDlJb0NyQ1lVQWVycWY2ZDdZOFh0SXFUZi1UVWRKR3MxNE5CeVlEaWsxbV90VExIQVozdHJ2MVNSYVdfWGR3dg?oc=5",
+        "date": "2026-11-25T23:16:35+00:00"
       },
       {
         "title": "日経平均株価、NYダウの続伸が追い風（先読み株式相場） - 日本経済新聞",
@@ -44,8 +44,8 @@
       },
       {
         "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5cUltSm1wVUtuX3ZGZG1kVTFkOWhhcGI2THh5U2FJVVRWcmpLVmhOMVhWbjVWR0YydE54eW9JSWhVa1RaQkJ5WXFlbVE5T1pWUkYzXzUweDJZcFVNYndwd3pOLVVjYzg?oc=5",
-        "date": "2026-11-24T13:11:41+00:00"
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5MjBpMGVJT056LXUyc29PZWJNX2pYbmg5elpNQms5WXJfbEJUZ0k1UGFHenhpVWpzV01taWtBVHBhcWZqTFdKYXlMZUYwMEJoY3pua1ItdWFrT1NORld4TWRJOA?oc=5",
+        "date": "2026-11-24T09:39:53+00:00"
       },
       {
         "title": "日経平均株価きょうは大幅下落 終値は約1600円安の5万7011円62銭 - au Webポータル",
@@ -53,21 +53,22 @@
         "date": "2026-11-25T09:19:25+00:00"
       },
       {
+        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
+        "date": "2026-11-25T20:14:34+00:00"
+      },
+      {
         "title": "（朝）米国市場は高安まちまち　消費関連株の買いと半導体関連の売りが交錯し市場全体では方向感を欠く展開 - マネクリ",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mRmFYY3lkQl85bWlQR3ZycWJOY3U4WDRsTzdXTTV1bjIzVWdpNmVVRlJoOW1YSE5KN05YU0syWWpHS3ctOW1ESTJPQWVyMGNURllXS9IBV0FVX3lxTE9PMUwzREo2RkVNZURLejkzeGM3a3ItaUh3S3I4cE9jbTI2LUhUdDJianU4bXJBdnJtLTgtVksyMUd2Tm1USWtPQjlMWGdRaXpybHhoSHlUdw?oc=5",
         "date": "2026-11-25T23:23:00+00:00"
-      },
-      {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月26日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEMHBlTTBBRnZSVmpyLU9WUlF4V196OGVOWDlJb0NyQ1lVQWVycWY2ZDdZOFh0SXFUZi1UVWRKR3MxNE5CeVlEaWsxbV90VExIQVozdHJ2MVNSYVdfWGR3dg?oc=5",
-        "date": "2026-11-25T23:16:35+00:00"
       }
     ],
     "ai": [
       {
         "title": "図面を探す時間から技能を伝える時間へ、AI活用で業務効率化を進める空研工業",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/26/news014.html",
-        "date": "2026-11-26T00:00:00+00:00"
+        "date": "2026-11-26T00:00:00+00:00",
+        "body": "a12.txt"
       },
       {
         "title": "国内造船業再生の鍵はフィジカルAI、デジタルシップヤード開発の現状を知る",
@@ -83,7 +84,8 @@
       {
         "title": "AIでドーピングしたコンサルの実力は　使わない人材との能力差、BCG約500人で検証　Nature系列誌",
         "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
-        "date": "2026-11-25T03:00:00+00:00"
+        "date": "2026-11-25T03:00:00+00:00",
+        "body": "a15.txt"
       },
       {
         "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ　直近90日の配信楽曲の43％がAI生成",
@@ -99,7 +101,8 @@
       {
         "title": "設計者がAIに求めるのはCAD操作だけじゃない――SOLIDWORKS AIが目指す課題解決",
         "link": "https://monoist.itmedia.co.jp/mn/articles/2611/25/news005.html",
-        "date": "2026-11-25T00:00:00+00:00"
+        "date": "2026-11-25T00:00:00+00:00",
+        "body": "a18.txt"
       },
       {
         "title": "AIエージェントは隙あらばサンドボックスの外に出るのか　Anthropicが評価手法「Siren」を発表",
@@ -135,7 +138,8 @@
       {
         "title": "「サツドラ」顧客情報22万件流出　委託先サイバーエージェントがデータ誤公開、1年以上気づかず",
         "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003469/",
-        "date": "2026-11-26T00:23:25+00:00"
+        "date": "2026-11-26T00:23:25+00:00",
+        "body": "a24.txt"
       },
       {
         "title": "SpaceXの軌道上データセンター衛星「Starmind」、米FCCが最大100万基を承認",
@@ -157,7 +161,8 @@
       {
         "title": "海外経由の接続は見放題、議論尽くせるか　「ブロッキング」法制化、識者の見方は",
         "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003458/",
-        "date": "2026-11-25T09:16:02+00:00"
+        "date": "2026-11-25T09:16:02+00:00",
+        "body": "a28.txt"
       },
       {
         "title": "突然「未来の約定通知」届く……三菱UFJ eスマート証券、メンテ中のミス謝罪",
@@ -190,20 +195,21 @@
       {
         "title": "AIでドーピングしたコンサルの実力は　使わない人材との能力差、BCG約500人で検証　Nature系列誌",
         "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
-        "date": "2026-11-25T03:00:00+00:00",
-        "body": "a34.txt"
+        "date": "2026-11-25T03:00:00+00:00"
       },
       {
         "title": "楽天証券、金融資産情報など約441万件の漏えい確認　ログインIDなど約1198万口座分も",
         "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003435/",
-        "date": "2026-11-25T02:25:59+00:00"
+        "date": "2026-11-25T02:25:59+00:00",
+        "body": "a35.txt"
       }
     ],
     "gadget": [
       {
         "title": "G-SHOCKにNYのストリートカルチャー注入。HIDDENコラボモデルが登場",
         "link": "https://www.gizmodo.jp/article/2611-g-shock-hidden-gm-2110hdn-8ajr/",
-        "date": "2026-11-26T00:30:00+00:00"
+        "date": "2026-11-26T00:30:00+00:00",
+        "body": "a36.txt"
       },
       {
         "title": "脱・Apple Watch。ガーミンを使って知ったスマートウォッチに本当に必要なもの",
@@ -214,7 +220,8 @@
       {
         "title": "スマホ直結で“空間オーディオ収録”を始められる！Shureの新作マイク「MV360」が登場",
         "link": "https://www.gizmodo.jp/article/2611-shure-mv360-mic/",
-        "date": "2026-11-25T23:30:00+00:00"
+        "date": "2026-11-25T23:30:00+00:00",
+        "body": "a38.txt"
       },
       {
         "title": "どこから見ても「サンク」。20世紀の自動車文化の香り漂う、最新EVです",
@@ -231,12 +238,14 @@
       {
         "title": "鋼鉄よりも硬い木材、開発されました",
         "link": "https://www.gizmodo.jp/article/2611-superwood-stronger-than-steel/",
-        "date": "2026-11-25T14:00:00+00:00"
+        "date": "2026-11-25T14:00:00+00:00",
+        "body": "a41.txt"
       },
       {
         "title": "GTA 6の「マイアミ再現度」を、マイアミ帰りの男と検証してみた",
         "link": "https://www.gizmodo.jp/article/gta6-miami-reality-check/",
-        "date": "2026-11-25T13:30:00+00:00"
+        "date": "2026-11-25T13:30:00+00:00",
+        "body": "a42.txt"
       },
       {
         "title": "動物と話せる少女の不思議な旅。アルゼンチン発のロードムービー『アニカの伝言』監督に聞く",
@@ -252,7 +261,8 @@
       {
         "title": "偽イーロン・マスク、参上。「仮想通貨を倍にする」と吹聴→数百人が騙されかける",
         "link": "https://www.gizmodo.jp/article/2611-fake-elon-musk-crypto-scam/",
-        "date": "2026-11-25T12:05:00+00:00"
+        "date": "2026-11-25T12:05:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "パクリ案件？ ディフェンダーに酷似した中華製SUVがEU全域で販売禁止に",
@@ -436,7 +446,7 @@
     "rain": null
   },
   "index": {
-    "price": 58180.0,
+    "price": 58005.0,
     "prev": 57250.0,
     "points": [
       [
@@ -560,22 +570,29 @@
       ],
       [
         "11/26 09:25",
-        58185.0,
+        58155.0,
         58085.0,
         58220.0,
         58070.0
       ],
       [
-        "11/26 09:28",
-        58180.0,
-        58180.0,
-        58180.0,
-        58180.0
+        "11/26 09:30",
+        57945.0,
+        58060.0,
+        58080.0,
+        57915.0
+      ],
+      [
+        "11/26 09:33",
+        58005.0,
+        58005.0,
+        58005.0,
+        58005.0
       ]
     ]
   },
   "gold": {
-    "price": 3601.2,
+    "price": 3605.0,
     "prev": 3617.8,
     "points": [
       [
@@ -699,22 +716,29 @@
       ],
       [
         "11/26 09:25",
-        3600.1,
+        3598.5,
         3602.1,
         3603.0,
         3597.5
       ],
       [
-        "11/26 09:28",
-        3601.2,
-        3601.2,
-        3601.2,
-        3601.2
+        "11/26 09:30",
+        3605.3,
+        3598.8,
+        3606.3,
+        3598.8
+      ],
+      [
+        "11/26 09:33",
+        3605.0,
+        3605.0,
+        3605.0,
+        3605.0
       ]
     ]
   },
   "fx": {
-    "price": 159.1,
+    "price": 159.048,
     "prev": 159.123
   },
   "topix": {
