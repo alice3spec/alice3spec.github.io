@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:38:22.056581+09:00",
+ "updated": "2026-11-26T18:43:20.240997+09:00",
  "feeds": {
   "kabu": [
    {
@@ -53,14 +53,14 @@
     "date": "2026-11-26T01:11:35+00:00"
    },
    {
-    "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-    "date": "2026-11-26T04:57:01+00:00"
-   },
-   {
     "title": "東証14時 日経平均は膠着 米感謝祭の祝日控え様子見 - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nRXFvU0ZaQk5PUlpwdTJvaHF0LThiZVFKTnlLNXZ6T3QwdmxXRGx3T0pFbXhCVERoY1gyMFV5cGVaSEs0SE9fa3drbGt1SG1kZWlzRmRNbV9vNkNXM3RWdU4zMlBqcGRJSk5GSw?oc=5",
     "date": "2026-11-26T05:15:36+00:00"
+   },
+   {
+    "title": "日経平均株価が反発 終値は487円高の5万7499円 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmbDEwNFIwTzBhZkl3bGRyT0JCbmFOS1gzeUVKTnpkVG9JazN4eEVXWnlUU3gyMEthVTlaSW16Tlk2LWwzeUl5My1YT19VS2RDNXRDSFctVHA4QTNWOEcwb0hkbkZ4bUhaWnNkRg?oc=5",
+    "date": "2026-11-26T00:04:59+00:00"
    }
   ],
   "ai": [
@@ -84,7 +84,8 @@
    {
     "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
     "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-    "date": "2026-11-26T07:06:43+00:00"
+    "date": "2026-11-26T07:06:43+00:00",
+    "body": "a15.txt"
    },
    {
     "title": "家計データをなぜ「Muse」「ChatGPT」に渡すのか？　マネーフォワードに聞いた狙いと安全策",
@@ -99,13 +100,13 @@
    {
     "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
     "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
-    "date": "2026-11-26T05:04:44+00:00",
-    "body": "a18.txt"
+    "date": "2026-11-26T05:04:44+00:00"
    },
    {
     "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象",
     "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
-    "date": "2026-11-26T04:32:50+00:00"
+    "date": "2026-11-26T04:32:50+00:00",
+    "body": "a19.txt"
    },
    {
     "title": "旅行会社に残る価値は？　生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
@@ -116,7 +117,8 @@
    {
     "title": "GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
     "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
-    "date": "2026-11-26T03:00:00+00:00"
+    "date": "2026-11-26T03:00:00+00:00",
+    "body": "a21.txt"
    },
    {
     "title": "AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定　AI企業間で議論",
@@ -162,13 +164,13 @@
    {
     "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象",
     "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
-    "date": "2026-11-26T04:32:50+00:00",
-    "body": "a29.txt"
+    "date": "2026-11-26T04:32:50+00:00"
    },
    {
     "title": "GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
     "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
-    "date": "2026-11-26T03:00:00+00:00"
+    "date": "2026-11-26T03:00:00+00:00",
+    "body": "a30.txt"
    },
    {
     "title": "「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」",
@@ -221,7 +223,8 @@
    {
     "title": "ハイレゾ技術を使ってクマ避け。音響技術の可能性が広すぎる",
     "link": "https://www.gizmodo.jp/article/2611-hires-bear-repellent-speaker/",
-    "date": "2026-11-26T06:00:00+00:00"
+    "date": "2026-11-26T06:00:00+00:00",
+    "body": "a39.txt"
    },
    {
     "title": "長距離移動に持っていく「ふしぎな板」。狭い機内でも、ストレスフリーで動画三昧です",
@@ -257,7 +260,8 @@
    {
     "title": "「スマートウォッチ、操作しづらい問題」をジェスチャーで解決。画面に触る必要なくなりそう",
     "link": "https://www.gizmodo.jp/article/eitwatch/",
-    "date": "2026-11-26T02:00:00+00:00"
+    "date": "2026-11-26T02:00:00+00:00",
+    "body": "a46.txt"
    },
    {
     "title": "詐欺っぽい電話をAIがリアルタイム検知。会話で見抜くアプリ「みやブルフォン」",
@@ -429,7 +433,7 @@
   "rain": null
  },
  "index": {
-  "price": 57630.0,
+  "price": 57670.0,
   "prev": 57250.0,
   "points": [
    [
@@ -939,7 +943,7 @@
   ]
  },
  "gold": {
-  "price": 3598.6,
+  "price": 3601.6,
   "prev": 3617.8,
   "points": [
    [
@@ -1449,7 +1453,7 @@
   ]
  },
  "fx": {
-  "price": 159.208,
+  "price": 159.215,
   "prev": 159.123
  },
  "topix": {
