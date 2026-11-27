@@ -1,138 +1,71 @@
-AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論
+インターネットが危ない？ ネットの秘密を守る「RSA暗号」が破られるというウワサ
 
-Share
+Nov 26,2026 22:35
 
-*   印刷する
+ヤマダユウス型 ( GIZMODOライター )
 
-# AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論
+Image: ギズモード・ジャパン generated with ChatGPT
 
-公開 2026年11月26日 11時24分
+大丈夫なのか、インターネット…？
 
-[ITmedia]
+量子計算や計算量理論の研究で知られるテキサス大学のスコット・アーロンソン教授が、自身のブログのコメント欄で気になる噂に触れました。
 
-印刷するGoogleで優先するソースとして追加
+その噂とは「AI研究所が素因数分解を効率よく解く方法を手にしている」というもの。AIについて発信している作家のアンドリュー・カラン氏も、AnthropicとOpenAIについて同じ噂を聞いたとXに投稿しています。
 
-米Anthropicのダリオ・アモデイCEOは11月25日（現地時間）、Xに長文を投稿し、米Axiosの報道に反論した。この報道は、超知能AIに人間の意思決定権の一部を委ねるべきだと同氏が考えているとするものだった。アモデイ氏は「人間の自由意志をAIシステムに明け渡すべきだとは考えていない。私がそう考えているという主張はばかげている」と述べた。
+Advertisement
 
-AIの能力が人間を大幅に上回る「超知能」（superintelligence）の実現を見据え、AI業界では、人間が社会の意思決定の主体であり続けるためにはどうすべきかという議論が活発になっている。
+ただの数学的発見のように思えますが、もしこの噂が本当なら、僕らのインターネットを支えている仕組みのひとつであるRSA暗号が破られるかもしれない、とセキュリティ界隈にざわめきが広がっています。
 
-米OpenAIで戦略的未来構想を担当するディーン・ボール氏は18日、「The Silent Consensus」（暗黙の合意）と題する論考を公開した。AIが人間よりも効率的に企業経営や研究開発を行えるようになれば、人間は市場競争の論理に従って次々と意思決定をAIに委ね、結果として経済や政治における主導権を失う可能性があると同氏は指摘した。AIが人間に反旗を翻さなくても、個々の合理的な判断の積み重ねによって、こうした事態が起こり得るという。
+> Scott Aaronson on his blog. I have also heard this. In fact, this rumor has persisted for about ten days, about both Anthropic and OpenAI. Considering how closely their recent math results have mirrored each other, if one has it, they probably both do. This would crack RSA. https://t.co/s5AHbmcDFP
+>
+> — Andrew Curran (@AndrewCurran_) November 25, 2026
 
-ボール氏によると、こうした未来を不可避とみなす見方がAI業界に広がっているという。同氏はこれに反対し、人間がAIエージェントの行動を監査し、その権限を取り消せる仕組みなどを構築すべきだと主張した。なお、この論考はOpenAIの公式見解ではなく、ボール氏個人の見解としている。
+## RSA暗号って？
 
-OpenAIのサム・アルトマンCEOも18日、米New York Times主催のイベント「DealBook Summit」に登壇した際、人間が未来を決める主体であり続けることの重要性を訴えた。米MetaのAI部門を率いるアレクサンドル・ワン氏も、AnthropicのAIを使った数学分野での画期的な成果を受け、Xに「社会をAIに明け渡すことを容認すべきではない」と投稿した。
+RSAは、Webサイトとの通信の保護などに広く使われてきた暗号方式。
 
-Axiosは25日、超知能AIに人間の意思決定権の一部を委ねることを肯定する考えがAnthropic社内で一般的になっており、他のAI企業の幹部がこれに反発していると、複数の情報筋の話として報じた。アルトマン氏やワン氏はAnthropicを名指ししていないが、Axiosは両氏の発言がアモデイ氏の世界観に向けられたものだとしている。Axiosはその根拠として、アモデイ氏が2026年2月の米New York Timesのインタビューで、人命や安全に関わる重要な判断をAIに委ねることに肯定的な発言をしていたことを挙げた。また、同氏が2024年の論考「Machines of Loving Grace」で、超知能AIが経済的資源を分配する未来の可能性に言及していたことも紹介した。一方、Anthropicの広報担当者はAxiosに対し、アモデイ氏はこれまで多くの公の場で人間によるAIの制御を主張してきたとし、同社はClaudeが人間による監督を損なわないよう訓練していると説明した。
+「スーパーコンピュータを使っても、解読には1億年以上かかるから破られない」なんて説明を聞いたことはありませんか？ それがRSA暗号です。
 
-アモデイ氏は今回の投稿で、Axiosの記事は社会の統治をAIに委ねることと、個別のタスクをAIで自動化することを混同していると反論した。自身は一貫して、AIは正当な民主的プロセスの下で管理されるべきだと主張してきたとし、「効率性や安全性のために、正当性や自己決定権を犠牲にすべきではない」と述べた。
+仕組みのキモとなるのは大きな数の素因数分解です。2つの大きな素数をかけ算するのは簡単ですが、その答えから元の2つの素数を割り出すのは、いまのコンピューターでは現実的な時間で終わりません。
 
-一方、自動車の運転やがん治療薬の開発、ソフトウェア開発などをAIに任せることには経済的な価値があり、多くの人命を救うことにもつながるとした。ただし、あらゆる自動化が望ましいわけではないという。
+> 17×23＝391は、簡単にかけ算で計算できます。しかし逆に「391はどの素数とどの素数をかけたもの？」と聞かれると、組み合わせを試すしかない。これを何百桁にしたのがRSA暗号。
 
-例えば、AIが次世代のAIを自律的に開発する「再帰的自己改善」（RSI）については、人間が制御したり適応したりできないほど急速にAIの能力が向上する恐れがあり、制限が必要になる可能性があるとした。また、雇用への深刻な影響が予想される分野では、人々が適応する時間を確保するため、AIの導入を遅らせたり停止したりすることも選択肢になると述べた。
+この「割り出すのがとても難しい」性質が、RSAの安全性を支えています。ゆえに、もし素因数分解を効率よく解く方法が見つかれば...RSAで守られた通信は読み解かれてしまうかもしれないのです。
 
-アモデイ氏は、こうした問題に簡単な答えはなく、社会や政府、AI企業、個々のユーザーがそれぞれ判断すべきだとした。
+RSA暗号が破られた場合、それを利用したインターネット上の通信、認証、デジタル署名が役立たずになってしまいます。
 
-その上で、一部のAI企業のCEOが「人間による制御と主体性」や「AIはあくまでも道具であるべきだ」といったスローガンを掲げていると指摘した。ただ、各社とも製品がタスクの自動化を志向している点では実質的な違いはなく、その背後にある難しい問題に真剣に向き合っているわけでもないと批判した。商業的、政治的な立場をアピールするための言動だとした。
+また、「盗まれたけど暗号化されて読めないからセーフ」という機密データが、セーフでなくなるケースも考えられます。
 
-Anthropicは19日に米Nasdaqに上場したばかりだ。Axiosは別の記事で、今回のアモデイ氏の発言を、同氏による上場以来最も重要な公の発言と位置付けている。
+## AIがインターネットの根底を変える、かも
 
-Copyright © ITmedia, Inc. All Rights Reserved.
+噂が本当ならば、RSAに頼る仕組みは作り直しが必要になります。量子コンピューター対策として、素因数分解の難しさに頼らない新しい暗号への切り替えはすでに始まっていますが、その切り替えを急ぐ必要が出てくるでしょう。
 
-SNSでシェア
+昨今のAI研究所は、数学や計算機科学の難問を解いたと次々に発表しています。11月20日にはAnthropicの数学者がClaudeと一緒に、160年以上解かれていなかったリーマン予想の証明を見つけたと発表。11月下旬にはAnthropicとOpenAIが、計算機科学の未解決問題であるVP≠VNP予想の証明を公開しました。
 
-関連リンク
+> OpenAI has posted their own VP ≠ VNP proof in response to Anthropic's, and says their result 'was obtained on November 6, 2026.' Two weeks ago. The ETH papers were also released in an similar oneupmanship fashion. As with Anthropic's result, no name on the paper (my guess is this was GPT-Aeon). Also like Anthropic: no announcement, no blog post, no tweet. This is a significant result, yet both OpenAI and Anthropic chose to simply dump it online with no comment. I was listening to a Scott Aaronson interview this morning where he said this specific result would update him toward 'a solution to P ≠ NP by the AIs might really be around the corner.' To me this is more evidence for my argument that both OpenAI and Anthropic are sitting on a dragon's hoard of scientific results they are not releasing to the public. The first massive 700+ paper OpenAI GitHub dump took five weeks for their model to generate. It's been seven weeks since then, and their internal model has continued to improve. They said they had it working on 4,000 problems. How many have been solved in the last seven weeks? Based on the last release, 1,000+ is not unreasonable. I will quote OpenAI Chief Scientist Jakub Pachocki from the blog post 'Perplexity and Intelligence,' posted 48 hours ago: 'We have recently witnessed unprecedented acceleration in another domain. For more than a year, we have been posing open problems in mathematics to our models as one of the ways of evaluating them. Once we upgraded to a model of log-perplexity ~0.76, it started producing groundbreaking results. For many of us that have previously worked in mathematics and adjacent fields, seeing the resolutions to questions we've long thought about coming out of the model one after another in a single Slack thread felt deeply surreal.' There have also been, of late, multiple rumors about breakthroughs in cryptography that I have been reluctant to post about for obvious reasons. Specifically, there have been rumors of an encryption breakthrough at Anthropic. What I personally took from the big OpenAI math release was that all encryption will be cracked much sooner than people are expecting, and that the rate of scientific discoveries will continually increase as we continue to scale up. No, not will increase, *has increased*. At both labs. We just don't know about it yet. Because unless you work at those labs, the current frontier is completely invisible. But it won't stay that way forever. Or to put it another way: prepare yourself for revelations.
+>
+> — Andrew Curran (@AndrewCurran_) November 24, 2026
 
-*   ダリオ・アモデイ氏のX投稿
+アーロンソン教授も、AIが見つけるアルゴリズムの中にはいま使われている暗号を破るものも出てくるだろうと述べています。
 
-コメントをすべて読むには、コメントの利用規約に同意し「アイティメディアID」および「ITmedia NEWS アンカーデスクマガジン」の登録、もしくは ログインが必要です
+もちろん、そもそもの噂が真実なのかはまだわかりませんが、AIの進化はインターネットの在り方をも変えるかもしれません。
 
-Special PR
+Source: Shtetl-Optimized, X, Github, phys.org
 
-advertisement
+Advertisement
 
-## 関連記事
+Advertisement
 
-今、あなたにオススメ
+Advertisement
 
-PR(セイコーウオッチ on GOETHE)
+#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
 
-PR(ITmedia ビジネスオンライン)
+### Ranking
 
-PR(ITmedia AI＋)
+Daily
 
-Special PR
+Weekly
 
-こんなメディアも見られています
+Monthly
 
-ITmedia NEWSに関連する情報をお探しであれば、こちらのメディアもお役に立てるかもしれません。
-
-メールマガジンを配信中
-
-メールマガジンを配信中
-
-国内外の業界動向、AIやクラウドなどの最新技術、キャリア情報など今知りたい情報をまとめてお届けします。
-
-メールマガジン最新号
-
-京大がAI依存チェックリスト公開 「当てはまるものあれば、しばらくAI触らないで」Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」な ど複数サービスに影響
-
-Special PR
-
-本日の新着記事
-
-アクセスランキング
-
-1.   1「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」
-2.   2 六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記
-3.   3 AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌
-4.   4「サツドラ」顧客情報22万件流出 委託先サイバーエージェントがデータ誤公開、1年以上気づかず
-5.   5“新イギリス国旗”、2ちゃんねるデザインが人気
-6.   6 タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内
-7.   7 1Password、一部顧客の氏名やメールアドレスが流出 保管庫内のデータに「影響なし」
-8.   8「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供
-9.   9 飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解
-10.   10 GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査
-
-ITmedia NEWS SNS
-
-インフォメーション
-
-注目情報をチェック
-
-*   メールマガジン
-*   Specialインデックス
-
-お問い合わせ
-
-*   ご意見・ご感想
-*   リリース送付先
-
-ITmediaNEWSをフォロー
-
-*   Facebook
-*   X（旧Twitter）
-*   RSS
-
-あなたにおすすめの記事 PR
-
-*   メディア一覧
-*   公式SNS
-*   広告案内
-*   お問い合わせ
-*   プライバシーポリシー
-*   RSS
-*   運営会社
-*   採用情報
-*   推奨環境
-
-## ITmedia NEWS の最新記事をお届けします
-
-通知を受け取る
-
-×
-
-✔
-
-## 通知登録完了
-
-閉じる
+A
