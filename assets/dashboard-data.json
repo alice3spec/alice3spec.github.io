@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:38:22.647102+09:00",
+  "updated": "2026-11-28T03:43:15.490592+09:00",
   "feeds": {
     "kabu": [
       {
@@ -34,6 +34,11 @@
         "date": "2026-11-27T03:34:47+00:00"
       },
       {
+        "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yWmprRjBmYjd2QkoyaG9FMUpQdnUxN0NnRk16UmZhWWdLV3VCTnpJN0R6MnR5LVVGQkNKSVkzaV9yLWhyX0JKTy1ndV8tMmRwMlpFZ1RxR20yTGdNaEE?oc=5",
+        "date": "2026-11-24T09:28:56+00:00"
+      },
+      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MbGQwSlcwNEJsUUxrY05kWHdMZ1VnajZSZ25GUzNlbERpeTF4YS1tLVpoQnVabDU2ZEFBTXBVUFNLSktqbWJlVkhteUxCZk5qZzN2Y01OY2xlYnVFdlYtUg?oc=5",
         "date": "2026-11-26T23:15:30+00:00"
@@ -49,19 +54,14 @@
         "date": "2026-11-27T05:52:14+00:00"
       },
       {
-        "title": "キオクシアHD株が一時ストップ高 株主還元の強化に期待の声（26日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubHJ6TUNpVWxSZndJMG95NmFoWUVhd211U0RaUUNRaHVOeHRVV00zYjdZN1hDSEpqRU1zMnNNUTlURDdjTFdDMmVYZlpzRlRfSXdKWnJna3FOenN0cU9UcEs4VFZYdVpDQWxxVg?oc=5",
-        "date": "2026-11-26T07:30:00+00:00"
+        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
+        "date": "2026-11-27T12:02:33+00:00"
       },
       {
         "title": "東証14時 日経平均は上値追い続く 1100円超高 東エレクなど高い - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY3FxSm1FQm1IVGRFRG0tUjNZNWhYcmg0cnlkWmt5M25zbl9LdzJTMWJGVjRHb1M2UTV6bFAycV9ENzJiTDFEejAxNnVDR0NBLUw5X080ck4wNFZIV0hPaXItb0hkZmdqSWRVcA?oc=5",
         "date": "2026-11-27T05:11:25+00:00"
-      },
-      {
-        "title": "日経平均は大幅続伸、欧州株高を追い風に半導体株に買い／相場概況 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rY2hWaU1IT21WUXBlMVpzUU9QN0ZJS0FzdkpjWjRkM1lFX2Raak1MVXBHSnFWdWo4ZnRaWU1KZWQ2VzRNbmY5VW51VGV2cElkQy1tblA5SjVFWkpWbXNqQw?oc=5",
-        "date": "2026-11-27T07:16:37+00:00"
       }
     ],
     "ai": [
@@ -338,78 +338,78 @@
     ]
   },
   "weather": {
-    "temp": 16.7,
-    "code": 65,
+    "temp": 17.0,
+    "code": 61,
     "max": 20.1,
-    "min": 12.9,
+    "min": 13.5,
     "hours": [
       {
         "time": "2026-11-28T03:00",
-        "temp": 17.0,
-        "code": 63
+        "temp": 17.2,
+        "code": 61
       },
       {
         "time": "2026-11-28T04:00",
-        "temp": 16.3,
-        "code": 65
+        "temp": 17.0,
+        "code": 61
       },
       {
         "time": "2026-11-28T05:00",
-        "temp": 16.2,
+        "temp": 17.1,
         "code": 63
       },
       {
         "time": "2026-11-28T06:00",
-        "temp": 16.2,
-        "code": 65
+        "temp": 16.4,
+        "code": 63
       },
       {
         "time": "2026-11-28T07:00",
-        "temp": 14.2,
-        "code": 65
+        "temp": 16.2,
+        "code": 63
       }
     ],
     "hours3": [
       {
         "time": "2026-11-28T03:00",
-        "temp": 17.0,
-        "code": 63,
-        "mm": 3.5
+        "temp": 17.2,
+        "code": 61,
+        "mm": 2.3
       },
       {
         "time": "2026-11-28T06:00",
-        "temp": 16.2,
-        "code": 65,
-        "mm": 10.2
+        "temp": 16.4,
+        "code": 63,
+        "mm": 4.8
       },
       {
         "time": "2026-11-28T09:00",
-        "temp": 12.9,
-        "code": 1,
-        "mm": 0.0
+        "temp": 13.5,
+        "code": 51,
+        "mm": 0.2
       },
       {
         "time": "2026-11-28T12:00",
-        "temp": 16.2,
+        "temp": 15.9,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-28T15:00",
-        "temp": 20.0,
+        "temp": 19.7,
         "code": 0,
         "mm": 0.0
       },
       {
         "time": "2026-11-28T18:00",
-        "temp": 19.0,
-        "code": 2,
+        "temp": 18.8,
+        "code": 3,
         "mm": 0.0
       },
       {
         "time": "2026-11-28T21:00",
-        "temp": 18.5,
-        "code": 3,
+        "temp": 18.3,
+        "code": 2,
         "mm": 0.0
       }
     ],
@@ -449,7 +449,7 @@
     ],
     "tomorrow": {
       "code": 2,
-      "max": 17.0,
+      "max": 16.7,
       "min": 9.6
     },
     "rain": {
@@ -765,7 +765,7 @@
     ]
   },
   "gold": {
-    "price": 3669.5,
+    "price": 3668.5,
     "prev": 3620.4,
     "points": [
       [
@@ -1072,7 +1072,7 @@
     ]
   },
   "fx": {
-    "price": 159.532,
+    "price": 159.534,
     "prev": 159.226
   },
   "topix": {
