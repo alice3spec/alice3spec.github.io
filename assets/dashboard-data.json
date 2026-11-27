@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T03:43:15.490592+09:00",
+  "updated": "2026-11-28T03:48:18.028090+09:00",
   "feeds": {
     "kabu": [
       {
@@ -54,9 +54,9 @@
         "date": "2026-11-27T05:52:14+00:00"
       },
       {
-        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
-        "date": "2026-11-27T12:02:33+00:00"
+        "title": "(NEXT FUNDS)日経平均レバレッジ上場投信【1570】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSXJOa2dkbWprTUdFYWNqMS1TUks2aF82bXFUblhxcThHSmY3S1I0cWJWeWlqc3QyalZoM3pUMFRpZVhQa3FidUcweFVhUFplRFE?oc=5",
+        "date": "2026-11-27T15:59:40+00:00"
       },
       {
         "title": "東証14時 日経平均は上値追い続く 1100円超高 東エレクなど高い - 日本経済新聞",
@@ -1072,7 +1072,7 @@
     ]
   },
   "fx": {
-    "price": 159.534,
+    "price": 159.536,
     "prev": 159.226
   },
   "topix": {
