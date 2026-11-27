@@ -1,54 +1,38 @@
-西日本初。福岡で顔をかざして支払できる「顔認証決済」がスタート
+1Passwordが不正アクセス被害。保管庫のパスワードは無事とのこと
 
-Nov 27,2026 13:30
+Nov 27,2026 12:30
 
-Image: Adobe Stock
+ヤマダユウス型 ( GIZMODOライター )
 
-財布もスマホも、バッグに入れたままでOKです。
+Image: Samuel Boivin / Shutterstock.com
 
-11月25日、福岡・天神の大型複合施設「ONE FUKUOKA BLDG.（ワンビル）」の114店舗で顔認証決済が始まりました。
+ついにこういうところ被害に…。
 
-Photo: ONE FUKUOKA BLDG.
+パスワード管理アプリ「1Password」が、社内システムへの不正アクセスを受けたと発表しました。
 
-Advertisement
+> We’re sharing an update about a recent security incident involving some of 1Password’s backend systems. 𝗡𝗼 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝘃𝗮𝘂𝗹𝘁 𝗰𝗼𝗻𝘁𝗲𝗻𝘁, 𝗶𝗻𝗰𝗹𝘂𝗱𝗶𝗻𝗴 𝘀𝗲𝗰𝗿𝗲𝘁𝘀, 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱𝘀 𝗮𝗻𝗱 𝗼𝘁𝗵𝗲𝗿 𝘃𝗮𝘂𝗹𝘁 𝗶𝘁𝗲𝗺𝘀, 𝗼𝗿 𝘁𝗵𝗲 𝗸𝗲𝘆𝘀 𝘁𝗵𝗮𝘁 𝗽𝗿𝗼𝘁𝗲𝗰𝘁 𝘁𝗵𝗲𝗺 𝘄𝗲𝗿𝗲 𝗮𝗰𝗰𝗲𝘀𝘀𝗲𝗱 𝗼𝗿 𝗰𝗼𝗺𝗽𝗿𝗼𝗺𝗶𝘀𝗲𝗱 𝗱𝘂𝗿𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝗶𝗻𝗰𝗶𝗱𝗲𝗻𝘁. We have confirmed that all customer vaults and credentials remain secure. Our services continue operating normally. Independent cybersecurity experts have been engaged to validate our containment approaches and remediation efforts. While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a limited amount of customer account information from a subset of our customers, including names and email addresses. No action is required by customers, their 1Password accounts remain secure. As always, please keep alert to unexpected phishing attempts. Your vault secrets are encrypted with keys that only you hold, so we can’t access them, and they cannot be retrieved from our systems. You can read more about the steps we’ve taken on our blog at: https://t.co/9fbzzAJYQ9
+>
+> — 1Password (@1Password) November 25, 2026
 
-日立製作所と東武鉄道が共同で展開する生体認証サービス「SAKULaLa（サクララ）」を活用したもので、SAKULaLaを使った顔認証決済の導入は西日本の商業施設で初めてとのこと。
+2026年11月25日（現地時間）公開のブログによると、一部ユーザーの氏名やメールアドレスなどが攻撃者に渡ったものの、パスワードなどをしまっておく保管庫の中身にはアクセスされていないとのことです。よ、よかった…。
 
-店舗での顔認証決済のイメージ
+## ユーザーは焦らずともOK
 
-Photo: 日立製作所
+原因は、社員の業務用GitHubアカウントの乗っ取り。攻撃者はそこからバックエンドに悪意あるコードを送り込み、一部ユーザーの氏名やメールアドレス、アカウントIDなどを持ち出しました。アカウント復旧用リンクのトークンも一部含まれていましたが、単体ではログインできないとのこと。
 
-## 顔をかざして4桁の数字を入力
+一方、パスワードはそもそも1Passwordの手元にありません。アカウントパスワードとSecret Keyは自社で保管しておらず、保管庫の中身もユーザーだけが持つ鍵で暗号化されているので、同社でも開けない仕組みです。なので、ユーザー側で設定を変える必要もないそうな。
 
-利用するには、事前に自分の顔や携帯電話番号、クレジットカード情報をSAKULaLaに登録しておきます。
+> Secret Key…自分のパスワードと組み合わせて初めてデータを開けられる、ユーザー専用のもうひとつの鍵（34文字の英数字）のこと。これは運営会社も持っていません。
 
-お店では支払金額を確認し、決済端末のカメラに顔を向けます。そして、確認番号入力画面に登録した携帯電話番号の下4桁を入力すれば、お会計は完了です。
+ただ、これから気をつけたいのはフィッシングです。名前とメールアドレスが漏れた以上、1Passwordを名乗る偽メールが届くかもしれません。
 
-顔認証決済の流れ。本人確認には携帯電話番号の下4桁を使います
+同社はパスワードやSecret Keyを尋ねることは決してないとブログで明言しています。焦る気持ちはわかりますが、「1Passwordから大事なお知らせ」的なメールが来ても、いったん立ち止まってくださいね！
 
-Image: 日立製作所
+Source: 1Password, X
 
-決済画面にはピンク色のキャラクターが登場し、顔の位置や向きを案内してくれます。なんだか、プリクラを撮っているみたいですね。
+17,980
 
-## ポイントアプリを探す手間も省けます
-
-レジで「ポイントは貯めますか？」と聞かれて、慌ててスマホのアプリを探した経験はありませんか？
-
-バーコードを提示して、今度は支払い用のアプリに切り替えて…。後ろに人が並んでいると焦るんですよね。
-
-SAKULaLaなら、西鉄ショッピングポイントの会員IDも登録でき、顔認証で支払うと同時にポイントも貯まるんです。
-
-日立によると、クレジットカードを端末に差し込んで支払い、スマホでポイントアプリを提示する方法に比べ、端末の操作開始からポイント付与までの時間を約50％短縮できるそうです（商品のスキャン時間を除く）。
-
-お店側も、今使っている決済端末にSAKULaLaのアプリをインストールすればOK。新たに顔認証専用の機器を設置する必要がなかったことも、114店舗で一斉導入できた理由だそうです。
-
-ちなみにワンビルでは12月20日まで、顔認証決済の導入を記念したキャンペーンを開催中。西鉄ショッピングポイントを登録し、顔認証決済で合計3,000円以上（税込）の買い物をすると、500円分のワンビル商品券がもらえます（1人1日1回まで）。
-
-Source: 日立製作所, 西日本鉄道, ONE FUKUOKA BLDG.
-
-1,690
-
-990 円 41%OFF
+9,980 円 44%OFF
 
 PR
 
@@ -112,4 +96,4 @@ Amazon
 
 プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
 
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
+FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING 
