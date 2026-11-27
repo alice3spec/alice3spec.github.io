@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:18:20.497988+09:00",
+  "updated": "2026-11-27T23:23:20.085167+09:00",
   "feeds": {
     "kabu": [
       {
@@ -271,7 +271,8 @@
       {
         "title": "イーロン・マスク「すべて子どもにSpaceX株プレゼント」でも5年は売れない。何が狙いなのか",
         "link": "https://www.gizmodo.jp/article/elon-musk-spacex-stock-kids/",
-        "date": "2026-11-27T10:00:00+00:00"
+        "date": "2026-11-27T10:00:00+00:00",
+        "body": "a45.txt"
       },
       {
         "title": "iPhone Duoでも使える。Apple PencilがAmazonなら20％オフで手に入ります",
@@ -294,15 +295,15 @@
         "body": "a48.txt"
       },
       {
-        "title": "「高齢者」の定義引き上げ 自民案",
-        "link": "https://news.yahoo.co.jp/pickup/6604235?source=rss",
-        "date": "2026-11-27T12:08:53+00:00",
-        "body": "a49.txt"
-      },
-      {
         "title": "関氏18年食事会で300万円収入計上",
         "link": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
         "date": "2026-11-27T14:08:54+00:00",
+        "body": "a49.txt"
+      },
+      {
+        "title": "「高齢者」の定義引き上げ 自民案",
+        "link": "https://news.yahoo.co.jp/pickup/6604235?source=rss",
+        "date": "2026-11-27T12:08:53+00:00",
         "body": "a50.txt"
       },
       {
@@ -457,7 +458,7 @@
     }
   },
   "index": {
-    "price": 58710.0,
+    "price": 58735.0,
     "prev": 57250.0,
     "points": [
       [
@@ -967,7 +968,7 @@
     ]
   },
   "gold": {
-    "price": 3664.4,
+    "price": 3662.2,
     "prev": 3617.8,
     "points": [
       [
@@ -1477,7 +1478,7 @@
     ]
   },
   "fx": {
-    "price": 159.529,
+    "price": 159.525,
     "prev": 159.226
   },
   "topix": {
