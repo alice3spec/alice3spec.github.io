@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T11:48:22.483206+09:00",
+  "updated": "2026-11-27T11:53:24.173726+09:00",
   "feeds": {
     "kabu": [
       {
@@ -13,16 +13,6 @@
         "date": "2026-11-27T02:32:47+00:00"
       },
       {
-        "title": "日経平均前引け 続伸 672円高の5万8172円 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QVl9pYkJXV1UxSHJkV25vaVdQNW54UnY1amdzSVA0bFNOY0FRaFh2NFpZSE5SdUFrMVRQU1pFRjlsV2pGWElDSXpSeFBnQm4teFM4NnJhWTNGWUtMZVhxckt1Uk9aTE81dkFZcQ?oc=5",
-        "date": "2026-11-27T02:41:12+00:00"
-      },
-      {
-        "title": "日経平均、600円超高＝東京株式(時事通信) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFFPWExOMno0cFo1WFl6NVpKa0pKNk4zOWVqU0cwOFktRGtJWWVmSmE2dUMxSEZ3UGNJVkRrOVpkZGNvazh6R0ZEQ0JicmxQT1dwX1RXa19kdnpFbnBDTzZRUGttRWVmaFltQzVMVUdySEVWTllici1kYjlTY1NCZzM1dEhCREU?oc=5",
-        "date": "2026-11-27T02:02:09+00:00"
-      },
-      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MbGQwSlcwNEJsUUxrY05kWHdMZ1VnajZSZ25GUzNlbERpeTF4YS1tLVpoQnVabDU2ZEFBTXBVUFNLSktqbWJlVkhteUxCZk5qZzN2Y01OY2xlYnVFdlYtUg?oc=5",
         "date": "2026-11-26T23:15:30+00:00"
@@ -33,9 +23,14 @@
         "date": "2026-11-26T07:24:00+00:00"
       },
       {
-        "title": "日経平均4,705円安の暴落相場でなぜ最高値？ 山崎製パンを支える「本業成長・値上げ力・資金流入」 - マネーフォワード",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LOXJlaGhwMjAyOWE4ckZGRHlYd1ZLSUx6WTVuYzVaWjNxNjNhUUVBX2QwVkRyLUJVeWhWY2Q0cllRVkNPQTJHN0hqZWw5enNVRjZKZF9hd3RxNFdsTTNXSDV4dw?oc=5",
-        "date": "2026-11-25T22:50:28+00:00"
+        "title": "２７日の株式相場見通し＝続伸、欧州株大幅高が支援材料に キオクシアに注目 - みんかぶ",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE11aV9qQjBfV3Z3SXIyOEc1eFZYdUhaaDZ6YjRicXN3LXExUV9TTVNjSUx2NjJLS0pIZFZPTnZIOUZJcFRUX1E?oc=5",
+        "date": "2026-11-26T23:00:00+00:00"
+      },
+      {
+        "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5cUltSm1wVUtuX3ZGZG1kVTFkOWhhcGI2THh5U2FJVVRWcmpLVmhOMVhWbjVWR0YydE54eW9JSWhVa1RaQkJ5WXFlbVE5T1pWUkYzXzUweDJZcFVNYndwd3pOLVVjYzg?oc=5",
+        "date": "2026-11-24T13:11:41+00:00"
       },
       {
         "title": "日経平均株価、欧州株の上昇が追い風（先読み株式相場） - 日本経済新聞",
@@ -43,19 +38,24 @@
         "date": "2026-11-26T22:30:00+00:00"
       },
       {
-        "title": "キオクシアHD株が一時ストップ高 株主還元の強化に期待の声（26日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubHJ6TUNpVWxSZndJMG95NmFoWUVhd211U0RaUUNRaHVOeHRVV00zYjdZN1hDSEpqRU1zMnNNUTlURDdjTFdDMmVYZlpzRlRfSXdKWnJna3FOenN0cU9UcEs4VFZYdVpDQWxxVg?oc=5",
-        "date": "2026-11-26T07:30:00+00:00"
-      },
-      {
         "title": "日経平均株価が続伸 AI・半導体関連の一角に買い - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WTktBaGduSjI3SWZ3bUdOU1FjWHJjaVZCaU5jcHY4VDY4STVlMnRYME5SRmxhZEM1NnFiVUkxUnNqUm5zWXZsT2tvVjgzUldTZTFTbldGTERucVdmMHdXZVJkQnRIdFhGZ2MycQ?oc=5",
         "date": "2026-11-27T00:04:25+00:00"
       },
       {
-        "title": "日経平均株価の指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SRDk1ZENIQUIzSUZyMHZRNHpCR2xlcTI5UTJRYXVoMDBrM3BmNndBT29vV0dDZWdQazZHb2tURGZNYy1OMU93R0kyUUZUT3VmU2VhbA?oc=5",
-        "date": "2026-11-26T23:27:42+00:00"
+        "title": "キオクシアHD株が一時ストップ高 株主還元の強化に期待の声（26日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubHJ6TUNpVWxSZndJMG95NmFoWUVhd211U0RaUUNRaHVOeHRVV00zYjdZN1hDSEpqRU1zMnNNUTlURDdjTFdDMmVYZlpzRlRfSXdKWnJna3FOenN0cU9UcEs4VFZYdVpDQWxxVg?oc=5",
+        "date": "2026-11-26T07:30:00+00:00"
+      },
+      {
+        "title": "明日の株式相場に向けて＝非ＡＩ株が牽引する年末ラリーの現実味 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VNkJndV9QcTVKT0ZKWlB3Y0YzeWdPSm40TjRLR3d0NGlTaDRQTjVJQTFmV21RVkdWS3Flb0pURmhkYkVYcjNNbFU4SThzQW9xdGYyQ0FVWUJEM1g3RU1zOA?oc=5",
+        "date": "2026-11-26T08:30:00+00:00"
+      },
+      {
+        "title": "日経平均ベア2倍上場投信【1360】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqTENmZUFaNFdfSjNYNDdHREtlZU1HdGpsOXNNU3RIR0MxSlRxLTdrXzdmUlBiQ0l6U3BxWk00eDhncVVwR3BTV1A5TzlJSzExV2c?oc=5",
+        "date": "2026-11-26T19:31:21+00:00"
       },
       {
         "title": "東証寄り付き 日経平均は続伸で始まる AI・半導体関連の一角に買い - 日本経済新聞",
@@ -213,76 +213,71 @@
     ],
     "gadget": [
       {
+        "title": "AmazonブラックフライデーでM6 Mac miniが13万3800円まで落ちた。もうこの値段で買える日は来ないのでは…",
+        "link": "https://www.gizmodo.jp/article/2611-m6-mac-mini-amazon-black-friday-sale/",
+        "date": "2026-11-27T02:45:00+00:00"
+      },
+      {
         "title": "もうスマホを開かなくてOK。睡眠を守るためのニトリ製プロジェクター時計",
         "link": "https://www.gizmodo.jp/article/nitori-projection-digital-clock-px5-bazzy/",
         "date": "2026-11-27T02:35:00+00:00",
-        "body": "a36.txt"
+        "body": "a37.txt"
       },
       {
-        "title": "設置してからが本番。駐車場のセキュリティカメラの正解は“鳴りすぎない”こと",
+        "title": "置いたら、あとは任せるだけ。充電・データ回収に何度も通わなくていい4Gセキュリティカメラ",
         "link": "https://www.gizmodo.jp/article/tapo-c665g-kit-security-camera/",
         "date": "2026-11-27T02:00:00+00:00",
-        "body": "a37.txt"
+        "body": "a38.txt"
       },
       {
         "title": "アップルは「iPadでmacOSを動かすテスト」も行っていたらしい",
         "link": "https://www.gizmodo.jp/article/apple-ipad-macos-test/",
-        "date": "2026-11-27T01:45:00+00:00",
-        "body": "a38.txt"
+        "date": "2026-11-27T01:45:00+00:00"
       },
       {
         "title": "「気絶買い」を繰り返した編集部員、 夢のホームシアターを手に入れる",
         "link": "https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/",
-        "date": "2026-11-27T01:30:00+00:00",
-        "body": "a39.txt"
+        "date": "2026-11-27T01:30:00+00:00"
       },
       {
         "title": "トヨタがトランクに収まる「小型折りたたみEVバイク」を発表。車に積んでチョイ乗りに良さそう",
         "link": "https://www.gizmodo.jp/article/2611-toyota-folding-ev-bike-bke/",
         "date": "2026-11-27T01:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a41.txt"
       },
       {
         "title": "ボイスレコーダーで録音しただけなのに、カレンダーの予定入力とお礼メールまで終わってた",
         "link": "https://www.gizmodo.jp/article/2610-plaud-intelligence-review/",
-        "date": "2026-11-27T00:30:00+00:00",
-        "body": "a41.txt"
+        "date": "2026-11-27T00:30:00+00:00"
       },
       {
         "title": "恐喝事件に資産情報漏洩...。今こそ見直したい防犯グッズまとめ",
         "link": "https://www.gizmodo.jp/article/2611-security-goods-to-buy-on-amazon/",
         "date": "2026-11-27T00:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a43.txt"
       },
       {
         "title": "アメリカのCIAすらハッキングされてしまう",
         "link": "https://www.gizmodo.jp/article/2611-cia-us-intelligence-hacked/",
         "date": "2026-11-26T22:15:00+00:00",
-        "body": "a43.txt"
+        "body": "a44.txt"
       },
       {
         "title": "アクセみたいなInsta360のフォトフレーム。社員証にもなりそう",
         "link": "https://www.gizmodo.jp/article/2611-insta360-toast-e-paper-badge/",
         "date": "2026-11-26T22:10:00+00:00",
-        "body": "a44.txt"
+        "body": "a45.txt"
       },
       {
         "title": "ヒューマノイドに動きを教えるバイト、東京で募集中。時給1,350円",
         "link": "https://www.gizmodo.jp/article/2611-humanoid-robot-operator-tokyo/",
         "date": "2026-11-26T22:00:00+00:00",
-        "body": "a45.txt"
+        "body": "a46.txt"
       },
       {
         "title": "Amazonブラックフライデー、M5 MacBook Airが3万円オフ。全色全スペックがセール対象。何色からなくなるか!?",
         "link": "https://www.gizmodo.jp/article/2611-m5-macbook-air-black-friday-sale/",
-        "date": "2026-11-26T21:35:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "スマホ全盛時代にソニーが発売する65万円超のウォークマン。どこがすごいの？",
-        "link": "https://www.gizmodo.jp/article/sony-walkman-nw-wm1zm3/",
-        "date": "2026-11-26T21:15:00+00:00",
-        "body": "a47.txt"
+        "date": "2026-11-26T21:35:00+00:00"
       }
     ],
     "yahoo": [
@@ -457,7 +452,7 @@
     }
   },
   "index": {
-    "price": 58260.0,
+    "price": 58240.0,
     "prev": 57250.0,
     "points": [
       [
@@ -967,7 +962,7 @@
     ]
   },
   "gold": {
-    "price": 3657.4,
+    "price": 3650.5,
     "prev": 3617.8,
     "points": [
       [
@@ -1477,7 +1472,7 @@
     ]
   },
   "fx": {
-    "price": 159.158,
+    "price": 159.16,
     "prev": 159.226
   },
   "topix": {
