@@ -1,42 +1,59 @@
-1Passwordが不正アクセス被害。保管庫のパスワードは無事とのこと
+JAXA、5年ぶりに日本人宇宙飛行士を新規募集へ。前回の倍率は2,064倍
 
-Nov 27,2026 12:30
+Nov 27,2026 13:45
 
-ヤマダユウス型 ( GIZMODOライター )
+長谷川賢人 ( GIZMODO編集部 )
 
-Image: Samuel Boivin / Shutterstock.com
+image: JAXAデジタルアーカイブス
 
-ついにこういうところ被害に…。
+月に行けるかもしれないお仕事です。
 
-パスワード管理アプリ「1Password」が、社内システムへの不正アクセスを受けたと発表しました。
+NASAの月の住人、南極点の情シス、1年間「月と火星」に住む4人など、桁外れの職場から出てくるエクストリーム求人。
 
-> We’re sharing an update about a recent security incident involving some of 1Password’s backend systems. 𝗡𝗼 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝘃𝗮𝘂𝗹𝘁 𝗰𝗼𝗻𝘁𝗲𝗻𝘁, 𝗶𝗻𝗰𝗹𝘂𝗱𝗶𝗻𝗴 𝘀𝗲𝗰𝗿𝗲𝘁𝘀, 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱𝘀 𝗮𝗻𝗱 𝗼𝘁𝗵𝗲𝗿 𝘃𝗮𝘂𝗹𝘁 𝗶𝘁𝗲𝗺𝘀, 𝗼𝗿 𝘁𝗵𝗲 𝗸𝗲𝘆𝘀 𝘁𝗵𝗮𝘁 𝗽𝗿𝗼𝘁𝗲𝗰𝘁 𝘁𝗵𝗲𝗺 𝘄𝗲𝗿𝗲 𝗮𝗰𝗰𝗲𝘀𝘀𝗲𝗱 𝗼𝗿 𝗰𝗼𝗺𝗽𝗿𝗼𝗺𝗶𝘀𝗲𝗱 𝗱𝘂𝗿𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝗶𝗻𝗰𝗶𝗱𝗲𝗻𝘁. We have confirmed that all customer vaults and credentials remain secure. Our services continue operating normally. Independent cybersecurity experts have been engaged to validate our containment approaches and remediation efforts. While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a limited amount of customer account information from a subset of our customers, including names and email addresses. No action is required by customers, their 1Password accounts remain secure. As always, please keep alert to unexpected phishing attempts. Your vault secrets are encrypted with keys that only you hold, so we can’t access them, and they cannot be retrieved from our systems. You can read more about the steps we’ve taken on our blog at: https://t.co/9fbzzAJYQ9
->
-> — 1Password (@1Password) November 25, 2026
+やはり宇宙や極地にはロマンがあるのか求人記事も人気ですが、NASAの宇宙飛行士などはアメリカ市民であることが条件でした。
 
-2026年11月25日（現地時間）公開のブログによると、一部ユーザーの氏名やメールアドレスなどが攻撃者に渡ったものの、パスワードなどをしまっておく保管庫の中身にはアクセスされていないとのことです。よ、よかった…。
+今回は、日本国籍が条件です。
 
-## ユーザーは焦らずともOK
+## JAXAが日本人宇宙飛行士の募集（を予告）
 
-原因は、社員の業務用GitHubアカウントの乗っ取り。攻撃者はそこからバックエンドに悪意あるコードを送り込み、一部ユーザーの氏名やメールアドレス、アカウントIDなどを持ち出しました。アカウント復旧用リンクのトークンも一部含まれていましたが、単体ではログインできないとのこと。
+image: JAXAデジタルアーカイブス
 
-一方、パスワードはそもそも1Passwordの手元にありません。アカウントパスワードとSecret Keyは自社で保管しておらず、保管庫の中身もユーザーだけが持つ鍵で暗号化されているので、同社でも開けない仕組みです。なので、ユーザー側で設定を変える必要もないそうな。
+文部科学省とJAXAは11月27日、日本人宇宙飛行士の候補者を新しく募集すると発表しました。採用は「若干名」です。
 
-> Secret Key…自分のパスワードと組み合わせて初めてデータを開けられる、ユーザー専用のもうひとつの鍵（34文字の英数字）のこと。これは運営会社も持っていません。
+ただし、今日から応募できるわけではありません。来年4月ごろに募集要項が出て、書類の受け付けは6月ごろから3カ月ほど。結果の発表は、2028年秋ごろの予定です。
 
-ただ、これから気をつけたいのはフィッシングです。名前とメールアドレスが漏れた以上、1Passwordを名乗る偽メールが届くかもしれません。
+応募する人の準備期間を考えて、早めに予告したそうです。気持ちの準備も仕事の整理もできますね。
 
-同社はパスワードやSecret Keyを尋ねることは決してないとブログで明言しています。焦る気持ちはわかりますが、「1Passwordから大事なお知らせ」的なメールが来ても、いったん立ち止まってくださいね！
+日本は2024年、NASAとの取り決めで、アルテミス計画で日本人宇宙飛行士が月面に降りる機会を2回もらっています。代わりに日本は、人が乗って暮らせる月面探査車「与圧ローバ」をつくって、2031年の打ち上げを目指しています。
 
-Source: 1Password, X
+今回の候補者は、2030年代の日本の有人宇宙活動を担う人たち。月面か、地球を回る軌道の上か。どちらかが職場になりそうです。
 
-17,980
+## 応募条件はこれから決めます
 
-9,980 円 44%OFF
+image: JAXAデジタルアーカイブス
 
-PR
+応募の条件は、前回の募集要項を参考に、これから決めるとのこと。学歴や専門は、前回と同じ扱いになるそうです。
 
-※商品を購入すると、売上の一部が販売プラットフォームよりメディアジーンに還元されることがあります。掲載されている情報は執筆時点の情報、または自動で更新されています。
+前回（2021年度）の募集では、学歴や専門分野の条件をなくし、こんな条件を並べていました。
+
+*   日本国籍を持っていること
+*   実務経験が3年以上（※修士号なら1年、博士号なら3年とみなす）
+*   身長149.5〜190.5cm
+*   視力は両眼とも矯正1.0以上
+*   色覚が正常（石原式による）
+*   聴力は「背後2mの距離で普通の会話が可能」
+
+前回は4,127人が応募して、最年少は17歳、最年長は73歳でした。選ばれたのは、外科医の米田あゆさんと、世界銀行の諏訪理さんの2人。倍率は2,063.5倍です。
+
+選抜は約1年。そのあと約1年半の基礎訓練を経て、宇宙飛行士に認定されます。
+
+ちなみに、気になるお給料事情。前回の募集要項では「JAXAの職員給与規程による」。本給は30歳で月約32万円、35歳で月約36万円で、ほかに賞与と「宇宙飛行士手当」などがつくそうです。
+
+JAXAが公表している35歳のモデル年収は約681万円ですが…あくまで参考まで。
+
+本気で目指す人は、まずは来年4月の募集要項を待ちましょう。その間に、いまの仕事を整理しつつ、体や頭を整えていくのが、いちばんの近道かもしれません。
+
+Source: JAXA, JAXA, 文部科学省, 文部科学省, JAXA, 文部科学省,
 
 Advertisement
 
@@ -96,4 +113,4 @@ Amazon
 
 プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
 
-FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING 
+FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
