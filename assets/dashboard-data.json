@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T14:03:21.284246+09:00",
+  "updated": "2026-11-27T14:08:16.435479+09:00",
   "feeds": {
     "kabu": [
       {
@@ -38,14 +38,14 @@
         "date": "2026-11-26T22:30:00+00:00"
       },
       {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は上昇幅を拡大 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBISkRnTnl3dUw5YkVQOXBPSm9YZ2NHVnMtZ08tem9JXzRpR0J0ZldNdW02NmpTeE1IMDVRc0Z6RE5sT0RSZ1JheEpvTjdYa0dYVG14c2EyTWRSRDlTVUVQXw?oc=5",
-        "date": "2026-11-27T03:34:00+00:00"
-      },
-      {
         "title": "東証前引け 日経平均は続伸 海外投機筋の先物買いが押し上げ - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LMXdFSzY1UXh3VFY1aWV1NlcyUG5LYVVOQkpqYmN4MXY4bDZ2NllzcGl0bG1QeVJhd3VsNENUXy1lQTY4M243VWlScHlkMEdyZ0xUVHZEdTR5N2dxZGMzX2JnbVV6RHFSR2stQQ?oc=5",
         "date": "2026-11-27T02:51:45+00:00"
+      },
+      {
+        "title": "東京株式（後場寄り付き）＝日経平均株価は上昇幅を拡大 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBISkRnTnl3dUw5YkVQOXBPSm9YZ2NHVnMtZ08tem9JXzRpR0J0ZldNdW02NmpTeE1IMDVRc0Z6RE5sT0RSZ1JheEpvTjdYa0dYVG14c2EyTWRSRDlTVUVQXw?oc=5",
+        "date": "2026-11-27T03:34:00+00:00"
       },
       {
         "title": "キオクシアHD株が一時ストップ高 株主還元の強化に期待の声（26日の株式市場） - 日本経済新聞",
@@ -139,148 +139,136 @@
     ],
     "it": [
       {
+        "title": "聴覚障害の社員にスマートグラス支給　会話をリアルタイムに文字表示　ソフトバンク、連携アプリも独自開発",
+        "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
+        "date": "2026-11-27T04:41:50+00:00"
+      },
+      {
+        "title": "MCPに新機能「Skills over MCP」登場　ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+        "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003513/",
+        "date": "2026-11-27T04:33:51+00:00"
+      },
+      {
         "title": "サブスクの「お試し→自動更新」は客を逃していた？　新規購読者数は「お試し→自動解約」比23％減　140万人で実験",
         "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003503/",
-        "date": "2026-11-27T03:00:00+00:00",
-        "body": "a24.txt"
+        "date": "2026-11-27T03:00:00+00:00"
       },
       {
         "title": "「フィッシング対策訓練」って実効性あるの？　約1.2万人に模擬メール送り検証、結果は……",
         "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003502/",
-        "date": "2026-11-27T03:00:00+00:00",
-        "body": "a25.txt"
+        "date": "2026-11-27T03:00:00+00:00"
       },
       {
         "title": "JAXA宇宙飛行士、5年ぶり募集へ　月面探査を担う人材育成",
         "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003512/",
-        "date": "2026-11-27T02:21:41+00:00",
-        "body": "a26.txt"
+        "date": "2026-11-27T02:21:41+00:00"
       },
       {
         "title": "三井ショッピングパーク、約312万会員の個人情報漏えい　アプリに不正アクセス",
         "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
-        "date": "2026-11-27T01:33:52+00:00",
-        "body": "a27.txt"
+        "date": "2026-11-27T01:33:52+00:00"
       },
       {
         "title": "航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい　契約終了後も削除されず残存",
         "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003509/",
         "date": "2026-11-27T00:55:22+00:00",
-        "body": "a28.txt"
+        "body": "a30.txt"
       },
       {
         "title": "文部科学省の入札システムに不正アクセス　最大16万件漏えいか",
         "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003508/",
         "date": "2026-11-27T00:08:04+00:00",
-        "body": "a29.txt"
+        "body": "a31.txt"
       },
       {
         "title": "SpaceXとマスク氏、米国の子どもに自社株を計2株ずつ贈与へ　トランプ政権の「Trump Account」経由で",
         "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003507/",
-        "date": "2026-11-26T23:52:03+00:00",
-        "body": "a30.txt"
+        "date": "2026-11-26T23:52:03+00:00"
       },
       {
         "title": "X、「ペアレンタルコントロール」を導入　メッセージ内容は見られず",
         "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003506/",
-        "date": "2026-11-26T22:25:54+00:00",
-        "body": "a31.txt"
+        "date": "2026-11-26T22:25:54+00:00"
       },
       {
         "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？　弁護士の見解",
         "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
-        "date": "2026-11-26T07:06:43+00:00",
-        "body": "a32.txt"
+        "date": "2026-11-26T07:06:43+00:00"
       },
       {
         "title": "鉄道運転シミュレーターをマイクロバスに搭載「ライドライブ」　東急テクノシステムが開発",
         "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003492/",
         "date": "2026-11-26T06:34:12+00:00",
-        "body": "a33.txt"
-      },
-      {
-        "title": "アディーレ法律事務所、個人情報約1828件漏えい　氏名や問い合わせ内容など……委託先「メール商人」に不正アクセス",
-        "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003484/",
-        "date": "2026-11-26T05:31:18+00:00",
-        "body": "a34.txt"
-      },
-      {
-        "title": "KDDI、Xのデータ利用で包括契約　通信品質向上や法人向けサービスに活用へ",
-        "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003480/",
-        "date": "2026-11-26T05:11:44+00:00",
         "body": "a35.txt"
       }
     ],
     "gadget": [
       {
+        "title": "模様が美しい。防弾チョッキにも使われるアラミド繊維で織り上げたiPhoneケース",
+        "link": "https://www.gizmodo.jp/article/pitaka-wind-over-wheat-phone-cases/",
+        "date": "2026-11-27T05:00:00+00:00"
+      },
+      {
+        "title": "JAXA、5年ぶりに日本人宇宙飛行士を新規募集へ。前回の倍率は2,064倍",
+        "link": "https://www.gizmodo.jp/article/2611-jaxa-astronaut-recruitment-2027/",
+        "date": "2026-11-27T04:45:00+00:00"
+      },
+      {
+        "title": "西日本初。福岡で顔をかざして支払できる「顔認証決済」がスタート",
+        "link": "https://www.gizmodo.jp/article/2611-fukuoka-facial-recognition-payment/",
+        "date": "2026-11-27T04:30:00+00:00"
+      },
+      {
+        "title": "買うとなぜか3,000円もらえるPS5、ブラックフライデーに出現",
+        "link": "https://www.gizmodo.jp/article/2611-ps5-black-friday-deal/",
+        "date": "2026-11-27T04:15:00+00:00",
+        "body": "a39.txt"
+      },
+      {
         "title": "ブレーカー落ちによるデータ消失に終止符を。「DELTA 3800 Gen4」がデスクに必須な理由",
         "link": "https://www.gizmodo.jp/article/2611-ecoflow-delta-3800-gen4-blackout/",
         "date": "2026-11-27T04:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a40.txt"
       },
       {
         "title": "1Passwordが不正アクセス被害。保管庫のパスワードは無事とのこと",
         "link": "https://www.gizmodo.jp/article/2611-1password-security-breach-vaults-safe/",
-        "date": "2026-11-27T03:30:00+00:00",
-        "body": "a37.txt"
+        "date": "2026-11-27T03:30:00+00:00"
       },
       {
         "title": "Amazonとコンビニよく使う人、スタメンはこのカードです",
         "link": "https://www.gizmodo.jp/article/2611-amazon-mastercard/",
         "date": "2026-11-27T03:15:00+00:00",
-        "body": "a38.txt"
+        "body": "a42.txt"
       },
       {
         "title": "ブラックフライデーで狙うならコレ。サブスク代なしで多機能な「RingConn Gen 2」",
         "link": "https://www.gizmodo.jp/article/ringconn-gen-2-smartring/",
         "date": "2026-11-27T03:00:00+00:00",
-        "body": "a39.txt"
+        "body": "a43.txt"
       },
       {
         "title": "【Amazonブラックフライデーやりすぎ】在庫あるうちに「AirPods Pro3」回収して！ 9,000円値引きはちょっと異常",
         "link": "https://www.gizmodo.jp/article/2611-airpods-pro-3-amazon-black-friday-sale/",
         "date": "2026-11-27T02:50:00+00:00",
-        "body": "a40.txt"
+        "body": "a44.txt"
       },
       {
         "title": "AmazonブラックフライデーでM6 Mac miniが13万3800円まで落ちた。もうこの値段で買える日は来ないのでは…",
         "link": "https://www.gizmodo.jp/article/2611-m6-mac-mini-amazon-black-friday-sale/",
         "date": "2026-11-27T02:45:00+00:00",
-        "body": "a41.txt"
+        "body": "a45.txt"
       },
       {
         "title": "もうスマホを開かなくてOK。睡眠を守るためのニトリ製プロジェクター時計",
         "link": "https://www.gizmodo.jp/article/nitori-projection-digital-clock-px5-bazzy/",
-        "date": "2026-11-27T02:35:00+00:00"
+        "date": "2026-11-27T02:35:00+00:00",
+        "body": "a46.txt"
       },
       {
         "title": "置いたら、あとは任せるだけ。充電・データ回収に何度も通わなくていい4Gセキュリティカメラ",
         "link": "https://www.gizmodo.jp/article/tapo-c665g-kit-security-camera/",
         "date": "2026-11-27T02:00:00+00:00",
-        "body": "a43.txt"
-      },
-      {
-        "title": "アップルは「iPadでmacOSを動かすテスト」も行っていたらしい",
-        "link": "https://www.gizmodo.jp/article/apple-ipad-macos-test/",
-        "date": "2026-11-27T01:45:00+00:00",
-        "body": "a44.txt"
-      },
-      {
-        "title": "「気絶買い」を繰り返した編集部員、 夢のホームシアターを手に入れる",
-        "link": "https://www.gizmodo.jp/article/expand-sonos-27-products-to-build-a-home-theater/",
-        "date": "2026-11-27T01:30:00+00:00",
-        "body": "a45.txt"
-      },
-      {
-        "title": "トヨタがトランクに収まる「小型折りたたみEVバイク」を発表。車に積んでチョイ乗りに良さそう",
-        "link": "https://www.gizmodo.jp/article/2611-toyota-folding-ev-bike-bke/",
-        "date": "2026-11-27T01:00:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "ボイスレコーダーで録音しただけなのに、カレンダーの予定入力とお礼メールまで終わってた",
-        "link": "https://www.gizmodo.jp/article/2610-plaud-intelligence-review/",
-        "date": "2026-11-27T00:30:00+00:00",
         "body": "a47.txt"
       }
     ],
@@ -455,7 +443,7 @@
     }
   },
   "index": {
-    "price": 58615.0,
+    "price": 58565.0,
     "prev": 57250.0,
     "points": [
       [
@@ -964,15 +952,15 @@
       ],
       [
         "11/26 13:59",
-        58615.0,
-        58615.0,
-        58615.0,
-        58615.0
+        58565.0,
+        58565.0,
+        58565.0,
+        58565.0
       ]
     ]
   },
   "gold": {
-    "price": 3663.1,
+    "price": 3660.0,
     "prev": 3617.8,
     "points": [
       [
@@ -1481,15 +1469,15 @@
       ],
       [
         "11/26 13:59",
-        3663.1,
-        3663.1,
-        3663.1,
-        3663.1
+        3660.0,
+        3660.0,
+        3660.0,
+        3660.0
       ]
     ]
   },
   "fx": {
-    "price": 159.271,
+    "price": 159.294,
     "prev": 159.226
   },
   "topix": {
