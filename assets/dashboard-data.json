@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T00:13:21.197046+09:00",
+ "updated": "2026-11-28T00:18:24.634668+09:00",
  "feeds": {
   "kabu": [
    {
@@ -19,24 +19,19 @@
     "date": "2026-11-27T00:18:00+00:00"
    },
    {
-    "title": "日経平均、500円超高＝東京株式（時事通信） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4VXdjc29WUHB1R2M1bW53OWVKdHUweS1hM3dSMHRheDcyMTFXYTVneVQ2cGktZlduQm5jSkoyYWhFRjc0RnItREd3N0thRjFCTVBIenFidmtGRG93aHhCSFROT1pyRzFBQ2VvY2U3aGNYRlhMdE11a1E4SHZBSVU?oc=5",
-    "date": "2026-11-27T02:00:24+00:00"
-   },
-   {
     "title": "（まとめ）日経平均は1,211円高の58,711円で続伸　AI・半導体銘柄に買い - マネクリ",
     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzRk5IeHB0bE5RWG93YWxXQ2x3bUM3U3d0VnUySkR6el9mSUdFN0dzUlpTRmFsOVlYQVp6V3d3Qk1JSlNGeE9jYjJ1MjF2R2dwWm5qU9IBV0FVX3lxTE5QRklZZXR2amg4S1drWmwzc0hyN2pFY0VuU0NEX0Q4TmRMUEtObFotenpvTkxfSG1IUjVfNHJqTjdIRkxGVUl2TnBaV2tYUXBuMjJSdlF5TQ?oc=5",
     "date": "2026-11-27T07:24:00+00:00"
    },
    {
+    "title": "日経平均VIは大幅に上昇、株価大幅高だが警戒感緩まず(フィスコ) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlFUVU8temRBT0dOZ3pQWHIxOHU0TlZBSzFWZGZJdlBhdzZvNEw1TEVDLUFMQTBKZWxINVRfRE1sYkZicG9CSWNiODVlM3lrZ3NCRW1DRVV2d2Z2RGFNaGliWUp0cWFudGhQYkR2dDE3bFFkRlRkSVo2V1AxajAwb05OaEJUMjA?oc=5",
+    "date": "2026-11-27T05:21:54+00:00"
+   },
+   {
     "title": "東京株式（後場寄り付き）＝日経平均株価は上昇幅を拡大 - みんかぶ",
     "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WWWhsaWJFbjBaWGN3aHoxUXB6ODZjdUhpUHF5Rk5VcWhBaEl5VGhwekR4XzlDN0E5ckNEWEVlZnIydVRiemc?oc=5",
     "date": "2026-11-27T03:34:47+00:00"
-   },
-   {
-    "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yWmprRjBmYjd2QkoyaG9FMUpQdnUxN0NnRk16UmZhWWdLV3VCTnpJN0R6MnR5LVVGQkNKSVkzaV9yLWhyX0JKTy1ndV8tMmRwMlpFZ1RxR20yTGdNaEE?oc=5",
-    "date": "2026-11-24T09:28:56+00:00"
    },
    {
     "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
@@ -54,14 +49,19 @@
     "date": "2026-11-27T05:11:25+00:00"
    },
    {
-    "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
-    "date": "2026-11-27T12:02:33+00:00"
+    "title": "日経平均は1147円高、来週は配当金再投資の動きにも関心 - 株探",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfRHJkZjJWNEJROEFfRHRPYUVVMjhiM2xyc0FCWS1CcUFSdUJBNUY4b1ZpT1h4VnJDenZSTmFvVEpRcG16VnFLSHM2RFJmQjFSUWFGVjJ6TkVjaXNFUEphUA?oc=5",
+    "date": "2026-11-27T05:52:14+00:00"
    },
    {
     "title": "日経平均は大幅続伸、欧州株高を追い風に半導体株に買い／相場概況 - 株探",
     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rY2hWaU1IT21WUXBlMVpzUU9QN0ZJS0FzdkpjWjRkM1lFX2Raak1MVXBHSnFWdWo4ZnRaWU1KZWQ2VzRNbmY5VW51VGV2cElkQy1tblA5SjVFWkpWbXNqQw?oc=5",
     "date": "2026-11-27T07:16:37+00:00"
+   },
+   {
+    "title": "２７日の株式相場見通し＝続伸、欧州株大幅高が支援材料に キオクシアに注目 - 株探",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wem9IOW5rTjI0VXVINTJSUUpXTWZFMEExV01mR05FVWRhdGxWRFlIbVlJTWdXRXFNcHpLandldlRkZjVFSlJSUm9EOTN0NXh0STJ5OFVrdW54eHpYS3JJUA?oc=5",
+    "date": "2026-11-26T23:00:00+00:00"
    }
   ],
   "ai": [
@@ -457,7 +457,7 @@
   }
  },
  "index": {
-  "price": 58190.0,
+  "price": 58280.0,
   "prev": 57250.0,
   "points": [
    [
@@ -1008,22 +1008,29 @@
    ],
    [
     "11/28 00:00",
-    58195.0,
+    58155.0,
     58155.0,
     58210.0,
     58110.0
    ],
    [
-    "11/28 00:03",
-    58190.0,
-    58190.0,
-    58190.0,
-    58190.0
+    "11/28 00:05",
+    58330.0,
+    58160.0,
+    58330.0,
+    58095.0
+   ],
+   [
+    "11/28 00:08",
+    58280.0,
+    58280.0,
+    58280.0,
+    58280.0
    ]
   ]
  },
  "gold": {
-  "price": 3662.2,
+  "price": 3659.4,
   "prev": 3617.8,
   "points": [
    [
@@ -1574,26 +1581,33 @@
    ],
    [
     "11/28 00:00",
-    3664.9,
+    3661.2,
     3663.2,
-    3665.0,
+    3665.2,
     3658.0
    ],
    [
-    "11/28 00:03",
-    3662.2,
-    3662.2,
-    3662.2,
-    3662.2
+    "11/28 00:05",
+    3659.8,
+    3661.8,
+    3663.4,
+    3655.9
+   ],
+   [
+    "11/28 00:08",
+    3659.4,
+    3659.4,
+    3659.4,
+    3659.4
    ]
   ]
  },
  "fx": {
-  "price": 159.496,
+  "price": 159.524,
   "prev": 159.226
  },
  "topix": {
-  "price": 130.64,
+  "price": 131.092,
   "prev": 127.44
  },
  "ver": "v62"
