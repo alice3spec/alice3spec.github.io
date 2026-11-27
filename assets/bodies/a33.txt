@@ -1,71 +1,129 @@
-インターネットが危ない？ ネットの秘密を守る「RSA暗号」が破られるというウワサ
+「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」
 
-Nov 26,2026 22:35
+Share
 
-ヤマダユウス型 ( GIZMODOライター )
+*   印刷する
 
-Image: ギズモード・ジャパン generated with ChatGPT
+# 「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」
 
-大丈夫なのか、インターネット…？
+公開 2026年11月26日 11時27分
 
-量子計算や計算量理論の研究で知られるテキサス大学のスコット・アーロンソン教授が、自身のブログのコメント欄で気になる噂に触れました。
+[ITmedia]
 
-その噂とは「AI研究所が素因数分解を効率よく解く方法を手にしている」というもの。AIについて発信している作家のアンドリュー・カラン氏も、AnthropicとOpenAIについて同じ噂を聞いたとXに投稿しています。
+印刷するGoogleで優先するソースとして追加
 
-Advertisement
+PayPayは11月26日、25日に他社が発表した「PayPayマネーライト」の現金化をうたうサービスについて、「当社は一切関与していない」「絶対に利用しないで」と呼び掛けた。
 
-ただの数学的発見のように思えますが、もしこの噂が本当なら、僕らのインターネットを支えている仕組みのひとつであるRSA暗号が破られるかもしれない、とセキュリティ界隈にざわめきが広がっています。
+PayPayマネーライトは、クレジットカードなどからチャージできる電子マネーで、現金化できない。同社は、これを現金化する目的で第三者へ譲渡する行為はPayPayの利用規約違反であり、PayPay残高の利用停止やアカウントの閉鎖などの措置を講じる場合があると警告している。
 
-> Scott Aaronson on his blog. I have also heard this. In fact, this rumor has persisted for about ten days, about both Anthropic and OpenAI. Considering how closely their recent math results have mirrored each other, if one has it, they probably both do. This would crack RSA. https://t.co/s5AHbmcDFP
->
-> — Andrew Curran (@AndrewCurran_) November 25, 2026
+PayPayマネーライトは、「PayPayカード」「PayPayクレジット」「ソフトバンク・ワイモバイルまとめて支払い」などでチャージした残高。買い物での支払いや他のユーザーへの送金に使え、本人確認前でも利用できるが、銀行口座への出金（現金化）はできない。
 
-## RSA暗号って？
+PayPayは、PayPayマネーライト現金化サービスを発表した事業者名を明らかにしていないが、11月25日、電子ギフト券のオンライン買取サービス運営企業が、PayPayマネーライトの買取受付を始めたと発表していた。
 
-RSAは、Webサイトとの通信の保護などに広く使われてきた暗号方式。
+利用者がPayPayアプリから送ったPayPayマネーライトを確認し、買取代金を本人名義の銀行口座へ振り込むサービス。買取率は93％（1万円分で9300円）で、受付額は1万円以上（初回は5万円まで）という。
 
-「スーパーコンピュータを使っても、解読には1億年以上かかるから破られない」なんて説明を聞いたことはありませんか？ それがRSA暗号です。
+サービスの発表文ではPayPayの利用規約にも言及。「PayPayマネーは、換金を目的とした残高の利用や、商業目的の個人間送金が禁止されている」「本サービスの利用で、PayPayアカウントが制限される可能性があるが、当社はこの制限について補償できない」とも明言していた。
 
-仕組みのキモとなるのは大きな数の素因数分解です。2つの大きな素数をかけ算するのは簡単ですが、その答えから元の2つの素数を割り出すのは、いまのコンピューターでは現実的な時間で終わりません。
+Copyright © ITmedia, Inc. All Rights Reserved.
+本記事は制作段階でChatGPT等の生成系AIサービスを利用していますが、文責は編集部に帰属します。
 
-> 17×23＝391は、簡単にかけ算で計算できます。しかし逆に「391はどの素数とどの素数をかけたもの？」と聞かれると、組み合わせを試すしかない。これを何百桁にしたのがRSA暗号。
+SNSでシェア
 
-この「割り出すのがとても難しい」性質が、RSAの安全性を支えています。ゆえに、もし素因数分解を効率よく解く方法が見つかれば...RSAで守られた通信は読み解かれてしまうかもしれないのです。
+関連リンク
 
-RSA暗号が破られた場合、それを利用したインターネット上の通信、認証、デジタル署名が役立たずになってしまいます。
+*   PayPayの告知
 
-また、「盗まれたけど暗号化されて読めないからセーフ」という機密データが、セーフでなくなるケースも考えられます。
+コメントをすべて読むには、コメントの利用規約に同意し「アイティメディアID」および「ITmedia NEWS アンカーデスクマガジン」の登録、もしくは ログインが必要です
 
-## AIがインターネットの根底を変える、かも
+Special PR
 
-噂が本当ならば、RSAに頼る仕組みは作り直しが必要になります。量子コンピューター対策として、素因数分解の難しさに頼らない新しい暗号への切り替えはすでに始まっていますが、その切り替えを急ぐ必要が出てくるでしょう。
+advertisement
 
-昨今のAI研究所は、数学や計算機科学の難問を解いたと次々に発表しています。11月20日にはAnthropicの数学者がClaudeと一緒に、160年以上解かれていなかったリーマン予想の証明を見つけたと発表。11月下旬にはAnthropicとOpenAIが、計算機科学の未解決問題であるVP≠VNP予想の証明を公開しました。
+## この記事の著者
 
-> OpenAI has posted their own VP ≠ VNP proof in response to Anthropic's, and says their result 'was obtained on November 6, 2026.' Two weeks ago. The ETH papers were also released in an similar oneupmanship fashion. As with Anthropic's result, no name on the paper (my guess is this was GPT-Aeon). Also like Anthropic: no announcement, no blog post, no tweet. This is a significant result, yet both OpenAI and Anthropic chose to simply dump it online with no comment. I was listening to a Scott Aaronson interview this morning where he said this specific result would update him toward 'a solution to P ≠ NP by the AIs might really be around the corner.' To me this is more evidence for my argument that both OpenAI and Anthropic are sitting on a dragon's hoard of scientific results they are not releasing to the public. The first massive 700+ paper OpenAI GitHub dump took five weeks for their model to generate. It's been seven weeks since then, and their internal model has continued to improve. They said they had it working on 4,000 problems. How many have been solved in the last seven weeks? Based on the last release, 1,000+ is not unreasonable. I will quote OpenAI Chief Scientist Jakub Pachocki from the blog post 'Perplexity and Intelligence,' posted 48 hours ago: 'We have recently witnessed unprecedented acceleration in another domain. For more than a year, we have been posing open problems in mathematics to our models as one of the ways of evaluating them. Once we upgraded to a model of log-perplexity ~0.76, it started producing groundbreaking results. For many of us that have previously worked in mathematics and adjacent fields, seeing the resolutions to questions we've long thought about coming out of the model one after another in a single Slack thread felt deeply surreal.' There have also been, of late, multiple rumors about breakthroughs in cryptography that I have been reluctant to post about for obvious reasons. Specifically, there have been rumors of an encryption breakthrough at Anthropic. What I personally took from the big OpenAI math release was that all encryption will be cracked much sooner than people are expecting, and that the rate of scientific discoveries will continually increase as we continue to scale up. No, not will increase, *has increased*. At both labs. We just don't know about it yet. Because unless you work at those labs, the current frontier is completely invisible. But it won't stay that way forever. Or to put it another way: prepare yourself for revelations.
->
-> — Andrew Curran (@AndrewCurran_) November 24, 2026
+## 関連記事
 
-アーロンソン教授も、AIが見つけるアルゴリズムの中にはいま使われている暗号を破るものも出てくるだろうと述べています。
+今、あなたにオススメ
 
-もちろん、そもそもの噂が真実なのかはまだわかりませんが、AIの進化はインターネットの在り方をも変えるかもしれません。
+PR(Jeep Japan)
 
-Source: Shtetl-Optimized, X, Github, phys.org
+PR(ITmedia ビジネスオンライン)
 
-Advertisement
+PR(ITmedia AI＋)
 
-Advertisement
+Special PR
 
-Advertisement
+こんなメディアも見られています
 
-#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
+ITmedia NEWSに関連する情報をお探しであれば、こちらのメディアもお役に立てるかもしれません。
 
-### Ranking
+メールマガジンを配信中
 
-Daily
+メールマガジンを配信中
 
-Weekly
+国内外の業界動向、AIやクラウドなどの最新技術、キャリア情報など今知りたい情報をまとめてお届けします。
 
-Monthly
+メールマガジン最新号
 
-A
+京大がAI依存チェックリスト公開 「当てはまるものあれば、しばらくAI触らないで」Microsoft 365で大規模障害 「Outlook」でメールにアクセスできず、「Teams」な ど複数サービスに影響
+
+Special PR
+
+本日の新着記事
+
+アクセスランキング
+
+1.   1「PayPayマネーライト現金化」サービス、PayPay「当社は関与していない」「絶対に利用しないで」
+2.   2 六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記
+3.   3 AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌
+4.   4“新イギリス国旗”、2ちゃんねるデザインが人気
+5.   5 タイムズカー免許画像漏えいの見舞金、「現金かカーシェアeチケット3000円分」 12月1日から案内
+6.   6「サツドラ」顧客情報22万件流出 委託先サイバーエージェントがデータ誤公開、1年以上気づかず
+7.   7 1Password、一部顧客の氏名やメールアドレスが流出 保管庫内のデータに「影響なし」
+8.   8「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供
+9.   9 飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解
+10.   10 GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査
+
+ITmedia NEWS SNS
+
+インフォメーション
+
+注目情報をチェック
+
+*   メールマガジン
+*   Specialインデックス
+
+お問い合わせ
+
+*   ご意見・ご感想
+*   リリース送付先
+
+ITmediaNEWSをフォロー
+
+*   Facebook
+*   X（旧Twitter）
+*   RSS
+
+あなたにおすすめの記事 PR
+
+*   メディア一覧
+*   公式SNS
+*   広告案内
+*   お問い合わせ
+*   プライバシーポリシー
+*   RSS
+*   運営会社
+*   採用情報
+*   推奨環境
+
+## ITmedia NEWS の最新記事をお届けします
+
+通知を受け取る
+
+×
+
+✔
+
+## 通知登録完了
+
+閉じる
