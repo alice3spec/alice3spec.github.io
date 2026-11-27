@@ -78,11 +78,11 @@ advertisement
 
 今、あなたにオススメ
 
-PR(セイコーウオッチ on GOETHE)
-
-PR(＠IT)
+PR(公益社団法人鹿児島県観光連盟)
 
 PR(ITmedia ビジネスオンライン)
+
+PR(＠IT)
 
 Special PR
 
@@ -118,8 +118,6 @@ Special PR
 10.   10「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供
 
 ITmedia NEWS SNS
-
-> ITmedia News
 
 インフォメーション
 
