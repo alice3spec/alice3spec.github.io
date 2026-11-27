@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T07:48:12.584967+09:00",
+  "updated": "2026-11-28T07:53:23.707562+09:00",
   "feeds": {
     "kabu": [
       {
@@ -33,16 +33,6 @@
         "date": "2026-11-27T03:34:47+00:00"
       },
       {
-        "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB5cUltSm1wVUtuX3ZGZG1kVTFkOWhhcGI2THh5U2FJVVRWcmpLVmhOMVhWbjVWR0YydE54eW9JSWhVa1RaQkJ5WXFlbVE5T1pWUkYzXzUweDJZcFVNYndwd3pOLVVjYzg?oc=5",
-        "date": "2026-11-24T13:11:41+00:00"
-      },
-      {
-        "title": "来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5",
-        "date": "2026-11-27T08:47:00+00:00"
-      },
-      {
         "title": "三菱重工が反発、政策面で防衛事業への追い風（27日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WHpPMVd3eml6T0k1Uk5vcmFDcTNTeTBrNkdPTC14XzU5cHNKU3hPQWpDMFNudllFMV9xMlA5WmQxZ2JUWm1PTEpwVjhxekFYWHVyOUtKOVVIeXUwRjAwVGNEZFlkVVA4M3Myaw?oc=5",
         "date": "2026-11-27T07:30:00+00:00"
@@ -53,14 +43,24 @@
         "date": "2026-11-26T23:15:30+00:00"
       },
       {
+        "title": "日経平均は1147円高、来週は配当金再投資の動きにも関心 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfRHJkZjJWNEJROEFfRHRPYUVVMjhiM2xyc0FCWS1CcUFSdUJBNUY4b1ZpT1h4VnJDenZSTmFvVEpRcG16VnFLSHM2RFJmQjFSUWFGVjJ6TkVjaXNFUEphUA?oc=5",
+        "date": "2026-11-27T05:52:14+00:00"
+      },
+      {
+        "title": "日本株相場、一本足打法から全員野球へ 年末高に期待 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85MWRja25neEtLbEl3cW55Mm5kaXJGMmtvMmo1QWhWbEs4VFpZejlZZjU5MFc1R2p5MU5WT1JpWEhrVE52M1RwOFhmcS1tcXdfdkUwX2k2UU83NVl3MXphTE5COVZrT2EydVcweGpmbHBwR19xWEFHR214dmVoUQ?oc=5",
+        "date": "2026-11-26T20:00:00+00:00"
+      },
+      {
         "title": "シカゴ日本株先物概況・27日 日経平均先物は1625円高の5万8970円 - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRWtWaHJpSDRuU2w4Rk45WTBldlZGeEZnZDRpckdkU1JTU05Mc3pNM1F3R25YWVNPOFlIRDNiRV9Qdkp0WlhwR2cxRDhRSWZoSGFHVjZnOHdBWEV6ekdTMmx2clNsekJNRjhOQg?oc=5",
         "date": "2026-11-27T20:34:47+00:00"
       },
       {
-        "title": "(NEXT FUNDS)日経平均レバレッジ上場投信【1570】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSXJOa2dkbWprTUdFYWNqMS1TUks2aF82bXFUblhxcThHSmY3S1I0cWJWeWlqc3QyalZoM3pUMFRpZVhQa3FidUcweFVhUFplRFE?oc=5",
-        "date": "2026-11-27T18:58:26+00:00"
+        "title": "今週の【早わかり株式市況】反発、半導体関連に買い戻し機運で5万8000円台回復 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QR2NkdlhNMFBNNktYYWEtbVEyZk1FS0lQeTZOM3RHMlRqZzlIZlRMM2hJUWU4ZXg2bUo2a2MzQXlkZkNmYXg4V3ZoZkpLQUswbEtSOG5QQzlERXJlcUZ5Sw?oc=5",
+        "date": "2026-11-27T21:40:00+00:00"
       }
     ],
     "ai": [
