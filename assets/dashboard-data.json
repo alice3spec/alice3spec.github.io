@@ -1,26 +1,17 @@
 {
-  "updated": "2026-11-27T23:33:19.243683+09:00",
+  "updated": "2026-11-27T23:38:18.089282+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "日経平均株価、欧州株の上昇が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUXdMd2l5LV8xX2FfdjdGeXZpdU8tT053MUhUYnRReTBpSXdHSFpuVGVNMHVqUHFFenp0ckVvTlFNRWtoZnEwQUZpQWh2ZjBWSzMzaXlzN1p0a1pocFdBelZSVjIwOUJKZlNIcQ?oc=5",
-        "date": "2026-11-26T22:30:00+00:00"
-      },
       {
         "title": "来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5",
         "date": "2026-11-27T08:47:00+00:00"
       },
       {
-        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
-        "date": "2026-11-27T12:02:33+00:00"
-      },
-      {
-        "title": "東証14時 日経平均は上値追い続く 1100円超高 東エレクなど高い - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY3FxSm1FQm1IVGRFRG0tUjNZNWhYcmg0cnlkWmt5M25zbl9LdzJTMWJGVjRHb1M2UTV6bFAycV9ENzJiTDFEejAxNnVDR0NBLUw5X080ck4wNFZIV0hPaXItb0hkZmdqSWRVcA?oc=5",
-        "date": "2026-11-27T05:11:25+00:00"
+        "title": "三菱重工が反発、政策面で防衛事業への追い風（27日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WHpPMVd3eml6T0k1Uk5vcmFDcTNTeTBrNkdPTC14XzU5cHNKU3hPQWpDMFNudllFMV9xMlA5WmQxZ2JUWm1PTEpwVjhxekFYWHVyOUtKOVVIeXUwRjAwVGNEZFlkVVA4M3Myaw?oc=5",
+        "date": "2026-11-27T07:30:00+00:00",
+        "body": "a01.txt"
       },
       {
         "title": "【日本市況】株式が続伸、配当再投資や業績期待－円は159円台前半 - Bloomberg.com",
@@ -28,19 +19,40 @@
         "date": "2026-11-27T00:18:00+00:00"
       },
       {
-        "title": "２７日の株式相場見通し＝続伸、欧州株大幅高が支援材料に キオクシアに注目 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wem9IOW5rTjI0VXVINTJSUUpXTWZFMEExV01mR05FVWRhdGxWRFlIbVlJTWdXRXFNcHpLandldlRkZjVFSlJSUm9EOTN0NXh0STJ5OFVrdW54eHpYS3JJUA?oc=5",
-        "date": "2026-11-26T23:00:00+00:00"
+        "title": "（まとめ）日経平均は1,211円高の58,711円で続伸　AI・半導体銘柄に買い - マネクリ",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzRk5IeHB0bE5RWG93YWxXQ2x3bUM3U3d0VnUySkR6el9mSUdFN0dzUlpTRmFsOVlYQVp6V3d3Qk1JSlNGeE9jYjJ1MjF2R2dwWm5qU9IBV0FVX3lxTE5QRklZZXR2amg4S1drWmwzc0hyN2pFY0VuU0NEX0Q4TmRMUEtObFotenpvTkxfSG1IUjVfNHJqTjdIRkxGVUl2TnBaV2tYUXBuMjJSdlF5TQ?oc=5",
+        "date": "2026-11-27T07:24:00+00:00"
       },
       {
-        "title": "(NEXT FUNDS)日経平均レバレッジ上場投信【1570】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSXJOa2dkbWprTUdFYWNqMS1TUks2aF82bXFUblhxcThHSmY3S1I0cWJWeWlqc3QyalZoM3pUMFRpZVhQa3FidUcweFVhUFplRFE?oc=5",
-        "date": "2026-11-27T09:50:02+00:00"
+        "title": "日経平均VIは大幅に上昇、株価大幅高だが警戒感緩まず(フィスコ) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNlFUVU8temRBT0dOZ3pQWHIxOHU0TlZBSzFWZGZJdlBhdzZvNEw1TEVDLUFMQTBKZWxINVRfRE1sYkZicG9CSWNiODVlM3lrZ3NCRW1DRVV2d2Z2RGFNaGliWUp0cWFudGhQYkR2dDE3bFFkRlRkSVo2V1AxajAwb05OaEJUMjA?oc=5",
+        "date": "2026-11-27T05:21:54+00:00"
       },
       {
-        "title": "三菱重工が反発、政策面で防衛事業への追い風（27日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WHpPMVd3eml6T0k1Uk5vcmFDcTNTeTBrNkdPTC14XzU5cHNKU3hPQWpDMFNudllFMV9xMlA5WmQxZ2JUWm1PTEpwVjhxekFYWHVyOUtKOVVIeXUwRjAwVGNEZFlkVVA4M3Myaw?oc=5",
-        "date": "2026-11-27T07:30:00+00:00"
+        "title": "東京株式（後場寄り付き）＝日経平均株価は上昇幅を拡大 - みんかぶ",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WWWhsaWJFbjBaWGN3aHoxUXB6ODZjdUhpUHF5Rk5VcWhBaEl5VGhwekR4XzlDN0E5ckNEWEVlZnIydVRiemc?oc=5",
+        "date": "2026-11-27T03:34:47+00:00"
+      },
+      {
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MbGQwSlcwNEJsUUxrY05kWHdMZ1VnajZSZ25GUzNlbERpeTF4YS1tLVpoQnVabDU2ZEFBTXBVUFNLSktqbWJlVkhteUxCZk5qZzN2Y01OY2xlYnVFdlYtUg?oc=5",
+        "date": "2026-11-26T23:15:30+00:00"
+      },
+      {
+        "title": "日経平均株価、欧州株の上昇が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUXdMd2l5LV8xX2FfdjdGeXZpdU8tT053MUhUYnRReTBpSXdHSFpuVGVNMHVqUHFFenp0ckVvTlFNRWtoZnEwQUZpQWh2ZjBWSzMzaXlzN1p0a1pocFdBelZSVjIwOUJKZlNIcQ?oc=5",
+        "date": "2026-11-26T22:30:00+00:00",
+        "body": "a07.txt"
+      },
+      {
+        "title": "東証14時 日経平均は上値追い続く 1100円超高 東エレクなど高い - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY3FxSm1FQm1IVGRFRG0tUjNZNWhYcmg0cnlkWmt5M25zbl9LdzJTMWJGVjRHb1M2UTV6bFAycV9ENzJiTDFEejAxNnVDR0NBLUw5X080ck4wNFZIV0hPaXItb0hkZmdqSWRVcA?oc=5",
+        "date": "2026-11-27T05:11:25+00:00"
+      },
+      {
+        "title": "日経平均は1147円高、来週は配当金再投資の動きにも関心 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfRHJkZjJWNEJROEFfRHRPYUVVMjhiM2xyc0FCWS1CcUFSdUJBNUY4b1ZpT1h4VnJDenZSTmFvVEpRcG16VnFLSHM2RFJmQjFSUWFGVjJ6TkVjaXNFUEphUA?oc=5",
+        "date": "2026-11-27T05:52:14+00:00"
       },
       {
         "title": "日経平均は大幅続伸、欧州株高を追い風に半導体株に買い／相場概況 - 株探",
@@ -48,19 +60,9 @@
         "date": "2026-11-27T07:16:37+00:00"
       },
       {
-        "title": "２６日の東京株式市場見通し＝日経平均反発か、半導体株は戻り売りも警戒(ウエルスアドバイザー) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM25KejM0ek41VWhleHNQOVRyYVdhUHQtQTZ2d0NlMTJQUWpaZDJLTjhKbGJzSW4xcjc0bnVLS1M2dGRFRXAtV0xaRkNpdFFfeGoyeEdHakdsdWFTcXQzb1l5Ym5Calh3b19CMWVUckJNV2Jjd3VlWFBlTzljR3ByQ3pwdUZBU0k?oc=5",
-        "date": "2026-11-25T22:47:01+00:00"
-      },
-      {
-        "title": "日経平均株価、NYダウの続伸が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1haHJ4NG1malJUMXdHSkVaeG1iRVVhc2J6cUJLdUNBcFhuV3NHeWxmWFB4azRnRWNZdUNQbDVQVmUtcUpjWXNXUHNxd1pJN3ROOWRhbDRRMFlLMk9hSk1Fd21QMHlLMGQtWjdaQw?oc=5",
-        "date": "2026-11-25T22:30:00+00:00"
-      },
-      {
-        "title": "東証寄り付き 日経平均は続伸で始まる AI・半導体関連の一角に買い - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQy1KaUpXSWlPQnRvMGVfNGszV050TWVNTU5JT0RVZURyd1NzXzkwTGVvUDV4dUFZLS1GcndpNUxQTFV3MG9aTjlPTjVtSGxhZm5ta2ZWQW1LR2h3VVNZSGlNQXJJbnMzazI4aQ?oc=5",
-        "date": "2026-11-27T00:23:49+00:00"
+        "title": "２７日の株式相場見通し＝続伸、欧州株大幅高が支援材料に キオクシアに注目 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wem9IOW5rTjI0VXVINTJSUUpXTWZFMEExV01mR05FVWRhdGxWRFlIbVlJTWdXRXFNcHpLandldlRkZjVFSlJSUm9EOTN0NXh0STJ5OFVrdW54eHpYS3JJUA?oc=5",
+        "date": "2026-11-26T23:00:00+00:00"
       }
     ],
     "ai": [
@@ -336,8 +338,8 @@
     ]
   },
   "weather": {
-    "temp": 18.1,
-    "code": 2,
+    "temp": 17.9,
+    "code": 55,
     "max": 18.1,
     "min": 11.4,
     "hours": [
@@ -456,7 +458,7 @@
     }
   },
   "index": {
-    "price": 58715.0,
+    "price": 58735.0,
     "prev": 57250.0,
     "points": [
       [
@@ -1476,11 +1478,11 @@
     ]
   },
   "fx": {
-    "price": 159.465,
+    "price": 159.464,
     "prev": 159.226
   },
   "topix": {
-    "price": 130.75,
+    "price": 131.08,
     "prev": 127.44
   },
   "ver": "v62"
