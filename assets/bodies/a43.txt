@@ -1,64 +1,40 @@
-「Galaxy S27 Ultra」のリーク情報。コスト重視でカメラがしょぼくなる？
+エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止
 
-Nov 27,2026 18:20
+Nov 27,2026 18:15
 
-RAYMOND WONG - GIZMODO US［原文］（高橋真紀 / GIZMODOライター ）
+Gizmodo Staff - GIZMODO US［原文］（岩田リョウコ / GIZMODOライター ）
 
-写真は「Galaxy S26 Ultra」。 Image: Adriano Contreras / Gizmodo
+Photo: Kyle Barr / Gizmodo US
 
-Galaxyシリーズのファンにとっては、少し残念なニュースかも。
+中国企業の遠隔アクセスを規制するため？
 
-Samsung（サムスン）が来年初めに発売するとみられる次期最上位スマートフォン「Galaxy S27 Ultra」は、カメラ機能がダウンすると噂されています。
+NVIDIA（エヌビディア）が、インドネシア、マレーシア、シンガポール、タイの4カ国向けに、高性能AI半導体を搭載したサーバーの出荷を停止するよう、製造パートナーに指示したことがFinancial Timesの報道で明らかになりました。
 
-## 3倍望遠レンズとレーザーAF廃止
+この動きは、アメリカ商務省が進めている規制強化が背景にあるからだと見られています。中国のテック企業が東南アジアやブラジルの企業を通じて、アメリカ製の半導体を遠隔で利用することに制限をかけようとしているようです。
 
-スマートフォンに詳しいリーカーのIce Universe（@UniverseIce）は、これまでのUltraモデルにあった「3倍望遠レンズ」と、背面カメラシステムに搭載されている「レーザーオートフォーカスセンサー」が、Galaxy S27 Ultraには採用されないとXに投稿しました。
+## 大きな収入源の東南アジア
 
-> Exclusive: It’s confirmed that the Galaxy S27 Ultra will ditch the laser autofocus module, marking the first time Samsung has removed it since its introduction on the Galaxy S21 Ultra in 2021. This also explains why the latest S27 Ultra design shows only the main camera, ultrawide camera, telephoto camera, and LED flash. The laser autofocus module has been axed as well. In other words, compared to the Galaxy S26 Ultra, the S27 Ultra is losing both the 3x telephoto camera and the laser autofocus module.
->
-> — Ice Universe (@UniverseIce) November 24, 2026
+Financial Timesによると、4カ国の購入企業は、Dell（デル）などの製造パートナーから、NVIDIAが注文済みの製品の出荷を認めていないとの通知を受けたそうです。とはいえ、東南アジアはNVIDIAにとって大きな収益源となっている市場。2025年には東南アジアだけで約1040億ドルの売上があったとされています。
 
-レーザーオートフォーカスは、被写体に赤外線を照射することで、カメラのピント合わせをより速く、正確にする機能。特に暗い場所での撮影に役立ちますが、これがなくなればオートフォーカスの性能が低下する可能性があります。
+この地域でNVIDIAの半導体を主に購入しているのは、データセンターの運営会社。こうした会社は、半導体を使った計算処理サービスを有料で提供していて、その利用客には中国企業も含まれています。
 
-同氏によれば、サムスンはこのセンサーを廃止する代わりに、「AIによるフォーカス技術」を採用するようです。でました、何でもAIに解決させるやつ。うんざりしちゃいます。
+New York Timesの報道によると、今回の出荷停止がいつまで続くのかは不明とのことですが、事情に詳しい関係者はトランプ政権が今後どのような条件で販売を認めるのか、明確なルールを示すまでの暫定措置だと説明しています。
 
-さらに背面カメラは、1000万画素の3倍望遠レンズが廃止され、5倍望遠レンズ1基のみになるとのこと。
+中国のテック企業はこれまで、アメリカの輸出禁止措置の対象となっていない国のデータセンター運営会社と提携することで、NVIDIAの高性能半導体に対するアメリカの輸出規制を回避しようとしてきました。
 
-> Galaxy S27 series, tired, bored, exhausted, no excitement anymore https://t.co/wbnV5ueRaC
->
-> — Ice Universe (@UniverseIce) September 2, 2026
+Advertisement
 
-こうした変更点を踏まえると、Galaxy S27 Ultraのカメラ性能は、現行のGalaxy S26 Ultraはもちろん、Galaxy S21 Ultra以降のSamsungのフラッグシップモデルと比べても低下しているように思えます。
+## Megaspeedがブラックリスト入り
 
-価格を据え置きながら内容を変更する「シュリンクフレーション（ステルス値上げ）」は、現実のものとなっており、新製品が発売されるたびにその影響がますます目立つようになっています。
+アメリカ政府は、この｢遠隔アクセスの抜け穴｣をふさぐための規制案を進めているほか、月曜日にはシンガポールに拠点を置くAI関連企業「Megaspeed」を貿易規制対象企業のブラックリストに追加するための書類を提出しています。
 
-RAM不足が続くなか今後、サムスンがメモリー容量を減らしながら、再び価格を引き上げるのかどうかも気になります。
+でも抜け穴はどうやら他にも存在するらしく、この措置はあまり意味がないとも言われています。
 
-## 見た目はiPhoneぽいけど
+## フアン氏の辞任と復帰
 
-Ice Universeは今月初めに、S27 Ultraの背面カメラデザインについて、iPhone 17 ProやiPhone 18 Proに似た横長に張り出したカメラデザインになると投稿していました。
+Megaspeedは、NvidiaのCEOであるジェンスン・フアン氏と不倫していたという中国人女性実業家をめぐるキャンダルの中心にある企業。この女性は、アメリカの輸出規制に違反した半導体の密輸や、中国のスパイだったのでは？という疑惑が浮上しています。
 
-Appleのカメラ部分にはチップセットが収められており、デバイスの他の部分に熱が伝わるのを抑える役割もあります。一方、サムスンの場合は単なる見た目重視で、張り出した部分は空っぽだと主張しています。
-
-> One of the biggest reasons people are unhappy with the Galaxy S27 Ultra's design is that Samsung seems to be abandoning a design philosophy it once stood for: “Entities should not be multiplied beyond necessity.” Samsung's flagship designs used to be remarkably restrained. Every camera had its own place, and every design element had a clear reason to exist. Clean, minimal, and instantly recognizable. That was what made Samsung's design language so distinctive. Now look at this camera island. The entire right side is almost completely empty. No cameras, no sensors, no obvious functional purpose. So why does it need to exist? If the goal is simply to make the camera island look more like an iPhone, Samsung is sacrificing years of design identity just to follow its biggest competitor. Good industrial design should be able to justify the existence of every element. When a design needs a large area of functionally meaningless empty space just to maintain its appearance, I start to wonder: Is Samsung designing a smartphone, or designing a smartphone that looks like an iPhone? Samsung used to have its own answers. Now, its design decisions are becoming increasingly difficult to understand.
->
-> — Ice Universe (@UniverseIce) November 22, 2026
-
-同氏はXへの投稿で、次のような疑問を呈しています。
-
-> デザインの見た目を保つためだけに、機能的にはほとんど意味のない大きな空きスペースが必要になるのなら、サムスンはいったいスマートフォンを設計しているのか。iPhoneに似たスマートフォンを設計したいのか、と考えてしまう。
-
-一方、Galaxy S27 UltraにはSペンが引き続き搭載される見込みです。これだけでも評価したいところです。
-
-iPhoneにはスタイラスペンもApple Pencilもない。iPhone DuoはApple Pencilに対応していますが、本体にペンを収納することはできません。
-
-268,600
-
-228,300 円 15%OFF
-
-PR
-
-※商品を購入すると、売上の一部が販売プラットフォームよりメディアジーンに還元されることがあります。掲載されている情報は執筆時点の情報、または自動で更新されています。
+こうした騒動や数々の女性問題を受け、フアン氏はNVIDIAのCEOを電撃辞任しましたが、トランプ米大統領の後押しもあり、わずか12日後にまた電撃復活をするというドラマを繰り広げています。
 
 Advertisement
 
@@ -78,8 +54,44 @@ Monthly
 
 Amazon
 
-1. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 75,3862. OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？ Nov 25,2026 20:00 14,2033. 脱・Apple Watch。ガーミンを使って知ったスマートウォッチに本当に必要なもの Nov 26,2026 09:00 13,7824. 『GTA6』は想像以上にすごかった。だからこそ次世代コンソールで遊びたい Nov 25,2026 21:15 12,0885. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 105,710
+1. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 75,4552. OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？ Nov 25,2026 20:00 14,2793. 脱・Apple Watch。ガーミンを使って知ったスマートウォッチに本当に必要なもの Nov 26,2026 09:00 13,9044. 『GTA6』は想像以上にすごかった。だからこそ次世代コンソールで遊びたい Nov 25,2026 21:15 12,1215. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 105,851
 
-1. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 193,9772. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 105,7103. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 75,3864. 女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める Nov 24,2026 13:00 62,9745. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 51,308
+1. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 194,0532. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 105,8513. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 75,4554. 女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める Nov 24,2026 13:00 63,0455. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 51,319
 
-1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 380,4352. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 193,9773. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 140,1834. 女子高生が作った「音の
+1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 380,4462. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 194,0533. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 140,1924. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,6775. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,335
+
+ブラックフライデーはこちら PR
+
+## Latest
+
+#NEOヘルスケア#NEO DIY#iPhone Duo#ギズマート#20 YEARS OF GIZMODO JAPAN
+
+### Ranking
+
+Daily
+
+Weekly
+
+Monthly
+
+Amazon
+
+1. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 75,4552. OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？ Nov 25,2026 20:00 14,2793. 脱・Apple Watch。ガーミンを使って知ったスマートウォッチに本当に必要なもの Nov 26,2026 09:00 13,9044. 『GTA6』は想像以上にすごかった。だからこそ次世代コンソールで遊びたい Nov 25,2026 21:15 12,1215. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 105,851
+
+1. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 194,0532. ネジ止めすら不要。アンカー「Windows Camera」は窓に貼り付ける監視カメラ Nov 24,2026 11:30 105,8513. 三菱電機が「水道水とスマホの接続」に成功 Nov 24,2026 07:00 75,4554. 女子中学生が発明した「海底のゴミ箱」、マイクロプラの96%を生まれる前に食い止める Nov 24,2026 13:00 63,0455. 1本100円の水を「飲めるフィギュア」に。オリジナルのペットボトル、想像より安く作れる Nov 20,2026 22:30 51,319
+
+1. 地球に「第2の月」が誕生 Nov 10,2026 21:15 380,4462. 深海生物「シェンロン」の体内から「ドラゴンボール」を発見 Nov 24,2026 15:00 194,0533. アプリから“火をつけられる”スマホが発売 Nov 9,2026 17:00 140,1924. 女子高生が作った「音の消火器」、水も粉も使わずに5秒でボヤを消す Oct 28,2026 15:20 134,6775. Googleのデータセンター予定地、OK出す前に森がごっそり消えた。警察が捜査はじめる Nov 7,2026 17:30 133,335
+
+ブラックフライデーはこちら PR
+
+## Review
+
+## Sale
+
+© 2026 Mediagene Inc.
+
+運営会社媒体資料のお問い合わせ
+
+プライバシーポリシー利用規約インフォマティブデータポリシースポンサード&アフィリエイト表記についてメールマガジン利用規約
+
+FUZELifehacker JapanBusiness Insider JapanTech InsiderCareer InsiderLife InsiderMarkets InsiderMobyMASHING UPROOMIEDIGIDAY JAPANGlossy JapanModern Retail JapanSirabeeMachi-yaCoSTORYギズ屋台
