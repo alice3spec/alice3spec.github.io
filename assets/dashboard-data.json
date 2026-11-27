@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T23:53:25.960797+09:00",
+  "updated": "2026-11-27T23:58:34.980611+09:00",
   "feeds": {
     "kabu": [
       {
@@ -33,11 +33,6 @@
         "date": "2026-11-27T03:34:47+00:00"
       },
       {
-        "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yWmprRjBmYjd2QkoyaG9FMUpQdnUxN0NnRk16UmZhWWdLV3VCTnpJN0R6MnR5LVVGQkNKSVkzaV9yLWhyX0JKTy1ndV8tMmRwMlpFZ1RxR20yTGdNaEE?oc=5",
-        "date": "2026-11-24T09:28:56+00:00"
-      },
-      {
         "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MbGQwSlcwNEJsUUxrY05kWHdMZ1VnajZSZ25GUzNlbERpeTF4YS1tLVpoQnVabDU2ZEFBTXBVUFNLSktqbWJlVkhteUxCZk5qZzN2Y01OY2xlYnVFdlYtUg?oc=5",
         "date": "2026-11-26T23:15:30+00:00"
@@ -53,14 +48,19 @@
         "date": "2026-11-27T05:11:25+00:00"
       },
       {
-        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
-        "date": "2026-11-27T12:02:33+00:00"
+        "title": "日経平均は1147円高、来週は配当金再投資の動きにも関心 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfRHJkZjJWNEJROEFfRHRPYUVVMjhiM2xyc0FCWS1CcUFSdUJBNUY4b1ZpT1h4VnJDenZSTmFvVEpRcG16VnFLSHM2RFJmQjFSUWFGVjJ6TkVjaXNFUEphUA?oc=5",
+        "date": "2026-11-27T05:52:14+00:00"
       },
       {
         "title": "日経平均は大幅続伸、欧州株高を追い風に半導体株に買い／相場概況 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rY2hWaU1IT21WUXBlMVpzUU9QN0ZJS0FzdkpjWjRkM1lFX2Raak1MVXBHSnFWdWo4ZnRaWU1KZWQ2VzRNbmY5VW51VGV2cElkQy1tblA5SjVFWkpWbXNqQw?oc=5",
         "date": "2026-11-27T07:16:37+00:00"
+      },
+      {
+        "title": "２７日の株式相場見通し＝続伸、欧州株大幅高が支援材料に キオクシアに注目 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wem9IOW5rTjI0VXVINTJSUUpXTWZFMEExV01mR05FVWRhdGxWRFlIbVlJTWdXRXFNcHpLandldlRkZjVFSlJSUm9EOTN0NXh0STJ5OFVrdW54eHpYS3JJUA?oc=5",
+        "date": "2026-11-26T23:00:00+00:00"
       }
     ],
     "ai": [
@@ -456,7 +456,7 @@
     }
   },
   "index": {
-    "price": 58225.0,
+    "price": 58090.0,
     "prev": 57250.0,
     "points": [
       [
@@ -979,22 +979,29 @@
       ],
       [
         "11/27 23:40",
-        58275.0,
+        58285.0,
         58150.0,
-        58275.0,
+        58285.0,
         58120.0
       ],
       [
-        "11/27 23:43",
-        58225.0,
-        58225.0,
-        58225.0,
-        58225.0
+        "11/27 23:45",
+        58130.0,
+        58290.0,
+        58310.0,
+        58040.0
+      ],
+      [
+        "11/27 23:48",
+        58090.0,
+        58090.0,
+        58090.0,
+        58090.0
       ]
     ]
   },
   "gold": {
-    "price": 3663.0,
+    "price": 3656.6,
     "prev": 3617.8,
     "points": [
       [
@@ -1517,26 +1524,33 @@
       ],
       [
         "11/27 23:40",
-        3662.4,
+        3663.1,
         3653.1,
         3664.0,
         3651.9
       ],
       [
-        "11/27 23:43",
-        3663.0,
-        3663.0,
-        3663.0,
-        3663.0
+        "11/27 23:45",
+        3658.2,
+        3662.5,
+        3663.7,
+        3655.0
+      ],
+      [
+        "11/27 23:48",
+        3656.6,
+        3656.6,
+        3656.6,
+        3656.6
       ]
     ]
   },
   "fx": {
-    "price": 159.493,
+    "price": 159.51,
     "prev": 159.226
   },
   "topix": {
-    "price": 129.5,
+    "price": 129.91,
     "prev": 127.44
   },
   "ver": "v62"
