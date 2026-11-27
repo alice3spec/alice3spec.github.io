@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T05:23:16.508529+09:00",
+  "updated": "2026-11-28T05:28:14.965745+09:00",
   "feeds": {
     "kabu": [
       {
@@ -34,6 +34,11 @@
         "date": "2026-11-27T03:34:47+00:00"
       },
       {
+        "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yWmprRjBmYjd2QkoyaG9FMUpQdnUxN0NnRk16UmZhWWdLV3VCTnpJN0R6MnR5LVVGQkNKSVkzaV9yLWhyX0JKTy1ndV8tMmRwMlpFZ1RxR20yTGdNaEE?oc=5",
+        "date": "2026-11-24T09:28:56+00:00"
+      },
+      {
         "title": "三菱重工が反発、政策面で防衛事業への追い風（27日の株式市場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WHpPMVd3eml6T0k1Uk5vcmFDcTNTeTBrNkdPTC14XzU5cHNKU3hPQWpDMFNudllFMV9xMlA5WmQxZ2JUWm1PTEpwVjhxekFYWHVyOUtKOVVIeXUwRjAwVGNEZFlkVVA4M3Myaw?oc=5",
         "date": "2026-11-27T07:30:00+00:00"
@@ -49,19 +54,14 @@
         "date": "2026-11-26T07:30:00+00:00"
       },
       {
-        "title": "２７日の株式相場見通し＝続伸、欧州株大幅高が支援材料に キオクシアに注目 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wem9IOW5rTjI0VXVINTJSUUpXTWZFMEExV01mR05FVWRhdGxWRFlIbVlJTWdXRXFNcHpLandldlRkZjVFSlJSUm9EOTN0NXh0STJ5OFVrdW54eHpYS3JJUA?oc=5",
-        "date": "2026-11-26T23:00:00+00:00"
+        "title": "(NEXT FUNDS)日経平均レバレッジ上場投信【1570】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSXJOa2dkbWprTUdFYWNqMS1TUks2aF82bXFUblhxcThHSmY3S1I0cWJWeWlqc3QyalZoM3pUMFRpZVhQa3FidUcweFVhUFplRFE?oc=5",
+        "date": "2026-11-27T15:59:40+00:00"
       },
       {
         "title": "東証14時 日経平均は上値追い続く 1100円超高 東エレクなど高い - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY3FxSm1FQm1IVGRFRG0tUjNZNWhYcmg0cnlkWmt5M25zbl9LdzJTMWJGVjRHb1M2UTV6bFAycV9ENzJiTDFEejAxNnVDR0NBLUw5X080ck4wNFZIV0hPaXItb0hkZmdqSWRVcA?oc=5",
         "date": "2026-11-27T05:11:25+00:00"
-      },
-      {
-        "title": "日経平均は大幅続伸、欧州株高を追い風に半導体株に買い／相場概況 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rY2hWaU1IT21WUXBlMVpzUU9QN0ZJS0FzdkpjWjRkM1lFX2Raak1MVXBHSnFWdWo4ZnRaWU1KZWQ2VzRNbmY5VW51VGV2cElkQy1tblA5SjVFWkpWbXNqQw?oc=5",
-        "date": "2026-11-27T07:16:37+00:00"
       }
     ],
     "ai": [
@@ -1072,7 +1072,7 @@
     ]
   },
   "fx": {
-    "price": 159.552,
+    "price": 159.557,
     "prev": 159.226
   },
   "topix": {
