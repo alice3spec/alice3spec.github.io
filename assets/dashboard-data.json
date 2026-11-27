@@ -1,42 +1,31 @@
 {
-  "updated": "2026-11-28T05:33:22.837960+09:00",
+  "updated": "2026-11-28T05:38:18.666309+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5",
-        "date": "2026-11-27T08:47:00+00:00",
-        "body": "a00.txt"
-      },
       {
         "title": "日経平均株価、欧州株の上昇が追い風（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUXdMd2l5LV8xX2FfdjdGeXZpdU8tT053MUhUYnRReTBpSXdHSFpuVGVNMHVqUHFFenp0ckVvTlFNRWtoZnEwQUZpQWh2ZjBWSzMzaXlzN1p0a1pocFdBelZSVjIwOUJKZlNIcQ?oc=5",
         "date": "2026-11-26T22:30:00+00:00"
       },
       {
-        "title": "（まとめ）日経平均は1,211円高の58,711円で続伸　AI・半導体銘柄に買い - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzRk5IeHB0bE5RWG93YWxXQ2x3bUM3U3d0VnUySkR6el9mSUdFN0dzUlpTRmFsOVlYQVp6V3d3Qk1JSlNGeE9jYjJ1MjF2R2dwWm5qU9IBV0FVX3lxTE5QRklZZXR2amg4S1drWmwzc0hyN2pFY0VuU0NEX0Q4TmRMUEtObFotenpvTkxfSG1IUjVfNHJqTjdIRkxGVUl2TnBaV2tYUXBuMjJSdlF5TQ?oc=5",
-        "date": "2026-11-27T07:24:00+00:00"
+        "title": "来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5",
+        "date": "2026-11-27T08:47:00+00:00"
       },
       {
-        "title": "【日本市況】株式が続伸、配当再投資や業績期待－円は159円台前半 - Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lWi1kSlJGaUtSSFdGdUk4dUhTdkppQ3VMWkQ0WFZzTXVUYkZnb0NXbkpxZ1FSNlZYRFpCaVZQVC1NSG9mZzdFUzZVSXdvTDlUVVg1aGNEZENjMGJSalktTm02cHlsM0NFOTBHc0RRN1JUUHh5c1VF?oc=5",
-        "date": "2026-11-27T00:18:00+00:00"
+        "title": "東証14時 日経平均は上値追い続く 1100円超高 東エレクなど高い - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY3FxSm1FQm1IVGRFRG0tUjNZNWhYcmg0cnlkWmt5M25zbl9LdzJTMWJGVjRHb1M2UTV6bFAycV9ENzJiTDFEejAxNnVDR0NBLUw5X080ck4wNFZIV0hPaXItb0hkZmdqSWRVcA?oc=5",
+        "date": "2026-11-27T05:11:25+00:00"
       },
       {
-        "title": "日経平均、672円88銭高の5万8172円04銭で終了＝東京株式前場（時事通信） - Yahoo!ニュース",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SkdUd0dRZDZxT0cxSXRBWXU1V21kSVN3Z19CVzNmNVV1M2NLdW5ZT093bHh2aFhFRHV3ODhsZTJiMEN0WlctVm43ZzlIZUhPZXo2Q1E4aEM1dlhnVmZfenJqeUNLMmY5WWdYT3NyOUhVY2NJOFJ5QnNNZUs4SUU?oc=5",
-        "date": "2026-11-27T03:00:22+00:00"
+        "title": "２６日の東京株式市場見通し＝日経平均反発か、半導体株は戻り売りも警戒(ウエルスアドバイザー) - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM25KejM0ek41VWhleHNQOVRyYVdhUHQtQTZ2d0NlMTJQUWpaZDJLTjhKbGJzSW4xcjc0bnVLS1M2dGRFRXAtV0xaRkNpdFFfeGoyeEdHakdsdWFTcXQzb1l5Ym5Calh3b19CMWVUckJNV2Jjd3VlWFBlTzljR3ByQ3pwdUZBU0k?oc=5",
+        "date": "2026-11-25T22:47:01+00:00"
       },
       {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は上昇幅を拡大 - みんかぶ",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WWWhsaWJFbjBaWGN3aHoxUXB6ODZjdUhpUHF5Rk5VcWhBaEl5VGhwekR4XzlDN0E5ckNEWEVlZnIydVRiemc?oc=5",
-        "date": "2026-11-27T03:34:47+00:00"
-      },
-      {
-        "title": "日経平均5万2000円が大底か？ アンソロピック上場で揺れる株式市場 - マネーフォワード",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yWmprRjBmYjd2QkoyaG9FMUpQdnUxN0NnRk16UmZhWWdLV3VCTnpJN0R6MnR5LVVGQkNKSVkzaV9yLWhyX0JKTy1ndV8tMmRwMlpFZ1RxR20yTGdNaEE?oc=5",
-        "date": "2026-11-24T09:28:56+00:00"
+        "title": "２７日の株式相場見通し＝続伸、欧州株大幅高が支援材料に キオクシアに注目 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wem9IOW5rTjI0VXVINTJSUUpXTWZFMEExV01mR05FVWRhdGxWRFlIbVlJTWdXRXFNcHpLandldlRkZjVFSlJSUm9EOTN0NXh0STJ5OFVrdW54eHpYS3JJUA?oc=5",
+        "date": "2026-11-26T23:00:00+00:00"
       },
       {
         "title": "三菱重工が反発、政策面で防衛事業への追い風（27日の株式市場） - 日本経済新聞",
@@ -44,24 +33,34 @@
         "date": "2026-11-27T07:30:00+00:00"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MbGQwSlcwNEJsUUxrY05kWHdMZ1VnajZSZ25GUzNlbERpeTF4YS1tLVpoQnVabDU2ZEFBTXBVUFNLSktqbWJlVkhteUxCZk5qZzN2Y01OY2xlYnVFdlYtUg?oc=5",
-        "date": "2026-11-26T23:15:30+00:00"
+        "title": "日経平均は大幅続伸、欧州株高を追い風に半導体株に買い／相場概況 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rY2hWaU1IT21WUXBlMVpzUU9QN0ZJS0FzdkpjWjRkM1lFX2Raak1MVXBHSnFWdWo4ZnRaWU1KZWQ2VzRNbmY5VW51VGV2cElkQy1tblA5SjVFWkpWbXNqQw?oc=5",
+        "date": "2026-11-27T07:16:37+00:00"
       },
       {
-        "title": "キオクシアHD株が一時ストップ高 株主還元の強化に期待の声（26日の株式市場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubHJ6TUNpVWxSZndJMG95NmFoWUVhd211U0RaUUNRaHVOeHRVV00zYjdZN1hDSEpqRU1zMnNNUTlURDdjTFdDMmVYZlpzRlRfSXdKWnJna3FOenN0cU9UcEs4VFZYdVpDQWxxVg?oc=5",
-        "date": "2026-11-26T07:30:00+00:00"
+        "title": "日経平均株価、NYダウの続伸が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1haHJ4NG1malJUMXdHSkVaeG1iRVVhc2J6cUJLdUNBcFhuV3NHeWxmWFB4azRnRWNZdUNQbDVQVmUtcUpjWXNXUHNxd1pJN3ROOWRhbDRRMFlLMk9hSk1Fd21QMHlLMGQtWjdaQw?oc=5",
+        "date": "2026-11-25T22:30:00+00:00"
       },
       {
-        "title": "(NEXT FUNDS)日経平均レバレッジ上場投信【1570】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSXJOa2dkbWprTUdFYWNqMS1TUks2aF82bXFUblhxcThHSmY3S1I0cWJWeWlqc3QyalZoM3pUMFRpZVhQa3FidUcweFVhUFplRFE?oc=5",
-        "date": "2026-11-27T15:59:40+00:00"
+        "title": "日経平均株価、米AI・半導体株安が下押し材料（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aXY1MXJoTUplRkNfTUdjcEpXNWdyTXZLRFNXLTNaUHloTGFSa0dDdFVrQy1oTm5LUS1KcWUzaUV5Si1iNDdxVkcxUlZtcHBVXzV1Y2h6Vkw4Q3BCX3JKUXRHdTFFZmZlSGw1eQ?oc=5",
+        "date": "2026-11-24T22:35:58+00:00"
       },
       {
-        "title": "東証14時 日経平均は上値追い続く 1100円超高 東エレクなど高い - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY3FxSm1FQm1IVGRFRG0tUjNZNWhYcmg0cnlkWmt5M25zbl9LdzJTMWJGVjRHb1M2UTV6bFAycV9ENzJiTDFEejAxNnVDR0NBLUw5X080ck4wNFZIV0hPaXItb0hkZmdqSWRVcA?oc=5",
-        "date": "2026-11-27T05:11:25+00:00"
+        "title": "東証寄り付き 日経平均は続伸で始まる AI・半導体関連の一角に買い - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQy1KaUpXSWlPQnRvMGVfNGszV050TWVNTU5JT0RVZURyd1NzXzkwTGVvUDV4dUFZLS1GcndpNUxQTFV3MG9aTjlPTjVtSGxhZm5ta2ZWQW1LR2h3VVNZSGlNQXJJbnMzazI4aQ?oc=5",
+        "date": "2026-11-27T00:23:49+00:00"
+      },
+      {
+        "title": "日経平均株価が反落 終値は1633円安の5万7011円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRNkFUUEVGUUppS1FTbV9FRUNKNHBRRXJSNHA1Z0ZjWVZQMUNEWUwtY1gtYXJQM2tiY3pqbmdnY1hNOEVxZUJJa3pxSHR1VmhRUmdiMEJsMkd0NTRjX0VBOXMyN3pta1F4dWFPXw?oc=5",
+        "date": "2026-11-25T00:05:25+00:00"
+      },
+      {
+        "title": "シカゴ日本株先物概況・27日 日経平均先物は1625円高の5万8970円 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJRWtWaHJpSDRuU2w4Rk45WTBldlZGeEZnZDRpckdkU1JTU05Mc3pNM1F3R25YWVNPOFlIRDNiRV9Qdkp0WlhwR2cxRDhRSWZoSGFHVjZnOHdBWEV6ekdTMmx2clNsekJNRjhOQg?oc=5",
+        "date": "2026-11-27T20:34:47+00:00"
       }
     ],
     "ai": [
@@ -506,7 +505,7 @@
       [
         "11/28 00:00",
         58155.0,
-        58150.0,
+        58155.0,
         58210.0,
         58110.0
       ],
@@ -533,9 +532,9 @@
       ],
       [
         "11/28 00:20",
-        58500.0,
+        58495.0,
         58405.0,
-        58500.0,
+        58495.0,
         58300.0
       ],
       [
@@ -589,7 +588,7 @@
       ],
       [
         "11/28 01:00",
-        58775.0,
+        58765.0,
         58745.0,
         58790.0,
         58725.0
@@ -674,7 +673,7 @@
       [
         "11/28 02:00",
         58675.0,
-        58730.0,
+        58735.0,
         58765.0,
         58640.0
       ],
@@ -751,14 +750,14 @@
       [
         "11/28 02:55",
         58995.0,
-        58795.0,
+        58800.0,
         59020.0,
         58795.0
       ],
       [
         "11/28 03:00",
         58955.0,
-        58995.0,
+        59005.0,
         59010.0,
         58900.0
       ]
@@ -770,7 +769,7 @@
     "points": [
       [
         "11/27 23:30",
-        3662.9,
+        3662.8,
         3664.6,
         3667.7,
         3660.0
@@ -778,14 +777,14 @@
       [
         "11/27 23:35",
         3653.2,
-        3663.1,
+        3662.7,
         3663.9,
         3652.3
       ],
       [
         "11/27 23:40",
         3663.1,
-        3653.1,
+        3653.0,
         3664.0,
         3651.9
       ],
@@ -798,7 +797,7 @@
       ],
       [
         "11/27 23:50",
-        3671.7,
+        3671.5,
         3660.6,
         3672.5,
         3660.5
@@ -806,14 +805,14 @@
       [
         "11/27 23:55",
         3664.4,
-        3671.4,
+        3671.5,
         3672.2,
         3662.8
       ],
       [
         "11/28 00:00",
         3661.2,
-        3664.0,
+        3663.2,
         3665.2,
         3658.0
       ],
@@ -840,7 +839,7 @@
       ],
       [
         "11/28 00:20",
-        3657.6,
+        3657.8,
         3656.7,
         3657.8,
         3650.6
@@ -848,7 +847,7 @@
       [
         "11/28 00:25",
         3655.6,
-        3658.4,
+        3658.5,
         3658.6,
         3652.0
       ],
@@ -875,14 +874,14 @@
       ],
       [
         "11/28 00:45",
-        3657.0,
+        3656.8,
         3658.1,
         3661.2,
         3655.0
       ],
       [
         "11/28 00:50",
-        3648.8,
+        3648.6,
         3657.4,
         3657.9,
         3642.7
@@ -903,7 +902,7 @@
       ],
       [
         "11/28 01:05",
-        3650.3,
+        3650.5,
         3650.7,
         3652.2,
         3647.8
@@ -911,7 +910,7 @@
       [
         "11/28 01:10",
         3647.7,
-        3650.1,
+        3650.3,
         3650.5,
         3646.5
       ],
@@ -925,7 +924,7 @@
       [
         "11/28 01:20",
         3648.6,
-        3646.4,
+        3646.2,
         3651.2,
         3645.8
       ],
@@ -981,7 +980,7 @@
       [
         "11/28 02:00",
         3659.1,
-        3660.7,
+        3661.0,
         3662.7,
         3656.7
       ],
@@ -1009,7 +1008,7 @@
       [
         "11/28 02:20",
         3662.3,
-        3658.3,
+        3658.4,
         3663.5,
         3657.6
       ],
@@ -1036,8 +1035,8 @@
       ],
       [
         "11/28 02:40",
-        3659.5,
-        3662.2,
+        3659.2,
+        3662.1,
         3662.8,
         3659.1
       ],
@@ -1051,13 +1050,13 @@
       [
         "11/28 02:50",
         3663.4,
-        3658.4,
+        3658.6,
         3663.9,
         3658.3
       ],
       [
         "11/28 02:55",
-        3674.7,
+        3674.6,
         3663.9,
         3675.9,
         3663.6
@@ -1065,7 +1064,7 @@
       [
         "11/28 03:00",
         3679.9,
-        3674.2,
+        3674.6,
         3680.2,
         3672.1
       ]
