@@ -1,41 +1,16 @@
 {
-  "updated": "2026-11-28T17:03:22.509744+09:00",
+  "updated": "2026-11-28T17:08:18.406602+09:00",
   "feeds": {
     "kabu": [
       {
-        "title": "来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5",
-        "date": "2026-11-27T08:47:00+00:00"
+        "title": "今週の【早わかり株式市況】反発、半導体関連に買い戻し機運で5万8000円台回復 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QR2NkdlhNMFBNNktYYWEtbVEyZk1FS0lQeTZOM3RHMlRqZzlIZlRMM2hJUWU4ZXg2bUo2a2MzQXlkZkNmYXg4V3ZoZkpLQUswbEtSOG5QQzlERXJlcUZ5Sw?oc=5",
+        "date": "2026-11-27T21:40:00+00:00"
       },
       {
-        "title": "日経平均株価、欧州株の上昇が追い風（先読み株式相場） - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUXdMd2l5LV8xX2FfdjdGeXZpdU8tT053MUhUYnRReTBpSXdHSFpuVGVNMHVqUHFFenp0ckVvTlFNRWtoZnEwQUZpQWh2ZjBWSzMzaXlzN1p0a1pocFdBelZSVjIwOUJKZlNIcQ?oc=5",
-        "date": "2026-11-26T22:30:00+00:00"
-      },
-      {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MbGQwSlcwNEJsUUxrY05kWHdMZ1VnajZSZ25GUzNlbERpeTF4YS1tLVpoQnVabDU2ZEFBTXBVUFNLSktqbWJlVkhteUxCZk5qZzN2Y01OY2xlYnVFdlYtUg?oc=5",
-        "date": "2026-11-26T23:15:30+00:00"
-      },
-      {
-        "title": "シカゴ日経平均先物 大取終値比 140円高 （11月27日） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Y3NYSVZSQ3ZnZmZPWl94U1ViSmpRdy1lQ2lDZXpOak9yZGxwMlBQMVp4OGtRRjQ5WWRTTFIzd1JZTzRPazlnbV9mdjRhWE1lRk5kbk5kOExPMkJUMHBpVQ?oc=5",
-        "date": "2026-11-27T22:45:06+00:00"
-      },
-      {
-        "title": "日経平均寄与度ランキング（大引け）～日経平均は大幅続伸、アドバンテストや東エレクが2銘柄で約555円分押し上げ(フィスコ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3lwalVSclQ5M0tjclVpSS1abzRNVFB2dlNKV1dKNlVOazJiS0Z3UFdscXlqZnYxaFo0Zk4zMElXdUt1RzY3OUtmNnR2UDZOMTJaV1FPcjVNTjRjWjM3STkwUlYzckhTN3VDT0I4VGYxbFRjYlpTMElvVmV5NkZxbktuZ2JiVE0?oc=5",
-        "date": "2026-11-27T07:56:07+00:00"
-      },
-      {
-        "title": "JTが英同業の買収を検討？ 防衛株も上昇、決算のDyDoは下落/日経平均続伸【今日の注目株＆日本株市場見通し】「デイリーZAi」11月27日号(ダイヤモンド・ザイ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWlnZy0zMkwyUFY5ekZYTFY1NmdrRTBRTmxiekd5a09EYld5VEdPWXg5YVZaRUIxeEZDaVd5bDhBNVlOQlN1cDgxSVkwZUdWNEtQQXFRNVNDdjRmQVY4WEttYXVxV0N3ZzdNVktUSlk5M0lWZ2ZtbkpuVjJHN2tSWFFod2c5Ums?oc=5",
-        "date": "2026-11-27T11:10:26+00:00"
-      },
-      {
-        "title": "今週の【早わかり株式市況】反発、半導体関連に買い戻し機運で5万8000円台回復(株探ニュース) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3FpdjE2YThLMm5rWTRURmxIODFoMzhRMTJFaFlabDZwNldHd2RHZUVpdy1IUTY4SHA5YUE2VDg4Q1JEYWpOX19UYXhrUmxyR0pTalRIZEhtUS1TV3h6dlNqWjk4Y2RpTW5PMFdqcGpwRXh2aXJOS3ZFZk4wRnVVeFVTMFdEck0?oc=5",
-        "date": "2026-11-27T21:40:28+00:00"
+        "title": "三菱重工が反発、政策面で防衛事業への追い風（27日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95WHpPMVd3eml6T0k1Uk5vcmFDcTNTeTBrNkdPTC14XzU5cHNKU3hPQWpDMFNudllFMV9xMlA5WmQxZ2JUWm1PTEpwVjhxekFYWHVyOUtKOVVIeXUwRjAwVGNEZFlkVVA4M3Myaw?oc=5",
+        "date": "2026-11-27T07:30:00+00:00"
       },
       {
         "title": "（まとめ）日経平均は1,211円高の58,711円で続伸　AI・半導体銘柄に買い - マネクリ",
@@ -48,19 +23,44 @@
         "date": "2026-11-27T00:18:00+00:00"
       },
       {
+        "title": "日経平均、672円88銭高の5万8172円04銭で終了＝東京株式前場（時事通信） - Yahoo!ニュース",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00SkdUd0dRZDZxT0cxSXRBWXU1V21kSVN3Z19CVzNmNVV1M2NLdW5ZT093bHh2aFhFRHV3ODhsZTJiMEN0WlctVm43ZzlIZUhPZXo2Q1E4aEM1dlhnVmZfenJqeUNLMmY5WWdYT3NyOUhVY2NJOFJ5QnNNZUs4SUU?oc=5",
+        "date": "2026-11-27T03:00:22+00:00"
+      },
+      {
         "title": "東京株式（後場寄り付き）＝日経平均株価は上昇幅を拡大 - みんかぶ",
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WWWhsaWJFbjBaWGN3aHoxUXB6ODZjdUhpUHF5Rk5VcWhBaEl5VGhwekR4XzlDN0E5ckNEWEVlZnIydVRiemc?oc=5",
         "date": "2026-11-27T03:34:47+00:00"
       },
       {
-        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
-        "date": "2026-11-28T03:09:10+00:00"
+        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MbGQwSlcwNEJsUUxrY05kWHdMZ1VnajZSZ25GUzNlbERpeTF4YS1tLVpoQnVabDU2ZEFBTXBVUFNLSktqbWJlVkhteUxCZk5qZzN2Y01OY2xlYnVFdlYtUg?oc=5",
+        "date": "2026-11-26T23:15:30+00:00"
       },
       {
-        "title": "今週の【早わかり株式市況】反発、半導体関連に買い戻し機運で5万8000円台回復 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QR2NkdlhNMFBNNktYYWEtbVEyZk1FS0lQeTZOM3RHMlRqZzlIZlRMM2hJUWU4ZXg2bUo2a2MzQXlkZkNmYXg4V3ZoZkpLQUswbEtSOG5QQzlERXJlcUZ5Sw?oc=5",
-        "date": "2026-11-27T21:40:00+00:00"
+        "title": "日経平均株価、欧州株の上昇が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUXdMd2l5LV8xX2FfdjdGeXZpdU8tT053MUhUYnRReTBpSXdHSFpuVGVNMHVqUHFFenp0ckVvTlFNRWtoZnEwQUZpQWh2ZjBWSzMzaXlzN1p0a1pocFdBelZSVjIwOUJKZlNIcQ?oc=5",
+        "date": "2026-11-26T22:30:00+00:00"
+      },
+      {
+        "title": "日経平均は1147円高、来週は配当金再投資の動きにも関心 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfRHJkZjJWNEJROEFfRHRPYUVVMjhiM2xyc0FCWS1CcUFSdUJBNUY4b1ZpT1h4VnJDenZSTmFvVEpRcG16VnFLSHM2RFJmQjFSUWFGVjJ6TkVjaXNFUEphUA?oc=5",
+        "date": "2026-11-27T05:52:14+00:00"
+      },
+      {
+        "title": "キオクシアHD株が一時ストップ高 株主還元の強化に期待の声（26日の株式市場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ubHJ6TUNpVWxSZndJMG95NmFoWUVhd211U0RaUUNRaHVOeHRVV00zYjdZN1hDSEpqRU1zMnNNUTlURDdjTFdDMmVYZlpzRlRfSXdKWnJna3FOenN0cU9UcEs4VFZYdVpDQWxxVg?oc=5",
+        "date": "2026-11-26T07:30:00+00:00"
+      },
+      {
+        "title": "国内株式市場見通し：AI・半導体関連株リバウンドの持続性はエヌビディアがカギ握る 投稿日時： 2026/11/28 14:51[フィスコ] - みんかぶ",
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1vdjg0QnNTSzRrYy1UNHIwamhEaENqSVRUVnpmaVNWb1pmRXFucHg5cGdQeXF0LXhjakFRTjhGdjdjYWJQTEE?oc=5",
+        "date": "2026-11-28T05:51:24+00:00"
+      },
+      {
+        "title": "日経平均株価、NYダウの続伸が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1haHJ4NG1malJUMXdHSkVaeG1iRVVhc2J6cUJLdUNBcFhuV3NHeWxmWFB4azRnRWNZdUNQbDVQVmUtcUpjWXNXUHNxd1pJN3ROOWRhbDRRMFlLMk9hSk1Fd21QMHlLMGQtWjdaQw?oc=5",
+        "date": "2026-11-25T22:30:00+00:00"
       }
     ],
     "ai": [
@@ -299,21 +299,21 @@
         "body": "a49.txt"
       },
       {
-        "title": "L.L.Bean 日本支社を閉鎖へ",
-        "link": "https://news.yahoo.co.jp/pickup/6604295?source=rss",
-        "date": "2026-11-28T05:10:18+00:00",
-        "body": "a50.txt"
-      },
-      {
         "title": "車同士が正面衝突 運転の女性死亡",
         "link": "https://news.yahoo.co.jp/pickup/6604307?source=rss",
         "date": "2026-11-28T07:44:51+00:00",
-        "body": "a51.txt"
+        "body": "a50.txt"
       },
       {
         "title": "フォークリフトにはねられる 死亡",
         "link": "https://news.yahoo.co.jp/pickup/6604301?source=rss",
         "date": "2026-11-28T05:54:26+00:00",
+        "body": "a51.txt"
+      },
+      {
+        "title": "書店がYouTube 10分で4千冊完売",
+        "link": "https://news.yahoo.co.jp/pickup/6604312?source=rss",
+        "date": "2026-11-28T07:52:07+00:00",
         "body": "a52.txt"
       },
       {
@@ -323,15 +323,15 @@
         "body": "a53.txt"
       },
       {
-        "title": "快挙 ゆなすみGPファイナル進出",
-        "link": "https://news.yahoo.co.jp/pickup/6604309?source=rss",
-        "date": "2026-11-28T07:39:37+00:00",
-        "body": "a54.txt"
-      },
-      {
         "title": "戦力外通告 大物の決まらぬ去就",
         "link": "https://news.yahoo.co.jp/pickup/6604302?source=rss",
         "date": "2026-11-28T05:57:35+00:00",
+        "body": "a54.txt"
+      },
+      {
+        "title": "藤田ニコル 産後ダメージ想像以上",
+        "link": "https://news.yahoo.co.jp/pickup/6604310?source=rss",
+        "date": "2026-11-28T07:43:16+00:00",
         "body": "a55.txt"
       }
     ]
@@ -502,7 +502,7 @@
       [
         "11/28 00:00",
         58155.0,
-        58150.0,
+        58155.0,
         58210.0,
         58110.0
       ],
@@ -529,9 +529,9 @@
       ],
       [
         "11/28 00:20",
-        58500.0,
+        58495.0,
         58405.0,
-        58500.0,
+        58495.0,
         58300.0
       ],
       [
@@ -585,7 +585,7 @@
       ],
       [
         "11/28 01:00",
-        58775.0,
+        58765.0,
         58745.0,
         58790.0,
         58725.0
@@ -670,7 +670,7 @@
       [
         "11/28 02:00",
         58675.0,
-        58730.0,
+        58735.0,
         58765.0,
         58640.0
       ],
@@ -747,14 +747,14 @@
       [
         "11/28 02:55",
         58995.0,
-        58795.0,
+        58800.0,
         59020.0,
         58795.0
       ],
       [
         "11/28 03:00",
         58955.0,
-        58995.0,
+        59005.0,
         59010.0,
         58900.0
       ]
@@ -766,7 +766,7 @@
     "points": [
       [
         "11/27 23:30",
-        3662.9,
+        3662.8,
         3664.6,
         3667.7,
         3660.0
@@ -774,14 +774,14 @@
       [
         "11/27 23:35",
         3653.2,
-        3663.1,
+        3662.7,
         3663.9,
         3652.3
       ],
       [
         "11/27 23:40",
         3663.1,
-        3653.1,
+        3653.0,
         3664.0,
         3651.9
       ],
@@ -794,7 +794,7 @@
       ],
       [
         "11/27 23:50",
-        3671.7,
+        3671.5,
         3660.6,
         3672.5,
         3660.5
@@ -802,14 +802,14 @@
       [
         "11/27 23:55",
         3664.4,
-        3671.4,
+        3671.5,
         3672.2,
         3662.8
       ],
       [
         "11/28 00:00",
         3661.2,
-        3664.0,
+        3663.2,
         3665.2,
         3658.0
       ],
@@ -836,7 +836,7 @@
       ],
       [
         "11/28 00:20",
-        3657.6,
+        3657.8,
         3656.7,
         3657.8,
         3650.6
@@ -844,7 +844,7 @@
       [
         "11/28 00:25",
         3655.6,
-        3658.4,
+        3658.5,
         3658.6,
         3652.0
       ],
@@ -871,14 +871,14 @@
       ],
       [
         "11/28 00:45",
-        3657.0,
+        3656.8,
         3658.1,
         3661.2,
         3655.0
       ],
       [
         "11/28 00:50",
-        3648.8,
+        3648.6,
         3657.4,
         3657.9,
         3642.7
@@ -899,7 +899,7 @@
       ],
       [
         "11/28 01:05",
-        3650.3,
+        3650.5,
         3650.7,
         3652.2,
         3647.8
@@ -907,7 +907,7 @@
       [
         "11/28 01:10",
         3647.7,
-        3650.1,
+        3650.3,
         3650.5,
         3646.5
       ],
@@ -921,7 +921,7 @@
       [
         "11/28 01:20",
         3648.6,
-        3646.4,
+        3646.2,
         3651.2,
         3645.8
       ],
@@ -977,7 +977,7 @@
       [
         "11/28 02:00",
         3659.1,
-        3660.7,
+        3661.0,
         3662.7,
         3656.7
       ],
@@ -1005,7 +1005,7 @@
       [
         "11/28 02:20",
         3662.3,
-        3658.3,
+        3658.4,
         3663.5,
         3657.6
       ],
@@ -1032,8 +1032,8 @@
       ],
       [
         "11/28 02:40",
-        3659.5,
-        3662.2,
+        3659.2,
+        3662.1,
         3662.8,
         3659.1
       ],
@@ -1047,13 +1047,13 @@
       [
         "11/28 02:50",
         3663.4,
-        3658.4,
+        3658.6,
         3663.9,
         3658.3
       ],
       [
         "11/28 02:55",
-        3674.7,
+        3674.6,
         3663.9,
         3675.9,
         3663.6
@@ -1061,7 +1061,7 @@
       [
         "11/28 03:00",
         3679.9,
-        3674.2,
+        3674.6,
         3680.2,
         3672.1
       ]
