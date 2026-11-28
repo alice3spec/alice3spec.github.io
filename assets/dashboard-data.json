@@ -1,56 +1,16 @@
 {
-  "updated": "2026-11-28T19:33:13.646560+09:00",
+  "updated": "2026-11-28T19:38:15.579734+09:00",
   "feeds": {
     "kabu": [
-      {
-        "title": "ウォール街、2027年も株高予想 AI不安でも崩れぬ強気 - 日本経済新聞",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZ3VHa0FHam56VXJ0SkZpaWRlTWhIRGh4R3dQMDJnemFUUmo3cG5MOGhRc3lxczFPcjEyVHNuT2JMek80bnYyaURMNHRQbGhZZjMwX3Q4WTlDN3BvUTkwbnVFZENiTTMzdFROUA?oc=5",
-        "date": "2026-11-27T19:28:53+00:00"
-      },
-      {
-        "title": "来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視 - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5",
-        "date": "2026-11-27T08:47:00+00:00"
-      },
       {
         "title": "日経平均株価、欧州株の上昇が追い風（先読み株式相場） - 日本経済新聞",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUXdMd2l5LV8xX2FfdjdGeXZpdU8tT053MUhUYnRReTBpSXdHSFpuVGVNMHVqUHFFenp0ckVvTlFNRWtoZnEwQUZpQWh2ZjBWSzMzaXlzN1p0a1pocFdBelZSVjIwOUJKZlNIcQ?oc=5",
         "date": "2026-11-26T22:30:00+00:00"
       },
       {
-        "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」 (11月27日記） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MbGQwSlcwNEJsUUxrY05kWHdMZ1VnajZSZ25GUzNlbERpeTF4YS1tLVpoQnVabDU2ZEFBTXBVUFNLSktqbWJlVkhteUxCZk5qZzN2Y01OY2xlYnVFdlYtUg?oc=5",
-        "date": "2026-11-26T23:15:30+00:00"
-      },
-      {
-        "title": "シカゴ日経平均先物 大取終値比 140円高 （11月27日） - 株探",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Y3NYSVZSQ3ZnZmZPWl94U1ViSmpRdy1lQ2lDZXpOak9yZGxwMlBQMVp4OGtRRjQ5WWRTTFIzd1JZTzRPazlnbV9mdjRhWE1lRk5kbk5kOExPMkJUMHBpVQ?oc=5",
-        "date": "2026-11-27T22:45:06+00:00"
-      },
-      {
-        "title": "JTが英同業の買収を検討？ 防衛株も上昇、決算のDyDoは下落/日経平均続伸【今日の注目株＆日本株市場見通し】「デイリーZAi」11月27日号(ダイヤモンド・ザイ) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWlnZy0zMkwyUFY5ekZYTFY1NmdrRTBRTmxiekd5a09EYld5VEdPWXg5YVZaRUIxeEZDaVd5bDhBNVlOQlN1cDgxSVkwZUdWNEtQQXFRNVNDdjRmQVY4WEttYXVxV0N3ZzdNVktUSlk5M0lWZ2ZtbkpuVjJHN2tSWFFod2c5Ums?oc=5",
-        "date": "2026-11-27T11:10:26+00:00"
-      },
-      {
-        "title": "（まとめ）日経平均は1,211円高の58,711円で続伸　AI・半導体銘柄に買い - マネクリ",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzRk5IeHB0bE5RWG93YWxXQ2x3bUM3U3d0VnUySkR6el9mSUdFN0dzUlpTRmFsOVlYQVp6V3d3Qk1JSlNGeE9jYjJ1MjF2R2dwWm5qU9IBV0FVX3lxTE5QRklZZXR2amg4S1drWmwzc0hyN2pFY0VuU0NEX0Q4TmRMUEtObFotenpvTkxfSG1IUjVfNHJqTjdIRkxGVUl2TnBaV2tYUXBuMjJSdlF5TQ?oc=5",
-        "date": "2026-11-27T07:24:00+00:00"
-      },
-      {
-        "title": "今週の【早わかり株式市況】反発、半導体関連に買い戻し機運で5万8000円台回復(株探ニュース) - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ3FpdjE2YThLMm5rWTRURmxIODFoMzhRMTJFaFlabDZwNldHd2RHZUVpdy1IUTY4SHA5YUE2VDg4Q1JEYWpOX19UYXhrUmxyR0pTalRIZEhtUS1TV3h6dlNqWjk4Y2RpTW5PMFdqcGpwRXh2aXJOS3ZFZk4wRnVVeFVTMFdEck0?oc=5",
-        "date": "2026-11-27T21:40:28+00:00"
-      },
-      {
-        "title": "【日本市況】株式が続伸、配当再投資や業績期待－円は159円台前半 - Bloomberg.com",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lWi1kSlJGaUtSSFdGdUk4dUhTdkppQ3VMWkQ0WFZzTXVUYkZnb0NXbkpxZ1FSNlZYRFpCaVZQVC1NSG9mZzdFUzZVSXdvTDlUVVg1aGNEZENjMGJSalktTm02cHlsM0NFOTBHc0RRN1JUUHh5c1VF?oc=5",
-        "date": "2026-11-27T00:18:00+00:00"
-      },
-      {
-        "title": "東京株式（後場寄り付き）＝日経平均株価は上昇幅を拡大 - みんかぶ",
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1WWWhsaWJFbjBaWGN3aHoxUXB6ODZjdUhpUHF5Rk5VcWhBaEl5VGhwekR4XzlDN0E5ckNEWEVlZnIydVRiemc?oc=5",
-        "date": "2026-11-27T03:34:47+00:00"
+        "title": "来週の株式相場に向けて＝日本株は「大底」を打ったのか、次はＦＯＭＣ巡る動向注視 - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yX3FqU0ljZnRUX3pjenNyNlhKd2Q1c2FRNHp0d2lic0Z1dGJyQ1JyTkRCUDdGa3NaRVNDMkVHdVpPTFBVUXU1M29zMzRWa1dyZmdWeUlVNXVUMHVPOElSLQ?oc=5",
+        "date": "2026-11-27T08:47:00+00:00"
       },
       {
         "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
@@ -61,6 +21,46 @@
         "title": "今週の【早わかり株式市況】反発、半導体関連に買い戻し機運で5万8000円台回復 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QR2NkdlhNMFBNNktYYWEtbVEyZk1FS0lQeTZOM3RHMlRqZzlIZlRMM2hJUWU4ZXg2bUo2a2MzQXlkZkNmYXg4V3ZoZkpLQUswbEtSOG5QQzlERXJlcUZ5Sw?oc=5",
         "date": "2026-11-27T21:40:00+00:00"
+      },
+      {
+        "title": "日経平均株価、NYダウの続伸が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1haHJ4NG1malJUMXdHSkVaeG1iRVVhc2J6cUJLdUNBcFhuV3NHeWxmWFB4azRnRWNZdUNQbDVQVmUtcUpjWXNXUHNxd1pJN3ROOWRhbDRRMFlLMk9hSk1Fd21QMHlLMGQtWjdaQw?oc=5",
+        "date": "2026-11-25T22:30:00+00:00"
+      },
+      {
+        "title": "国内株式市場見通し：AI・半導体関連株リバウンドの持続性はエヌビディアがカギ握る - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52cGRIdGROQURWbldJM0IxRjBmbkVQYzA0QlpEeTFpQzUxTGZCZGlSNnRZYjUxRGlrZjA1cWhtX2dJS2dsN2t1bVlHbkpZRkpCMHNVVTJrWDNHRlc3MWJIaw?oc=5",
+        "date": "2026-11-28T05:51:24+00:00"
+      },
+      {
+        "title": "日経平均株価、米AI・半導体株安が下押し材料（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5aXY1MXJoTUplRkNfTUdjcEpXNWdyTXZLRFNXLTNaUHloTGFSa0dDdFVrQy1oTm5LUS1KcWUzaUV5Si1iNDdxVkcxUlZtcHBVXzV1Y2h6Vkw4Q3BCX3JKUXRHdTFFZmZlSGw1eQ?oc=5",
+        "date": "2026-11-24T22:35:58+00:00"
+      },
+      {
+        "title": "シカゴ日経平均先物 大取終値比 140円高 （11月27日） - 株探",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Y3NYSVZSQ3ZnZmZPWl94U1ViSmpRdy1lQ2lDZXpOak9yZGxwMlBQMVp4OGtRRjQ5WWRTTFIzd1JZTzRPazlnbV9mdjRhWE1lRk5kbk5kOExPMkJUMHBpVQ?oc=5",
+        "date": "2026-11-27T22:45:06+00:00"
+      },
+      {
+        "title": "東証14時 日経平均は上値追い続く 1100円超高 東エレクなど高い - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zY3FxSm1FQm1IVGRFRG0tUjNZNWhYcmg0cnlkWmt5M25zbl9LdzJTMWJGVjRHb1M2UTV6bFAycV9ENzJiTDFEejAxNnVDR0NBLUw5X080ck4wNFZIV0hPaXItb0hkZmdqSWRVcA?oc=5",
+        "date": "2026-11-27T05:11:25+00:00"
+      },
+      {
+        "title": "ウォール街、2027年も株高予想 AI不安でも崩れぬ強気 - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZ3VHa0FHam56VXJ0SkZpaWRlTWhIRGh4R3dQMDJnemFUUmo3cG5MOGhRc3lxczFPcjEyVHNuT2JMek80bnYyaURMNHRQbGhZZjMwX3Q4WTlDN3BvUTkwbnVFZENiTTMzdFROUA?oc=5",
+        "date": "2026-11-27T19:28:53+00:00"
+      },
+      {
+        "title": "日経平均株価、NVIDIA急伸が追い風（先読み株式相場） - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zU0hfcm1tV1RzdWtVdDZ3WkV1X3o3cGZQSTZQaXpLYjluYnduWVZpZU91a3JrYUtsQXNhaDN0Q0o4S2JLUktvb01ZbWZvYkFFZ21DWlJoRVh2RmlfZ0NMNmhxanJINnlfdmhCZg?oc=5",
+        "date": "2026-11-23T23:32:54+00:00"
+      },
+      {
+        "title": "東証寄り付き 日経平均は続伸で始まる AI・半導体関連の一角に買い - 日本経済新聞",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQy1KaUpXSWlPQnRvMGVfNGszV050TWVNTU5JT0RVZURyd1NzXzkwTGVvUDV4dUFZLS1GcndpNUxQTFV3MG9aTjlPTjVtSGxhZm5ta2ZWQW1LR2h3VVNZSGlNQXJJbnMzazI4aQ?oc=5",
+        "date": "2026-11-27T00:24:33+00:00"
       }
     ],
     "ai": [
@@ -213,75 +213,73 @@
     ],
     "gadget": [
       {
+        "title": "ポルシェの伝説的レーシングカーがフルEVで復活。公道は走れないのに1,450万円…",
+        "link": "https://www.gizmodo.jp/article/porsche-550-j_ev_reboot/",
+        "date": "2026-11-28T10:30:00+00:00"
+      },
+      {
+        "title": "『ドラクエモンスターズ4』がいよいよ来週発売、事前購入ならちょっと安いぞ",
+        "link": "https://www.gizmodo.jp/article/2611-dqm4-bianca-flora-switch2-sale/",
+        "date": "2026-11-28T10:15:00+00:00"
+      },
+      {
         "title": "Ankerのハイエンドイヤホン「Soundcore Liberty 5 Pro」、早くも20％オフで堂々登場",
         "link": "https://www.gizmodo.jp/article/2611-anker-soundcore-liberty-5-pro/",
         "date": "2026-11-28T10:00:00+00:00",
-        "body": "a36.txt"
+        "body": "a38.txt"
       },
       {
         "title": "山だけではもったいない。Tevaのニューモデルは雨や平地でも神対応",
         "link": "https://www.gizmodo.jp/article/teva_hurricane-trail-setter-gtx_review/",
         "date": "2026-11-28T09:30:00+00:00",
-        "body": "a37.txt"
+        "body": "a39.txt"
       },
       {
         "title": "ニトリの「レンジグリル」は1台7役。レンジでチンするだけで炊き込みご飯もできます",
         "link": "https://www.gizmodo.jp/article/nitori_range-grill_review/",
         "date": "2026-11-28T09:00:00+00:00",
-        "body": "a38.txt"
+        "body": "a40.txt"
       },
       {
         "title": "ロボットも踊らにゃ!? “最悪に近い”阿波おどり、人型ロボがまさかの完走",
         "link": "https://www.gizmodo.jp/article/humanoid-robot_awa-odori_dance/",
         "date": "2026-11-28T08:35:00+00:00",
-        "body": "a39.txt"
+        "body": "a41.txt"
       },
       {
         "title": "AI、実は重機も操縦できる。前輪だけでアクロバット走行してるぞ…",
         "link": "https://www.gizmodo.jp/article/ai-heavy-machinery-acrobatics/",
         "date": "2026-11-28T08:00:00+00:00",
-        "body": "a40.txt"
+        "body": "a42.txt"
       },
       {
         "title": "ダイニングをほのかに照らすハーマンカードンの美スピーカー。9年ぶりのモデルチェンジ",
         "link": "https://www.gizmodo.jp/article/harman_kardon-allure-2/",
         "date": "2026-11-28T07:35:00+00:00",
-        "body": "a41.txt"
+        "body": "a43.txt"
       },
       {
         "title": "EVがブラックフライデーで約240万円の大幅値引き中。各国のメーカーが大盤振る舞い",
         "link": "https://www.gizmodo.jp/article/ev_black-friday_discount/",
         "date": "2026-11-28T07:00:00+00:00",
-        "body": "a42.txt"
+        "body": "a44.txt"
       },
       {
         "title": "家族のスマホ充電もコレ1台。海外でも100W充電できる4ポートアダプタ。Ankerから出ました",
         "link": "https://www.gizmodo.jp/article/2611-anker-nano-universal-charger-100w/",
         "date": "2026-11-28T06:00:00+00:00",
-        "body": "a43.txt"
+        "body": "a45.txt"
       },
       {
         "title": "排水口の髪の毛、もう触りたくない…。山崎実業の「輪っか」が想像以上に便利だった",
         "link": "https://www.gizmodo.jp/article/2611-yamasaki-jitsugyo-drain-net-holder/",
         "date": "2026-11-28T05:35:00+00:00",
-        "body": "a44.txt"
+        "body": "a46.txt"
       },
       {
         "title": "テープ不要だから繰り返し使える。隙間時間の“コロコロ”できれいをキープ",
         "link": "https://www.gizmodo.jp/article/pakupaku-roller_review/",
         "date": "2026-11-28T04:00:00+00:00",
-        "body": "a45.txt"
-      },
-      {
-        "title": "ポートが9つ、SSDも入るヤケクソ拡張性。9,000円台で「パーフェクトMac mini」が完成する",
-        "link": "https://www.gizmodo.jp/article/2611-mac-mini-docking-station-expansion/",
-        "date": "2026-11-28T03:30:00+00:00",
-        "body": "a46.txt"
-      },
-      {
-        "title": "【あと3日】「Nape Pro SE」にまつわるコンテンツ、まとめました。",
-        "link": "https://www.gizmodo.jp/article/2611-nape-pro-se-three-days-left/",
-        "date": "2026-11-28T03:00:00+00:00",
         "body": "a47.txt"
       }
     ],
