@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T15:18:25.719126+09:00",
+  "updated": "2026-11-28T15:23:25.711332+09:00",
   "feeds": {
     "kabu": [
       {
@@ -53,14 +53,14 @@
         "date": "2026-11-27T07:24:00+00:00"
       },
       {
+        "title": "TOPIXの指数情報・推移 - Yahoo!ファイナンス",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeFBMbTJZUmR2akJBZlhCYU12WGMyZ3U3TEVkTm5JOUZHenE2eWRfanNXb0Zvc3NYWFRZSTZSbWdvTDllbjcwejhfSGN3b0ZiUzJxXw?oc=5",
+        "date": "2026-11-28T03:09:10+00:00"
+      },
+      {
         "title": "今週の【早わかり株式市況】反発、半導体関連に買い戻し機運で5万8000円台回復 - 株探",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QR2NkdlhNMFBNNktYYWEtbVEyZk1FS0lQeTZOM3RHMlRqZzlIZlRMM2hJUWU4ZXg2bUo2a2MzQXlkZkNmYXg4V3ZoZkpLQUswbEtSOG5QQzlERXJlcUZ5Sw?oc=5",
         "date": "2026-11-27T21:40:00+00:00"
-      },
-      {
-        "title": "(NEXT FUNDS)日経平均レバレッジ上場投信【1570】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoSXJOa2dkbWprTUdFYWNqMS1TUks2aF82bXFUblhxcThHSmY3S1I0cWJWeWlqc3QyalZoM3pUMFRpZVhQa3FidUcweFVhUFplRFE?oc=5",
-        "date": "2026-11-27T22:03:08+00:00"
       }
     ],
     "ai": [
@@ -312,7 +312,8 @@
       {
         "title": "転落しそうな4歳保護 小学生手柄",
         "link": "https://news.yahoo.co.jp/pickup/6604288?source=rss",
-        "date": "2026-11-28T03:52:22+00:00"
+        "date": "2026-11-28T03:52:22+00:00",
+        "body": "a52.txt"
       },
       {
         "title": "戦力外通告 大物の決まらぬ去就",
@@ -335,8 +336,8 @@
     ]
   },
   "weather": {
-    "temp": 19.8,
-    "code": 1,
+    "temp": 19.9,
+    "code": 2,
     "max": 19.9,
     "min": 12.5,
     "hours": [
